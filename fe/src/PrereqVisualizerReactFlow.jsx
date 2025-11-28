@@ -686,7 +686,7 @@ export default function PrereqVisualizerReactFlow() {
             </button>
           </div>
           {!detailCollapsed && (
-            <div className="mt-3 space-y-4 max-h-[calc(100vh-600px)] overflow-y-auto pr-1">
+            <div className="mt-3 space-y-4 max-h-[calc(100vh-450px)] overflow-y-auto pr-1">
               <div>
                 <div className="text-[12px] text-slate-600 leading-5">
                   {courseDetail.course.description}
