@@ -39,3 +39,31 @@ class CourseCatalog(BaseModel):
     )
 
 
+class CourseSummary(BaseModel):
+    id: str
+    name: str
+
+
+class CourseDetail(BaseModel):
+    department: str
+    slug: str
+    generated_at: str | None = None
+    course: Course
+    prerequisites: List[Course] = Field(
+        default_factory=list,
+        description="Courses within the same catalog that feed into the selected course.",
+    )
+    postrequisites: List[Course] = Field(
+        default_factory=list,
+        description="Courses within the same catalog that depend on the selected course.",
+    )
+    missing_prereq_ids: List[str] = Field(
+        default_factory=list,
+        description="Prerequisite IDs referenced by the course but not found in the catalog.",
+    )
+    related_courses: List[Course] = Field(
+        default_factory=list,
+        description="All courses within the catalog that lie in the prerequisite/postrequisite chain.",
+    )
+
+
