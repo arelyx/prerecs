@@ -134,7 +134,9 @@ def _build_course_detail(
         missing_prereq_ids, catalog.slug, all_catalogs
     )
 
-    related_ids = {normalized, *ancestor_ids, *descendant_ids}
+    # Include external prereq IDs so they're preserved in prereqGroups when filtering
+    external_ids = {_normalize_course_id(ext.course.id) for ext in external_prereqs}
+    related_ids = {normalized, *ancestor_ids, *descendant_ids, *external_ids}
     related_courses = [
         _filter_course_prereqs(course, related_ids)
         for course in catalog.courses

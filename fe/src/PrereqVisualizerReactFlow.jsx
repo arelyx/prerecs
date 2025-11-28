@@ -129,7 +129,7 @@ function buildGraph(courses, children, showIds) {
         id: `e-${p}-${c.id}`,
         source: p,
         target: c.id,
-        type: "bezier",
+        type: "default",
         markerEnd: { type: MarkerType.ArrowClosed, width: 16, height: 16 },
         style: { strokeWidth: 2, stroke: "#cbd5e1", opacity: 0.9 },
       });
@@ -158,7 +158,7 @@ function buildGraph(courses, children, showIds) {
           id: `e-${src}-${gid}`,
           source: src,
           target: gid,
-          type: "bezier",
+          type: "default",
           markerEnd: { type: MarkerType.ArrowClosed, width: 16, height: 16 },
           style: { strokeWidth: 2, stroke: "#cbd5e1", opacity: 0.9 },
         });
@@ -167,7 +167,7 @@ function buildGraph(courses, children, showIds) {
         id: `e-${gid}-${c.id}`,
         source: gid,
         target: c.id,
-        type: "bezier",
+        type: "default",
         markerEnd: { type: MarkerType.ArrowClosed, width: 16, height: 16 },
         style: { strokeWidth: 2, stroke: "#cbd5e1", opacity: 0.9 },
       });
@@ -427,25 +427,17 @@ export default function PrereqVisualizerReactFlow() {
           ? data.related_courses
           : [data.course];
         const externalReferences = data.external_prereqs || [];
+        // External courses are added as nodes (with empty prereqGroups since we don't
+        // traverse their prereqs). The related_courses already have the correct
+        // prereqGroups with external course IDs included, so we just need to add
+        // the external course nodes themselves.
         const externalCourses = externalReferences.map((ref) => ({
           ...ref.course,
           prereqGroups: [],
           sourceSlug: ref.slug,
           sourceDepartment: ref.department,
         }));
-        const mainCourseId = data.course?.id;
-        const externalIds = externalCourses.map((course) => course.id);
-        const coursesWithExternalEdges = relatedCourses.map((course) => {
-          if (course.id === mainCourseId && externalIds.length) {
-            const existingGroups = course.prereqGroups || [];
-            return {
-              ...course,
-              prereqGroups: [...existingGroups, externalIds],
-            };
-          }
-          return course;
-        });
-        setCourses(normalizeCourses([...coursesWithExternalEdges, ...externalCourses]));
+        setCourses(normalizeCourses([...relatedCourses, ...externalCourses]));
         setSuggestions([]);
         setPendingFocusId(data.course?.id || trimmed);
       } catch (error) {
@@ -774,8 +766,8 @@ export default function PrereqVisualizerReactFlow() {
           onEdgesChange={onEdgesChange}
           onConnect={onConnect}
           onNodeClick={onNodeClick}
-          edgesSelectable={false}
-          edgesFocusable={false}
+          // edgesSelectable={false}
+          // edgesFocusable={false}
           fitView
           onInit={onInit}
           nodeTypes={nodeTypes}
