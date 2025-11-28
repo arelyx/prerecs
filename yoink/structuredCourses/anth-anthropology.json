@@ -1,0 +1,2863 @@
+{
+  "department": "ANTH - Anthropology",
+  "slug": "anth-anthropology",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/anth-anthropology",
+  "generated_at": "2025-11-28T07:51:33.501604+00:00",
+  "courses": [
+    {
+      "id": "ANTH1",
+      "name": "ANTH 1 — Introduction to Biological Anthropology",
+      "description": "Study of evolution illustrated by Pleistocene hominid fossils and variation in living human groups. Behavior and evolution of primates examined as they contribute to the understanding of human evolution. Required for all anthropology majors. (Formerly Introduction to Human Evolution.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH2",
+      "name": "ANTH 2 — Introduction to Cultural Anthropology",
+      "description": "A number of different peoples are studied and a variety of approaches to the nature of the culture and to the study of specific cultures presented. Required for all anthropology majors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH3",
+      "name": "ANTH 3 — Introduction to Archaeology",
+      "description": "Overview of ways of learning about the human past beyond the scope of written history. Reviews development of archaeology, fundamental methods and theories, and archaeology's contribution to understanding human origins, the emergence of farming, and the origins of complex societies.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH93",
+      "name": "ANTH 93 — Field Study",
+      "description": "Supervised research or organized projects on anthropological topics for lower-division students. Conducted either on or off campus. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH97",
+      "name": "ANTH 97 — Laboratory Safety Practicum",
+      "description": "Covers laboratory health and safety and standard operating procedures within the anthropology laboratories. Prepares students for future laboratory research activities while providing support of laboratory administration, collections management, and laboratory course demonstration needs. Enrollment by application.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH100",
+      "name": "ANTH 100 — History and Theory of Biological Anthropology",
+      "description": "Provides an historical overview from the 18th century to the present of race, ape-human relationships, and human nature. Emergence of an evolutionary framework and of fossil, genetic, and primate information becomes the basis for reformulating ideas about human biology within anthropology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH109",
+      "name": "ANTH 109 — Stable Isotope Ecology in Anthropology and Beyond",
+      "description": "Provides students with a comprehensive overview and solid theoretical framework regarding the most common isotope systems used in anthropology and related disciplines, which include carbon, nitrogen, oxygen, strontium, and sulfur.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , or BIOE 20C , or by instructor permission.",
+      "prereqGroups": [
+        [
+          "ANTH1"
+        ],
+        [
+          "BIOE20C"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH101",
+      "name": "ANTH 101 — Human Evolution",
+      "description": "Study of human evolution covering the last five million years. Examines the fossil evidence and emphasizes the reconstruction of behavior from the paleontological and anatomical evidence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 .",
+      "prereqGroups": [
+        [
+          "ANTH1"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH102A",
+      "name": "ANTH 102A — Human Skeletal Biology",
+      "description": "Presents basic human osteology allowing students to identify skeletal material by element. Emphasizes the dynamic nature of bone by integrating anatomy with a discussion of bone physiology within the context of the human life cycle.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 .",
+      "prereqGroups": [
+        [
+          "ANTH1"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH103",
+      "name": "ANTH 103 — Forensic Anthropology",
+      "description": "Covers the basic analysis of human skeletal remains for the medicolegal profession. Assessment of age, sex, ancestry, and general physical characteristics, trauma, and disease are discussed. Addresses the legal responsibilities of the anthropologist. Online lectures with in-class discussion sections, quizzes, and exams. Students cannot receive credit for this course and ANTH 103I.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 102A . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "ANTH102A"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH104",
+      "name": "ANTH 104 — Human Variation and Adaptation",
+      "description": "Explores the major environmental factors (temperature, altitude, diet, and disease); how they are perceived by the human body; the physiological, micro- and macroanatomical responses; and how behavior and culture can modify the impact of these stresses. ANTH 1 is highly recommended as preparation. (Formerly Human Adaptability.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH105",
+      "name": "ANTH 105 — Human Paleopathology",
+      "description": "Examines paleopathology beginning with ancient hominid populations and proceeding to modern populations. Uses both the skeletal evidence and historical documentation when available. Considers evolutionary, cultural, and biological factors. Topics include: osteological diagnosis of infectious disease; trauma; nutritional deficiencies; dental disease; and developmental defects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 ; ANTH 102A recommended.",
+      "prereqGroups": [
+        [
+          "ANTH1"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH106",
+      "name": "ANTH 106 — Primate Behavior and Ecology",
+      "description": "The nature of primate social systems and social bonds is examined in the light of evolutionary and ecological concepts. We explore the evolution of primate social system behavior and culture, as well as the ecologies of primate populations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 .",
+      "prereqGroups": [
+        [
+          "ANTH1"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH106A",
+      "name": "ANTH 106A — Chimpanzee Behavior and Culture A",
+      "description": "Provides students with an in-depth understanding of the non-invasive study of chimpanzee behavior via video footage. The interactive lab aspect of this class focuses on how to non-invasively monitor the presence and behavioral diversity of wildlife, using camera trap technology. Students are exposed to the primary scientific literature and gain experience handling and maintaining large datasets in excel, and work as a team throughout this class. Prerequisite(s): ANTH 1 . Enrollment is by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH106B",
+      "name": "ANTH 106B — Chimpanzee Behavior and Culture",
+      "description": "Provides students with an in depth understanding of the non-invasive study of chimpanzee behavior from video footage. The interactive lab aspect of this class focuses on how to non-invasively monitor the presence and behavioral diversity of wildlife using camera trap technology. Students are exposed to the primary scientific literature and gain experience handling and maintaining large datasets in excel, and work as a team throughout this class.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 106A .",
+      "prereqGroups": [
+        [
+          "ANTH106A"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH106C",
+      "name": "ANTH 106C — Chimpanzee Behavior and Culture",
+      "description": "Provides students with an in depth understanding of the non-invasive study of chimpanzee behavior from video footage. The interactive lab aspect of this class focuses on how to non-invasively monitor the presence and behavioral diversity of wildlife using camera trap technology. Students are exposed to the primary scientific literature and gain experience handling and maintaining large datasets in excel, and work as a team throughout this class.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 106B .",
+      "prereqGroups": [
+        [
+          "ANTH106B"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH107A",
+      "name": "ANTH 107A — Methods and Research in Biological Anthropology: Genetics",
+      "description": "Introduces the molecular analyses of anthropological questions and explores the intersection of genetics and anthropology. Covers the basic principles of molecular and population genetics as they relate to the study of humans. Prerequisite(s): ANTH 1 and ANTH 104 . ANTH 102A is recommended. Enrollment by permission of instructor. (Formerly ANTH 107, Methods and Research in Molecular Anthropology.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH107B",
+      "name": "ANTH 107B — Methods and Research in Biological Anthropology: Stable Isotopes",
+      "description": "This combination of lectures, readings, discussions, and hands-on laboratory experience provides a comprehensive overview of stable isotope research to reconstruct diet and mobility. Discover the wide application of isotopic research in biological anthropology, bioarcheology, primatology and forensics. Prerequisite(s): at least one of ANTH 101 , ANTH 104 , ANTH 106 , ANTH 107, or ANTH 110F and by permission of the instructor. (Formerly Methods and Research in Stable Isotope Ecology.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 101 or ANTH 104 or ANTH 106 or ANTH 107 or ANTH 110F .",
+      "prereqGroups": [
+        [
+          "ANTH101",
+          "ANTH104",
+          "ANTH106",
+          "ANTH107",
+          "ANTH110F"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH107C",
+      "name": "ANTH 107C — Methods and Research in Biological Anthropology: Chimpanzee Behavior and Culture",
+      "description": "Lab class analyzing trail camera footage from chimpanzees and other wildlife, and installing our own cameras in the UCSC forest. Also includes readings and discussion of papers related to the newest findings on chimpanzee behavioral diversity and culture. Prerequisite(s): ANTH 106 . Enrollment is by instructor consent.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH107D",
+      "name": "ANTH 107D — Methods and Research in Biological AnthropologyâComputational Population Genetics",
+      "description": "Practical introduction to computational population genetics. Covers the basic principles of population and evolutionary genetics, and explores those with a range of computational methods for the analysis of genetic diversity, population structure, and admixture. Enrollment is by instructor consent.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH107E",
+      "name": "ANTH 107E — Methods And Research In Biological Anthropology: Lithic Technology",
+      "description": "Introduction to lithic and ceramic analysis in archaeology. Includes lab analysis, discussions of classification and typology, and exploration of the concept of style as it relates to ceramics and lithics in archaeology. (Formerly ANTH 182A, Lithic Technology.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH108",
+      "name": "ANTH 108 — Neanderthals",
+      "description": "Homo sapiens neanderthalensis (neanderthals), once considered brutish, are increasingly seen as behaviorally modern. This course uses primary academic research to explore the social behaviors, technology, anatomy, and genetics of neanderthals, gaining a holistic understanding of our closest ancestor.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 .",
+      "prereqGroups": [
+        [
+          "ANTH1"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH110A",
+      "name": "ANTH 110A — Public Life and Contemporary Issues",
+      "description": "How can cultural anthropology help us to understand current events unfolding locally, nationally, and globally? Students learn how to read newspapers differently--that is, through the lens of cultural analysis. The world of everyday politics and society, as it unfolds in debates happening right now, forms the topical substance of the course.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110B",
+      "name": "ANTH 110B — From Indiana Jones to Stonehenge: Archaeology as Popular Culture",
+      "description": "Addresses the meaning of archaeology as generated in television, movies, literature, newspapers, and even National Geographic. Students engage with several case-studies illustrating how archaeology is portrayed in popular culture.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110C",
+      "name": "ANTH 110C — California Pasts",
+      "description": "This course is structured around four critical moments--missionization, Rancho-Era, Gold Rush, and World War II--through the eyes of the ethnic and racial minorities who experienced them. Special attention is given to oral, archival, and archaeological sources which reveal California's multiethnic pasts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110D",
+      "name": "ANTH 110D — Tourism Imaginaries and Encounters",
+      "description": "Explores anthropological approaches to the study of tourism, in particular themes of authenticity, othering, visual economies, development, identity politics, alternative tourisms, and material culture with reference to history, power, and location.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110E",
+      "name": "ANTH 110E — Anthropology of Global Environmental Change",
+      "description": "Introduces anthropological and historical approaches to environmental change and globalization. Key themes include: capitalism and industrialization, environmental politics, global culture, and relations between humans and other species.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110F",
+      "name": "ANTH 110F — Evolution of Human Diet",
+      "description": "Presents the evolution of human diet and subsistence from a biological anthropological perspective. Covers the key hypothesis and methodologies related to diet, from our early fossil ancestors up to agriculture and animal husbandry. (Formerly Biocultural Approaches to Food.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110G",
+      "name": "ANTH 110G — Westside Stories: Race, Place and the California Imaginary",
+      "description": "From South Central to La MisiÃ³n, this course explores the role of race and culture in creating the California Dream. Draws on films, music, and activism as lenses into the complex flows of power that shape our communities.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110H",
+      "name": "ANTH 110H — Brazilian Amazon Cultures and Environments",
+      "description": "General introduction to the astonishing diversity of cultures and environments in the Brazilian Amazon. Designed to provide upfront understanding of what underlies perverse (non)development and forest destruction, but also social defense of the forest and sustainable life within it.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110I",
+      "name": "ANTH 110I — Cultures of Sustainability and Social Justice",
+      "description": "Brings together diverse forms of cultural knowledge and complexities of everyday life to illuminate longstanding concerns of sustainability and justice. Investigates multiple theories of sustainable development as well as tools, techniques, and contexts for ecological integrity, economic security, empowerment, responsibility and social well-being characteristic of sustainable communities. Case studies are drawn from around the world highlighting the work of Right Livelihood Award Laureates in tandem with UC faculty.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110IG",
+      "name": "ANTH 110IG — Cultures Of Sustainability And Social Justice Abroad",
+      "description": "Brings together diverse forms of cultural knowledge and complexities of everyday life to illuminate longstanding concerns of sustainability and justice. Investigates multiple theories of sustainable development as well as tools, techniques, and contexts for ecological integrity, economic security, empowerment, responsibility and social wellbeing characteristic of sustainable communities. Case studies highlight the work of Right Livelihood Award Laureates in tandem with UC faculty. This course is a hybrid course. The in-person component allows for an in-person study abroad experience whereby students visit sites relevant to the curriculum and have lectures and discussions with Right Livelihood Laureates and the instructor. The asynchronous online component facilitates student engagement with custom pre-recorded video interviews with UC faculty and Right Livelihood Laureates from around the world.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110J",
+      "name": "ANTH 110J — Emerging Humanity",
+      "description": "Using an anthropological and archaeological perspective to learn about human history before AD 1500, course explores fossil remains of human ancestors and traces the more recent history of humanity from forgers/hunters to the emergence of complex societies/civilizations. Topics include human biological evolution, the development of organized human societies, the origins of food production (domestication of plants and animals), the origins of the world's earliest urban centers, and the development of social inequality.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110K",
+      "name": "ANTH 110K — Culture Through Food",
+      "description": "Examines anthropology of food and politics of eating. Cultural and social uses of food in rituals of solidarity or fasting, identities and meanings of food for individuals, and consumption in the global context are key components of study.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110M",
+      "name": "ANTH 110M — Cultures of Mental Health",
+      "description": "Examines diversity of mental health across cultures, psychiatric categories, and institutions. Assessment of human experiences via illness narratives, ethnographic research, and historical contexts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110L",
+      "name": "ANTH 110L — The Human Ocean",
+      "description": "From coral reefs to Arctic sea ice, this course examines how humans interact with and transform earth's oceans, and how humans are shaped by the sea. Topics include: marine conservation, migration, shipping and logistics, slavery, fisheries management, and climate change.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110N",
+      "name": "ANTH 110N — Anthropology of Food",
+      "description": "Focuses on social institutions around the world that shape food and its meanings; how people use food to organize their worlds; and production, sharing, or consumption of food as a political or meaningful act.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110O",
+      "name": "ANTH 110O — Postcolonial Britain and France",
+      "description": "Transdisciplinary examination of the politics and culture of postcolonial Britain and France. Topics include: immigration from South Asia, Africa, and the Caribbean; racism and antiracism; minority difference and citizenship practices; and the emergence of Islam as a major category of identity and difference.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110P",
+      "name": "ANTH 110P — India and Indian Diaspora through Film",
+      "description": "Students in this course view the complexity and diversity of the Indian Diaspora through themes such as family, caste, food, gender, politics, religion, sexuality, and immigration policies affecting the diaspora. How do the vastly diverse groups of Indian Americans perceive their own ethnic identity? How do they respond to the dual impulses of assimilation and integration? And how might their self-conception influence the composition of their social networks? Course explores these themes through readings and Bollywood films.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110Q",
+      "name": "ANTH 110Q — Queer Sexuality in Black Popular Culture",
+      "description": "From Janet Mock to Young M.A., queerness has become hypervisible in Black popular culture--but at what cost? Using music, television, and social media as central texts, students investigate the intersections of sexuality, gender, and race in public life.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110R",
+      "name": "ANTH 110R — Discourses in American Religions and Their Role in Public Life",
+      "description": "Introduces dominant discourses about major American religions and their role in public life, with particular attention to intersecting differences, such as race, sex/gender, and disability, and to shifting religious/political boundaries. Visual and textual media, political commentary, and popular ethnographies are analyzed.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110S",
+      "name": "ANTH 110S — Evolution of Democracy",
+      "description": "Examines the state and its institutions from a historical, social, and cross-cultural perspective, paying attention to the varied discourses and practices that constitute what we call the state.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110T",
+      "name": "ANTH 110T — Motherhood in American Culture",
+      "description": "Examines the culture wars around motherhood in the United States with a focus on the political mobilization of normative ideas about the correct way to mother, from the moment of conception on. Special attention is given to the historical construction of deviant motherhood among marginalized groups.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110U",
+      "name": "ANTH 110U — Histories and Cultures of Piracy",
+      "description": "An interdisciplinary yet anthropologically informed approach to studying pirates and piracy across different historical eras and spaces. Explores the role of pirates in world history from ancient to present times, including piracy both at sea and online.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110V",
+      "name": "ANTH 110V — American Capitalism",
+      "description": "Capitalism shapes our lives in unequal ways, but what is it? Course explores histories and machinations of capitalism in the Americas, focusing on the United States. Investigates what capitalism is, how it operates, its origins, and what might come next.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110W",
+      "name": "ANTH 110W — Land and Waterscapes Entropology",
+      "description": "Establishes anthropological interconnections of emergent worlds where environmental matters, social justice, and human survival interrelate. Focuses on anti-essential nature and waterscape ethnographies in which different pluricultures revalidate local understandings as ways of contesting increasing forms of land and water privatization.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110Y",
+      "name": "ANTH 110Y — Feeding California",
+      "description": "Online course introducing students to social practices, political processes, and cultural contexts that shape food production and consumption. Considers identity, heritage, choice, power, agency, body practices, belonging, access, safety, and security. Prioritizes California case studies, with comparative examples from around the world.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110Z",
+      "name": "ANTH 110Z — Introduction to Disability Studies",
+      "description": "Provides an introduction to the interdisciplinary field of disability studies, including the key terms and debates of disability studies; representations of disability in print, televisual, and social media; and the legal, political, and justice-oriented frameworks that impact disability in the U.S., with a focus on intersectional disability justice.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH111",
+      "name": "ANTH 111 — Human Ecology",
+      "description": "Reviews the environmental, physiological, behavioral, and cultural ways that humans interact with their physical surroundings. The effects of human culture on the environment and of the environment on the shape of human culture is emphasized.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH112",
+      "name": "ANTH 112 — Life Cycles",
+      "description": "Examines the human life cycle using an evolutionary framework. Examines key aspects of the human life stages using findings and concepts from developmental biology, physiology, nutrition, evolutionary ecology, and life-history theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 .",
+      "prereqGroups": [
+        [
+          "ANTH1"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH113",
+      "name": "ANTH 113 — Tutoring Writing in Anthropology",
+      "description": "Trains students to tutor writing in undergraduate anthropology courses; supports and guides them during the quarter they are tutoring. Enrollment by interview only. Prerequisite(s): satisfaction of the Composition requirement.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH119",
+      "name": "ANTH 119 — Indigenous Visual Culture",
+      "description": "Examines the relationship between visual cultures and indigenous peoples. First, class discusses what is visual anthropology. Second, class examines the relationship between museums and indigenous peoples. Third, class examines ethnographic photography and indigenous uses of photography. Fourth, class examines the uses of ethnographic film, and then its relationship to indigenous peoples. Finally, class examines indigenous uses of film.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH121",
+      "name": "ANTH 121 — Socialism",
+      "description": "Ethnography-based course that examines the social worlds of socialism, with particular focus on state socialism. Topics include: social problems that inspired socialist movements; implementation and experience of socialism in daily life; and significance of class, race, nation, science, technology, rationality.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH122",
+      "name": "ANTH 122 — Postsocialism",
+      "description": "Examines the demise of socialist systems. Addresses the political, social, cultural, and economic experiences of everyday life that led to that demise, what new social inequalities have arisen since, and how citizens use the socialist past to critique the present.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH123",
+      "name": "ANTH 123 — Psychological Anthropology",
+      "description": "An introduction to some of the central theoretical issues in psychological anthropology. Psychoanalytic, cognitive, and relativist perspectives on the link between person and society are discussed and compared.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH124",
+      "name": "ANTH 124 — Anthropology of Religion",
+      "description": "Study of the phenomenon of religion as manifested in ethnographic literature, with special attention to traditional and recent modes of analysis of religious behavior. Special topics include myth, religious healing, witchcraft and sorcery, ritual, and millenarian movements.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH125",
+      "name": "ANTH 125 — Magic, Science, and Religion",
+      "description": "With a theoretical understanding of the concepts of magic, science, and religion, students draw on ethnographies of these practices to critique distinctions between them and critically analyze the understanding of these categories and their relation in the modern world",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH126",
+      "name": "ANTH 126 — Contraband: Shadow Economies and the Law",
+      "description": "Course takes an interdisciplinary approach to studying contraband and smuggling. Focusing on concepts used to describe illegality we examine how \"shadow economies\" are central to the making of states and sovereignty, the legal and illegal being blurred.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH127",
+      "name": "ANTH 127 — Ethnographies of Capitalism",
+      "description": "Challenges approaches to capitalism that treat it as socioeconomic relations separable from culture. Readings include ethnographies demonstrating the inextricability of cultural meanings from capitalist practices. Topics include capitalism's relationship to colonialism, nationalism, socialism, gender, and the commodification of aesthetics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH128",
+      "name": "ANTH 128 — Contemporary American Evangelical Cultures",
+      "description": "Study of contemporary, American, born-again Protestant discourse using ethnographic materials and interpretive theories. Topics include biblical literalism, Christian conversion and self-fabulation, charismatic gifts, preaching, sacrificial giving, prosperity theology, apocalypticism, creationism, pro-family and pro-life rhetoric, and televangelism. (Formerly Born-Again Religion and Culture .)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH129",
+      "name": "ANTH 129 — Beyond Borders: Other Globalizations and Histories of Interconnection",
+      "description": "The history of social and cultural interconnections at a global scale. Anthropological approaches to the study of cultural encounter are used to investigate topics such as trade, religion, and citizenship and to evaluate shifting concepts of civilization and barbarism. (Formerly Other Globalizations: Cultures and Histories of Interconnection.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH130A",
+      "name": "ANTH 130A — Anthropology of Africa.",
+      "description": "Survey of sub-Saharan societies. Analysis of principles of social organization and factors of cultural unity of selected western, eastern, central, and southern African peoples. (Formerly Peoples and Cultures of Africa)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130B",
+      "name": "ANTH 130B — Brazil",
+      "description": "Examines Brazilian culture and its link to interpersonal relationships, religion, politics, and psychological experience.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH130C",
+      "name": "ANTH 130C — Politics and Culture in China",
+      "description": "Joins substantive information about Chinese society and culture with debates in social theory and rethinks conventional wisdom about colonialism and modernity. Topics include representations of Chineseness, class revolution, Chinese diaspora, popular culture, family and kinship, nationalism, history/memory, race and gender.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130D",
+      "name": "ANTH 130D — The Cultural Aspects of the Israeli-Palestinian Conflict",
+      "description": "Course examines the everyday life of the Palestinian citizens of Israel.â Palestinians who ââremained within what became the State of Israel after the 1948 war became a national and ethnic minority overnight. Although granted citizenship, they were excluded from the Jewish âmajority society and were âdiscriminated against by the stateâ. Course deepens the understanding of the conflict while focusing on the complex relations between the Palestinian and Jewish citizens in Israel, highlights the Palestinians' social and cultural aspects, and sheds light on how they ââexperience everyday life as a minority. Students learn how to apply sociological and anthropological approaches to understand better the Israeli-Palestinian conflict and minority-majority relations in general. â",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130E",
+      "name": "ANTH 130E — Culture and Politics of Island Southeast Asia",
+      "description": "Southeast Asia includes a variety of societies exhibiting many ecological adaptations, religions, marriage systems, and experiences with colonial powers. Case studies of particular societies, chosen to reveal variety, are examined comparatively. Emphasis on religion and social organization.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH130F",
+      "name": "ANTH 130F — Blackness In Motion: Anthropology of the African Diasporas",
+      "description": "What connects Black communities in the Caribbean, the U.S., Latin America, and Canada, and what sets them apart? Examines theories of diaspora, gender and sexuality, slavery, colorism, music, U.S. hegemonies, social movements, and comparative racialization and global anti-blackness (Formerly Blackness In Motion: Anthology of the African Diasporas.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130G",
+      "name": "ANTH 130G — Asian Americans in Ethnography and Film",
+      "description": "Critically examines category of Asian Americans. Addresses historic representations of Asians and Asian Americans in ethnographic research and film. Explores contemporary issues of race, culture, and politics through ethnographic practice and cultural production.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130H",
+      "name": "ANTH 130H — Ethnography of Russia and Eastern Europe",
+      "description": "Introduces students to the ethnography of Eurasia, with special attention to the lived experience and legacy of state socialism in this region. Topics include new ideas of personhood, changing economic practices, public health, and international development.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130I",
+      "name": "ANTH 130I — Cultures of India",
+      "description": "An examination of anthropological studies of tribal, rural, and urban cultures of India and a look at changes taking place in India.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130IG",
+      "name": "ANTH 130IG — Cultures of India Abroad",
+      "description": "An examination of anthropological studies of tribal, rural, and urban cultures of India and a look at changes taking place in India.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130J",
+      "name": "ANTH 130J — Politics and Statemaking in Latin America",
+      "description": "Introduction to ethnohistory and political anthropology of one or more Latin American countries: Typically Mexico and one other country. Students explore how contested concepts such as indigeneity, nation or state come to gain credibility and are deployed in contemporary politics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130K",
+      "name": "ANTH 130K — Food Cultures in South Asia",
+      "description": "Designed to prepare students to adopt food as an analytical lens to explore the relationship between environmental sustainability and social justice in the South Asia. It draws from ethnographic texts, films, and recipe books to provide an overview of contemporary debates, insights, and politics. Examines how everyday food practices shape gender, religion, caste, and class. Students interested in emerging food trends and consumption will connect with diverse grassroots food initiatives, including food justice initiatives from indigenous communities.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130L",
+      "name": "ANTH 130L — Ethnographies of Latin America",
+      "description": "A broad introduction to issues and areas of cultural production and transformation in the Caribbean, Mexico, and Central and South America. Colonial, neocolonial, class, ethnic, gender, religious, ecological, and political relations intersect as represented in ethnographies and film.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH130M",
+      "name": "ANTH 130M — Inside Mexico",
+      "description": "Examines various communities within the Republic of Mexico as represented in ethnographic texts and other forms of cultural production, particularly music and dance. Emphasis on the interplay between the concept of regionalism and national identity. Previous course work in Mexican culture and/or history strongly recommended. Some reading in Spanish is required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130N",
+      "name": "ANTH 130N — Native Peoples of North America",
+      "description": "A survey of Native American cultures and experience during the past century, with emphasis on Pueblo cultures of the American Southwest.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130O",
+      "name": "ANTH 130O — Native Feminisms, Gender, and Settler Colonialism",
+      "description": "Covers Native feminisms, gender, settler colonialism, and ethnography. Students read ethnographies that intervene in Native feminisms and its possibilities. Focuses on ethnographies in the U.S., including Native men and masculinities in Hawaii.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130P",
+      "name": "ANTH 130P — Ethnography of Southern Cone Chile and Argentina",
+      "description": "Chile and Argentina, although both established within Spanish colonization and physically close, have dissimilar histories and culture. We explore areas of friction and overlap that shaped different peoples, institutions, cultural identities, and histories in countries that share a particular history.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130S",
+      "name": "ANTH 130S — Ethnography of Russia and Eastern Europe, Abroad",
+      "description": "This study abroad introduces the ethnography of Russia and Eastern Europe, with special attention to lived experience and legacy of state socialism. Topics: effects of socialism, changing economic practices; constructions of new identities; modernization/development; belief systems; and memory and history.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130T",
+      "name": "ANTH 130T — Religion and Politics in the Muslim World",
+      "description": "Analyzes post-colonial forms of Islam, with particular attention to Muslim societies and cultures in the Middle East, North Africa, and Europe. Emphasizes the relationship between power, knowledge, and representation in anthropological approaches to Islam and Muslims. (Formerly Anthropological Approaches to Islam.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130U",
+      "name": "ANTH 130U — Central America",
+      "description": "Draws on political, economic, and anthropological perspectives to analyze the key role of transnationalism and neoliberalism in contemporary Central America. Key topics include: the aftermath of revolutions; labor and gender; indigenous movements and multiculturalism; and transnational migration and governance.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130V",
+      "name": "ANTH 130V — Ethnography of Russia",
+      "description": "Examines daily life in Russia and affiliated formerly Soviet Republics through historical and cultural comparison. Topics include: socialist and postsocialist daily life; 20th- and 21st-century Russian empire building; cultural politics; economic systems; state-citizen relations; citizenship regimes; labor and leisure; and religion.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130W",
+      "name": "ANTH 130W — Ethnography of Eastern Europe",
+      "description": "Examines daily life in Eastern Europe, especially how residents in this region have navigated the transition from state socialism to accession to the European Union. Topics include: the legacies of state socialism; cultural politics; new economies; consumption; the European Union; new forms of governance; and political activism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130X",
+      "name": "ANTH 130X — Special Topics in Ethnography",
+      "description": "This course on special topics in ethnography will be taught on a rotating basis by various faculty members. Precise focus of each year's courses will vary according to the instructor and will be announced by the department.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130Y",
+      "name": "ANTH 130Y — Health, Illness, & Medicines in Muslim Worlds",
+      "description": "How can one bear witness to pandemics, plagues, crises, and destruction in the Middle East without reproducing tropes and myths of chronic instability and regional under-development? This lecture course is an ethnographic, historical, and textual exploration of the past and present of Muslim Worlds and the Islamic tradition and sciences. Students critically engage the region we now evoke as the Middle East and its accompanying traditions as well as the tools that arise to diagnose and guide prescriptions for securing well-being of individuals, communities, and traditions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 or GCH 1 ; ANTH 2 strongly recommended.",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ],
+        [
+          "GCH1"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH131",
+      "name": "ANTH 131 — Gender in Cross-Cultural Context",
+      "description": "Examines the diversity of women's as well as men's roles, experiences, and self-conceptions in a number of societies to explore how women and men shape, and are shaped by, particular forms of social life.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH131H",
+      "name": "ANTH 131H — Russian-Language Readings Course: Readings in Anthropology of Russia",
+      "description": "Contemporary topics and readings in anthropology of Russia and the former Soviet Union. All readings, films, and other materials are in Russian. Discussions are in English. Accompanies ANTH 130H , Ethnography of Russia and Eastern Europe. Prerequisite(s): ANTH 130H and proof of Russian proficiency in reading and writing. Enrollment by permission of instructor.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH132",
+      "name": "ANTH 132 — Food, Culture, and Justice in Israel/Palestine",
+      "description": "Examines the tensions within Israeli society and its relationships with other countries through food and eating habits, focusing on the relations with the Palestinian people sharing the same land. Given that food is a medium through which one can analyze social and cultural relations (and fightsâ¦), this course focuses on how food and eating patterns reflect, shape, and influence modern Israel. By doing so, the course provides a unique angle to major social and cultural issues in Israel, such as the relationship between Jews and Palestinians in Israel, cultural and social tensions between different ethnic groups, the effect of global food trends on Israeli society. (Formerly Food Fights: Food, Culture, and Society in Israel.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH133",
+      "name": "ANTH 133 — Narratives of the Popular",
+      "description": "Addresses the increasing importance of popular culture as the terrain upon which to address issues of culture and power. Emphasizes an ethnographic approach to popular culture as sociocultural phenomena. Students learn about a variety of activities including television and film viewing, music, fashion, photography, postcards, comic books, and urban spatial relations and architecture.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH134",
+      "name": "ANTH 134 — Medical Anthropology: An Introduction",
+      "description": "Cross-cultural study of health, disease, and illness behavior from ecological and ethnomedical perspectives. Implications for biomedical health care policy. Students cannot receive credit for this course and ANTH 254 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH135A",
+      "name": "ANTH 135A — Cities",
+      "description": "Examines cities from an anthropological perspective. Reviews pertinent social scientific literature of the 19th and early 20th centuries. Surveys the concepts and methods used by contemporary anthropologists to investigate urban phenomena.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH136",
+      "name": "ANTH 136 — The Biology of Everyday Life",
+      "description": "Addresses cross-cultural attitudes to the human body and its everyday biological concerns: sleeping, eating, breathing, sex, and defecation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH137",
+      "name": "ANTH 137 — Consuming Culture",
+      "description": "Explores consumption as a cultural form. Beginning with theories of capitalism and exchange, it then focuses on sites and modes of consumption and display such as department stores, museums and zoos, advertisements and photography, cultural tourism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH138",
+      "name": "ANTH 138 — Political Anthropology",
+      "description": "The ideas, in selected non-Western societies, about the nature of power, order, social cohesion, and the political organization of these societies.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH139",
+      "name": "ANTH 139 — Language and Culture",
+      "description": "Examination of language system and language use in relationship to cultural contexts of communication in Western and non-Western societies. Topics include the Sapir-Whorf linguistic relativity hypothesis; linguistic constructions of gender; speech variation in relation to class, ethnicity, and national identity; and the emergence of self in communicative acts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH140",
+      "name": "ANTH 140 — The Body in Rain: Environmental and Medical Intersections",
+      "description": "Explores medical and environmental anthropologies, including how bodies-human and other-are implicated in processes often figured as environmental. Explores how the body and the environment combine and interact to form nexus of political, cultural, and material forces.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH142",
+      "name": "ANTH 142 — Anthropology of Law",
+      "description": "An ethnographically informed consideration of law, dispute management, and social control in a range of societies including the contemporary U.S. Topics include conflict management processes, theories of justice, legal discourse, and relations among local, national, and transnational legal systems.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to anthropology and legal studies majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH143",
+      "name": "ANTH 143 — Performance and Power",
+      "description": "Explores relationships between power and performance forms and media, both traditional and emergent. Links aesthetics with politics, and recent transcultural exchanges with local circumstances and consequences.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 or any other Anthropology course.",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ],
+        [
+          "ANTH"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH144",
+      "name": "ANTH 144 — Anthropology of Poverty and Welfare",
+      "description": "Examines phenomena of poverty and welfare in cross-cultural perspective with an emphasis on critical ethnographies and social analyses of social pathologies, economic systems, and community. Topics include informal economies, labor, household systems, social-support networks, and public policies.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH145X",
+      "name": "ANTH 145X — Special Topics in Socio-Cultural Anthropology",
+      "description": "Taught annually on a rotating basis by faculty members. Each year's topic varies by instructor and is announced by the department.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH146",
+      "name": "ANTH 146 — Anthropology and the Environment",
+      "description": "Examines recent approaches to study of nature and the environment. Considers historical relationship between nature, science, and colonial expansion as well as key issues of contemporary environmental concern: conservation, environmental justice, and social movements. Students cannot receive credit for this course and ANTH 246 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH147",
+      "name": "ANTH 147 — Anthropology and the Anthropocene",
+      "description": "Looks at how humans have lived with their environments in other times and places; the long-distance transfers of humans and other animals, as well as plants and microorganisms; and how we can best live in the Anthropocene.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH148",
+      "name": "ANTH 148 — Gender and Global Development",
+      "description": "Uses the critical tools of feminist theory and cultural anthropology to look at how global development discourses and institutions mobilize, reinforce, and challenge systems of gender-based inequality. Topics include non-governmental organizations (NGOs), development practice, microcredit, and technocrat cultures. (Formerly Gender and Development.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH149",
+      "name": "ANTH 149 — Anthropology of Activism",
+      "description": "Examining activism from an anthropological perspective, students look at beliefs, ideals, and practices of social movements and those involved in them. Taking a procedural approach, course focuses on how things happen in unexpected ways, and examines activism as a collective matter.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH150",
+      "name": "ANTH 150 — Communicating Anthropology",
+      "description": "Encourages anthropology majors to explore different means of communicating anthropology with much attention to individual writing and presentation skills. Intensive work on library research; recognizing, comparing, and making arguments; and analyzing ethnographies, articles, reviews, and films.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): two of the following courses: ANTH 1 , ANTH 2 , or ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to sophomore and junior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH151",
+      "name": "ANTH 151 — Workshop in Ethnography",
+      "description": "Through demonstration, practice, and participation, acquire skills in collecting and analyzing cultural data. Work with members of other cultures and with each other to learn to identify significant cultural patterns. Lectures and readings provide added perspective and a theoretical base.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH151S",
+      "name": "ANTH 151S — Workshop in Ethnography Abroad",
+      "description": "Prepares students to conduct ethnographic research. Through workshops and fieldwork exercises, students learn how to use immersive, sensory observation and regular writing practice to develop a research question and design a research project, practice ethnographic methods (which may include archival research), write up their findings in a synthetic essay, and present their research findings to an audience. The course covers topics such as ethics, reflexivity, accountability, bias, and positionality. Students create a portfolio of their work across the five weeks.",
+      "credits": "6",
+      "rawRequirements": "Requirements Prerequisite(s): Must be taken concurrently with ANTH 161S . Requirements for the FSFS London program include concurrent enrollment in both ANTH 151s and ANTH 161s. Students are only admitted to the program and the two courses through formal application to and acceptance into the FSFS program by Global Engagement.",
+      "prereqGroups": [
+        [
+          "ANTH161S"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH152",
+      "name": "ANTH 152 — Survey of Cultural Anthropological Theory",
+      "description": "Major figures, ideas, and writings in 19th- and 20th-century cultural anthropology surveyed. Students cannot receive credit for this course and ANTH 252 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 and satisfaction of the Entry Level Writing and Composition requirements; enrollment is restricted to anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH153",
+      "name": "ANTH 153 — Medicine and Colonialism",
+      "description": "Addresses the overlapping relationship between medicine and colonialism in the 19th century, with attention to post-colonial theory and contemporary studies of post-colonial medical pluralism in the 20th century.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 and ANTH 134 .",
+      "prereqGroups": [
+        [
+          "ANTH2",
+          "ANTH134"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH157",
+      "name": "ANTH 157 — Modernity and Its Others",
+      "description": "Beginning with the conquest of the Americas, considers how Western thinkers have explained seemingly irrational beliefs and practices (e.g. human sacrifice, witchcraft, prophetic dreams, shamanism, spirit worlds), and asks how we might better understand notions of reality very different from our own.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH158",
+      "name": "ANTH 158 — Feminist Ethnographies",
+      "description": "Considers the relationship between anthropology and feminism. Provides historical perspective on gender inequalities in the discipline as well as the emergence of feminist anthropology. Students read and engage with examples of feminist ethnography form a variety of regions and subfields.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH159",
+      "name": "ANTH 159 — Race and Anthropology",
+      "description": "Examines concept of race in anthropology. Begins with histories of race in anthropology; turns to contemporary analysis of racism, identity formation, and diaspora; and concludes with current debates on the validity of race as an object of analysis.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH160",
+      "name": "ANTH 160 — Reproductive and Population Politics",
+      "description": "Examines reproductive and population politics across the globe, with a focus on feminist and ethnographic analyses of the stakes of various actors, from states to religious bodies to non-governmental organizations, in questions of who reproduces and in what circumstances.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH161",
+      "name": "ANTH 161 — The Anthropology of Food",
+      "description": "Critically examines food as a fundamental aspect of social and cultural life and key concept in the development of anthropological theory and methods. Topics include: power relationships; community building; exchange and reciprocity; symbolism; cultural rules and rituals; globalization; and memory.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH161S",
+      "name": "ANTH 161S — Anthropology of Food, Abroad",
+      "description": "Food as a fundamental aspect of social/cultural life and key concept in development of anthropological theory and methods. Studying abroad, investigations are grounded in local ethnographic context to learn how anthropologists study food, practice methods, and understand food's local importance.",
+      "credits": "6",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH162",
+      "name": "ANTH 162 — Anthropology of Displaced Persons",
+      "description": "Examines the causes, consequences, forms, and experiences of human movement, displacement, and abandonment. Topics include: migration, refugees, forced displacement, environmental displacement, tourism, transnational communities, and other displaced populations.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH163",
+      "name": "ANTH 163 — Kinship",
+      "description": "Provides a critical survey of debates, old and new, in the study of kinship. Readings range from classical treatments to recent reformulations that use kinship as a lens for exploring intimacy, memory, futurity, embodiment, commodification, and power. Students cannot receive credit for this course and ANTH 263.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH164",
+      "name": "ANTH 164 — The Anthropology of Dance",
+      "description": "An intense reading seminar which critically reviews anthropological works in dance ethnography and dance theory. Recommended for anthropology majors.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH166",
+      "name": "ANTH 166 — States, Bureaucracies , and Other Cosmological Propositions",
+      "description": "Investigates the cosmologies of states and bureaucracies and the practices through which officials or rulers seek to produce order, knowledge, or stability. Looks at paperwork, nationalist and court rituals, practices of mapping and classification, forms of citizenship.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH170",
+      "name": "ANTH 170 — History of Archaeological Theory",
+      "description": "Historical review of prehistoric archaeology from antiquarianism to the present. Emphasis on development of archaeological theory and its relation to evolutionary and anthropological theory. Students cannot receive credit for this course and ANTH 270.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to anthropology and Earth sciences/anthropology combined majors. Recommended for juniors.",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH171",
+      "name": "ANTH 171 — Materials and Methods in Historical Archaeology",
+      "description": "In this intensive, hands-on course, students learn the step-by-step processes involved in conducting laboratory research on historic artifacts. Students study the ins and outs of analyzing, cataloging, and dating historic artifacts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH172",
+      "name": "ANTH 172 — Archaeological Research Design",
+      "description": "Develops practical skills for connecting archaeological theory and methods to grant writing, final reports and presentations. Examines elements of good research design, including the logic of scientific inquiry, ethics, project conceptualization, measurement, sampling, data analysis, and effective writing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 . Enrollment is restricted to anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH173",
+      "name": "ANTH 173 — Origins of Farming",
+      "description": "Survey of the ecological and archaeological evidence for the origins of plant and animal domestication in Africa, Eurasia, and the Americas. Discussion will center on the preconditions of this drastic alteration in human ecology and its consequences in transforming human societies. Open to nonmajors. Students cannot receive credit for this course and ANTH 273.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH174",
+      "name": "ANTH 174 — Origins of Complex Societies",
+      "description": "Deals with evidence and theories concerning the origins of complex society; the transition from egalitarian, foraging societies to the hierarchical, economically specialized societies often referred to as civilizations. Focuses on both Old World and New World cultures. Students cannot receive credit for this course and ANTH 174.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH175",
+      "name": "ANTH 175 — African Archaeology",
+      "description": "Introduces the evolution of African kingdoms and states from the emergence of farming communities to initial contact with Europe. Particular attention paid to the origins of social inequality and the evolution of centralized polities. Students cannot receive credit for this course and ANTH 275. (Formerly African Complex Societies.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH176A",
+      "name": "ANTH 176A — North American Archaeology",
+      "description": "Development of Native cultures in North America. Topics include peopling of the New World, early foragers, spread of agriculture and complex societies in the Southwest and Eastern Woodlands, and review of cultural developments in the West and Far North.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 or consent of instructor.",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH176B",
+      "name": "ANTH 176B — Meso-American Archaeology",
+      "description": "Review of the archaeological and ethnohistorical evidence for the origins and development of pre-Columbian civilizations in Meso-America including the Olmec, Maya, Zapotec, Mixtec Teotihuacan, Toltec, Tarascan, and Aztec. Students cannot receive credit for this course and ANTH 276B .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH176C",
+      "name": "ANTH 176C — Archaeology of the American Southwest",
+      "description": "Outlines the development of native cultures in the American Southwest from Paleo-Indian times (Ca. 11,5000 B.C.) through early European contact (ca. A.D. 1600). Topics include the greater environment; early foraging culture; the development of agriculture and village life; the emergence and decline of regional alliances; abandonment and reorganization; and changes in social organization, external relations, and trade.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 and ANTH 176A .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ],
+        [
+          "ANTH176A"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH176D",
+      "name": "ANTH 176D — Colonial Encounters in the Americas",
+      "description": "Uses archaeological case studies to explore processes of cultural confrontation, resistance, and transformation among Native American groups in the wake of European colonial expansion in the Western Hemisphere during the late 15th through mid-19th centuries.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 2 and ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH176E",
+      "name": "ANTH 176E — Archaeology of the Pacific Northwest",
+      "description": "Explores some of the important issues surrounding the anthropological and archaeological study of the Pacific Northwest Coast--a roughly 1,800-kilometer-long shoreline that stretches from Yakutat Bay in Alaska to Cape Mendocino in California.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH176F",
+      "name": "ANTH 176F — California Archaeology",
+      "description": "Introduces the Native peoples of California from an archaeological perspective. Covering the past 13,000 years, a variety of geographic and temporal settings are examined as well as current research in California archaeology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH176G",
+      "name": "ANTH 176G — Andean Archaeology",
+      "description": "Review of the archaeology and ethnohistory of the Central Andes, with a particular emphasis on the values and practices of Andean communities. Explores the whole Andean sequence, from the peopling of South America, early Andean societies, the development of states and empires, and the Spanish invasion.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH177",
+      "name": "ANTH 177 — Environmental Archaeology",
+      "description": "Introduces students to methods and theories in the study of past human-environment interactions. Examines the use of archaeological environmental data (geological, botanical, faunal, chemical) and explores topics, such as megafaunal extinctions, domestication, and human impacts on environments.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH178",
+      "name": "ANTH 178 — Historical Archaeology: A Global Perspective",
+      "description": "Introduces the archaeology of European colonialism and the early-modern world. Topics include historical archaeological methods; the nature of European colonial expansion in New and Old Worlds; culture contact and change; and power and resistance in colonial societies. Students cannot receive credit for this course and ANTH 278.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH180",
+      "name": "ANTH 180 — Ceramic Analysis in Archaeology",
+      "description": "Focuses on theories and techniques used by archaeologists to bridge the gap between the recovery of ceramic materials and their interpretation within cultural contexts. Topics include the origins of pottery, production methods, classification and typology, seriation, functional analysis, materials analysis and description, organization of production, trade, and the analysis of style. Students cannot receive credit for this course and ANTH 280 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 . Enrollment is restricted to anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH181X",
+      "name": "ANTH 181X — Special Topics in Archaeology",
+      "description": "Taught annually on a rotating basis by various faculty members. Precise focus of each year's course varies according to the instructor and is announced by the department.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH183",
+      "name": "ANTH 183 — Introduction to Geographic Information Systems for Anthropology",
+      "description": "Practical laboratory in geographic information systems with a specific focus on anthropological questions and development. Students learn basic spatial analyses and carry them out on research datasets. This course also emphasizes the incorporation of spatial modeling in research design. To participate, students are required to sign up for an account in ESRI (freely available to all UCSC students).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to anthropology majors. Enrollment is limited to 20 students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH184",
+      "name": "ANTH 184 — Zooarchaeology",
+      "description": "Animals play many different roles in our lives, including as food, pets, tools, and symbols. This class introduces the study of animal remains retrieved from archaeological sites. Students learn about zooarchaeology through readings, lectures, and in-class laboratory sessions. Course explores a wide range of topics, including functional morphology, vertebrate taphonomy, reconstruction of human diet and behavior from faunal remains, data collection and management, and methods of quantitative analysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH185",
+      "name": "ANTH 185 — Osteology of Mammals, Birds, and Fish",
+      "description": "Practicum in archaeological faunal analysis. Students learn to identify bones of all larger mammal species of central California plus selected bird and fish species. Students cannot receive credit for this course and ANTH 285 . Prerequisite(s): ANTH 184 or ANTH 102 or BIOL 138 & BIOL 138L or EART 100 or ENVS 105 & ENVS 105L, and permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH187",
+      "name": "ANTH 187 — Cultural Heritage in Colonial Contexts",
+      "description": "Critical examination of the definitions of cultural heritage, its development as a concept, and the various laws, charters, and conventions that shape our management of the past in the present. The focus is on heritage in comparative colonial contexts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH187B",
+      "name": "ANTH 187B — Cultural Resource Management",
+      "description": "Explores how the past is managed or cared for in the present, especially in the context of the United States.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH188A",
+      "name": "ANTH 188A — Practicum in Archaeology A",
+      "description": "Introduces practical skills in archaeological materials identification of stone, shell, bone, and other materials, curation, and database management. Students receive entry-level training with once-weekly class meetings and five hours per week of hands-on work. Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and instructor consent. All three courses in sequence ( ANTH 188A , ANTH 188B , ANTH 188C ) required to count for the anthropology major or minor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH188B",
+      "name": "ANTH 188B — Practicum in Archaeology B",
+      "description": "Introduces practical skills in archaeological materials identification of stone, shell, bone, and other materials, curation, and database management. Students receive entry-level training with once-weekly class meetings and five hours per week of hands-on work. Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and instructor consent. All three courses in sequence ( ANTH 188A , ANTH 188B , ANTH 188C ) required to count for the anthropology major or minor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH188C",
+      "name": "ANTH 188C — Practicum in Archaeology C",
+      "description": "Two-credit course introducing practical skills in archaeological materials identification of stone, shell, bone, and other materials; curation; and database management. Students receive entry-level training with once-weekly class meetings and five hours per week of hands-on work. Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 . All three courses in sequence ( ANTH 188A , ANTH 188B , ANTH 188C ) required to count for the anthropology major or minor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH189",
+      "name": "ANTH 189 — Archaeology Field Methods",
+      "description": "Lecture, laboratory, and fieldwork sessions on archaeological field methods including survey, mapping, excavation, record and database maintenance, artifact accessioning, curation, and analysis on the UCSC campus. Students attend lectures/laboratories two evenings each week and do fieldwork all day on Saturdays. Enrollment by instructor consent. Prerequisite(s): course 3 and application letter. Students who have done no previous fieldwork in archaeology have priority.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH189A",
+      "name": "ANTH 189A — Archaeological Field Techniques",
+      "description": "Focuses on fundamental site identification, recording, and reporting efforts in archaeologyâthe daily grind in archaeological research and cultural resource management (CRM)âthat take place before any ground disturbance happens (usually as part of excavation). Class discussions of relevant readings, independent and group work, and hands-on exercises in the field (on campus) provide students with a working knowledge of everyday archaeological techniques, as well as familiarity with some of the important tools archaeologists use to identify and produce a record of cultural sites. Prerequisite(s): ANTH 3 . Enrollment is by permission of the instructor. Enrollment is restricted to anthropology majors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH190X",
+      "name": "ANTH 190X — Special topics in Biological Anthropology",
+      "description": "Taught annually on a rotating basis by various faculty members. Precise focus of each year's course varies according to the instructor and is announced by the department. (Formerly Special topics in Archaeology-Physical Anthropology.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH194A",
+      "name": "ANTH 194A — Anthropology of Dead Persons",
+      "description": "Explores the cultural meanings of dead bodies and dead persons, including memorialization; the body in the United States legal system; cadavers in education and research; dead persons in mass disasters and human-rights cases; and repatriation of the dead. Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements, and ANTH 1, ANTH 2 , and ANTH 3 . Enrollment restricted to senior anthropology and Earth sciences/Anthropology combined majors. Enrollment by permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH194B",
+      "name": "ANTH 194B — Chimpanzees: Biology, Behavior, and Evolution",
+      "description": "Explores studies on wild and captive chimpanzees with reference to other apes and humans. Topics include sociality, tool using, locomotion, traditions, and life history; social and physical dimensions of growth and development; language studies, genetics, and applications to human evolution.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194C",
+      "name": "ANTH 194C — Feminist Anthropology",
+      "description": "Considers feminist perspectives on the human past, archaeologists' perspectives on feminist theory, and the impact of gender, feminist, and critical social theory on archaeology as a profession. Students cannot receive credit for this course and ANTH 279.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirement. Enrollment restricted to senior anthropology and Earth sciences/Anthropology combined majors.",
+      "prereqGroups": [
+        [
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194D",
+      "name": "ANTH 194D — Tribes/Castes/Women",
+      "description": "Examines historical constructions and contemporary deployments of the categories that have structured popular and anthropological understandings of social life in South Asia, particularly those of tribe, caste, and women. Students gain familiarity with the mobilization of these categories in contemporary political movements across India.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 . Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194E",
+      "name": "ANTH 194E — Belief",
+      "description": "Focuses on problems and opportunities raised by the concept of belief. Students work to develop an anthropological understanding of belief as practiced, then put it to use in analyzing episodes from the NPR series This I Believe.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194F",
+      "name": "ANTH 194F — Memory",
+      "description": "Intensive and fast-paced seminar focusing on theoretical and ethnographic studies of memory as a means for dealing with the past. Examines how ordinary people and societies have coped with the past through acts of selective remembering and forgetting.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194G",
+      "name": "ANTH 194G — Politics and Secularism",
+      "description": "Examines secularism as political doctrine and practice of government. Topics include: transformation of religion by secularization; forms of inclusion/exclusion enacted by secularism; relationship between secularism and colonial rule. Case studies drawn from Europe, South Asia, United States, and the Middle East.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements; enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194H",
+      "name": "ANTH 194H — Paleoanthropology",
+      "description": "Detailed overview of the evidence for the origin and evolution of humans with emphasis on reconstructing the paleobiology of extinct hominids. Discussion of individual groups of ancient hominids from the Miocene apes to anatomically modern humans.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology and Earth sciences/Anthropology combined majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194I",
+      "name": "ANTH 194I — Consumption and Consumerism",
+      "description": "Investigates cultural analysis of consumer society, commodities, and consumer practices. Students develop their own research projects. Themes include: critiques of consumer society; symbolic analysis of goods, consumption as resistance, anthropologies of marketing, culture jamming; consumption and (post) colonialism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194J",
+      "name": "ANTH 194J — Histories of Forests and Other Wild Places",
+      "description": "Wild Nature has a history. This class offers tools for understanding the social and natural construction of wild nature. We will learn to read rural landscapes--ethnographically, biologically, historically, creatively, and politically.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH194K",
+      "name": "ANTH 194K — Reading Ethnographies",
+      "description": "Explores issues in the representation of culture through reading and discussing ethnographies. Recent experimental ethnographies open topics including the relation between fieldwork and writing, textual strategies, and the politics of ethnographic writing and research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194L",
+      "name": "ANTH 194L — Archaeology of the African Diaspora",
+      "description": "Senior seminar on African diaspora archaeology. Draws on archaeological, historical, and anthropological perspectives to examine the cultural, social, economic, and political lives of Africans and their descendants in the New World and West Africa from the 15th through 19th centuries.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , ANTH 3 and an upper division course in archaeology; satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ARCHAEOLOGY"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194M",
+      "name": "ANTH 194M — Medical Anthropology",
+      "description": "Focuses on critical issues in the social sciences of health and healing. Designed for students pursuing graduate work in medical anthropology and/or public health.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , ANTH 3 , and ANTH 134 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3",
+          "ANTH134"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194N",
+      "name": "ANTH 194N — Comparison of Cultures",
+      "description": "Seminar for upper-division students interested in theories and methodology of social and cultural anthropology. Devoted to critical discussion of different methods of comparison practiced in anthropology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194O",
+      "name": "ANTH 194O — Masculinities",
+      "description": "Considers the social construction of men and masculinities in a variety of ethnohistorical contexts as well as the unique contribution enabled by anthropological methods, particularly ethnographic fieldwork, to the study of gender and power.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194P",
+      "name": "ANTH 194P — Space, Place, and Culture",
+      "description": "Examines ways anthropologists have studied relationship between space, place, and culture. Covers early formulations acknowledging people in different cultural contexts ascribe particular meanings to places and to the concept of space and then traces the ways these questions have come to the fore in more recent scholarship.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH194Q",
+      "name": "ANTH 194Q — Race, Ethnicity, Nation",
+      "description": "Provides students with theoretical and methodological approaches to studying the relationships between race, ethnicity, and nation, with a comparative focus on the United States, Latin America, and Europe. Students use ethnographic methods and/or discourse analysis to develop individual research projects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194R",
+      "name": "ANTH 194R — Religion, Gender, Sexuality",
+      "description": "Examines religion in relation to gender and sexuality. Examines how gender, sexuality, and religion intersect in notions of civilization, progress, and modernity in the contemporary and colonial periods. Particular attention paid to Islam, Christianity, and Hinduism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194S",
+      "name": "ANTH 194S — Hearing Culture: The Anthropology of Sound",
+      "description": "Explores relationships between culture and acoustic worlds--environmental, verbal, and musical--within which we live. How sound is shaped by human belief and practice and the role sound plays in cultural and social life, both past and present.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194T",
+      "name": "ANTH 194T — Poverty and Inequality",
+      "description": "Through ethnographies about homelessness, food deprivation, and unemployment, examines the institutions through which poverty is recognized, the systems of morality shaping debates about need and appropriate behavior, and the effects of community responses to poverty.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194U",
+      "name": "ANTH 194U — Environmental Anthropology: Nature, Culture, Politics",
+      "description": "Presents key readings in environmental anthropology focusing on environmental conflicts. Students guided in developing research paper on a society environment topic of their choice. Class is writing intensive with in-class discussion and final presentations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH194V",
+      "name": "ANTH 194V — Who Owns the Past? Ethical and Political Dimensions of Contemporary Archaeology",
+      "description": "Considers the various stakeholders in archaeological practice. Students identify and evaluate the ethical and political issues involved in the study, interpretation, presentation, and conservation of the archaeological past through weekly readings, discussions, and case studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors and Earth sciences and anthropology combined majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194W",
+      "name": "ANTH 194W — The Anthropology of Social Movements",
+      "description": "Focuses on the anthropology of social movements, especially the impact that global capital provokes on peripheral Latin American societies and the ways these respond through the organizing of social movements validating alternative worldviews that coalesce around issues pertaining to indigeneity, the environment, gender, and concepts of human dignity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194X",
+      "name": "ANTH 194X — Women in Politics: A Third World Perspective",
+      "description": "Focuses cross-culturally on the status of women in the Third World and their formal and informal participation in politics. Also discussed are organized efforts, through participation in both national and autonomous movements, for women's rights.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194Y",
+      "name": "ANTH 194Y — Archaeologies of Space and Landscape",
+      "description": "Examines contemporary archaeological perspectives on space and landscape. Focuses on how archaeology can contribute to an appreciation of the economic, cultural, and political factors that shape human perception, use, and construction of the physical world.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; an upper-division archaeology course; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology and earth sciences/anthropology combined majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ARCHAEOLOGY"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH194Z",
+      "name": "ANTH 194Z — Emerging Worlds",
+      "description": "Addresses encounters and contact zones between cultures that give rise to emerging worlds. Emerging worlds refers to the cultural heterogeneity and diversity created within world-making networks, geographies, innovations, and meanings, moving us beyond ideas about vanishing, autonomous cultures.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements; enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH195A",
+      "name": "ANTH 195A — Biological Anthropology Senior Thesis Series: Research Design",
+      "description": "Introduces students to the principles and methods by which research projects in biological anthropology and data-based archaeology are devised and executed. Students design their senior thesis research projects, write research proposals, recapitulate laboratory methods, and engage in the discussion of quantitative and mixed-methods research in anthropology. Students must have already discussed research opportunities for their thesis with principle investigators who have agreed to sponsor a potential research project. Enrollment is restricted to senior anthropology majors and by permission of the instructor. Students cannot receive credit for this course and ANTH 295A . (Formerly Senior Thesis Seminar.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH195B",
+      "name": "ANTH 195B — Biological Anthropology Senior Thesis Series: Guided Laboratory Research",
+      "description": "Guides students as they conduct the research projects proposed in ANTH 195A and is intended to promote a collaborative laboratory environment where students can share their progress and discuss problems and results with the group of other participating students and the instructor. This course reinforces the continuous exchange of ideas between students, ensuring that students do not work on individual projects in complete isolation. (Formerly Senior Thesis Research.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 195A . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH195A"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH195C",
+      "name": "ANTH 195C — Biological Anthropology Senior Thesis Series: Thesis Writing",
+      "description": "Emphasizes structured writing lead by manuscript guidelines with scheduled chapter drafts to be presented at specific times in the quarter. Students meet twice a week for seminars in which they present and discuss their results and writing progress with their peers and the instructor. Students are also introduced to the publishing landscape in the sciences, and trained in other forms of scientific research presentation (e.g. research posters, community meetings). (Formerly Senior Thesis Capstone.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 195B . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH195B"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH195S",
+      "name": "ANTH 195S — Senior Thesis",
+      "description": "Produce a quality research paper focusing on an anthropological topic of interest to you and that builds upon your experience in the major. Develop effective writing strategies and research skills to assist in professional development.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to anthropology majors. Enrollment is by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH196C",
+      "name": "ANTH 196C — Traveling Cultures",
+      "description": "Considers why traveling cultures have posed a threat, often met with violence, to regimes of rule, particularly modern nation-states. Also explores the unique problems that conducting research with mobile communities poses for the ethnographer.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196D",
+      "name": "ANTH 196D — Food and Medicine",
+      "description": "Examines the intersections of food, medicine, and culture with special focus on nutrition, cultural knowledge, industrial foodways, genetically modified organisms (GMOs), ethnopharmacology, food safety, and biosecurity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 .",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196E",
+      "name": "ANTH 196E — Pastoralists Past and Present",
+      "description": "Senior seminar treating the history and modern situation of the world's herding peoples. Readings draw on ethnographic, historical, archaeological, and ecological literatures. Students are coached in writing a 25-page research paper on a topic related to this theme.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196F",
+      "name": "ANTH 196F — The Anthropology of Things: Gift, Sign, Commodity, Tool",
+      "description": "Examines some approaches used by anthropologists and other thinkers to bring things into focus: as gifts, signs, commodities, and tools. Explores whether, by taking things seriously, anthropologists might learn to be empirical in new ways. Students cannot receive credit for this course and ANTH 225.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ],
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196G",
+      "name": "ANTH 196G — Queer Worlds: Sexuality, Intimacy and Power in Contemporary Ethnography",
+      "description": "How do we read, write, and recognize the queer body? How is it marked in politics, in intimate spaces, and in the ethnographic text? Drawing on ethnic studies and black queer studies, this seminar engages contemporary anthropological approaches to sexuality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ],
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196H",
+      "name": "ANTH 196H — Global History and the Longue Duree",
+      "description": "Emerging anthropological approaches to global history, with an eye to historical frameworks of 500 years or more. Course requires engagement with advanced theoretical concepts and challenging historical texts. Intensive seminar format. Students cannot receive credit for this course and ANTH 269.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ],
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196I",
+      "name": "ANTH 196I — Hard Problems",
+      "description": "Explores interrelated, long-standing, difficult problems in human theory. Considers why these problems are so forbidding; what makes them significant; why they are hard; and whether hard problems come in different varieties or strengths.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196J",
+      "name": "ANTH 196J — Imagining America",
+      "description": "Explores sites of heritage and the politics of cultural memory in the American context. Focuses on public representation and interpretation at places where multiple views of history come into conflict.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196K",
+      "name": "ANTH 196K — Settler Colonialism",
+      "description": "Provides seniors in anthropology a capstone experience. Settler colonialism is an all-encompassing, land-centered project that revolves around the elimination of the Native. This course revolves around a series of ethnographies and histories about settler colonialism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196L",
+      "name": "ANTH 196L — Archaeology of the American Southwest",
+      "description": "Outlines the development of native cultures in the American Southwest from Paleo-Indian times (ca. 11,500 B.C.) through early European Contact (ca. A.D. 1600).",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Course 178 is strongly recommended. Enrollment is restricted to senior anthropology and Earth sciences/Anthropology combined majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196M",
+      "name": "ANTH 196M — Modernity and its Others",
+      "description": "Examines how Western modernity has interpreted various forms of radical difference, beginning with the 15th-century conquest of the New World. Considers historical and contemporary examples of how Western thinkers have explained irrational beliefs and practices (e.g., witchcraft, human sacrifice, devil-worship).",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196N",
+      "name": "ANTH 196N — The Body, Narrative, and Creative Practice",
+      "description": "Seminar proposing that arts, such as dance, weaving, and creative writing, and the cultivation of more traditional scholarly works can and should be pursued together. The pursuit of such research-creation is a social justice practice that values many ways of knowing and can lead to emotionally compelling and politically effective communication. Students are introduced to concepts and debates from crip theory, feminist, queer, and critical race studies, performance studies, and narrative theory. They also participate in workshops using body-centered writing, moment work, visual arts, and embodied listening to produce creation-scholarship in a medium of their choice. Taught in conjunction with ANTH 296N ; students cannot receive credit for this course and ANTH 296N . Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors and by permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH196O",
+      "name": "ANTH 196O — Gender and Politics",
+      "description": "Analyzes how gender defines those who participate in the public sphere and circumscribes their actions, with particular attention to individuals who identify as female and are engaged in political activities.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196P",
+      "name": "ANTH 196P — Disability and Difference",
+      "description": "Challenges limiting conceptions of what it means to be human in a range of arenas, from our understandings of culture to our conceptions of built space to our assumptions about citizenship, asking why disability makes people nervous.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2, and ANTH 3 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior Anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196Q",
+      "name": "ANTH 196Q — Property",
+      "description": "Analyzes and denaturalizes property as a key aspect of social life and power relations. Students develop their own research projects. Themes include: concepts of property; politics of private property, home and rent; racialized dispossession; and cultural appropriation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196R",
+      "name": "ANTH 196R — Design Anthropology",
+      "description": "Senior seminar introduces students to principles, approaches, methods, and professional dimensions of design anthropology. Emphasizes collaborative methods and development of new methods for ethnographic research, analysis, and communication. Through a quarter-long research project, students develop professional skills and portfolio materials. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment restricted to senior anthropology majors and is by permission. Students cannot receive credit for this course and ANTH 208C.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH196S",
+      "name": "ANTH 196S — Food for Thought",
+      "description": "Adopts food as an analytical lens to explore the relationship between environmental sustainability and social justice. Course draws from ethnographic texts, films, and recipe books across the world to provide an overview of contemporary cultures, debates, insights, and politics. Students examine how everyday food practices shape meanings of community, gender, taste, beliefs, taboos, hierarchies, and class. Students taking this course learn how food, consumption, and dietary practices allow us to understand significant economic, social, and political developments. (Formerly Food Cultures in South Asia.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , and ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196T",
+      "name": "ANTH 196T — Archaeology of Technology",
+      "description": "Examines approaches mobilized by archaeologists to reconstruct ancient technologies and to explore how technological practices are implicated in processes of social formation and change. Approaches that engage technology as embodied technique and situated cultural practice are emphasized.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology and Earth sciences/Anthropology combined majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196U",
+      "name": "ANTH 196U — Historical Anthropology",
+      "description": "Provides seniors in anthropology a capstone experience. Involves critical engagement with archaeological, ethnohistorical, ethnographic, and oral line of evidence to evaluate the outcomes of indigenous people's interactions with different forms of missionary, settler, and mercantile colonialism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology and Earth sciences/Anthropology combined majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196V",
+      "name": "ANTH 196V — Radical Craft",
+      "description": "Examines how making and artisanship can be harnessed to solve challenging social, political, and environmental issues. Examines anthropology's historical role in creating a dichotomy between \"art\" and \"craft,\" as well as contemporary ethnographic work that examines craft practices from weaving to pottery to the creation of mask trees for mutual aid during a time of global pandemic. Weekly topics include research-creation, \"craftivism,\" speculative design, Indigenous art worlds, and responses to the environmental and social ravages of fast fashion. Students select a pressing social problem and then complete a hands-on, craft-based project of their choice; no prior skills or talents are required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196W",
+      "name": "ANTH 196W — Anthropology of Weather and Exposure",
+      "description": "Students discuss how differing approaches to weather and exposure generate different approaches to culture, science, and politics; identify key moments in cultural anthropology's engagement with environmental and climactic questions; and delineate new areas of research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 . Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior Anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH196X",
+      "name": "ANTH 196X — Medicines for the Soul",
+      "description": "Examines the soul as an act of being, as motion, and as a figure that comes to stand between immaterial and material, psyche and body, memory and imagination, life and death, madness and prophecyâall in order to consider larger anthropological questions of cultural and historical transmission. Course explores descriptions of the soul as found in early 20th century anthropological and ethnographic texts and its reappearance in psychology and psychological anthropology and, too, its haunting absence in contemporary anthropological texts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ],
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH197",
+      "name": "ANTH 197 — Laboratory Tutorial",
+      "description": "Independent laboratory research on selected topics in archeology and physical anthropology. Interview with appropriate instructor required.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH197F",
+      "name": "ANTH 197F — Laboratory Tutorial",
+      "description": "Independent laboratory research on selected topics in archaeology and physical anthropology. Interview with appropriate instructor required. Enrollment restricted to anthropology majors.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH198",
+      "name": "ANTH 198 — Independent Field Study",
+      "description": "Off-campus field study. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH198F",
+      "name": "ANTH 198F — Ind Field Study",
+      "description": "Ind Field Study",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH198G",
+      "name": "ANTH 198G — Independent Field Study",
+      "description": "Off-campus field study. Students submit petition to sponsoring agency.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH199",
+      "name": "ANTH 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH199F",
+      "name": "ANTH 199F — Tutorial",
+      "description": "Tutorial",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH200",
+      "name": "ANTH 200 — Theoretical Foundations of Physical Anthropological Research",
+      "description": "Provides historical and theoretical foundation of physical anthropology. Grounds students in the changing frameworks and perspectives during the last 150 years regarding questions in human biology, evolution, nature, and culture, by examining texts and scientific journals.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH200A",
+      "name": "ANTH 200A — Cultural Graduate Core Course",
+      "description": "Introduces history, ethnography, and theory of cultural anthropology with emphasis on awareness of construction of anthropological canon and areas of conflict within it, leading up to contemporary debates on a variety of issues. Two-term course: students must enroll in both quarters.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to anthropology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH200B",
+      "name": "ANTH 200B — Cultural Graduate Core Course",
+      "description": "Introduces history, ethnography, and theory of cultural anthropology with emphasis on awareness of construction of anthropological canon and areas of conflict within it, leading up to contemporary debates on a variety of issues. Multiple-term course; students must enroll in both quarters to receive academic credit.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to anthropology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH201",
+      "name": "ANTH 201 — Human Evolution",
+      "description": "Provides an overview of the first five million years of human evolution and a framework for studying evolution and reconstructing the human past. Emphasizes that all lines of evidence must be included: hominid fossils, archaeology, paleoecology, and molecular data.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH202A",
+      "name": "ANTH 202A — Skeletal Biology",
+      "description": "Focuses on human skeletal biology, the identification of elements, physiology of hard tissue formation, growth, and maintenance. Students are required to show competence in skeletal identification to pass this class.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 102A or permission of instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ANTH102A"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH208A",
+      "name": "ANTH 208A — Ethnographic Practice",
+      "description": "Introduces graduate students to the practice of fieldwork. Students design and carry out a quarter-long research project exploring a range of methods and producing an analytical case study. Readings and discussion emphasize both methodological critique and successful implementation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to anthropology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH208C",
+      "name": "ANTH 208C — Design Anthropology",
+      "description": "Introduces the principles, approaches, methods, and professional dimensions of design anthropology. Emphasis is on collaborative methods and development of new methods for ethnographic research, analysis, and communication. Through a quarter-long research project, students develop non-academic professional skills, including portfolio materials. Students cannot receive credit for this course and ANTH 196R .",
+      "credits": "5",
+      "rawRequirements": "Requirements Open to second-year graduate students and higher (first-year students are required to take ANTH 208A ).",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH210R",
+      "name": "ANTH 210R — Religion in American Politics and Culture",
+      "description": "Introduces dominant discourses about major American religions and their role in public life with particular attention to intersecting differences, such as race, sex/gender, and disability and to shifting religious/political boundaries. Visual and textual media, political commentary, and popular ethnographies are analyzed.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH211",
+      "name": "ANTH 211 — Human Ecology",
+      "description": "Reviews environmental, physiological, behavioral, and cultural ways that humans interact with their physical surroundings. Effects of human culture on the environment, and of the environment on the shape of human culture will be emphasized.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH212",
+      "name": "ANTH 212 — The Human Life Cycle",
+      "description": "Examines the human life cycle using an evolutionary framework. Examines key aspects of the human life stages using findings and concepts from developmental biology, physiology, nutrition, evolutionary ecology, and life history theory. These stages include: gestation, infancy, childhood, juvenile and adolescent periods, and senescence. Each stage of the life cycle is compared and contrasted with the developmental life of nonhuman primates and mammals. Other related topics include developmental plasticity and epigenetics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH214",
+      "name": "ANTH 214 — Culture and Power",
+      "description": "Takes the many strands of scholarship on power relations between individuals within the context of institutions and conceptualizes how individuals come to exist through power relations, and how power is fundamental to social being.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH216",
+      "name": "ANTH 216 — Methods in Biological Anthropology",
+      "description": "Deepens students' understanding of methods applied in biological anthropology research. (Formerly Methods in Physical Anthropology.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH219",
+      "name": "ANTH 219 — Religions, States, Secularities",
+      "description": "Examines theories and case studies at the intersection of religion, states, and secularity. Topics include: secularism as a political doctrine; state and social regulation of religion and religious normativity; secular cultural practices; and lines of secular/religious entanglement and conflict.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH220",
+      "name": "ANTH 220 — Cartographies of Culture",
+      "description": "Examines, theoretically and ethnographically, how societies and their cultures are created and reified through spatializing practices, including border-making, mapping, landscape aesthetics, globalization, time/history/memory, movement, and other locating activities.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH224",
+      "name": "ANTH 224 — Anthropology of Secularism",
+      "description": "Examines secularism as a practice of government with a concomitant set of ethics. Topics include: the notion of religion necessary for secularism; forms of moral and political inclusion/exclusion enacted by secular governance; and the kind of ethical subject secularism engenders. (Formerly course 255.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH225",
+      "name": "ANTH 225 — The Anthropology of Things: Sign, Gift, Commodity, Tool",
+      "description": "Examines some approaches used by anthropologists and other thinkers to bring things into focus: as gifts, signs, commodities, and tools. Explores whether, by taking things seriously, anthropologists might learn to be empirical in new ways. Students cannot receive credit for this course and ANTH 196F.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH228",
+      "name": "ANTH 228 — Grant Writing",
+      "description": "Devoted entirely to writing grant proposals. Students either work on their graduate education fellowships or their doctoral dissertation grants or both. Reading materials consist of granting agency documents plus examples of successful applications.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH229",
+      "name": "ANTH 229 — Constructing Regions",
+      "description": "Discusses centrality of the idea of regions in studies of culture, the history of locating social theory, and debates about area studies. Students develop area of transregional bibliographies. Primarily for second- or third-year anthropology graduate students reading area literatures.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH230",
+      "name": "ANTH 230 — Bodies, Images, Screens",
+      "description": "Visuality as epistemology, image-consumption, and the political and representational possibilities stemming from digitization and the World Wide Web are increasingly important issues in the humane sciences. Offers historical and critical background and the possibility of hands-on practice using visual material in current research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH231",
+      "name": "ANTH 231 — Intimacy and Affective Labor",
+      "description": "Examines recent work on the role of intimacy and affective labor in value production, political mobilization, and transnational capital linkages. Special attention given to how these terms are invoked to answer methodological and narrative concerns in ethnographic writing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH232",
+      "name": "ANTH 232 — Bodies, Knowledge, Practice",
+      "description": "Contemporary social theory and science both focus on bodies as critical sites of inquiry and the production of knowledge. Explores these theoretical intersections and constructions of the body with new ethnographic works. Questions how race, gender, and culture are inscribed through bodily practice, imagery, and phenomenology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH233",
+      "name": "ANTH 233 — Politics of Nature",
+      "description": "Advanced graduate seminar in environmental anthropology and science and technology studies, focusing on how nature is produced in the modern world and what political and practical significance this has in different contexts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH234",
+      "name": "ANTH 234 — Feminist Anthropology",
+      "description": "Examines how feminist anthropology creates its objects of knowledge by focusing on questions of method and representation. The class reads across these traditional objects--women and gender, for example--to highlight the epistemological and political stakes of feminist work in anthropology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH235",
+      "name": "ANTH 235 — Language and Culture",
+      "description": "An examination of language system and language use in relationship to cultural contexts of communication in Western and non-Western societies. Also examines the complex role which linguistic inquiry and models have played in broader theories of culture.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH238",
+      "name": "ANTH 238 — Advanced Topics in Cultural Anthropology",
+      "description": "Advanced topics in cultural anthropology. Current topics in anthropological theory and ethnography taught on a rotating basis by various faculty members. Precise focus of each seminar varies and will be announced by the department.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH241",
+      "name": "ANTH 241 — Social Justice",
+      "description": "Explores theoretical and methodological issues in the field of social justice with an emphasis on ethnographic analysis. Topics include: rights, obligations, justice, equality, compensation, and ethics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH243",
+      "name": "ANTH 243 — Cultures of Capitalism",
+      "description": "Introduction to selected themes in political economy, stressing the work of Marx. Topics include the development of capitalism, colonialism, dependency, world systems, state formation, class consciousness, commodity fetishism, the nature of late capitalism, post-modernism, and the aesthetics of mass culture. Through political economy's interlocutors, raises questions about gender, race and ethnicity, and post-structuralist critiques.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH246",
+      "name": "ANTH 246 — Advanced Readings in Environmental Anthropology",
+      "description": "Survey of history and topics of contemporary interest in environmental anthropology, including political ecology, environmental history, ethnoecology, and multi-species anthropology. Additional advanced readings on contemporary environmental anthropology research. Students cannot receive credit for this course and ANTH 146.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Anthropology graduate students or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH247",
+      "name": "ANTH 247 — Critical Perspectives on Nutrition",
+      "description": "Examines emerging critiques on the science, communication, and practice of nutrition using multidisciplinary approaches. Special attention is given to the effects of modern nutrition.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH248",
+      "name": "ANTH 248 — Shadowy Dealings: Anthropology of Finance, Money, and Law",
+      "description": "Moves from a brief introduction to classic economic anthropology to recent work on histories of money and capitalism and cultures of financial markets, of accounting, and of legal and illegal trading practices",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH249",
+      "name": "ANTH 249 — Ecological Discourses",
+      "description": "Explores narratives of nature and their practical consequences in contests over wild places and their resources. Readings focus on the histories of forests and on analytic frameworksâecology, social history, interpretation, cultural studiesâwith which to investigate competing constructions of the environment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH252",
+      "name": "ANTH 252 — Survey of Cultural Anthropological Theory",
+      "description": "Major figures, ideas, and writing in 19th- and 20th-century cultural anthropology surveyed. Students cannot receive credit for this course and ANTH 152 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH253",
+      "name": "ANTH 253 — Advanced Cultural Theory",
+      "description": "Examines cultural anthropology's interdisciplinary practices of knowledge formation at an advanced level. Drawing on various types of theoretical texts, the course elaborates on the relationship between culture and power, taking up different themes each time it is taught.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH254",
+      "name": "ANTH 254 — Medicine and Culture",
+      "description": "Surveys medicine cross-culturally, with particular focus on power, tradition, and theories of embodiment. Students cannot receive credit for this course and ANTH 134 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH255",
+      "name": "ANTH 255 — Regulating Religion/Sex",
+      "description": "First examines the regulation of religion and the normalization of sex/sexuality as parallel modalities of secular rule in the production of modern citizens and subjects. Ultimately inquires into the relationship between proper religion and proper sexuality in secular state formations. (Formerly course 259.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH258",
+      "name": "ANTH 258 — Experimental Cultures",
+      "description": "Addresses the use of experiments in anthropological research, theory, and writing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH259",
+      "name": "ANTH 259 — Race in Theory and Ethnography",
+      "description": "Explores theoretical and methodological approaches to the cross-cultural study of race, with an emphasis on historical and ethnographic analysis. Main approaches considered include Foucauldian, Gramscian, diaspora theory, and the everyday poetics and politics of race. (Formerly course 246.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH260",
+      "name": "ANTH 260 — Anthropology of Freedom",
+      "description": "Examines conceptualizations and practices of freedom across geographical space and historical time. Readings drawn from Greek philosophy, Islamic, Christian, and Buddhist religious traditions. Enlightenment philosophy, liberal and neo-thought, and contemporary ethnographies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH261",
+      "name": "ANTH 261 — Replication, Mimesis, and Fakery",
+      "description": "Replicas, copies, and fakes anchored conceptually by the authentic/original enable the marketing of cultural commodities like arts and crafts, especially since the advent of photography. Course explores these commercial and signifying processes in the global art and culture market.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH262",
+      "name": "ANTH 262 — Documenting Cultures",
+      "description": "Follows the history of film and ethnography, media and methodology into the birth of cinema and anthropology in the early 20th century. Students learn theories of representation and media, conduct ethnographic research, and prepare a short film.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH263",
+      "name": "ANTH 263 — Kinship",
+      "description": "Provides a critical survey of debates, old and new, in the study of kinship. Readings range from classical treatments to recent reformulations that use kinship as a lens for exploring intimacy, memory, futurity, embodiment, commodification, and power. Students cannot receive credit for this course and ANTH 163.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH269",
+      "name": "ANTH 269 — Global History and the Longue Duree",
+      "description": "Emerging anthropological approaches to global history. Considers both 500-year and much longer historical frameworks. For the former, the evidence of documents, both European and non-European, is particularly important. For the latter, archaeological and evolutionary approaches are essential. Students cannot receive credit for this course and ANTH 196H.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH270",
+      "name": "ANTH 270 — History of Archaeology",
+      "description": "Historical review of prehistoric archaeology from antiquarianism to the present. Emphasis on the development of archaeological theory, its relation to evolutionary and anthropological theory, and themes ongoing over time. Students cannot receive credit for this course and ANTH 170.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH270A",
+      "name": "ANTH 270A — Archaeology Graduate Core Course: History of Archaeological Theory",
+      "description": "Historical overview of archaeology, concentrating on archaeological practice in the English-speaking world from the late 19th through the 21st Centuries. Emphasis is on development of archaeological theory in its social context; its relation to evolutionary and anthropological theory; and themes ongoing over time. Students cannot receive credit for this course and ANTH 270 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH270B",
+      "name": "ANTH 270B — Current Directions in Archaeological Theory",
+      "description": "Provides an in-depth understanding of current trends in archaeological thought, and enables students to place issues of archaeological interpretation into broader historical and theoretical frameworks. This course is a follow-up to ANTH 270, but not a substitute.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ANTH 270A . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ANTH270A"
+        ]
+      ]
+    },
+    {
+      "id": "ANTH272",
+      "name": "ANTH 272 — Advanced Archaeological Research",
+      "description": "Introduces graduate students to archaeological research design. Topics include: middle range theory; multistage research strategies; sampling strategies and appropriate field methodology; and issues specific to particular scales of archaeological analysis (artifact, household, site, region).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH273",
+      "name": "ANTH 273 — Origins of Farming",
+      "description": "Survey of the ecological and archaeological evidence for the origins of plant and animal domestication in Africa, Eurasia, and the Americas. Discussion will center on the preconditions of this drastic alteration in human ecology and its consequences in transforming human societies. Students cannot receive credit for this course and ANTH 173.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH274",
+      "name": "ANTH 274 — Origins of Complex Societies",
+      "description": "The origins of complex society: the transition from egalitarian foraging societies to the hierarchical, economically specialized societies often referred to as states or civilizations. Focuses on both Old World and New World cultures. Students may not receive credit for this course and ANTH 174.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH275",
+      "name": "ANTH 275 — Tutorial in African Archaeology",
+      "description": "Graduate tutorial on the archaeology of precolonial African kingdoms and states. Particular attention paid toward the origins of social inequality and the evolution of centralized politics. Students cannot receive credit for this course and ANTH 175.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH276A",
+      "name": "ANTH 276A — Advanced Topics in North American Archaeology",
+      "description": "In-depth examination of development of Native cultures in North America from end of last ice age to time of European contact. Focuses on specific regional trajectories and problems of social change.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH276B",
+      "name": "ANTH 276B — Mesoamerican Archaeology",
+      "description": "Examines the pre-Columbian cultures of Mesoamerica and reviews the archaeological and ethnohistorical evidence related to the origins and development of cultures including the Olmec, Maya, Zapotec, Mixtec, and Aztec. Students cannot receive credit for this course and ANTH 176B.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH276G",
+      "name": "ANTH 276G — Archaeology of Colonial Borderlands",
+      "description": "This seminar draws from readings in archaeology, history, and Native American/Indigenous studies to assess borderlands throughout colonial-era North America as important arenas of change and continuity for indigenous societies, including indigenous technologies, foodways, gender roles, governance, and much more.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH278",
+      "name": "ANTH 278 — Tutorial on Historical Archaeology",
+      "description": "Tutorial on archaeology of European colonialism and the early-modern world. Focuses on the nature of European colonial expanison in New and Old Worlds; culture contact and change; and power and resistance in colonial societies. Students cannot receive credit for this course and ANTH 178 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH279",
+      "name": "ANTH 279 — Feminism and Gender in Archaeology",
+      "description": "Considers feminist perspectives on the human past; archaeologists' perspectives on feminist theory; and the impact of gender, feminist, and critical social theory on the archaeological profession. Students cannot receive credit for this course and ANTH 194C.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH280",
+      "name": "ANTH 280 — Advanced Ceramic Analysis",
+      "description": "Advanced graduate seminar that focuses on techniques and theories used to bridge the gap between the recovery of ceramic remains from archaeological contexts and their interpretation with respect to various anthropological issues and problems. Students cannot receive credit for this course and ANTH 180.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Concurrent enrollment in ANTH 280L is required.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH280L",
+      "name": "ANTH 280L — Advanced Ceramic Analysis Laboratory",
+      "description": "Emphasizes advanced techniques of ceramic analysis, including materials selection and processing, hand-building, and open-pit firings. Standard techniques for describing and measuring formal and technological attributes of pottery also presented. Students cannot receive credit for this course and ANTH 180L.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Concurrent enrollment in ANTH 280 is required.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH281",
+      "name": "ANTH 281 — Landscape Archaeology",
+      "description": "\"Landscape\" has emerged as a unifying concept for the interpretation of such archaeological features at multiple scales of analysis. This course answers these and other questions by examining how \"landscapes\" have been tackled archaeologically from multiple perspectives (settlement archaeology, \"off-site\" archaeology, and approaches building on ideas about culture, ideology and power).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH282",
+      "name": "ANTH 282 — Household Archaeology",
+      "description": "Explores the theoretical and methodological challenges faced by archaeologists excavating ancient households. Students examine the social, economic, and political characteristics of households and investigate how they intersect and support the social and physical aspects of communities.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH283",
+      "name": "ANTH 283 — Introduction to Geographic Information Systems for Anthropology",
+      "description": "Practical laboratory in geographic information systems with a specific focus on anthropological questions and development. Students learn basic spatial analyses and carry them out on research datasets. This course also emphasizes the incorporation of spatial modeling in research design. To participate, students are required to sign up for an account in ESRI (freely available to all UCSC students). Enrollment is restricted to anthropology majors. Enrollment is limited to 20 students.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH284",
+      "name": "ANTH 284 — Tutorial in Zooarchaeology",
+      "description": "Lectures and seminar on archaeological faunal analysis. Topics include: mammalian evolution and osteology; vertebrate taphonomy; reconstruction of human diet from faunal remains; foraging strategy theory; data collection and management; and methods of quantitative analysis. Students cannot receive credit for this course and ANTH 184.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH285",
+      "name": "ANTH 285 — Osteology of Mammals, Birds, and Fish",
+      "description": "Practicum in vertebrate osteology, covering all larger mammal species of central California, plus selected bird and fish species, and topics in evolution and ecology of selected taxa. Students cannot receive credit for this course and ANTH 185.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH287",
+      "name": "ANTH 287 — Advanced Topics in Archaeology",
+      "description": "A graduate seminar on advanced theoretical or methodological topics pertinent to advanced graduate student and faculty interests.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or by consent of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH287A",
+      "name": "ANTH 287A — Advanced Topics: Indigenous Archaeology",
+      "description": "Traces the development of indigenous archaeology primarily in North America. Topics include: the Native American Graves Protection and Repatriation Act (NAGPRA) and issues of cultural patrimony; postcolonialism; decolonizing methodologies; community-based research; oral sources and other ways of knowing the past; and future directions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH287B",
+      "name": "ANTH 287B — Advanced Topics: Archaeology in the Age of Big Data",
+      "description": "Explores the impact that the ever-growing digital archaeological toolkit has on the research process. Covers specific and keystone developments such as access to big data, spatial modeling, aerial photography, satellite remote sensing, and the recent developments in virtual reality and artificial intelligence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Graduate Students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH290T",
+      "name": "ANTH 290T — Pedagogy of Anthropology",
+      "description": "Provides training in scientifically backed educational practices for new Anthropology TAs. Through reading, class discussion and activities, we explore different methods of teaching and ways to conceptualize pedagogy. Includes teaching theories; survey of educational tools and techniques; and lesson planning.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment restricted to anthropology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH292",
+      "name": "ANTH 292 — Graduate Colloquium",
+      "description": "Designed to offer an institutionalized mechanism for the presentation of research papers and teaching efforts by faculty and advanced graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH294N",
+      "name": "ANTH 294N — Comparison of Cultures",
+      "description": "Seminar for students interested in theories and methodology of social and cultural anthropology devoted to critical discussion of different methods of comparison practiced in anthropology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH294R",
+      "name": "ANTH 294R — Advanced Readings in Biological Anthropology",
+      "description": "Introduces literature relevant to students' research emphases and allows for discussion of new scientific publications.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH295A",
+      "name": "ANTH 295A — Scientific Method: Biological Anthropology",
+      "description": "The first core course of the Biological Anthropology Graduate Program. Students learn the principles and methods by which research projects in biological anthropology are devised and executed. Students cannot receive credit for this course and ANTH 195A.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH296N",
+      "name": "ANTH 296N — The Body, Narrative, and Creative Practice",
+      "description": "Seminar proposing that arts, such as dance, weaving, and creative writing, and the cultivation of more traditional scholarly works can and should be pursued together. The pursuit of such research-creation is a social justice practice that values many ways of knowing and can lead to emotionally compelling and politically effective communication. Students are introduced to concepts and debates from crip theory, feminist, queer, and critical race studies, performance studies, and narrative theory. They also participate in workshops using body-centered writing, moment work, visual arts, and embodied listening to produce creation-scholarship in a medium of their choice. Taught in conjunction with ANTH 196N ; students cannot receive credit for this course and ANTH 196N .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH297A",
+      "name": "ANTH 297A — Independent Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH297B",
+      "name": "ANTH 297B — Independent Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH297C",
+      "name": "ANTH 297C — Independent Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH297F",
+      "name": "ANTH 297F — Independent Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH298",
+      "name": "ANTH 298 — Advanced Laboratory Apprenticeship",
+      "description": "Supervised tutorial in specialized analytic methods in archaeology or physical anthropology. Students collaborate on laboratory research with a departmental mentor or, with advisor's consent, with researchers on or off campus, preparing a manuscript for publication or an extensive literature review. Permission of instructor required. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH299A",
+      "name": "ANTH 299A — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH299B",
+      "name": "ANTH 299B — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH299C",
+      "name": "ANTH 299C — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH299W",
+      "name": "ANTH 299W — Anthropology Dissertation Workshop",
+      "description": "Designed to help anthropology Ph.D. students make progress on their dissertation writing. It is a three-hour seminar in workshop format. Each week students share their work-in-progress and the class provides constructive feedback. Discussions with the instructor and students on topics relevant to dissertation writing are also held. Course is offered for satisfactory/unsatisfactory grading only.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HIS149F",
+      "name": "HIS 149F — Southeast Asian Histories, Societies and Politics in Nine Tasty Foods",
+      "description": "Examines political, cultural, and historical dynamics in Southeast Asia from the early modern period to the present. Students explore canonical reading and some of the most influential theories of Southeast Asian studies through animal and plant life that have gastronomically served the region for centuries. This approach leads students to recognize the utility of interdisciplinary investigation and to consider how fields such as ecology, zoology, and maritime studies have been impacted by methodologically creative work in the humanities and social sciences on the region.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY268B",
+      "name": "SOCY 268B — Science and Justice Research Seminar",
+      "description": "Provides in-depth instruction in conducting collaborative interdisciplinary research. Students produce a final research project that explores how this training might generate research that is more responsive to the links between questions of knowledge and questions of justice. Prerequisite(s): SOCY 268A , BME 268A, FMST 268A, or ANTH 267A. Enrollment is restricted to graduate students and by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

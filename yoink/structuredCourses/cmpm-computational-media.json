@@ -1,0 +1,923 @@
+{
+  "department": "CMPM - Computational Media",
+  "slug": "cmpm-computational-media",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cmpm-computational-media",
+  "generated_at": "2025-11-28T07:51:35.667353+00:00",
+  "courses": [
+    {
+      "id": "CMPM15",
+      "name": "CMPM 15 — Research Explorations",
+      "description": "Students explore ideas with like-minded peers and position themselves to join research labs. They read, present, and discuss research ideas in low time-commitment reading groups related to an active research area of UCSC faculty, diving into the creative, societally impactful, and cutting-edge aspects of technology. Course is designed for students of all backgrounds and majors, those just starting undergraduate work, about to graduate, considering research, or simply curious. To browse themes, visit the Exploratory Reading Groups website (see Class Notes in the Schedule of Classes).",
+      "credits": "1",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM17",
+      "name": "CMPM 17 — Design Build Experience",
+      "description": "Introduction to design thinking and the engineering design cycle via a design-build-evaluate-iterate process, resulting in a functional artifact. Students work in groups while learning discipline-specific standards of good engineering practice. Specific project details and disciplines explored vary with instructor. No prerequisites or prior learning required.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM20",
+      "name": "CMPM 20 — Climate Resilience, Health, and Wellbeing",
+      "description": "We live in a rapidly changing world with the climate crisis and interrelated global crises (âthe polycrisisâ). Students gain invaluable personal and social resilience skills including mindfulness and collaborative high-impact projects to navigate and build a meaningful future. To help students build transformational resilience, students learn through both educational content as online video lectures and reading, and experiential classroom sessions. (Formerly Psychosocial and Planetary Resilience in the Age of the Climate Crisis.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM25",
+      "name": "CMPM 25 — Introduction to 3D Modeling",
+      "description": "Introduces theory and techniques of 3D computer graphics. Topics include: capabilities of modern graphics hardware; 3D coordinate spaces; modeling with polygons; NURBS and subdivision surfaces; applying textures and materials; lighting; and simple effects. Students develop proficiency in 3D modeling via lectures and assignments focused on the use of a 3D modeling tool.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM26",
+      "name": "CMPM 26 — Introduction to 3D Animation",
+      "description": "Introduces theories and techniques of 3D computer animation. Topics include: character animation; rigging; simulation of cloth, liquids, and fire; motion capture; rendering; and editing animated scenes. Students develop proficiency in 3D animation via lectures and assignments focused on the use of a 3D animation tool and use of motion-capture software.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 25 .",
+      "prereqGroups": [
+        [
+          "CMPM25"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM27",
+      "name": "CMPM 27 — Fundamentals of Substance Designer and Painter",
+      "description": "Introduction to the development of physically based materials in Substance Designer and Substance Painter. These are then applied to a range of character and machine models within either the Blender or Maya 3D modeling applications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 25 or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "CMPM25"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM35",
+      "name": "CMPM 35 — Data Structures for Interactive Media",
+      "description": "Introduction to common data structures, algorithms that operate on them, and techniques for implementation. Uses digital authoring of interactive media as a frame to motivate asymptotic (big-O) analysis of design scalability. Students will program in a strongly typed language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 30",
+      "prereqGroups": [
+        [
+          "CSE30"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM80A",
+      "name": "CMPM 80A — Accessible Games",
+      "description": "Overview of the physical, psychological, cultural, and psychosocial aspects of disability and how they impact game play. Discusses implications for universal and accessible game design.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM80H",
+      "name": "CMPM 80H — Human-Centered AI",
+      "description": "As AI technologies start to integrate and permeate our everyday lives, we become aware of how they impact our lives and the biases inherent in these systems. Course introduces Human-Centered AI, investigating humanistic values and issues of a variety of current AI systems, including those in your car, on your phone (e.g., Siri), on public streets (delivery robots), and at different vendors. Introduces various societal, economic, and humanistic issues such as bias, trust, and accountability, and delves into methods that can be used to design more human-centered AI systems.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM80I",
+      "name": "CMPM 80I — Introduction to Human Computer Interaction",
+      "description": "Introduces students to Human Computer Interaction (HCI) as a field, using their everyday experience with technology as a starting point. Students learn key HCI concepts and concerns in lectures, and try out HCI design techniques in sections.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM80J",
+      "name": "CMPM 80J — Games as Technical Culture",
+      "description": "Examines games as technical and cultural artifactsâshaped by society and, in turn, shaping it. Core topics are traced over time, including social, technical, and artistic topics (for example: conceptions of war, platform affordances, and genre evolution).",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM80K",
+      "name": "CMPM 80K — Foundations of Video Game Design",
+      "description": "Explores how video games (and games broadly) shape experiences and express ideas. Students develop novel games, interpret games, and survey related topics. No programming experience is required. All offerings support students with required synchronous section meetings and optional synchronous events.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM80L",
+      "name": "CMPM 80L — Entrepreneurial Organization and Leadership",
+      "description": "Provides a framework for leadership in entrepreneurial organizations. Topics include leading with authenticity, motivation and personality, storytelling, teamwork and management, organizational culture and processes. Learning is integrated with practice through deep engagement with entrepreneurial leaders and a time-intensive entrepreneurial project. (Formerly Technology and Information Management 80L.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM94",
+      "name": "CMPM 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM94F",
+      "name": "CMPM 94F — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM110",
+      "name": "CMPM 110 — Writing for Game Technologies",
+      "description": "Game writers create worlds, characters, and stories—and also craft computational systems so players can experience these fictions interactively. This course covers the fundamentals of authoring fictions and systems that work together toward powerful player experiences. All offerings support students with required synchronous section meetings.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM115",
+      "name": "CMPM 115 — Lead by Design: Experiential Learning Collaborative",
+      "description": "Students work in teams to develop a template for a 10-week-long engineering design project. Teaches teamwork, leadership skills, inclusive team practices, Agile process, engineering ethics, and identity formation in engineers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM115A",
+      "name": "CMPM 115A — Lead by Design: Design-Build Collaborative",
+      "description": "Students work in teams to develop a template for a significant engineering project and document their collaborative process. Over the course of 10 weeks, students work together to design, develop, and iterate on the proposed prototype to showcase specified technical and professional engineering skills. In parallel, teams experientially learn and practice teamwork, project management, and professional communication skills. Project topics are based on approval through application only. Enrollment is restricted to juniors and seniors, and by permission of the instructor only.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM115B",
+      "name": "CMPM 115B — Lead by Design: Experiential Curriculum Development",
+      "description": "Student-leaders work in teams to develop experiential learning content for a 3-credit design-build experience, a skill-building course where learners are set up to complete a significant engineering artifact. Student-leaders practice active learning that facilitates learners in traversing the engineering design cycle with room for iteration and to learn and recover from failure. CMPM 115B employs professional skills learned in CMPM 115A : teamwork, leadership, inclusive practices, Agile processes, and engineering ethics. Topics developed are accepted by proposal from the student-leaders. Prerequisite(s): CMPM 115A . Enrollment is restricted to juniors and seniors. Enrollment is by permission of the instructor and by permission code only.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM118",
+      "name": "CMPM 118 — Collaborative Research Experience in Engineering",
+      "description": "Guides small student teams through the performance of a quarter-long research project. Provides an overview of the process of performing research, research communities, and processes for finding and presenting research results.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM120",
+      "name": "CMPM 120 — Game Development Experience",
+      "description": "Teaches the concrete programming and collaboration skills associated with making a digital game from start to finish, including but not limited to: establishing a team, concepting, storyboarding, prototyping, producing, and testing a game for release. Students are organized into groups and work together to create and produce a playable game.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 80K ; and FILM 80V ; and CSE 30 or CMPM 35 .",
+      "prereqGroups": [
+        [
+          "CMPM80K",
+          "FILM80V",
+          "CSE30"
+        ],
+        [
+          "CMPM80K",
+          "FILM80V",
+          "CMPM35"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM121",
+      "name": "CMPM 121 — Game Development Patterns",
+      "description": "Advanced game programming focused on software design patterns and refactoring. Introduces classic software design patterns, as well as game programming patterns. Introduces software refactoring, including code smells and widely used refactoring patterns.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 120 .",
+      "prereqGroups": [
+        [
+          "CMPM120"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM122",
+      "name": "CMPM 122 — Business of Games",
+      "description": "Ten-week course to provide instruction on important business topics for videogame creatorsâmany related to the games themselves and others for pursuing success in bringing the games to customers: publishing, distribution, marketing, funding, operations, and more.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM123",
+      "name": "CMPM 123 — Advanced Programming",
+      "description": "Course introduces students to current and emerging advanced programming methods used in building complex, high-performance, and networked interactive media systems. Students use tools like debuggers and profiles to inspect and resolve software performance bottlenecks in a compiled language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: CSE 101 or CMPM 35 .",
+      "prereqGroups": [
+        [
+          "CSE101"
+        ],
+        [
+          "CMPM35"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM125",
+      "name": "CMPM 125 — Game Technologies",
+      "description": "Introduction to construction of games using game engine technology, using a specific game engine as a focus. Covers major game engine features: input, collision, animation, model import, lighting, camera, rendering, textures, particle systems. Introduction to a specific game scripting language, custom game logic, game programming patterns. (Formerly offered as CMPM 121 .)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 120 .",
+      "prereqGroups": [
+        [
+          "CMPM120"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM130",
+      "name": "CMPM 130 — User Interface and User Experience Design",
+      "description": "Students develop skills and interactive prototypes for addressing three communication challenges: first, software itself communicating with interactors; second, developers of software communicating about the design of the software's interactions and users' experiences; and third, communicating results of design processes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to computer science: computer game design majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM131",
+      "name": "CMPM 131 — User Experience for Interactive Media",
+      "description": "Theories and practices for approaching the design problems of interactive media holistically, beyond usability and accessibility. Includes hands-on learning, application of human-centered design and evaluation skills in group projects, and peer critique. This class is asynchronous online, with secondary sections offered as in-person meetings.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM132",
+      "name": "CMPM 132 — Interaction Design Studio",
+      "description": "Practice-based interaction design studio course. Students learn about design-led approaches to Human-Computer Interaction through participating in group projects. Course offers introductions to design methods and actionable strategies to do interaction design work and design-led technology research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM146",
+      "name": "CMPM 146 — Game AI",
+      "description": "Examines the use of artificial intelligence (AI) in games. Covers core AI technologies for search, control, and learning, and the application of AI to improve game design, development, and game play. Examines the AI content in multiple commercial games. This is an online class; most lectures are asynchronous. The weekly lab is synchronous, focused on Q&A and group discussion of work in progress.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 101 or equivalent; familiarity with python a plus, though not required. Enrollment is restricted to sophomores, juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "CSE101"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM147",
+      "name": "CMPM 147 — Generative Design",
+      "description": "Introduces generative methods for design. Uses algorithmic techniques to generate and evaluate game content (images, sounds, map designs) along with mechanics and progression systems. Search-based and learning-based techniques with connections to artificial intelligence are also covered.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 120 .",
+      "prereqGroups": [
+        [
+          "CMPM120"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM148",
+      "name": "CMPM 148 — Interactive Storytelling",
+      "description": "Covers a range of design approaches and technologies including storytelling in games, interactive fiction, interactive drama, and artificial intelligence-based story generation. Through a mixture of readings, assignments, and project work, students explore the theoretical positions, debates, and technical and design issues arising from these approaches.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 101 or CMPM 35 . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "CSE101"
+        ],
+        [
+          "CMPM35"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM150",
+      "name": "CMPM 150 — Creating Digital Audio",
+      "description": "Introduces digital sound recording and editing technologies, sound synthesis, and concepts in sound design for media production. Covers the basics of sound capture, microphones, audio manipulation and editing, effects, sound formats, mixing and dynamics, synthesizers, audio software, and game audio.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM151",
+      "name": "CMPM 151 — Algorithmic Music for Games",
+      "description": "Introduces compositional techniques and procedural audio as exhibited in the sound and music of video games. Surveys different styles of music implemented in video games and associated compositional approaches. Students develop skill in procedural audio via a series of workshops and assignments.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM152",
+      "name": "CMPM 152 — Musical Data",
+      "description": "Surveys the relationship between music and data as exhibited in industry and research implementations of sonification and music information retrieval. Students introduced to various styles and algorithms of sound analysis and modeling and develop skills to program unique approaches in this area.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: CMPM 35 or CMPM 120 or CMPM 150 or CMPM 151 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "CMPM35"
+        ],
+        [
+          "CMPM120"
+        ],
+        [
+          "CMPM150"
+        ],
+        [
+          "CMPM151"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM163",
+      "name": "CMPM 163 — Game Graphics and Real-Time Rendering",
+      "description": "Introduces real-time, hardware-accelerated graphics programming suitable for game development, visual effects, and interactive multimedia projects. Emphasizes contemporary shader-programming techniques and developing custom effects using game engines and multimedia software.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 120 (exceptions granted in special cases with permission of the instructor).",
+      "prereqGroups": [
+        [
+          "CMPM120"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM164",
+      "name": "CMPM 164 — Game Engines",
+      "description": "Covers the graphic elements in computer games. Topics include modifying, optimizing, adding components, and building a game engine. Course evaluation based on exams and several programming projects, including a game built using the student's game engine.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 163 or CSE 160 . Concurrent enrollment in CMPM 164L is required.",
+      "prereqGroups": [
+        [
+          "CMPM163"
+        ],
+        [
+          "CSE160"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM164L",
+      "name": "CMPM 164L — Game Engines Lab",
+      "description": "Provides hands-on experience in using, designing, and building game engines. Students also explore different special effects, such as particle systems, spring systems, and game physics.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 163 or CSE 160 . Concurrent enrollment in CMPM 164 is required.",
+      "prereqGroups": [
+        [
+          "CMPM163"
+        ],
+        [
+          "CSE160"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM169",
+      "name": "CMPM 169 — Creative Coding",
+      "description": "Surveys seminal and contemporary artworks and interactive installations that utilize and critically analyze new media, new technologies, and new algorithms. Students introduced to creative coding practices and encouraged to emulate existing digital arts techniques and to develop their own computational arts projects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: CMPM 35 or CMPM 120 or CMPM 163 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "CMPM35"
+        ],
+        [
+          "CMPM120"
+        ],
+        [
+          "CMPM163"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM170",
+      "name": "CMPM 170 — Rapid Prototyping",
+      "description": "Working in multiple small teams, students practice multiple cycles of the interactive media design process. Cycles involve ideation, research, prototyping, release, and reflection. Students will understand how to follow the design process as a way to build knowledge, understanding, and empathy for a systemâs users rather than just as a means to produce those systems. The course draws on design philosophies from inside and outside of the computer games industry. (Formerly Game Design Studio I.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 120 and CMPM 121 (Game Development Patterns if taken Fall 2023 or later). Enrollment is restricted to senior computer science: computer game design majors or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "CMPM120",
+          "CMPM121"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM171",
+      "name": "CMPM 171 — Game Design Studio",
+      "description": "Students work in teams to create a fully-functional subset (\"vertical slice\") of an interactive, playable software system. Focus is on experience design, systems design, integrating assets (visual, auditory, and written), testing, and project management. May be repeated for credit. (Formerly offered as Game Design Studio II.)",
+      "credits": "7",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM172",
+      "name": "CMPM 172 — Game Production Studio",
+      "description": "Students work in teams to produce fully functional games based on previously developed game subsets. Focus on production including scaling, long-term player experience, teaching mechanics through interaction, developing multi-stage narratives/scenarios, and varying gameplay as players develop new understandings and abilities. Prerequisite(s): CMPM 171 , or by instructor permission. Enrollment is by permission of the instructor. Formerly offered as Game Design Studio III.",
+      "credits": "7",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM176",
+      "name": "CMPM 176 — Game Systems",
+      "description": "Presents game design as the interplay of multiple interacting game systems. Surveys various game systems: movement, combat, reward, economic, logistics, quest, information visibility, narrative. Students explore systems via study, design, and play of board, card, and computer games.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 80K .",
+      "prereqGroups": [
+        [
+          "CMPM80K"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM177",
+      "name": "CMPM 177 — Creative Strategies for Designing Interactive Media",
+      "description": "Surveys tactical, structural, contextual, and other methods to enhance creativity and innovation in the design of games and other interactive media. Investigates strategies for creativity and innovation drawn from diverse fields, including interactive affordances, narrative and poetics, biology, contextual inquiry, and design research. To innovate in a field of fixed genres is challenging: the allure of modeling exemplars is strong. Although imitation can be successful in the marketplace, the most creative action occurs on the leading edge of change. Innovation benefits from strategies and methods that are directly aimed at exploring new perspectives and structures to learn through the process of discovery.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM178",
+      "name": "CMPM 178 — Human-Centered Design Research",
+      "description": "Students move through a rigorous design-research process involving skills and principles in human-centered design research as well as selected formal research methods. They learn to use tools for ideation, human-centered qualitative research, domestic probes, mock-ups, and prototypes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM179",
+      "name": "CMPM 179 — Game Design Practicum",
+      "description": "Provides the opportunity to practice the creation of novel computer games. Students learn a new game-making technology, then create three games using this technology.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM180",
+      "name": "CMPM 180 — Topics in Computational Media",
+      "description": "Allows students to explore topics in the computational media field and practice design in a wide variety of applications and areas, including but not limited to interactive computational experiences, AI and poetry, smart cities and game design, ethics and computational media, and computational media culture. Course presentation and assessment will vary by topic and instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM181",
+      "name": "CMPM 181 — Games for Impact Studio I",
+      "description": "Students work in teams to develop serious games. Course involves multiple aspects of game development, with an emphasis on identifying the topic and goal for the game, initiating research on the topic, and developing an initial concept design. The concept design phase will include several iterations and experimentation with various techniques and game elements toward addressing the goal established. The process also involves identifying assessment and efficacy measures given the goal identified. These measures are theory-based and will be developed based on the initial research conducted. The outcome should be a concept design and prototype. Taught in conjunction with CMPM 255 . Students cannot receive credit for this course and CMPM 255 .",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM182",
+      "name": "CMPM 182 — Games for Impact Studio II",
+      "description": "Students work in teams to polish and assess their games. This is a continuation of the Games for Impact Studio series from Studio I. The course will involve aspects of (I) game production, with an emphasis on tuning the design and polishing it, and (II) assessment, where students develop their methods for assessment, which include usability testing, as well as goal assessment based on metrics development, data collection, and analysis. The outcomes are: the game is polished and tested, as well as a report on the evaluation of the game. Taught in conjunction with CMPM 256 . Students cannot receive credit for this course and CMPM 256 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 181 .",
+      "prereqGroups": [
+        [
+          "CMPM181"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM194",
+      "name": "CMPM 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM194F",
+      "name": "CMPM 194F — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit a petition to the sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM195",
+      "name": "CMPM 195 — Senior Thesis Research",
+      "description": "Students submit a petition to the sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM195F",
+      "name": "CMPM 195F — Senior Thesis Research",
+      "description": "Intended for majors. Students submit a petition to the sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM198",
+      "name": "CMPM 198 — Individual Study or Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM198F",
+      "name": "CMPM 198F — Individual Study or Research",
+      "description": "Intended for majors. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM199",
+      "name": "CMPM 199 — Tutorial",
+      "description": "For fourth-year students majoring in computational media. Students submit a petition to the sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM199F",
+      "name": "CMPM 199F — Tutorial",
+      "description": "For fourth-year students majoring in computational media. Students submit a petition to the sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM201",
+      "name": "CMPM 201 — Introduction to Computational Media",
+      "description": "Provides a broad foundation in the history, theory, and contemporary practice of computational media, examining its roots in a variety of fields and current structures of participation. Also covers a selection of key critical lenses for understanding computational media.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to computational media graduate students, or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM202",
+      "name": "CMPM 202 — Computation Media Research",
+      "description": "Overview of computational media research strategies. Includes case studies of how particular projects were defined and completed and how interdisciplinary concerns have been successfully integrated. Considers the expressive and authorial affordances of different system architecture approaches.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 201 , or by permission of the instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "CMPM201"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM203",
+      "name": "CMPM 203 — Computational Media Methods",
+      "description": "Overview of major methods in computational media research. Includes non-numerical methods such as playtesting, arts critique, ethnographic observation, and humanistic interpretation. Also includes numerically oriented methods such as survey instruments, data mining, user experiments, and characterizing expressive/generative spaces.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Computational Media graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM204",
+      "name": "CMPM 204 — Computational Media Project Definition",
+      "description": "Students define the topic, approach, and scope for an M.S. thesis or project. Includes discussion of successful past projects and theses, visits from faculty presenting open problems, reviews of related literature, topic and timeline presentations, and critiques.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to computational media graduate students, or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM205",
+      "name": "CMPM 205 — Bridging the Disciplines: Writing and Synthesis for Computational Media",
+      "description": "Focuses on developing studentsâ abilities to do research across multiple disciplines. Discusses multidisciplinary epistemologies and methodologies toward developing research voice and ability across the disciplines. Students engage with diverse sources and media, analyzing how information from computer science, media studies, design, and social sciences can converge in computational contexts. Students are encouraged to integrate and synthesize knowledge from multiple fields and develop a structured argument, building their view within computational media.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM206",
+      "name": "CMPM 206 — Computational Media Research Preparation",
+      "description": "Covers skills for finding relevant literature for a novel research topic, integrating that literature, and communicating the results. Also covers how to select work for a research portfolio, present that work, and describe contributions. Enrollment is by permission of the instructor. Prerequisite(s): CMPM 201 , CMPM 202 , and CMPM 203 for an understanding of media creation and computer programming; good standing in the Ph.D. program. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM230",
+      "name": "CMPM 230 — Data Science in Computational Experiences",
+      "description": "Introduces the topic of data science in computational experiences such as games, digital apps, and social media. Students develop methods to model behavioral patterns using data with the goal of supporting user research goals and/or improving the user experience. Covers the tools, methods, and principles of data science, including knowledge discovery, data collection, feature extraction and selection, pattern recognition, visualization, and reporting. Also covers analytics across computational media forms, e.g., games, digital apps, and social media. Enrollment is restricted to graduate students in Computational Media, and by permission of the instructor. Students must have a computational background to enroll. Enrollment is by permission of the instructor. (Formerly Game Data Science.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM232",
+      "name": "CMPM 232 — Psychology of Play",
+      "description": "Psychology plays an important aspect in users' engagement and understanding psychological aspects that can affect users as they interact with technology. This course discusses theories of motivation, perception, emotions, personality, and preferences. Also discusses how such theories affect users' interaction with technologies, such as games, social media, mobile application, and other common technologies used today. Also reviews new papers and results showing the types of models affecting users engagement and their influence and use in the different phases of design or development.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students in games and playable media, serious games, human computer interaction, and computational media programs, or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM235",
+      "name": "CMPM 235 — User Evaluation of Technology",
+      "description": "Presents a variety of evaluation methodologies to assess usability, acceptance, and effectiveness of technology with the intended users. Combines lectures and exercises for students to gain firsthand experiences of these methodologies with real users.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Seniors may enroll with completion of CSE 165 .",
+      "prereqGroups": [
+        [
+          "CSE165"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM237",
+      "name": "CMPM 237 — Advanced Topics in Human-Robot Interaction",
+      "description": "Study of current topics in human-robot interaction design and research. Topics vary, but are expected to include how people think, act, and behave around robotic agents; telepresence and teleoperated robotics; applications of human-robot systems; collaborative robotics; and social robotics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM243",
+      "name": "CMPM 243 — Social Computing Research: Design, Algorithms, and Incentives",
+      "description": "Provides an interdisciplinary view of computational systems and human interaction, with an emphasis on human-computer interaction and algorithmic economics. Students learn about seminal and cutting-edge research contributions and methodologies, and carry out a quarter-long research project. (Formerly Technology and Information Management 243.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): A background in either mathematical proofs or user-centered design and programming. Enrollment is restricted to graduate students; undergraduates may enroll by permission.of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM244",
+      "name": "CMPM 244 — Artificial Intelligence in Games",
+      "description": "The use of AI techniques to enable new player interactions, game mechanics, and genres. Combines elements from academic AI and machine learning with industry game AI techniques. Includes lecture and paper discussions as well as AI programming exercises and projects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; others by permission.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM248",
+      "name": "CMPM 248 — Interactive Storytelling",
+      "description": "Covers wide range of practices including hypertext, interactive fiction, embedded narratives in games, interactive drama, and artificial intelligence-based story generation. Through a mixture of readings, assignments, and project work, explores the theoretical positions, debates, and technical and design issues arising from these different approaches.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM255",
+      "name": "CMPM 255 — Games for Impact Studio I",
+      "description": "Students work in teams to develop serious games. Course involves multiple aspects of game development, with an emphasis on identifying the topic and goal for the game, initiating research on the topic, and developing an initial concept design. The concept design phase will include several iterations and experimentation with various techniques and game elements toward addressing the goal established. The process also involves identifying assessment and efficacy measures given the goal identified. These measures are theory-based and will be developed based on the initial research conducted. The outcome should be a concept design and prototype. Taught in conjunction with CMPM 181 . Students cannot receive credit for this course and CMPM 181 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students in computational media.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM256",
+      "name": "CMPM 256 — Games for Impact Studio II",
+      "description": "Students work in teams to polish and assess their games. This is a continuation of the Games for Impact Studio series from Studio I. The course involves aspects of (I) game production, with an emphasis on tuning the design and polishing it; and (II) assessment, where students develop their methods for assessment, which include usability testing, as well as goal assessment based on metrics development, data collection, and analysis. The outcomes are: the game is polished and tested, as well as a report on the evaluation of the game. Taught in conjunction with CMPM 182 . Students cannot receive credit for this course and CMPM 182 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 255 . Enrollment is restricted to graduate students in computational media.",
+      "prereqGroups": [
+        [
+          "CMPM255"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM265",
+      "name": "CMPM 265 — Generative Methods",
+      "description": "In-depth exploration of algorithms for the automated generation of 2D and 3D models and content. Covers multiple approaches, including noise, grammars, genetic algorithms and programming, parametric design, and answer-set programming. Includes application of techniques to computer-game content and level design.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM268",
+      "name": "CMPM 268 — Immersive Analytics",
+      "description": "Investigates how new immersive display technologies and interaction techniques can support analytical reasoning and decision making in a variety of contexts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM269",
+      "name": "CMPM 269 — Machine Learning for Creativity and Design",
+      "description": "Introduces contemporary techniques in deep learning focusing on the application of these techniques to a range of tasks related to art and design outputs.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: CMPM 202 or by permission of the instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "CMPM202"
+        ]
+      ]
+    },
+    {
+      "id": "CMPM280C",
+      "name": "CMPM 280C — Computational Media Seminar",
+      "description": "Graduate seminar with speakers from academia and industry. Covers state of the art research and industry trends in Computational Media and related areas.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280F",
+      "name": "CMPM 280F — Seminar in Creative Coding and Computational Media",
+      "description": "Covers advanced topics and current research in creative coding as it intersects computational media. Focuses on student presentations and seminar participation. Enrollment is restricted to graduate students and by permission of instructor. This class can be taken for Satisfactory/Unsatisfactory credit only.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280G",
+      "name": "CMPM 280G — Seminar in Generative Methods",
+      "description": "Weekly seminar covering advanced topics and current research in generative methods--the field focused on algorithms for creation of 2D and 3D models and content.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280H",
+      "name": "CMPM 280H — Seminar in Human-Computer Interaction and Computational Media",
+      "description": "Covers advanced topics and current research in human-computer interaction as it intersects computational media. Focuses on student presentations and seminar participation. Enrollment restricted to graduate students and by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280I",
+      "name": "CMPM 280I — Human Computer Interaction Seminar",
+      "description": "Ongoing participatory seminar toward staying informed about the current state of the art in Human Computer Research, both within the Computational Media department, as well as in the broader field. Course consists of weekly lectures and discussion. Graduate students will take part in giving presentations.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280K",
+      "name": "CMPM 280K — Seminar in Interactive Systems for Individuals with Special Needs",
+      "description": "Covers advanced topics and current research in interactive systems for individuals who have special needs. Focuses on student presentations and seminar participation.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280P",
+      "name": "CMPM 280P — Seminar in Player Experience and Modeling",
+      "description": "Covers advanced topics and current research in player experience and modeling. Delves into topics related to: artificial intelligence, psychology, data science, as well as computer human interaction as they intersect with games and player experience. Course is conducted as a studio/seminar, where students read and analyze previous research within this area. Students are asked to present and discuss current state of the art of research in the area of player experience and modeling and then develop their own research within this area. Through interaction with the instructor and other colleagues within the class, students work toward refining their research. This course can be taken for Satisfactory/Unsatisfactory credit only.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280R",
+      "name": "CMPM 280R — Topics in Human-Robot Interaction",
+      "description": "Focuses on human-centered design and research approaches to the development of robotic technologies. Students read primary research papers, examine prototype robotic systems, and build upon those materials to lead group discussions, propose research projects, and conduct HRI research.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280S",
+      "name": "CMPM 280S — Seminar Topics",
+      "description": "Weekly seminar series of current research on a special topic in information systems and technology management. The theme of research presented throughout the course selected by the instructor. Topics may include, but are not limited to, knowledge planning, new product development and management of technology. Enrollment with permission of instructor. (Formerly Technology and Information Management 280S.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280W",
+      "name": "CMPM 280W — Seminar in Digital Media",
+      "description": "Covers advanced topics and current research in digital mediaâthe interdisciplinary field at the intersection of computer science, media authoring, and models of interpretation from the humanities and social sciences. Focuses on student presentations and seminar participation.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM280X",
+      "name": "CMPM 280X — Expressive AI",
+      "description": "Weekly seminar covering topics of current research in artificial intelligence applied to interactive art and entertainment, including computer games. Enrollment by permission of instructor. Enrollment restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM290A",
+      "name": "CMPM 290A — Topics in Computational Media",
+      "description": "Students learn about a current research area in computational media and make a contribution. Each course offering focuses on a different aspect of technical, creative, and/or interpretive work in the field.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM290J",
+      "name": "CMPM 290J — Playable Media",
+      "description": "Focuses on media, such as computer games, that invite and structure play. Work includes building and critiquing a series of prototypes; studying major examples in the field; and discussing both theoretical and practice-oriented texts. Enrollment by permission of instructor. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM290K",
+      "name": "CMPM 290K — Social and Emotional Approaches to Human Computer Interaction",
+      "description": "Focuses on enhancing social and emotional capabilities and qualities in interactive systems. Students read research, look at sample systems, and engage in evaluation, design, and prototyping exercises. A research project and helping to lead class discussions are also required.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM290P",
+      "name": "CMPM 290P — Topics in Computational Cinematography",
+      "description": "Focuses on discussion of recent advances in visual storytelling in graphical environments. Major topics covered are: intelligent camera control, shot-compositions, lighting design, interactive storytelling, and computational techniques associated with these applications. Class consists of in-class discussions and student presentations of research papers and a final student project.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM296",
+      "name": "CMPM 296 — Masters Project",
+      "description": "Students work on their master's project with a faculty supervisor. Students submit petition to sponsoring agency. Assessment is done based on project goals and the ability of the student to apply his/her knowledge and skills accumulated through the master's classes into the project.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM297A",
+      "name": "CMPM 297A — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM297B",
+      "name": "CMPM 297B — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM297C",
+      "name": "CMPM 297C — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM297F",
+      "name": "CMPM 297F — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM297G",
+      "name": "CMPM 297G — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "1",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM299A",
+      "name": "CMPM 299A — Thesis Research",
+      "description": "Thesis research conducted under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM299B",
+      "name": "CMPM 299B — Thesis Research",
+      "description": "Thesis research conducted under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM299C",
+      "name": "CMPM 299C — Thesis Research",
+      "description": "Thesis research conducted under faculty supervision. Although this course may be repeated for credit, not every degree program will accept a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSE245",
+      "name": "CSE 245 — Computational Models of Discourse and Dialogue",
+      "description": "Focuses on classic and current theories and research topics in the computational modeling of discourse and dialogue, with applications to human-computer dialogue interactions; dialogue interaction in computer games and interactive story systems; and processing of human-to-human conversational and dialogue-like language such as e-mails. Topics vary depending on the current research of the instructor(s) and the interests of the students. Students read theoretical and technical papers from journals and conference proceedings and present class lectures. A research project is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.",
+      "prereqGroups": []
+    }
+  ]
+}

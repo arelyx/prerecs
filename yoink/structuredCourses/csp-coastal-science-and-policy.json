@@ -1,0 +1,233 @@
+{
+  "department": "CSP - Coastal Science and Policy",
+  "slug": "csp-coastal-science-and-policy",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/csp-coastal-science-and-policy",
+  "generated_at": "2025-11-28T07:51:36.863999+00:00",
+  "courses": [
+    {
+      "id": "CSP182",
+      "name": "CSP 182 — Quantitative Methods for Coastal Climate Resilience",
+      "description": "Focuses on quantitative methods and skills for coastal climate resilience, using data science, statistics, data visualization and geospatial analysis. Prepares students through hands-on work and real-world case studies. The course uses lectures, python notebooks and examples of coastal hazard risks and data analysis and representation. No previous programming or geospatial modeling experience is necessary.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP200",
+      "name": "CSP 200 — Natural Sciences for Coastal Sustainability",
+      "description": "Provides a basic foundation in the natural sciences including the environment (atmosphere, land, water, sea), species populations, ecosystems and biodiversity, and their relevance to sustainability issues of the coastal zone.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in CSP 210 and CSP 220 . Enrollment is restricted to graduate students in the coastal science and policy program, or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "CSP210",
+          "CSP220"
+        ]
+      ]
+    },
+    {
+      "id": "CSP210",
+      "name": "CSP 210 — Social Sciences for Coastal Sustainability",
+      "description": "Provides a basic foundation in the social sciences, through systematic study of communities, institutions, and entire societies. Examines the relevance of sociological theory, social interactions and relationships, social inequality, and social change to sustainability issues of the coastal zone.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in CSP 200 and CSP 220 . Enrollment is restricted to graduate students in the coastal science and policy program, or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "CSP200",
+          "CSP220"
+        ]
+      ]
+    },
+    {
+      "id": "CSP220",
+      "name": "CSP 220 — Economics for Coastal Sustainability",
+      "description": "Builds a foundation of economic concepts pertaining to the environment and explores tools for environmental valuation. Investigates the role for government action related to the environment, including estimation of costs and benefits for regulations and related policies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in CSP 200 and CSP 210 . Enrollment is restricted to graduate students in the coastal science and policy program, or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "CSP200",
+          "CSP210"
+        ]
+      ]
+    },
+    {
+      "id": "CSP230",
+      "name": "CSP 230 — Integrated Problem-Based Discussion",
+      "description": "Focusing on a series of case studies, this discussion section demonstrates means and values of integrating across the natural and social sciences and economics disciplines in developing solutions to coastal sustainability.",
+      "credits": "0",
+      "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in CSP 200 , CSP 210 , and CSP 220 . Enrollment restricted to coastal science and policy graduate students.",
+      "prereqGroups": [
+        [
+          "CSP200",
+          "CSP210",
+          "CSP220"
+        ]
+      ]
+    },
+    {
+      "id": "CSP231A",
+      "name": "CSP 231A — CSP Year 1 Capstone Planning & Design Fall",
+      "description": "Students learn and apply methods for designing scalable solutions to complex problems, focusing on sustainability challenges and opportunities in coastal areas. Sessions primarily involve peer-review and feedback on student progress in planning their individual Coastal Science and Policy (CSP) capstone project. The capstone project must engage with a real-world partner(s) on a scalable opportunity for solving a critical problem in coastal areas (from land to sea). Faculty lead mini-lectures as needed. Course stresses learning-by-doing: weekly assignments have students work outside of class on steps or skills in the design process and then the student shares their work in the following class to gain peer insights. Students should expect to do the reading and a substantial assignment each week BEFORE the class session meets.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment restricted to Coastal Science and Policy M.S. students; and to Ph.D. students who have declared the Coastal Science and Policy Designated Emphasis by permission.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP231B",
+      "name": "CSP 231B — CSP Year 1 Capstone Planning & Design Winter",
+      "description": "Picks up where the fall capstone planning seminar ended. Students continue designing capstone project for pursuing a scalable solution to a complex and pressing coastal sustainability problem. Winter focus is learning and applying strategies and methods to: (a) co-create a capstone project with a non-academic partner in the government, non-governmental or private sector; and (b) develop and submit successful funding proposals for the project. Methods learned apply broadly to collaborative, solutions-oriented work that may be pursued after graduation. Weekly assignments mean working outside of class on steps or skills for co-creating and fundraising with partners and then sharing work for peer-review in class in the next week. Expect to do the reading and weekly assignments before each week's seminar session. Instructor provides separate instructions for weekly assignments.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment restricted to Coastal Science and Policy M.S. students; and to Ph.D. students who have declared the Coastal Science and Policy Designated Emphasis by permission.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP244",
+      "name": "CSP 244 — Adaptation and Planning",
+      "description": "Introduces students to conceptual frameworks for developing solutions to coastal sustainability problems, and drawing on knowledge and skills gained in previous coastal science and policy courses to perform an integrated assessment of a coastal sustainability problem. This class is offered for Satisfactory/Unsatisfactory grading only.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to coastal science and policy graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP271",
+      "name": "CSP 271 — Fisheries Ecology",
+      "description": "Overview of current topics in fisheries ecology and management. Students learn about basic ecological concepts as they apply to fisheries management systems. Specific topics include: fisheries systems, alternative management controls, history of fisheries management, whether fisheries are sustainable, fisheries-induced evolution, population structure and portfolio effects, and ecosystem-based management. The course aims to provide students with an overview of topics in fisheries ecology through a combination of lectures, current literature, and case studies. Students explore controversies and hot topics in fisheries science through discussion and review of literature. (Formerly CSP 281B.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is intended for students in the programs of Coastal Science and Policy, Environmental Studies, Ecology and Evolutionary Biology, Ocean Sciences, and Science Communication. There are no formal prerequisites, but undergraduate students are strongly encouraged to contact the instructor regarding prior coursework.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP281A",
+      "name": "CSP 281A — Hacking for OceansâLean Design Methods",
+      "description": "One-quarter graduate-level class in which multidisciplinary student teams of four address problem or challenges provided by real-world sponsors or identified by student groups. Teams learn how to apply the Lean Launchpad and Lean Startup methodologies to discover and validate customer needs and to continually build prototypes to test whether they understood the problem and solution. Weekly assignments involve working outside of class on steps or skills in the design process and then sharing it for peer-review in class. Involves reading and a substantial assignment each week before the next week's session on that topic. Taught in conjunction with ENVS 155 . Students cannot receive credit for this course and ENVS 155 . Graduate students are required to submit an additional culminating report such as a funding proposal to support next steps in their team's solution, a critical analysis of the Lean Design Method, or a policy analysis regarding scalable adoption of the solution. Enrollment is by instructor consent. Application and interview in winter quarter for spring quarter course is required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP282",
+      "name": "CSP 282 — Quantitative Methods for Coastal Climate Resilience",
+      "description": "Focuses on quantitative methods and skills for coastal climate resilience, using data science, statistics, data visualization, and geospatial analysis. Prepares students through hands-on work and real-world case studies. The course uses lectures, python notebooks, and examples of coastal hazard risks and data analysis and representation. No previous programming or geospatial modeling experience is necessary.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP290A",
+      "name": "CSP 290A — Coastal Science and Policy Capstone Project",
+      "description": "First of three independent research courses during which students work closely with partner institutions and faculty co-mentors to generate alternative, interdisciplinary-based solutions to coastal sustainability problems. Provides experience in a real-world, collaborative, problem-solving environment. This class is offered for Satisfactory/Unsatisfactory grading only.",
+      "credits": "10",
+      "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in CSP 291 . Enrollment restricted to coastal science and policy graduate students.",
+      "prereqGroups": [
+        [
+          "CSP291"
+        ]
+      ]
+    },
+    {
+      "id": "CSP290B",
+      "name": "CSP 290B — Coastal Science and Policy Capstone Project",
+      "description": "Second of three independent research courses during which students work closely with partner institutions and faculty co-mentors to generate alternative, interdisciplinary-based solutions to coastal sustainability problems. Provides experience in a real-world, collaborative, problem-solving environment. Offered for Satisfactory/Unsatisfactory grading only.",
+      "credits": "10",
+      "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in CSP 291 . Enrollment restricted to coastal science and policy graduate students.",
+      "prereqGroups": [
+        [
+          "CSP291"
+        ]
+      ]
+    },
+    {
+      "id": "CSP290C",
+      "name": "CSP 290C — Coastal Science and Policy Capstone Project",
+      "description": "Third of three independent research courses during which students work closely with partner institutions and faculty co-mentors to generate alternative, interdisciplinary-based solutions to coastal sustainability problems. Provides experience in a real-world, collaborative, problem-solving environment. Offered for Satisfactory/Unsatisfactory grading only.",
+      "credits": "10",
+      "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in CSP 291 . Enrollment restricted to coastal science and policy graduate students.",
+      "prereqGroups": [
+        [
+          "CSP291"
+        ]
+      ]
+    },
+    {
+      "id": "CSP291",
+      "name": "CSP 291 — Coastal Science and Policy Capstone Seminar",
+      "description": "Interactive workshop format to share and get feedback on students' capstone projects. Topics by quarter include, but are not limited to: fallâproject progress and challenges, midterm report preparation (due winter term); winterâsharpen capstoneâs theory of change, outcomes and communications; springâprepare capstone deliverables, final written/oral reports, rehearse public-facing presentation. Additional topics may include career and networking skill-building, and exposure to real-world collaborative initiatives on coastal sustainability issues. Offered for Satisfactory/Unsatisfactory grading only. Concurrent with implementation of studentsâ yearlong capstone projects ( CSP 290A , CSP 290B , and CSP 290C ).",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP292",
+      "name": "CSP 292 — Special Topics in Coastal Science and Policy",
+      "description": "Seminar in which students present, discuss, and gain feedback on a current special topic in the interdisciplinary arena of coastal science and policy. The special topic can involve identification of current problems, relevant research and practice, and/or design of solutions in coastal science and policy.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP293",
+      "name": "CSP 293 — Special Topics in Coastal Science and Policy",
+      "description": "Intensive seminar in which students present, discuss, and gain feedback on a current special topic in the interdisciplinary arena of coastal science and policy. The special topic can involve identification of current problems, relevant research and practice, and/or design of solutions in coastal science and policy.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSP297",
+      "name": "CSP 297 — Independent Study in Coastal Science and Policy",
+      "description": "Independent study and research under faculty supervision. The student, guided by a faculty member, pursues in-depth learning about a specific coastal science and policy problem, opportunity or solution. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BIOE262",
+      "name": "BIOE 262 — Facilitating Change in Coastal Science Policy",
+      "description": "Skills-based course in effective leadership and communication, including stakeholder engagement, facilitation, conflict resolution, team building, and introduction to project management. Communication training includes identifying audiences and objectives (public, philanthropy, policymakers, managers, scientist practitioners) and leveraging non-traditional communication platforms. Enrollment is by application and restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BIOE286",
+      "name": "BIOE 286 — Experimental Design and Data Analysis",
+      "description": "Focuses on problems and designs in ecology and population biology. Topics include experimental design; exploratory data analysis; hands-on statistics; and graphical theory. Structured around a statistical analysis and graphics program to teach students to design surveys and experiments and analyze data. Previous work in statistics strongly recommended.",
+      "credits": "5",
+      "rawRequirements": "Requirements Concurrent enrollment in BIOE 286L is required. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "BIOE286L"
+        ]
+      ]
+    },
+    {
+      "id": "BIOE286L",
+      "name": "BIOE 286L — Experimental Design and Data Analysis Lab",
+      "description": "Lab will focuses on hands-on statistical problem solving, graphical presentations and experimental design issues.",
+      "credits": "2",
+      "rawRequirements": "Requirements Concurrent enrollment in BIOE 286 is required. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "BIOE286"
+        ]
+      ]
+    },
+    {
+      "id": "ENVS240",
+      "name": "ENVS 240 — Public Policy and Conservation",
+      "description": "Introduction to political and economic approaches to policy analysis, with particular reference to natural resource scarcity, property rights, and environmental conservation. Case studies apply economic and policy process concepts to the management of public lands, biodiversity, and renewable resources.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to environmental studies graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ENVS250",
+      "name": "ENVS 250 — Coastal Governance",
+      "description": "Introduction to major theories of ocean and coastal governance, with emphasis on those that underlie current policy and management approaches. Students analyze local, state, national, and international laws and policies, considering interactions across scales, levels of social organization, and institutions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to environmental studies graduate students.",
+      "prereqGroups": []
+    }
+  ]
+}

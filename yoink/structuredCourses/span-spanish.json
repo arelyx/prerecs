@@ -1,0 +1,468 @@
+{
+  "department": "SPAN - Spanish",
+  "slug": "span-spanish",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/span-spanish",
+  "generated_at": "2025-11-28T07:51:45.010334+00:00",
+  "courses": [
+    {
+      "id": "SPAN1",
+      "name": "SPAN 1 — First-Year Spanish",
+      "description": "The first-year program is aimed at developing proficiency in Spanish. Listening, speaking, reading, and writing are addressed through classroom practice and supplemented by language laboratory work. Classes are taught entirely in Spanish and are held three days a week.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Placement into Spanish 1 via the online Spanish Placement Assessment.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPAN2",
+      "name": "SPAN 2 — First-Year Spanish",
+      "description": "The first-year program is aimed at developing proficiency in Spanish. Listening, speaking, reading, and writing are addressed through classroom practice and supplemented by language laboratory work. Classes are taught entirely in Spanish and are held three days a week.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 1 or placement into Spanish 2 via the online Spanish Placement Assessment.",
+      "prereqGroups": [
+        [
+          "SPAN1"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN3",
+      "name": "SPAN 3 — First-Year Spanish",
+      "description": "The first-year program is aimed at developing proficiency in Spanish. Listening, speaking, reading, and writing are addressed through classroom practice and supplemented by language laboratory work. Classes are taught entirely in Spanish and are held three days a week.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 2 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN2"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN4",
+      "name": "SPAN 4 — Second-Year Spanish",
+      "description": "Includes comprehensive grammar review, composition, readings, and discussion. Reading and audiovisual material deal with various sociopolitical and cultural issues in the Spanish-speaking world. Classes are conducted in Spanish.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 1B or SPAN 3 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN1B"
+        ],
+        [
+          "SPAN3"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN5",
+      "name": "SPAN 5 — Second-Year Spanish",
+      "description": "Includes comprehensive grammar review, composition, readings, and discussion. Reading and audiovisual material deal with various socio-political and cultural issues in the Spanish-speaking world. Classes are conducted in Spanish.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 4 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN4"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN5M",
+      "name": "SPAN 5M — Medical Spanish",
+      "description": "Students learn medical vocabulary, useful expressions, suitable grammatical structures, and cultural background to be able to interact with Spanish-speaking patients and doctors. Medical Spanish fulfills language requirement for Human Biology majors and Global Community Health B.A. and B.S. majors.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 4 ; or SPHS 4 , or SPHS 5 , or SPHS 6 ; or placement into SPAN 5 or SPHS 4 via assessment. Enrollment is restricted to human biology majors and global community health B.A. and B.S. majors.",
+      "prereqGroups": [
+        [
+          "SPAN4"
+        ],
+        [
+          "SPHS4"
+        ],
+        [
+          "SPHS5"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN6",
+      "name": "SPAN 6 — Second-Year Spanish",
+      "description": "Increases oral and written proficiency using authentic reading materials which focus on such topics as social class, ethnicity, education, religion, economic, and political developments in the Spanish-speaking world.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 5 or SPAN 5M or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN5"
+        ],
+        [
+          "SPAN5M"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN94",
+      "name": "SPAN 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPAN99",
+      "name": "SPAN 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPAN99F",
+      "name": "SPAN 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPAN114",
+      "name": "SPAN 114 — Advanced Conversation and Composition",
+      "description": "Advanced conversation and composition based on extensive readings in the humanities and social sciences. Students interested in this course who have not taken the prerequisite should meet with the instructor prior to the first class meeting.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements; SPAN 6 , or SPHS 6 , placement by assessment, or by instructor consent.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN130",
+      "name": "SPAN 130 — Spanish for the Legal Profession",
+      "description": "Introduction to legal language in Spanish by surveying a range of topics in civil law, criminal law, and immigration law. While acquiring the necessary vocabulary to talk about these topics, students gain awareness of the functioning of the U.S. legal system as well as the ways in which language intersects with the law. Comparisons with Latin America and Spain are made when relevant. Class discussions provide opportunities for debate, analysis, and critical reflection.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN140",
+      "name": "SPAN 140 — Sounds of Spanish",
+      "description": "Examines the sound system of Spanish, compares the English and Spanish systems of pronunciation, and teaches the phonetic/phonological variation across dialects of Spanish.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 ; and LING 50 , or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6",
+          "LING50"
+        ],
+        [
+          "SPHS6",
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN141",
+      "name": "SPAN 141 — Advanced Spanish Grammar",
+      "description": "This practical course builds upon students' existing knowledge of Spanish grammar. Introducing linguistic framework, some analysis tools, and intensive practice, it aims at fostering students' reflection about Spanish grammar, consolidating their knowledge of the system of rules underlying it, and improving their grammatical accuracy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN142",
+      "name": "SPAN 142 — El mundo de las palabras. Spanish Morphology and Lexicon",
+      "description": "Deals with topics related to processes of word formation in Spanish, extending to some issues related to the syntax and morphology of set phrases as well as topics related to lexicon. One of the goals is to widen students' knowledge of Spanish vocabulary.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment. Enrollment is restricted to Spanish studies majors and minors.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN150",
+      "name": "SPAN 150 — Topics in Hispanic Linguistics: Introduction to Hispanic Linguistics",
+      "description": "Taught in Spanish. Students learn the major properties of the Spanish language from a linguistics perspective. Topics covered include: phonetics/phonology, morphology, and syntax.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 50 ; and SPAN 6 or SPHS 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "LING50",
+          "SPAN6"
+        ],
+        [
+          "LING50",
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN151",
+      "name": "SPAN 151 — Topics in Hispanic Linguistics: Varieties of Spanish",
+      "description": "Taught in Spanish. Explores the linguistic variety of the Spanish language in the Iberian Peninsula, the former Spanish colonies, and the Americas from a descriptive, synchronic perspective. Issues of languages in contact, variation in speech communities, and bilingualism are also introduced.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 150 . Enrollment is restricted to senior Spanish studies majors.",
+      "prereqGroups": [
+        [
+          "SPAN150"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN152",
+      "name": "SPAN 152 — Topics in Hispanic Linguistics: Spanish in the U.S.",
+      "description": "Taught in Spanish. Serves as a linguistic introduction to the varieties of Spanish that are currently spoken in the United States. Some central topics include: code-switching, language maintenance, and language contact phenomena.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 150 . Enrollment is restricted to senior Spanish studies majors.",
+      "prereqGroups": [
+        [
+          "SPAN150"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN153",
+      "name": "SPAN 153 — Spanish Language Teaching",
+      "description": "Taught in Spanish. Examines the Spanish language as it is acquired and used by non-native speakers. Provides an overview of language-teaching methodologies and in-depth treatment of areas of Spanish grammar/lexicon that are generally problematic for English-speaking learners. (Formerly Topics in Hispanic Linguistics: Spanish as a Second Language.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 150 . Enrollment is restricted to senior Spanish studies majors.",
+      "prereqGroups": [
+        [
+          "SPAN150"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN154",
+      "name": "SPAN 154 — Topics in Hispanic Linguistics: Spanish Pragmatics",
+      "description": "Explores how Spanish is used in context by speakers to achieve particular meanings and to realize various speech acts (e.g., requests, apologies, etc.) in socially appropriate ways. Pragmatic variation across the Spanish-speaking world is examined in depth.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement assessment; and SPAN 150 . Enrollment is restricted to juniors and seniors majoring in Spanish studies, language studies or linguistics.",
+      "prereqGroups": [
+        [
+          "SPAN6",
+          "SPAN150"
+        ],
+        [
+          "SPHS6",
+          "SPAN150"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN155",
+      "name": "SPAN 155 — Topics in Hispanic Linguistics: Language Contact in the Spanish Speaking World",
+      "description": "Explores language contact in the Spanish-speaking world from a linguistic and a sociocultural perspective. Analyzes contact-induced change in Spanish and in the languages with which Spanish is in contact. Students also discuss social identity, linguistic attitudes and ideologies, and language maintenance and revitalization. Prerequisite(s): Spanish 150.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Spanish 150.",
+      "prereqGroups": [
+        [
+          "SPAN150"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN156A",
+      "name": "SPAN 156A — The Language of Latin America Cinema",
+      "description": "Explores Latin American culture through its cinematic art. Students are exposed to and participate in discussion, analysis, and commentary on important social, historical, and political issues presented in the films. Provides a greater understanding of Latin America, and works toward advanced communicative proficiency and comprehension of linguistic variations in countries such as Cuba, Argentina, MÃ©xico, Bolivia, Chile, and others.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN156E",
+      "name": "SPAN 156E — Spanish Culture",
+      "description": "A broad survey of Spanish cultural topics, including history, politics, religions, art forms, music, and films. It is based on extensive conversations, discussion, and composition. Particular emphasis is placed on key changes that have occurred during the 20th century in Spain. Classes conducted through commentary on texts read (or viewed), oral presentations, and debate. Recommended for students preparing to go to Spain with EAP.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN156F",
+      "name": "SPAN 156F — El Humor en Espanol",
+      "description": "Topic-oriented language course on sociopolitical and historical issues as seen through humor in different genres and media. Topics include Mafalda and Condorito (comic strips), Rius (collage of comic strips, photographs and original documents), Continflas and Almodovar (cinema), El Teatro Campesino (theater), Ana L., Vega (literature), Les Luthiers (song and music). Course deals with written and oral discourse pertaining to the following Spanish language varieties: Rio de la Plata, Mexican, Caribbean, U.S., and Peninsular. Intensive writing and speaking in Spanish.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement into Spanish 156F via the online Spanish Placement Examination.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN156J",
+      "name": "SPAN 156J — Contemporary Central America",
+      "description": "Introduces Central American cultures, including an overview of historical, political, and socioeconomic development, and cultural products, such as literature, film, and visual arts. Emphasis placed on the forces that shaped contemporary Central America, cultural and ethnic diversity, identity, revolutionary processes, diaspora, and building democracy in post-civil conflict societies. Draws attention to the linguistic features of Central American variations of Spanish. The class is conducted in Spanish with high expectations to enhance oral and written proficiency through writing assignments, research tasks, group presentations, analysis, discussion, and debate.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN156K",
+      "name": "SPAN 156K — Spanish Discourse Analysis",
+      "description": "Focuses on the main linguistic approaches that have discourse (i.e. pieces of talk larger than a sentence) as their main object of study. Reviews the theoretical foundations of each approach and the main tools used, with special attention to those studies developed about Spanish in all its varieties.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 , and LING 50 , or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6",
+          "LING50"
+        ],
+        [
+          "SPHS6",
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN156L",
+      "name": "SPAN 156L — Society and Sustainability in Latin America",
+      "description": "Explores environmental issues in Latin America and their impact on contemporary society. Topics relate to indigenous communities, the management of natural resources, and include a Reacting to the Past role-playing game, \"Negotiating a Rainforest's Ransom: Ecuador 2007-2013.\"",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Span 6 or SPHS 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN156M",
+      "name": "SPAN 156M — Mexico and the Southwest",
+      "description": "An interdisciplinary survey of the cultural history of the Mexican people in both Mexico and the U.S. Southwest. Topics include literature, art, folklore, oral tradition, music, politics, as well as everyday cultural manifestations. Conducted in Spanish. May be counted toward fulfillment of upper-division major requirements for Latin American and Latino studies and language studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Span 6 or SPHS 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN157",
+      "name": "SPAN 157 — Spanish Sociolinguistics",
+      "description": "Explores how Spanish structural patterns can vary depending on social group, social situation, and place. Applies linguistic terminology and uses research tools to describe variability of structure (phonology, grammar, and pragmatics) among Spanish dialects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 150 . Enrollment restricted to Spanish studies majors.",
+      "prereqGroups": [
+        [
+          "SPAN150"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN158",
+      "name": "SPAN 158 — Spanish in the U.S.-Mexico Borderlands",
+      "description": "Provides an introduction to Spanish in the borderlands through linguistic, sociocultural, historical and critical lenses. Explores issues of language maintenance and loss, hybridity and conflict, linguistic variation and identity, as well as hegemony and resistance within the context of the borderlands.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ]
+      ]
+    },
+    {
+      "id": "SPAN194",
+      "name": "SPAN 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPAN199",
+      "name": "SPAN 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPAN199F",
+      "name": "SPAN 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LIT189C",
+      "name": "LIT 189C — Introducción a Spanish Studies",
+      "description": "Speaking, reading, and writing proficiency in Spanish is required. Explores the social, cultural, economic, and political changes that connect Latin America, Spain, and the United States Latina/o communities. Critical approach designations: Geographies, Power and Subjectivities. Distribution requirement: Global.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "SPAN6"
+        ],
+        [
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "LIT190X",
+      "name": "LIT 190X — Temas de la literatura y cultura espanolas y latinoamericanas",
+      "description": "Speaking, reading, and writing proficiency in Spanish is required. Examines authors or issues in Spanish and Latin American literature and cultures. Course topic changes; see the Class Search for the current topic. Critical approach designations: Geographies, Histories. Distribution requirement: Senior Seminar. Spanish studies majors may use this course to satisfy the Spanish studies senior exit requirement.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LIT 101. Enrollment is restricted to senior literature majors.",
+      "prereqGroups": [
+        [
+          "LIT101"
+        ]
+      ]
+    }
+  ]
+}

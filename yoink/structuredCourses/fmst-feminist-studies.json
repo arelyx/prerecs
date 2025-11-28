@@ -1,0 +1,1047 @@
+{
+  "department": "FMST - Feminist Studies",
+  "slug": "fmst-feminist-studies",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/fmst-feminist-studies",
+  "generated_at": "2025-11-28T07:51:38.643810+00:00",
+  "courses": [
+    {
+      "id": "FMST1",
+      "name": "FMST 1 — Feminist Studies: An Introduction",
+      "description": "Introduces the core concepts underlying the interdisciplinary field-formation of feminist studies within multiple geopolitical contexts. Explores how feminist inquiry rethinks disciplinary assumptions and categories, and animates our engagement with culture, history, and society. Topics include: the social construction of gender; the gendered division of labor, production, and reproduction; intersections of gender, race, class, and ethnicity; and histories of sexuality.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST10",
+      "name": "FMST 10 — Feminisms of/and the Global South",
+      "description": "Explores feminist theories from domestic U.S. and global contexts in order to ask how interventions of women of color in the U.S. and of radical feminist movements in non-U.S. locations radically re-imagine feminist politics. Rather than focusing on feminist movements that represent different regions of the world, course examines feminist theory through multiple histories of colonialism, post-colonialism, and globalization.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST12",
+      "name": "FMST 12 — Podcasting: Feminist Files",
+      "description": "Introduces students to the basics of podcasting and guides students to become contributors to Feminist Files, a podcast that makes feminist scholarship and scholars accessible to the public. This course gives students the theoretical and practical framework to critique a variety of podcasts and engage in the podcast movement. Students learn how to conceptualize stories, research topics, interview guests, write scripts, host shows, records and edit audio. Students also build their collaboration skills by working in groups to produce segments.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Completion of at least one other lower-division feminist studies course.",
+      "prereqGroups": [
+        [
+          "FMST"
+        ]
+      ]
+    },
+    {
+      "id": "FMST14",
+      "name": "FMST 14 — Popular Culture in South Asia",
+      "description": "Popular culture enables people to make sense of their modern selves and their place in the world. Focusing on South Asia, this course explores the region's rich and variegated popular culture forms, including film, music, television, the painted and printed image, and sport. It also investigates how the popular articulates with nation and global conjunctures and how it constructs hierarchies of class, gender, caste, and sexuality.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST15",
+      "name": "FMST 15 — Gender, Sexuality, and Transnational Migration Across the Americas",
+      "description": "Examines migration as a mode of inquiry into transnational practices across geographic locales and temporal zones. Analyzes migration in relation to the transnational formation of gender, race, and sexuality as well as processes of neocolonialism, the state, and globalization. Taught in conjunction with FMST 115 .",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST16",
+      "name": "FMST 16 — Media Histories--News and New Media",
+      "description": "The news is a set of narratives that produce, maintain, repair, and transform reality. Using three events that brought together old and new media, this course traces how the interaction of new media with news has changed how we make sense of the world around us and our place in it.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST18",
+      "name": "FMST 18 — Black Feminist Ethnographies",
+      "description": "Black feminist theoretical and methodological approaches to the dailiness of women's lives, which considers historical and contemporary Black feminist interventions and praxis that challenge ethnographic hegemony. Students revisit old and new debates to ponder questions of authority, genres, positionality, and citation politics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST19",
+      "name": "FMST 19 — Black Feminisms: An Introduction",
+      "description": "Focuses on key issues, core concepts and debates foundational to Black feminisms. With some consideration from the Black diaspora, students examine processes of self-making from resistance to a history of violence, practices and strategies of creative survivalism, and the ongoing struggle to liberation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST20",
+      "name": "FMST 20 — Feminism and Social Justice",
+      "description": "Examines, and critically analyzes, select post-World War II movements for social justice in the United States from feminist perspectives. Considers how those movements and their participants responded to issues of race, class, gender, and sexuality. A feminist, transnational, analytic framework is also developed to consider how those movements may have embraced, enhanced, or debilitated feminist formations in other parts of the world.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST21",
+      "name": "FMST 21 — Religion in American Politics and Culture",
+      "description": "Introduces dominant discourses about Christianity and Islam in the American public sphere, with particular attention paid to race, gender, sexuality, and class in thinking about religion. Visual and textual media, political commentary, and popular ethnographies are analyzed.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST30",
+      "name": "FMST 30 — Feminism and Science",
+      "description": "Explores questions of science and justice. Examines the nature of scientific practice, the culture of science, and the possibilities for the responsible practice of science. Rather than focusing on feminist critiques of science, the course examines how science and technology are changing our world and the workings of power.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST31",
+      "name": "FMST 31 — Disability Studies",
+      "description": "Introduces students to the key critical concepts, debates, and questions of practice in the emerging field of disability studies, with a focus on feminist and critical race approaches to disability.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST40",
+      "name": "FMST 40 — Sexuality and Globalization",
+      "description": "Examines the relationship between sexuality and the contemporary term globalization as a dense entanglement of processes that emerges from a history of U.S. empire. Sexuality cannot be separated from power struggles over the classification of bodies, territories, and questions of temporality. Examines how sexualized contact zones produce new knowledge, commerce, inequalities, possibilities, and identities.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST41",
+      "name": "FMST 41 — Trans Gender Bodies",
+      "description": "Draws from representations of transgender/transsexual people in popular, biomedical, and political contexts. Examines the impact of transgender lives on concepts of gender, identity, and technology. Engages with biological and sexological frameworks of sex/gender, trans experience, and social movements and theories.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST43",
+      "name": "FMST 43 — Rasanblaj: On Wholeness and Well-Being",
+      "description": "Centering Black feminist Toni Cade Bambara's existential question, \"Are you sure, Sweetheart, that you want to be well?\" this course puts the emphasis on transnational feminist praxis to consider interdisciplinary approaches and methods to living with inequity while pursuing wholeness and well-being. Considering notions of individual and community, care and personhood, environment and nature, self-love and happiness, and other themes, we find theoretical grounding in the concept of rasanblaj (the gathering of ideas, things, people, and spirits).",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST44",
+      "name": "FMST 44 — Women, Globalization, and Migration",
+      "description": "Women are subject to diverse forms of discrimination which creates barriers to their socio-economic advancement. The course explores the benefits and hardships produced through gendered migration, how migration is not universally experienced, and how in a globalized world womenâs participation in migration differs from each other due to intersectionality. Also, the class examines what motivates women to migrate in globalization from one nation to another, how they are impacted by such movement, and the impacts on their families and support systems.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST71",
+      "name": "FMST 71 — Introduction to Visualizing Abolition Studies",
+      "description": "Why has the proliferation of research on prisonsâdemonstrating economic and racial disparities, as well as negative effects on individuals and communitiesânot led to more substantial questioning of public policy that treats imprisonment as a major solution to social problems? This course is an interdisciplinary inquiry into the role visual culture plays in the maintenance of the prison industrial complex and an introduction to artistic practices that challenge law and social policy; the course also introduces fundamental concepts to the study of art and visual culture in relation to the movement for prison abolition.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST100",
+      "name": "FMST 100 — Feminist Theories",
+      "description": "Core course for feminist studies. Serves as an introduction to thinking theoretically about issues of feminism within multiple contexts and intellectual traditions. Sustained discussion of gender and its critical connections to productions of race, class, and sexuality. Focus will change each year.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST102",
+      "name": "FMST 102 — Feminist Critical Race Studies",
+      "description": "Working from the perspective that race is a cultural invention and racism is a political, economic, and social relation, investigates how race is produced as a meaningful and powerful social category, examines the effects of racism as a social relation, and argues for the necessity of combining feminist and critical race studies. By considering different historical periods and places, aims to equip students with the tools necessary to critically examine the production and reproduction of race and racism in the U.S.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): one course from feminist studies. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "FMST"
+        ]
+      ]
+    },
+    {
+      "id": "FMST105",
+      "name": "FMST 105 — Feminist Methodologies",
+      "description": "Recommended for transfer students. Focuses on particular debates about feminist methodology. Specific methodological debates vary each year but might include feminist theorizing of experience, epistemology, situated knowledges, notions of truth and the real. Feminist methods may include transnational approaches, as well as queer, decolonial, postcolonial, and critical race methodologies. Enrollment is by permission of the instructor. (Formerly FMST 75.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST112",
+      "name": "FMST 112 — Women and the Law",
+      "description": "Interdisciplinary approach to study of law in its relation to category women and production of gender. Considers various materials including critical race theory, domestic case law and international instruments, representations of law, and writings by and on behalf of women living under different forms of legal control. Examines how law structures rights, offers protections, produces hierarchies, and sexualizes power relations in both public and intimate life.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to feminist studies, politics, legal studies, and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST115",
+      "name": "FMST 115 — Gender, Sexuality, and Transnational Migration Across the Americas",
+      "description": "Examines migration as a mode of inquiry into transnational practices across geographic locales and temporal zones. Analyzes migration in relation to the transnational formation of gender, race, and sexuality as well as processes of neocolonialism, the state, and globalization.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 , FMST 100 , or FMST 145 . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "FMST1"
+        ],
+        [
+          "FMST100"
+        ],
+        [
+          "FMST145"
+        ]
+      ]
+    },
+    {
+      "id": "FMST117",
+      "name": "FMST 117 — Post Zora Interventions: Art, Activism and Anthropology",
+      "description": "This experimental course situates the pioneer and controversial ethnographer, novelist, and playwright Zora Neale Hurston as an avant-garde. Analyzing her influence on academics, activists and artists, students consider the complex ways anthropology functions as material (from the textual to the visual), a source of both inspiration and refusal. In the process of exploration, students critically ponder what constitutes an intervention in academia, on the streets, or in artistic settings?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST120",
+      "name": "FMST 120 — Transnational Feminisms",
+      "description": "Explores the emergence of transnational feminism through U.S. women of color and postcolonial feminism. Underscores the role of globalization, nationalism, and state formation in relation to feminist theorizing, activism, and labor across the Global South. In an attempt to understand the salience of inequalities, the course interrogates the continuation of feminist critique that is attentive to the war on terror, neocolonialism, and empire.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "FMST1"
+        ]
+      ]
+    },
+    {
+      "id": "FMST123",
+      "name": "FMST 123 — Feminism and Cultural Production",
+      "description": "Explores relationship between feminism and culture. Topics will vary and include different forms of cultural production such as film and literature. Regional/national focus will also vary.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "FMST1"
+        ]
+      ]
+    },
+    {
+      "id": "FMST124",
+      "name": "FMST 124 — Technology, Science, and Race Across the Americas",
+      "description": "Examines new ways of understanding the body and race through the intersection of technology and science. Addresses how broader structures of power and the rise of new technological and scientific discoveries mediate power relations and alter how race, national boundaries, the body, and citizenship are normalized and contested from colonialism to the present. Course content may vary; themes may include: U.S. eugenics, I.Q. tests, patenting debates, sterilization, assisted reproduction, biometrics, and genetics across the Americas.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior feminist studies majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST125",
+      "name": "FMST 125 — Race, Sex, and Technology",
+      "description": "Explores theories and case studies tied to race, gender, and technology. Covers the history of feminist and critical race analyses of technology as well as contemporary debates.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST126",
+      "name": "FMST 126 — Images, Power, and Politics: Methods in Visual and Textual Analysis",
+      "description": "Introduces the analysis of visual images and text with particular emphasis on feminist critical methodologies. Using case studies from photography, film, TV, advertising, and new media, students learn how to read and analyze culture.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST129",
+      "name": "FMST 129 — Reproductive Justice",
+      "description": "Situates current debates about reproductive rights and the repeal of Roe v. Wade in the United States in a transnational context of population governance and carceral power. Readings draw from ethnography, critical race, feminist and queer theory to trouble the concepts of privacy, bodily autonomy, and freedom that have shaped articulations of the \"right to choose.\" Taking a comparative approach to reproductive justice movements in global norths and souths, students explore counter traditions of collective and social rights claims, belonging and responsibility, and practices of care and mutual aid in order to expand our vision of what is politically possible and necessary for a post-Roe era.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST131",
+      "name": "FMST 131 — The Politics of Matter and the Matter of Politics",
+      "description": "Considers how things--what we may think of as objects, matter, nature, technology, bodies--are constitutive elements of social and political life. What happens to the political as a category if we take this matter seriously?",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 .",
+      "prereqGroups": [
+        [
+          "FMST1"
+        ]
+      ]
+    },
+    {
+      "id": "FMST132",
+      "name": "FMST 132 — Gender and Postcoloniality",
+      "description": "Postcolonial feminist studies. Explores how discourses of gender and sexuality shaped the policies and ideologies of the historical processes of colonialism, the civilizing mission, and anticolonial nationalism. Considers orientalism as a gendered discourse as well as colonial understandings of gender and sexuality in decolonialization. Explores Western media representations, literature, the law, and the place of gender in the current debate between cultural relativism and universalism. Provides an understanding of some key terms in postcolonial studies and an in-depth examination of the place of gender in these processes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST133",
+      "name": "FMST 133 — Science and the Body",
+      "description": "Contemporary technoscientific practices, such as nano-, info-, and biotechnologies, are rapidly reworking what it means to be human. Course examines how both our understanding of the human and the very nature of the human are constituted through technoscientific practices.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST135",
+      "name": "FMST 135 — Topics in Science and Sexuality",
+      "description": "Introduces the multiple debates animating the linkages between science, race, and sexuality. Interrogates the interrelated, epistemological frameworks of science and sexuality/queer studies across a range of interdisciplinary and geopolitical locations.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST136",
+      "name": "FMST 136 — Organizing for Water Justice in California",
+      "description": "Investigates, imagines, and practices movement toward water justice in California using feminist, Indigenous, and critical race theory. The course includes collaborative projects with environmental justice organizers in the Central Valley, and offers new ways of thinking about water inequity and access through racial capitalism, settler colonialism, and critical theories of place.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST139",
+      "name": "FMST 139 — African American Women's History",
+      "description": "Considers African American women as central to understanding of U.S. history, focusing on everyday survival, resistance, and movements for social change. Discussion of critical theories for historical research, gender, and race. Emphasis on biography, cultural history, and documentary and archival research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST145",
+      "name": "FMST 145 — Racial and Gender Formations in the U.S",
+      "description": "Introduces the defining issues surrounding racial and gender formations in the U.S. through an understanding of the term women of color as an emergent, dynamic, and socio-political phenomenon. Interrogates organizing practices around women of color across multiple sites: film and media, globalization, representation, sexuality, historiography, and war, to name a select few.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST147",
+      "name": "FMST 147 — Gender, Race, Power, Knowledge",
+      "description": "Explores the possibility that forces of social oppression, stratification, and domination emerge not first and foremost from ignorance, but rather from socially legitimated and institutionally embedded forms of knowledge. Primary engagement is with feminist of color texts, science studies, Black and Indigenous studies. Course supports students in building reading, writing, and analytic skills while investigating the intersections of knowledge, power, oppression, and liberation.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST150",
+      "name": "FMST 150 — Mediating Desire",
+      "description": "From a foundation in semiotics, considers the ways race and gender are constructed, understood, performed, embraced, commodified, and exploited through representations. Uses representations of, by, and for the margins to engage theories of communication, identity, and representation. Creative final projects encouraged.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior feminist studies majors or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST175",
+      "name": "FMST 175 — Gender and Sexualities in Latina/o America",
+      "description": "Advanced topics in gender and sexuality in Latin America and Latina/o studies. Analyzes role of power, race, coloniality, national and transnational processes in the production and analysis of genders and sexualities. Materials include memoir, fiction, ethnography, social documentary and history.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior feminist studies majors or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST176",
+      "name": "FMST 176 — Law, Prisons, and Popular Culture",
+      "description": "Examines the voluminous history of popular culture representing incarceration through new research in visual criminology, carceral aesthetics, and critical prison studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST188",
+      "name": "FMST 188 — Topics in Feminist Studies",
+      "description": "Focuses on a particular topic in feminist theory. Topics vary each offering but might include theorizing the gendered subject, racializing gender, politics and feminism, the relationship between queer theory and feminism, transgender studies, women of color feminisms, postcolonial and decolonial feminisms, feminist science studies.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST189",
+      "name": "FMST 189 — Advanced Topics in Feminist Theory",
+      "description": "Focus on a particular problem in feminist theory. Problems vary each year but might include theorizing the gendered subject, racializing gender, the meeting points of psychoanalysis and social-political analysis in theorizing gender, the relationship between queer theory and feminist theory, postcolonial feminist theory.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST193",
+      "name": "FMST 193 — Field Study",
+      "description": "Individual field study in the vicinity of the campus under the direct supervision of a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST193F",
+      "name": "FMST 193F — Field Study",
+      "description": "Individual field study in the vicinity of the campus under the direct supervision of a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST194A",
+      "name": "FMST 194A — Feminist Jurisprudence",
+      "description": "Approaches legal reasoning from a feminist and intersectional perspective with attention to structures and jurisdiction, case materials, and emerging international frameworks for gender justice. Designed to facilitate completion of a substantial research essay based in feminist legal philosophy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194B",
+      "name": "FMST 194B — Queer/Feminist Historiography",
+      "description": "Providing for a critical examination of canonical formations in history and archives, this course proposes new ways of thinking about history from the point of view of those who have been marginalized or excluded by race, class, gender, or sexuality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194C",
+      "name": "FMST 194C — Gender and Iconicity",
+      "description": "Examines icons and the processes through which an iconicity is constructed and circulated in its complexity. Icons and iconicities often link or articulate various ideologies, affects, and systems of thought into a potent symbol or a mythology. Icons constitute norms, but also disrupt them; icons could articulate new technologies, aesthetics and their representations of the self with purportedly older modes of being in the world, such as a transcendent belief in a god, a faith, etc.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and FMST 1 and FMST 100 . Enrollment restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194D",
+      "name": "FMST 194D — Feminist Science Studies",
+      "description": "Examines different feminist approaches to understanding the nature of scientific practices. Particular attention paid to notions of evidence, methods, cultural and material constraints, and the heterogeneous nature of laboratory practices. Considers the ways in which gender, race, and sexuality are constructed by science and how they influence both scientific practices and conceptions of science. Also examines the feminist commitment to taking social factors into account without forfeiting the notion of objectivity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194F",
+      "name": "FMST 194F — Chicana/Latina Cultural Production",
+      "description": "Traces the intersection between Chicana studies and Latin American studies through transnational forms of cultural production, imaginaries, and empowerment. Analysis of theories of cultural production and discussion of the political salience of culture as a site for resistance, critique, and creativity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194G",
+      "name": "FMST 194G — Images of Africa",
+      "description": "Explores questions of colonialism, empire, race, gender, and geopolitics in the proliferating images--filmic, televisual, and media--of Africa in the United States. Facilitates the completion of a substantial research essay based on the study of popular culture.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194H",
+      "name": "FMST 194H — Michel Foucault: An Introduction",
+      "description": "French philosopher Michel Foucault's writings on modern forms of knowledge, power, and subjectivity provide a serious challenge to how we negotiate social oppression. Engages some of Foucault's most cited works, and grapples specifically with his primary claim that modern societies are marked less by freedom and autonomy than by discipline and docility.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194I",
+      "name": "FMST 194I — Feminist Oral History and Memoir",
+      "description": "Designed to train students in oral history and memoir writing. Emphasizes the specialness of transgressive voices; race, class, and sexuality, women's silence, erasure, censorship, and marginalization are addressed. The politics of memory, narratives, storytelling, and editorial judgment are considered.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194K",
+      "name": "FMST 194K — Black Diaspora",
+      "description": "Seminar focuses on the historical and subjective processes that produce the concept of an African or Black Diaspora. In narrative, film, and cultural studies, themes of slavery, exile, home, identity, alienation, colonialism, politics, and reinvention are explored.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194M",
+      "name": "FMST 194M — Empire and Sexuality",
+      "description": "Explores the production of sexualities, sexual identification, and gender differentiation within multiple contexts of colonialism, decolonization, and emerging neo-colonial global formations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194O",
+      "name": "FMST 194O — The Politics of Gender and Human Rights",
+      "description": "Examines human rights projects and discourses with a focus on the politics of gender, sexuality, race, and rights in the international sphere. Reading important human rights documents and theoretical writings, and addressing particular case studies, emphasizes the tensions between the ideals of the universal and the particular inherent in human rights law, activism, and humanitarianism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194Q",
+      "name": "FMST 194Q — Queer Diasporas",
+      "description": "Queer diaspora emerged from Third World/queer-of-color critique of queer theory and provides a framework for analyzing racializations, genders, and sexualities in colonial, developmental, and modernizing contexts. Readings from anthropology, history, literature, and feminist and cultural studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194R",
+      "name": "FMST 194R — HIstories of the Carceral State",
+      "description": "Surveys how over the course of the 20th century and into the present, the U.S. prison system has metastasized with more than 2 million people locked in cages and many millions more under forms of correctional supervision such as parole, probation, or deportation order, as well as the expansion of a policing apparatus that surveils, stops and frisks, asks for \"papers, please,\" and shoots first. Recently, historians have produced works exploring the origins of this era of racialized police terror, criminalization, mass incarceration, and deportation. Course surveys key works in carceral studies while guiding students through the process of crafting their own original research projects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 , FMST 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194T",
+      "name": "FMST 194T — Transgender Studies",
+      "description": "Explores literature from the natural sciences, anthropology, history, cultural studies, and sociology. Provides theoretical approaches to complex questions in queer studies and geopolitics, and a framework for understanding embodiment, medical regulation, gender formation, the human/animal divide, etc.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194U",
+      "name": "FMST 194U — Touring War and Empire",
+      "description": "Senior seminar focusing on tourism, colonialism, and militarism. Considers case studies on tourism in colonial contexts and sites of U.S. empire across multiple geographies as students craft their projects, participate in writing workshops, and present research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194V",
+      "name": "FMST 194V — Marxism and Feminism",
+      "description": "Explores critically the intersections and crisis points between feminism and Marxism as bodies of thought, theoretical formations, and forms of historical inquiry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194W",
+      "name": "FMST 194W — Politics of Space, Time, and Matter",
+      "description": "Senior seminar focusing on questions of the politics of space, time, and matter. Readings informed by fields, such as indigenous studies, queer studies, afrofuturism, borderland studies, critical race studies, decolonial studies, disability studies, feminist science studies, and new materialisms.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194X",
+      "name": "FMST 194X — Genders, Archives, Histories",
+      "description": "Explores the entanglements of histories, genders and archives across a number of intellectual and imperial contexts. Our inquiry approaches the concept of the archive to reflect on who counts as a historical and/or gendered subject and what are the ethics of representation that guide such archival formations. In approaching these questions, students draw on literature from the disciplines of philosophy, gender/sexuality studies, anthropology, history, and literary criticism.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST194Y",
+      "name": "FMST 194Y — Sonic Worlds: Voice, Sound, Music",
+      "description": "What would we learn about the pressing questions of our time if we centered sound, noise, voice, and music? To think with sound or to think sonically \"is to think conjuncturally about sound and culture.\" Such a \"sonic imagination,\" not only enables us to immerse ourselves in the questions and problems of our time but has the potential to \"redescribe them from unexpected standpoints.\" Thinking with a feminist and sonic imagination, this course is interested in exploring conjunctures and culture by using sound as its point of departure. It serves as an immersive introduction to sound studies and as a senior seminar encourages students to center soundscapes in their own research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST195",
+      "name": "FMST 195 — Senior Thesis or Project",
+      "description": "The senior thesis/project which satisfies the major requirement. Course is for independent research and writing. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST198",
+      "name": "FMST 198 — Independent Field Study",
+      "description": "Provides for individual study program off campus for which faculty supervision is not in person. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST198F",
+      "name": "FMST 198F — Independent Field Study",
+      "description": "Provides for individual study program off campus for which faculty supervision is not in person. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST199",
+      "name": "FMST 199 — Tutorial",
+      "description": "Individual directed study for upper-division undergraduates. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST199F",
+      "name": "FMST 199F — Tutorial",
+      "description": "Individual directed study for upper-division undergraduates. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST200",
+      "name": "FMST 200 — Feminist Theories",
+      "description": "Introductory required course for feminist studies graduate students. Covers major theorists, debates, and current questions as well as foundational texts through which feminist critiques have been grounded. Content changes with instructor.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST201",
+      "name": "FMST 201 — Topics in Feminist Methodologies",
+      "description": "Explores feminist theorizing across disciplinary and cultural contexts for both methodology (theories about the research process) and epistemology (theories of knowledge). Goal is to orient students toward changes in organization of knowledge and provide them with different feminist methodologies in their pursuit of both an object of study and an epistemology.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST202",
+      "name": "FMST 202 — Disciplining Knowledge/Graduate Research",
+      "description": "Prepares students to develop research skills and initiate their research projects. Students consider what is meant by feminist research and undertake designing and performing feminist research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 200 and FMST 201 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "FMST200",
+          "FMST201"
+        ]
+      ]
+    },
+    {
+      "id": "FMST203",
+      "name": "FMST 203 — Feminist Pedagogies",
+      "description": "Examines feminist pedagogies as projects in transgressing traditional disciplinary boundaries. Examines historical examples of alternative pedagogies and contemporary models for creating communities dedicated to social justice. Designed to assist graduate students develop teaching strategies in multiple fields.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST207",
+      "name": "FMST 207 — Topics in Queer/Race Studies",
+      "description": "Explores the interrelated epistemological frameworks of critical race studies and queer studies. Through the study of a range of philosophical, scientific, literary, and cinematic texts, course historicizes and theorizes discourses of race and sexuality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST208",
+      "name": "FMST 208 — African(a) Genders and Sexualities",
+      "description": "Examines a number of classic and new critical texts in the field of African(a) Feminism and Sexuality. Focuses on how African(a) scholars have had to theorize genders and sexualities through an intersectional lens that takes into account questions of decoloniality and freedom. How might we rethink issues of oppression and domination in relationship to race, nation, sex, gender, and sexuality in the global Black world using the tools provided by Africa(a) scholars?",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST209",
+      "name": "FMST 209 — Comparative Empires: Gender, Slavery, Race",
+      "description": "Explores the interrelated, epistemological frameworks of race, slavery and gender across multiple Oceanic and imperial networks. Histories of empire and slavery have been over-determinedly tethered to singular histories of nation-states, temporalities and/or geopolitics. Bypassing the idea of slavery and/or empire as a stable or temporal concept, students are guided instead by an interdisciplinary and comparative framework, seeking more the robust vernaculars and geo-histories that found our current understandings of face, gender and sexuality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST210",
+      "name": "FMST 210 — Sex and the Carceral State",
+      "description": "The expansion of the state's carceral capacity over the course of the 20th century and into the present has been intimately connected to ideas about sex, gender. This course examines the ways that sex has been a target of the carceral state at the same time that policing and incarceration have shaped our understanding of sexuality and gender. Rather than focusing solely on repression, course also examines how feminists and queer activists have challenged carceral logics and practices and imagined expansive forms of freedom, justice, and safety.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST211",
+      "name": "FMST 211 — Sexuality, Race, and Migration in the Americas",
+      "description": "Analyzes the ways transnational processes intersect with changing notions of gender, sexuality, and race. Examines processes such as tourism, the Internet, capitalism, and labor spanning Brazil, the Dominican Republic, and the United States.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST212",
+      "name": "FMST 212 — Feminist Theory and the Law",
+      "description": "Interrogation of the relationship between law and its instantiating gendered categories, supported by feminist, queer, Marxist, critical race, and postcolonial theories. Topics include hypostasization of legal categories, the contest between domestic and international human rights frameworks, overlapping civil and communal codes, cultural explanations in the law, the law as text and archive, testimony and legal subjectivity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST213",
+      "name": "FMST 213 — Colonialism, Racial Capitalism and Surveillance",
+      "description": "Course asks students to consider surveillance technologies beyond the history of modernity and the rise of bureaucratic governance as well as the framework of liberal understandings of the right to privacy. Instead, students examine the ways colonialism and racial capitalism are structured within surveillance technologies, or violent modes of \"seeing\" that contribute to the brutal genocide, dehumanization, containment, extraction, and enslavement of bodies and land.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST214",
+      "name": "FMST 214 — Topics in Feminist Science Studies",
+      "description": "Graduate seminar on feminist science studies. Topics will vary and may include: the joint consideration of science studies and poststructuralist theory; the relationship between discursive practices and material phenomena; and the relationship between ontology, epistemology, and ethics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST215",
+      "name": "FMST 215 — Postcolonial and Postsocialist Transactional Analytics",
+      "description": "Addresses the intersection of the postcolonial and the postsocialist as theoretical ground. Considers how (neo)liberal ideologies about race, class, gender, secularism, and democracy are shaped by the intersection between postsocialist geopolitics and imperial legacies. (Formerly Postsocialism, Postcolonialism, Neoliberalism.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST216",
+      "name": "FMST 216 — Archives/Genders/Histories: An Introduction",
+      "description": "Explores the entanglements of archives, genders, and histories across a number of intellectual and imperial contexts. Approaches the concept of the archive to reflect on who counts as a historical and/or gendered subject and what are the ethics of representation that guide such archival formations. Draws on literature from philosophy, gender/sexuality studies, anthropology, history, and literary criticism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST218",
+      "name": "FMST 218 — Militarism and Tourism",
+      "description": "Positioning tourism and militarism as central sites of inquiry for feminist and ethnic studies, course draws from literature on colonialism and empire to illuminate how tourism functions and how tourists move, in sites of past and present warfare.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST222",
+      "name": "FMST 222 — Religion, Feminism, and Sexual Politics",
+      "description": "Focuses on the increasing importance of religion as a category of analysis in feminist theory. Addresses the relationship of religion, feminist politics, and activism in connection with nationalism, the family, sexuality, and geopolitics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST224",
+      "name": "FMST 224 — Reproductive Justice",
+      "description": "Explores practices of reproductive labor, care and justice, centering global south and transnational perspectives. Readings draw from ethnography alongside critical race, feminist, and queer theory to trouble the concepts of the body, agency, and freedom that have shaped dominant discourses of reproductive politics such as, the \"right to choose,\" along with secular liberal frameworks of justice more broadly. Aims to expand vision of what is possible and necessary in our contemporary moment of heightened contestation over reproductive life and rights.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST232",
+      "name": "FMST 232 — Topics in Postcolonial Studies",
+      "description": "Variable topics that could include postcolonial approaches to questions of epistemology and knowledge production, theories of nationalism and nation-state formation, subaltern historiography, analyses of modernization and developmental theory, postcolonial approaches to globalization, and transnationalism. Significant component of feminist contributions to these literatures.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST243",
+      "name": "FMST 243 — Feminism, Race, and the Politics of Knowledge",
+      "description": "Course takes as its central topic the institutional politics of feminist and critical race knowledges in the post-1960s United States university. Considers these fields' complex and contradictory relation to disciplinarity, the university's primary or default mode of arranging and legitimizing knowledge formations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST260",
+      "name": "FMST 260 — Black Feminist Reconstruction",
+      "description": "Re-visions and extends Reconstruction from 1865-1920 from a black feminist standpoint. Topics include: redefining democracy; labor; literacy and education; suffrage; re-visioning sexuality; childbirth; parenting, etc. Analyzes traditional historiography and the methodological implications of the boundaries between history and fiction, and archival and oral traditions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST270",
+      "name": "FMST 270 — Anthropology at Its Interfaces with Feminist, Postcolonial, and Decolonial STS",
+      "description": "Focuses on generative interfaces within and at the edge of the anthropological discipline, in particular, the way ethnographies and fields are being reconfigured by feminist, postcolonial, and decolonial perspectives and methodologies in science and technology studies (STS).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST290",
+      "name": "FMST 290 — Pedagogical Training",
+      "description": "First-year graduate students meet with the teaching assistant trainer for bi-weekly meetings covering pedagogical approaches. Also includes class visits and shadowing. Enrollment is restricted to graduate students. (Formerly offered as First-Year Advising.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST291",
+      "name": "FMST 291 — Advising",
+      "description": "Independent study formalizing the advisee-adviser relationship. Regular meetings to plan, assess, and monitor academic progress, and to evaluate coursework as necessary. May be used to develop general bibliography of background reading trajectory of study in preparation for the qualifying examination. Enrollment restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST297A",
+      "name": "FMST 297A — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST297B",
+      "name": "FMST 297B — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST297F",
+      "name": "FMST 297F — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST299A",
+      "name": "FMST 299A — Thesis Research",
+      "description": "Prerequisite(s): advancement to candidacy. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST299B",
+      "name": "FMST 299B — Thesis Research",
+      "description": "Prerequisite(s): advancement to candidacy. Enrollment restricted to graduate students.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH148",
+      "name": "ANTH 148 — Gender and Global Development",
+      "description": "Uses the critical tools of feminist theory and cultural anthropology to look at how global development discourses and institutions mobilize, reinforce, and challenge systems of gender-based inequality. Topics include non-governmental organizations (NGOs), development practice, microcredit, and technocrat cultures. (Formerly Gender and Development.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES127",
+      "name": "CRES 127 — Indigenous Environmentalisms From Oceania to Native California",
+      "description": "Examines Indigenous environmentalist struggles and contemporary movements to protect land and water in California and in Oceania. Course examines three Indigenous women-led movements to protect land and water: Run4Salmon, Sogorea Te Land Trust, and Protect Mauna Kea. Also examines their transnational collaborations with Aotearoa/New Zealand and West Papua.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES190L",
+      "name": "CRES 190L — Comparative Settler Colonial Studies",
+      "description": "Discusses the characteristics of settler colonialism and the politics of comparison in the study of global settler colonialism. Looks at settler colonial state practice across multiple different sites, including Santa Cruz, as students craft their own research projects. (Formerly offered as HIS 194C .)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "CRES227",
+      "name": "CRES 227 — From Oceania to Native California: Indigenous Environmentalisms",
+      "description": "Examines Indigenous environmentalist struggles and contemporary movements to protect land and water here in California and in Oceania. We look at three Indigenous-women-led movements to protect land and water: Run4Salmon, Sogorea Te Land Trust, and Protect Mauna Kea.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HIS119",
+      "name": "HIS 119 — Indigenous Feminisms",
+      "description": "Explores issues central to Indigenous women's life experiences and Native feminist thought. Students consider the concerns and methodologies of Native feminismsâtheories and actions that highlight how settler colonialism is a fundamentally gendered process. Engages in foundational discussions of Native feminisms, settler colonial theory, and feminist methodologies. Course content focuses on communities in settler states currently known as the U.S. and Canada. Covers topics such as reproductive justice, gendered violence, cultural reclamation, and rematriation. (Formerly FMST 119.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC264",
+      "name": "HISC 264 — The Idea of Africa",
+      "description": "Examines the position of Africa in cultural studies and the simultaneous processes of over- and under-representation of the continent that mark enunciations of the global and the local. Themes include defining diaspora, the West as philosophy, and Africa in the global economy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LALS240",
+      "name": "LALS 240 — Culture and Politics of Human Rights",
+      "description": "Examines cultural, philosophical, and political foundations for human rights and provides students with critical grounding in the major theoretical debates over conceptualizations of human rights in the Americas. Addresses the role of feminist activism and jurisprudence in the expansion of human rights since the Universal Declaration of Human Rights. Addresses challenges of accommodating gender rights, collective rights, and social and economic rights within international human rights framework.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80S",
+      "name": "MUSC 80S — Women in Music",
+      "description": "Surveys the role of women as music-makers throughout history in a variety of cultural, social, and musical contexts. The course material consists of musical works (in written and aural form) and primary source writings by composers and performers as well as scholarly writing that places primary source material in context along with critical commentary. The major topics include women in Western Art Music history from the medieval through 20th century; women in popular music; women in electronic and computer music; and selections of women music-makers from around the world.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS160",
+      "name": "OAKS 160 — Cuir Américas",
+      "description": "Advanced seminar on the politics of knowledge production and translation in queer theory across the AmÃ©ricas, considering the meaning and construction of queer/cuir in three languages. Students develop bibliographies of academic and activist work addressing the lives of queer/trans people throughout the Spanish- and Portuguese-speaking AmÃ©ricas, including U.S. Latinx communities. Examines gaps in translation in this field, and students practice translation of work specific to sexual minority communities based on their language training and proficiency. Class works from the language and community expertise of students in the course inspired by bilingual poetics. Final projects produce a translation of a significant article or chapter-length work in queer theory from Spanish, Portuguese, or English to another one of these languages.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: SPAN 6, SPHS 6, or PORT 65B; or placement by assessment, or submission of a writing sample in either Spanish or Portuguese for instructor approval. Course requires language and composition proficiency in Spanish or Portuguese.",
+      "prereqGroups": [
+        [
+          "SPAN6",
+          "SPHS6",
+          "PORT65B"
+        ]
+      ]
+    },
+    {
+      "id": "PHIL147",
+      "name": "PHIL 147 — Topics in Feminist Philosophy",
+      "description": "Topics in feminist philosophy, which may include: the nature of feminist philosophy, feminist approaches to philosophical issues, social and political philosophy, theories of knowledge, ethics, aesthetics, and science, technology, and medicine studies. Presupposes some familiarity with philosophy or feminist scholarship.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHIL 9; one from PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and PHIL 100A or PHIL 100B or PHIL 100C.",
+      "prereqGroups": [
+        [
+          "PHIL9",
+          "PHIL11",
+          "PHIL22",
+          "PHIL23",
+          "PHIL24",
+          "PHIL80E",
+          "BME80G",
+          "PHIL80G",
+          "PHIL80M",
+          "PHIL80S"
+        ],
+        [
+          "PHIL100A",
+          "PHIL100B",
+          "PHIL100C"
+        ]
+      ]
+    },
+    {
+      "id": "PSYC251",
+      "name": "PSYC 251 — Feminist Theory and Social Psychology",
+      "description": "Course bridges feminist theory and social psychological research to explore connections between theory covered and empirical studies on various topics in social psychology. Seminar format allows students opportunity for extensive discussion.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD204",
+      "name": "SOCD 204 — Ethnographic Writing and Social Documentation",
+      "description": "Graduate-level advanced seminar explores ways that seeing, hearing, and knowing are influenced by culture, power, race, and other factors. Readings emphasize how documentary subjects are constituted and known, addressing questions of epistemology, social constructivism, objectivity, and method.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY268A",
+      "name": "SOCY 268A — Science and Justice: Experiments in Collaboration",
+      "description": "Considers the practical and epistemological necessity of collaborative research in the development of new sciences and technologies that are attentive to questions of ethics and justice. Enrollment is by permission of instructor. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY268B",
+      "name": "SOCY 268B — Science and Justice Research Seminar",
+      "description": "Provides in-depth instruction in conducting collaborative interdisciplinary research. Students produce a final research project that explores how this training might generate research that is more responsive to the links between questions of knowledge and questions of justice. Prerequisite(s): SOCY 268A , BME 268A, FMST 268A, or ANTH 267A. Enrollment is restricted to graduate students and by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

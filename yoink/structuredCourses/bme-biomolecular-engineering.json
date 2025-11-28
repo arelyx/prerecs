@@ -1,0 +1,1012 @@
+{
+  "department": "BME - Biomolecular Engineering",
+  "slug": "bme-biomolecular-engineering",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/bme-biomolecular-engineering",
+  "generated_at": "2025-11-28T07:51:34.861994+00:00",
+  "courses": [
+    {
+      "id": "BME1",
+      "name": "BME 1 — Introduction to Biomolecular Engineering Problem Solving",
+      "description": "Introduction to biomolecular engineering through identification of current problems and their solutions. Intended for any student interested in BME. Students critically read primary research articles, search scientific literature, and identify relevant, trustworthy sources of information. Students learn about the engineering design process and common experimental tools used in biomolecular engineering research. Major course assignments include writing assignments and a team presentation.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME5",
+      "name": "BME 5 — Introduction to Biotechnology",
+      "description": "Introduces the tools and applications of biotechnology in the fields of medicine, agriculture, the environment, and industry.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME18",
+      "name": "BME 18 — Scientific Principles of Life",
+      "description": "The principles of life as it exists on this planet and how they generalize. Darwinian evolution, genomes, scientific theories of life (mechanistic, thermodynamic, information theoretic). Future of life: Internet, machine learning and adaptation, artificial intelligence, genome editing, fully artificial life.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME21L",
+      "name": "BME 21L — Introduction to Basic Laboratory Techniques",
+      "description": "Laboratory course providing hands-on training in fundamental techniques used to express, isolate, and analyze genes in prokaryotic cells. Introduction to common laboratory instruments and fundamental skills required for basic research in molecular biology and biomolecular engineering.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1M or CHEM 3BL , or CHEM 4BL . Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
+      "prereqGroups": [
+        [
+          "CHEM1M",
+          "CHEM3BL",
+          "CHEM4BL"
+        ]
+      ]
+    },
+    {
+      "id": "BME22L",
+      "name": "BME 22L — Foundations of Design and Experimentation in Molecular Biology",
+      "description": "Project-based laboratory course providing hands-on training in fundamental molecular biology and biomolecular engineering techniques used to manipulate expression of DNA and proteins in prokaryotic cells. Students are introduced to essential processes in experimental design. (Formerly Foundations of Design and Experimentation in Molecular Biology, Part I.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): BME 21L . Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
+      "prereqGroups": [
+        [
+          "BME21L"
+        ]
+      ]
+    },
+    {
+      "id": "BME23L",
+      "name": "BME 23L — Foundations of Design and Experimentation in Molecular Biology, Part II",
+      "description": "Laboratory-based course extending the wet lab skills developed in the first two quarters of the BME 2x series with bioinformatics skills that form the foundation of biomolecular engineering. Focuses on sequencing of low-diversity environmental samples, including: field sampling, DNA extraction from those samples, library preparation, hands-on sequencing using a Nanopore device, base-calling of the raw data, assembly of contigs, quality assessment, contig assignment to species/bins, automated annotation of a single assemblage from collection genome publication.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisites: BME 22L . Enrollment is restricted to bioengineering, bioinformatics, and biomolecular engineering and bioinformatics majors and proposed majors.",
+      "prereqGroups": [
+        [
+          "BME22L"
+        ]
+      ]
+    },
+    {
+      "id": "BME35",
+      "name": "BME 35 — Strategies for a Successful Summer Internship",
+      "description": "Open only to UCSC students in the QB3 Summer Internship Program. Course provides hands-on experience working in a lab on campus or at an industry partner. It is designed for students to integrate an intensive research experience with their major and prior coursework. Enrollment is by permission of the instructor.",
+      "credits": "10",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME51A",
+      "name": "BME 51A — Applied Electronics for Bioengineers Part 1",
+      "description": "Lab-based course that introduces measuring, modeling, and designing electronics circuits, emphasizing voltage dividers and complex impedance culminating in simple, negative-feedback op amp circuits for amplifying audio signals.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 19A ; or MATH 11A by consent of instructor. High school physics recommended. Enrollment is restricted to bioengineering and biomolecular engineering & bioinformatics majors and proposed majors; other majors by consent.",
+      "prereqGroups": [
+        [
+          "MATH19A"
+        ],
+        [
+          "MATH11A"
+        ]
+      ]
+    },
+    {
+      "id": "BME51B",
+      "name": "BME 51B — Applied Electronics for Bioengineers Part 2",
+      "description": "Lab-based course that introduces designing, measuring, and modeling electronics circuits, emphasizing RC filters and negative-feedback amplifiers for various sensors circuits for amplifying audio signals, design of multi-stage amplifiers, instrumentation amplifiers, and class-D power amplifiers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 51A .",
+      "prereqGroups": [
+        [
+          "BME51A"
+        ]
+      ]
+    },
+    {
+      "id": "BME55",
+      "name": "BME 55 — Introduction to Lab Groups",
+      "description": "Course intended to assist second-year biomolecular engineering and bioinformatics undergraduates find research labs that they might join. Students sit in on different lab group meetings, read papers recommended by the lab groups, and report back to other students in the class both verbally and in writing. Course is offered for pass/no pass only.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore and junior proposed biomolecular engineering and bioinformatics majors, or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME80G",
+      "name": "BME 80G — Bioethics in the 21st Century: Science, Business, and Society",
+      "description": "Serves science and non-science majors interested in bioethics. Guest speakers and instructors lead discussions of major ethical questions having arisen from research in genetics, medicine, and industries supported by this knowledge.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME80H",
+      "name": "BME 80H — The Human Genome",
+      "description": "Course will focus on understanding human genes. Accessible to non-science majors. Will cover principles of human inheritance and techniques used in gene analysis. The evolutionary, social, ethical, and legal issues associated with knowledge of the human genome will be discussed.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME94",
+      "name": "BME 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME94F",
+      "name": "BME 94F — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME99",
+      "name": "BME 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME99F",
+      "name": "BME 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME101",
+      "name": "BME 101 — Molecular Biology for Biomolecular Engineers",
+      "description": "Provides an overview of the biochemistry of three types of biomolecules. Also covers how DNA is replicated and stores genetic information, how RNA is transcribed and transports genetic information, and how proteins are synthesized and perform a variety of functions. Focuses on genes and how they are regulated.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: BIOL 20A .",
+      "prereqGroups": [
+        [
+          "BIOL20A"
+        ]
+      ]
+    },
+    {
+      "id": "BME105",
+      "name": "BME 105 — Genetics in the Genomics Era",
+      "description": "Principles of genetics and genomics focusing on how sequencing technologies enable us to understand gene function, genotype to phenotype relationships, and genetic inheritance.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A . Enrollment is restricted to bioengineering, biomolecular engineering and bioinformatics, biotechnology, bioinformatics, and microbiology majors and proposed majors and bioinformatics minors.",
+      "prereqGroups": [
+        [
+          "BIOL20A"
+        ]
+      ]
+    },
+    {
+      "id": "BME110",
+      "name": "BME 110 — Computational Biology Tools",
+      "description": "Hands-on lectures and laboratory geared to teach basic tools and skills used in computational biology (genome browsers, sequence database searching, motif analysis, multiple sequence alignment, gene finders, phylogenetics analysis, protein structure visualization, and others). Web-based tools/databases are used on student laptops. Open to all science students; no prior programming or Unix experience required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 105 , or BIOL 100 , or BIOL 105 , or BIOC 100A , or CHEM 103 , or bioinformatics majors, or biomolecular engineering and bioinformatics majors.",
+      "prereqGroups": [
+        [
+          "BME105"
+        ],
+        [
+          "BIOL100"
+        ],
+        [
+          "BIOL105"
+        ],
+        [
+          "BIOC100A"
+        ],
+        [
+          "CHEM103"
+        ]
+      ]
+    },
+    {
+      "id": "BME118",
+      "name": "BME 118 — Mathematics of the Mind",
+      "description": "Investigates the mind as an adaptive system, the evolutionary history of the brain, and mathematical theories of knowledge representation and learning in humans and machines. Students build Jupyter notebooks that interact with human cerebral cortex organoids to explore adaptive processes in neural circuits. Taught in conjunction with BME 218 . Students cannot receive credit for this course and BME 218 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: either MATH 19A and MATH 19B , or MATH 20A and MATH 20B ; and MATH 21 ; and CSE 20 ; or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "MATH19A",
+          "MATH19B"
+        ],
+        [
+          "MATH20A",
+          "MATH20B"
+        ]
+      ]
+    },
+    {
+      "id": "BME122H",
+      "name": "BME 122H — Extreme Environmental Virology",
+      "description": "Examines life in extreme environments with an emphasis on the viruses that live there. Integrates aspects of virology, molecular biology, and computational biology. Students investigate a high-salt, extreme environment at the Don Edwards National Wildlife Refuge, and use DNA extraction methods to find molecular evidence of the organisms that live there and describe the genetic content of viruses and the community living in those high-salt ponds.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to College Scholar Students, and or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME123L",
+      "name": "BME 123L — Long Read Sequencing",
+      "description": "Two-credit hands-on course in DNA sequencing, sequence assembly, and gene annotation. Students make use of low-diversity metagenomic samples drawn from environmental locations to follow all steps in sequence and the discovery of prokaryotic and viral life. For students who have already completed sequencing experience in BME 23L , please consult with the instructor prior to enrolling in BME 123L to determine eligibility and course availability.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): BME 22L , and previous or concurrent enrollment in BME 122H or BME 130 .",
+      "prereqGroups": [
+        [
+          "BME22L"
+        ],
+        [
+          "BME122H",
+          "BME130"
+        ]
+      ]
+    },
+    {
+      "id": "BME123T",
+      "name": "BME 123T — Senior Thesis Writing",
+      "description": "For bioengineering senior thesis students, guidance in preparing a draft manuscript describing their senior research project. Students also practice conference-style oral or poster presentation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 185 or CSE 185E . Concurrent enrollment in BME 193F or BME 195F or BME 198F or CSE 193F or CSE 195F or CSE 198F or ECE 193F or ECE 195F or ECE 198F is required. Enrollment is restricted to senior biomolecular engineering and bioinformatics and bioengineering majors.",
+      "prereqGroups": [
+        [
+          "BME185",
+          "CSE185E"
+        ]
+      ]
+    },
+    {
+      "id": "BME128",
+      "name": "BME 128 — Protein Engineering",
+      "description": "For bioengineering, bioinformatics, and biology majors, focuses on engineering (i.e., changing) of proteins. Topics focus on practical aspects of protein engineering strategies that are crucial to modern biotechnology and biomedicinal applications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 100 or BIOC 100A or CHEM 103 , or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "BIOL100",
+          "BIOC100A",
+          "CHEM103"
+        ]
+      ]
+    },
+    {
+      "id": "BME128L",
+      "name": "BME 128L — Protein Engineering Laboratory",
+      "description": "Students address a current scientific question about protein stability using structure-guided protein engineering. Specifically, Students use recombinant DNA technology to produce an engineered protein that is predicted to have enhanced stability. Students then assess its stability with differential scanning fluorimetry.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): BME 22L ; and previous or concurrent enrollment in BME 128 . Enrollment is restricted to junior and senior bioengineering, biomolecular engineering, and bioinformatics majors; other majors by permission of instructor.",
+      "prereqGroups": [
+        [
+          "BME22L"
+        ],
+        [
+          "BME128"
+        ]
+      ]
+    },
+    {
+      "id": "BME129A",
+      "name": "BME 129A — Project Design and Implementation in Biomolecular Engineering I",
+      "description": "First of a three-part series focused on senior design projects in biomolecular engineering. In this first part, students examine experiments that elucidated the function of biological macromolecules at the Angstrom scale, and how technologies related to those functions were invented and implemented. Guided by these examples, each student develops a senior design project concept or small business proposal and defends its utility, plausibility, and inventiveness in a written document and an oral presentation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 22L ; BIOL 100 or BIOC 100A or CHEM 103 or BME 101 ; and previous or concurrent enrollment in BME 185 or CSE 185E or CSE 185S. Enrollment is restricted to junior and senior bioengineering and biomolecular engineering and bioinformatics majors or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "BME22L"
+        ],
+        [
+          "BIOL100",
+          "BIOC100A",
+          "CHEM103",
+          "BME101"
+        ],
+        [
+          "BME185",
+          "CSE185E",
+          "CSE185S"
+        ]
+      ]
+    },
+    {
+      "id": "BME129B",
+      "name": "BME 129B — Project Design and Implementation in Biomolecular Engineering II",
+      "description": "Second part of a three-course sequence that is the culmination of the bioengineering program for students who chose a senior design group project to fulfill their capstone requirement. Students apply knowledge and skills gained in biomolecular engineering coursework to articulate, organize, and plan a senior design group project. Student groups complete research, specification, planning, and procurement for their project. Includes technical discussions, design reviews, and formal presentations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 129A or BME 150. Enrollment is restricted to senior bioengineering or biomolecular engineering and bioinformatics majors.",
+      "prereqGroups": [
+        [
+          "BME129A"
+        ],
+        [
+          "BME150"
+        ]
+      ]
+    },
+    {
+      "id": "BME129C",
+      "name": "BME 129C — Project Design and Implementation in Biomolecular Engineering III",
+      "description": "Final part of a three-course sequence that is the culmination of the bioengineering program for students who chose a senior design group project to fulfill their capstone requirement. Students apply knowledge and skills gained in biomolecular engineering coursework to articulate, organize, and plan a senior design group project. Student groups complete research, specification, planning, and procurement for their project. Includes technical discussions, design reviews, and formal presentations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 129B or BME 230A . Enrollment is restricted to senior bioengineering or biomolecular engineering and bioinformatics majors.",
+      "prereqGroups": [
+        [
+          "BME129B"
+        ],
+        [
+          "BME230A"
+        ]
+      ]
+    },
+    {
+      "id": "BME130",
+      "name": "BME 130 — Genomes",
+      "description": "Advanced elective for biology majors, examining biology on the genome scale. Topics include genome sequencing; large scale computational and functional analysis; features specific to prokaryotic, eukaryotic, or mammalian genomes; proteomics; SNP analysis; medical genomics; and genome evolution.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 105 or BME 105 or METX 140 ; or permission of the instructor.",
+      "prereqGroups": [
+        [
+          "BIOL105",
+          "BME105",
+          "METX140"
+        ]
+      ]
+    },
+    {
+      "id": "BME132",
+      "name": "BME 132 — Evolutionary Genomics",
+      "description": "Covers major recent advances in evolutionary genomics. Students learn to analyze and interpret scientific writing in depth. Students also present on work covered in the class and produce one research or review paper. Students cannot receive credit for this courses and course 232.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 105 or BIOL 105 or METX 140 . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "BME105",
+          "BIOL105",
+          "METX140"
+        ]
+      ]
+    },
+    {
+      "id": "BME140",
+      "name": "BME 140 — Bioinstrumentation",
+      "description": "Introduces the fundamental aspects of bioinstrumentation that are essential for beginning-level employment in clinical, pharmaceutical , and biotechnology laboratories. The advantages and disadvantages of several instruments are discussed and demonstrated, such as thermocycler, polymerase chain reaction (PCR), next-generation DNA sequencing platforms, pyrosequencing, fabless nanofabrication, ion-sensitive measurements, microarray fabrication, and fluorescent-activated cell sorter (FACS).",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 5 ; or BME 51A and BME 51B ; or EE 101 and EE 101L; or BIOL 100 ; or BIOC 100A .",
+      "prereqGroups": [
+        [
+          "BME5"
+        ],
+        [
+          "BME51A",
+          "BME51B"
+        ],
+        [
+          "EE101",
+          "EE101L"
+        ],
+        [
+          "BIOL100"
+        ],
+        [
+          "BIOC100A"
+        ]
+      ]
+    },
+    {
+      "id": "BME160",
+      "name": "BME 160 — Research Programming in the Life Sciences",
+      "description": "Teaches programming while exploring object-oriented design, use of high-performance data containers (dictionaries and sets), and team-based developmentâall with the goal of producing reliable and usable research tools. No programming experience is required, but basic computer and molecular biology understanding is assumed. Students without prior programming experience may benefit from taking CSE 20 in preparation for this course. Students learn programming in Python to manipulate biological data. Programming assignments comprise the majority of the assignments, and a final project using skills developed in this course is required. Lab section registration is required. BioPython and other modules are introduced for use in the final project.",
+      "credits": "6",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A or BIOL 21A.",
+      "prereqGroups": [
+        [
+          "BIOL20A",
+          "BIOL21A"
+        ]
+      ]
+    },
+    {
+      "id": "BME163",
+      "name": "BME 163 — Applied Visualization and Analysis of Scientific Data",
+      "description": "Python and its Numpy, Scipy, and Matplotlib packages as well as Inkscape are used on scientific data to generate publication-quality figures. Students cannot receive credit for this course and course 263.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 160 or BME 205 or CSE 20 . Prerequisites can be waived in cases where students have the required programming skills, or who have passed the CSE 20 test-out exam. See CSE 20 Testout Exam (https://undergrad.engineering.ucsc.edu/advising/policies-forms-petitions/cse/) for resources and further information. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "BME160"
+        ],
+        [
+          "BME205"
+        ],
+        [
+          "CSE20"
+        ]
+      ]
+    },
+    {
+      "id": "BME175",
+      "name": "BME 175 — Entrepreneurship in Biotechnology",
+      "description": "Focuses on contemporary issues in commercializing biotechnology and genomics, emphasizing development of teamwork and communication skills. Topics include intellectual property management, fundraising, market analysis, and technology development as related to biotechnology start-ups. Students perform real-world tasks preparing for commercialization. Taught in conjunction with BME 275 .",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME177",
+      "name": "BME 177 — Engineering Stem Cells",
+      "description": "For bioengineering students interested in stem cells. Class uses project-based learning to discuss basic stem cell concepts and past breakthrough approaches to identify and design solutions for technological hurdles in stem cell research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A or by consent of instructor. Basic knowledge of molecular and cellular biology is required.",
+      "prereqGroups": [
+        [
+          "BIOL20A"
+        ]
+      ]
+    },
+    {
+      "id": "BME177L",
+      "name": "BME 177L — Engineering Stem Cell Laboratory",
+      "description": "Introduces students to laboratory techniques for growing and differentiating embryonic stem cells, genetic manipulation of stem cells and imaging of stem cells. Students learn how to culture stem cells, count cells, transfect cells, image cells and analyze morphology of stem cells. In addition, students learn how to write lab reports and present their findings. Students are billed a materials fee of $175.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisites: BME 22L ; and previous or concurrent enrollment in BME 177 . Enrollment is restricted to biomolecular engineering and bioinformatics majors or by permission.",
+      "prereqGroups": [
+        [
+          "BME22L"
+        ],
+        [
+          "BME177"
+        ]
+      ]
+    },
+    {
+      "id": "BME178",
+      "name": "BME 178 — Stem Cell Biology",
+      "description": "Basic concepts, experimental approaches, and therapeutic potential are discussed. Students gain experience in reading the primary scientific literature.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 110 or BME 101 or BIOC 100A or BIOL 100 or CHEM 103 ; BIOL 115 recommended.",
+      "prereqGroups": [
+        [
+          "BIOL110"
+        ],
+        [
+          "BME101"
+        ],
+        [
+          "BIOC100A"
+        ],
+        [
+          "BIOL100"
+        ],
+        [
+          "CHEM103"
+        ]
+      ]
+    },
+    {
+      "id": "BME180",
+      "name": "BME 180 — Professional Practice in Bioengineering",
+      "description": "Seminar course where students develop a research proposal and the collaborative skills needed for independent research projects. Includes professional practice development in collaboration skills, project management, proposal development, and funding.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in BME 185 or CSE 185E . Enrollment is restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and bioinformatics majors or by permission.",
+      "prereqGroups": [
+        [
+          "BME185"
+        ],
+        [
+          "CSE185E"
+        ]
+      ]
+    },
+    {
+      "id": "BME185",
+      "name": "BME 185 — Technical Writing for Biomolecular Engineers",
+      "description": "Writing by biomolecular engineers, not to general audiences, but to engineers, engineering managers, and technical writers. Exercises include job application and resume, library puzzle, graphics, laboratory protocols, document specification, progress report, survey article or research proposal, poster, and oral presentation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A ; satisfaction of Entry Level Writing and Composition requirements; Enrollment restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and biotechnology majors.",
+      "prereqGroups": [
+        [
+          "BIOL20A"
+        ]
+      ]
+    },
+    {
+      "id": "BME188A",
+      "name": "BME 188A — Synthetic Biology--Mentored Research A",
+      "description": "This two-credit course is the first of three courses in a 12-credit collaborative research project available to students in physical sciences, and biomolecular engineering intended to satisfy the capstone requirement. Provides a multidisciplinary, collaborative research experience working on a project in synthetic biology. Working with one or more research faculty, student teams complete a substantial project. Multiple oral/written presentations are required, including a formal conference presentation. Prerequisite(s): BME 180 . Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME188B",
+      "name": "BME 188B — Synthetic Biology--Mentored Research B",
+      "description": "This five-credit course is the second of three courses in a 12-credit collaborative research project available to students in physical sciences and biomolecular engineering intended to satisfy the capstone requirement. Multiple oral/written presentations are required, including a formal conference presentation. Prerequisite(s): BME 188A . Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME188C",
+      "name": "BME 188C — Synthetic Biology Mentored Research C",
+      "description": "Third of three courses in a 12-credit collaborative research project available to students in physical sciences and biomolecular engineering intended to satisfy the capstone requirement. Students in this course sequence may be participating in the annual IGEM (International Genetically Engineered Machines) competition. Course includes training in specific skills relevant to the specific sub-team and overall project, including lab-specific training (pcr, DNA electrophoresis, gel documentation, standard reagent prep, lab safety, lab equipment, project specifics). Prerequisite(s): BME 188B . Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME193",
+      "name": "BME 193 — Field Study",
+      "description": "Provides for individual programs of study with specific aims and academic objectives carried out under the direction of a BME faculty member and a willing sponsor at a field site, using resources not normally available on campus. Credit is based upon written and oral presentations demonstrating the achievement of the objectives of the course. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME193F",
+      "name": "BME 193F — Field Study",
+      "description": "Provides for individual programs of study with specific aims and academic objectives carried out under the direction of a BME faculty member and a willing sponsor at a field site, using resources not normally available on campus. Credit is based upon written and oral presentations demonstrating the achievement of the objectives of the course. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME194",
+      "name": "BME 194 — Group Tutorial",
+      "description": "A program of study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME194F",
+      "name": "BME 194F — Group Tutorial",
+      "description": "A program of independent study arranged between a group of students and a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME195",
+      "name": "BME 195 — Senior Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME195F",
+      "name": "BME 195F — Senior Thesis or Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME198",
+      "name": "BME 198 — Individual Study or Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME198F",
+      "name": "BME 198F — Individual Study or Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME199",
+      "name": "BME 199 — Tutorial",
+      "description": "For fourth-year students majoring in bioinformatics or bioengineering.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME201",
+      "name": "BME 201 — Scientific Writing",
+      "description": "Covers effective writing styles for scientific communication for bio-science and engineering graduate students. Covers instruction for writing grant applications, scientific manuscripts, and thesis proposals. Students practice by preparing, editing, and evaluating each of these documents.",
+      "credits": "3",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME205",
+      "name": "BME 205 — Bioinformatics Models and Algorithms",
+      "description": "Covers bioinformatics models and algorithms: the use of computational techniques to convert the masses of information from biochemical experiments (DNA sequencing, DNA chips, and other high-throughput experimental methods) into useful information. Emphasis is on DNA and protein sequence alignment and analysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with prerequisite(s): BME 160 or CSE 30 ; and CSE 107 or STAT 131 ; and previous or concurrent enrollment in BIOC 100A or BME 101 or BIOL 100 or CHEM 103 .",
+      "prereqGroups": [
+        [
+          "BME160"
+        ],
+        [
+          "CSE30"
+        ]
+      ]
+    },
+    {
+      "id": "BME215",
+      "name": "BME 215 — Applied Gene Technology",
+      "description": "Detailed insight into the techniques and technological trends in genomics and transcriptomics, building the necessary foundations for further research in genetic association studies, population genetic association studies, population genetics, diagnostics, medicine, and drug development. Students should already have a deeper understanding of the basic tools of molecular biotechnology than acquired in introductory courses in biotechnology, biochemistry, and molecular biotechnology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME218",
+      "name": "BME 218 — Mathematics of the Mind",
+      "description": "Investigates the mind as an adaptive system, the evolutionary history of the brain, and mathematical theories of knowledge representation and learning in humans and machines. Students build Jupyter notebooks that interact with human cerebral cortex organoids to explore adaptive processes in neural circuits. Taught in conjunction with BME 118 . Students cannot receive credit for this course and BME 118 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Students should have knowledge of calculus, linear algebra, and Python programming.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME228",
+      "name": "BME 228 — Protein Design and Engineering",
+      "description": "Explore computational protein design approaches and engineering techniques. Students learn to engineer functional proteins, formulate a protein design project, and communicate research effectively for practical applications. Taught in conjunction with BME 128 . Students cannot receive credit for this course and BME 128 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME229",
+      "name": "BME 229 — Protein and Cell Engineering",
+      "description": "Focuses on established and novel strategies for protein and cell engineering. Explores concepts, design, and practical applications of engineered proteins, cells, and organisms as research tools and in therapeutic applications. Recommended for graduate students with interests in bioengineering.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME230A",
+      "name": "BME 230A — Introduction to Computational Genomics and Systems Biology",
+      "description": "Introductory and intermediate-level topics in computational genomics, DNA and RNA sequence analysis, mapping, quantification, detection of variants and their associations with disease. Covers topics in machine-learning, probabilistic graphical models, gene regulatory network inference, and single cell analysis. Students conduct related independent research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 205 . Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "BME205"
+        ]
+      ]
+    },
+    {
+      "id": "BME230B",
+      "name": "BME 230B — Advanced Computational Genomics and Systems Biology",
+      "description": "Covers advanced topics in computational genomics, DNA and RNA sequence analysis, mapping, quantification, detection of variants and their associations with disease. Topics include machine-learning, probabilistic graphical models, gene regulatory network inference, and single cell analysis. Students participate in teams in a computational analysis competition.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 230A . Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "BME230A"
+        ]
+      ]
+    },
+    {
+      "id": "BME232",
+      "name": "BME 232 — Evolutionary Genomics",
+      "description": "Covers major recent advances in evolutionary genomics. Students learn to analyze and interpret scientific writing in depth. Students also present on work covered in the class and produce one research or review paper. Students may not receive credit for this course and course 132.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. BME 105 or BIOL 105 or equivalent courses in higher-level genetic processes are highly recommended.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME237",
+      "name": "BME 237 — Applied RNA Bioinformatics",
+      "description": "Teaches methods for RNA gene discovery; gene expression quantification; probabalistic modeling, secondary structure/trans-interaction prediction; mRNA splicing; and functional analysis. Emphasis on leveraging comparative genomics and employing high-throughput RNA sequencing data. Includes lectures, scientific literature discussion, problem sets, and final gene-discovery project.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to seniors and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME263",
+      "name": "BME 263 — Applied Visualization and Analysis of Scientific Data",
+      "description": "Python and its Numpy, Scipy, and Matplotlib packages as well as Inkscape are used to generate publication quality figures from scientific data. Students cannot receive credit for this course and course 163.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BME 160 or BME 205 . Prerequisite(s) can be waived in cases where students have required programming skills. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "BME160",
+          "BME205"
+        ]
+      ]
+    },
+    {
+      "id": "BME272",
+      "name": "BME 272 — Precision Medicine",
+      "description": "Focuses on modern \"precision\" approaches to understanding human health, where every patient is unique. Explores basic and clinical discoveries and 'omics-based medicine for the prevention, diagnosis, and treatment of disease. Emphasis is on genomic approaches and applications to cancer.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME273",
+      "name": "BME 273 — Stem Cell Epi/Genomics",
+      "description": "Course focuses on the application of epi/genomic technologies of stem cells. Topics include 'omics to interrogate pluripotency, cell lineages, hierarchies, trajectories, epigenomic reprogramming. Class includes hands-on computational analysis of epi/genomics data. For graduate/postdoctoral trainees engaged in stem cell research. Enrollment is restricted to graduate students and by permission of the instructor. Basic programming knowledge is recommended.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME275",
+      "name": "BME 275 — Entrepreneurship in Biotechnology",
+      "description": "Focuses on contemporary issues in commercializing biotechnology and genomics, emphasizing development of teamwork and communication skills. Topics include intellectual property management, fundraising, market analysis, and technology development as related to biotechnology start-ups. Students perform real-world tasks preparing for commercialization. Taught in conjunction with Biomolecular Engineering 175.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME278",
+      "name": "BME 278 — Stem Cell Biology",
+      "description": "Basic stem cell concepts, experimental approaches, and therapeutic potential are discussed. Students gain experience in reading and critically evaluating the primary scientific literature. Students cannot receive credit for this course and BME 178 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students in PBSE program (Program in Biomedical Science and Engineering: Biomolecular Engineering and Bioinformatics (BMEB), Microbial Biology and Pathogenesis (MICRO), Chemical Biology, Biochemistry and Biophysics (CB3), Molecular, Cell and Developmental Biology (MCDB)) or consent of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME280B",
+      "name": "BME 280B — Seminar on Bioinformatics and Bioengineering",
+      "description": "Weekly seminar series covering topics of current research in computational biology, and bioinformatics. Current research work and literature in these areas are discussed. Short papers reflecting on presentations required. Available for Satisfactory/Unsatisfactory (or Pass/No Pass) grading only.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281A",
+      "name": "BME 281A — Seminar on Processive Enzymes and Nanopores",
+      "description": "Weekly seminar series covering experimental research in nanopore technology and single-molecule analysis of polymerase function. Current research work and literature is discussed. Students lead some discussions and participate in all meetings.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281C",
+      "name": "BME 281C — Seminar in Cancer Genomics",
+      "description": "Presents current computational biology research to identify genomics-based signatures of cancer onset, progression, and treatment response. Examples of such investigations include: genetic pathway interpretation of multivariate high-throughput datasets; discovery of mutations in whole-genome sequence; identifications and quantification of gene isoforms, alleles, and copy number variants; and machine-learning tools to predict clinical outcomes. Students present their own research, host journal clubs, and attend lectures and teleconferences to learn about research conducted by national and international projects.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281D",
+      "name": "BME 281D — Seminar on Protein Engineering",
+      "description": "Weekly seminar series covering experimental research in protein structure, function, and engineering. Current research work and literature in this area are discussed. Students lead some discussions and participate in all meetings.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281E",
+      "name": "BME 281E — Seminar in Genomics",
+      "description": "Current topics in genomics including high-throughput sequencing, genome assembly, and comparative genomics. Students design and implement independent research projects. Weekly laboratory meetings are held to discuss these projects and related research in the field.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281F",
+      "name": "BME 281F — Blood Cell Development",
+      "description": "Weekly seminar covering topics in current research on blood cell development and stem cell biology. Current research and literature in these areas discussed. Students lead some discussions and participate in all meetings.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281G",
+      "name": "BME 281G — Seminar on Cell Fate Decisions",
+      "description": "Weekly seminar series covering experimental research in cell fate decisions. Current research work and literature in this area is discussed. Students lead some discussions and participate in all meetings. Available for Satisfactory/Unsatisfactory or Pass/No Pass grading only.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281H",
+      "name": "BME 281H — Live Cell Biotechnology Seminar",
+      "description": "Weekly seminar series covering topics of current computational and experimental research in live cell biotechnology. Current research work and literature in this area are discussed. Students lead some discussions and participate in all meetings. (Formerly offered as Seminar in Comparative Genomics.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281J",
+      "name": "BME 281J — Seminar in Computational Genomics and Biomedicine",
+      "description": "Research seminar of the UCSC Computational Genomic Laboratory and Platform Teams. Students receive hands-on instruction in modern computational methods to address research questions. Topics include: genomic and transcriptomic sequence analysis methods, comparative and evolutionary genomics, big-data genomic analysis, biomedical data sharing, and precision medicine. Students attend and participate in monthly lab meetings, monthly all-hands meetings, where students give a quick report on their progress and the next month's goals, and a bi-weekly journal club, where pairs of students present and discuss a paper of their choosing with the lab. Students also participate in hands-on, active computational laboratory-based research. Student evaluation is based on suitable progress toward research goals and graduate program progress.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281L",
+      "name": "BME 281L — Seminar in Computational Genetics",
+      "description": "Weekly seminar series covering topics and experimental research in computational genetics. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281M",
+      "name": "BME 281M — Seminar on Chromosome Biology and Function",
+      "description": "Weekly seminar series covering experimental research in chromosome structure and repeat biology. Current research work and literature in this area is discussed. Students lead some discussions and participate in all meetings. Available for Satisfactory/Unsatisfactory or Pass/No Pass grading only.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281N",
+      "name": "BME 281N — Seminar in Transcriptomics",
+      "description": "Covers current topics in computational and experimental research in transcriptomics. Current research work and literature discussed. Weekly laboratory meetings held to discuss these projects and related research in the field.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281P",
+      "name": "BME 281P — Seminar on Nanotechnology and Biosensors",
+      "description": "Weekly seminar covering topics of research in the development of new tools and technologies to detect and study genes and proteins. Latest research work and literature in these areas are discussed. Students lead some discussions and participate in all meetings.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281R",
+      "name": "BME 281R — Seminar in Stem Cell Genomics",
+      "description": "Weekly seminar series covering topics in research on stem cell genomics. Current research and literature in this area is discussed. Students lead some discussions and participate in all meetings.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students; qualified undergraduates may enroll with instructor permission.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281S",
+      "name": "BME 281S — Seminar in Computational Functional Genomics",
+      "description": "Weekly seminar series covering topics of current computational and experimental research in computational functional genomics. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281T",
+      "name": "BME 281T — Seminar in Neuroengineering and Systems Neuroscience",
+      "description": "Discusses research topics in 3D stem cell-derived brain organoid models, neuroengineering and systems neuroscience. Students lead some discussions and participate in all meetings. Available for Satisfactory/Unsatisfactory or Pass/No Pass grading only. Enrollment is restricted to graduate students; qualified undergraduate students may enroll with permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281V",
+      "name": "BME 281V — Immunogenomics Seminar",
+      "description": "Journal club and research presentations in immunogenomics. Enrollment is by consent of the instructor and is restricted to graduate students, juniors, and seniors.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281X",
+      "name": "BME 281X — Microbial Symbiosis",
+      "description": "Seminar course consisting of the Russell Lab's weekly meeting to cover lab business, present and discuss new results, practice presentations, and read recent scientific literature. May be repeated for credit. Enrollment is restricted to graduate students and is by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281Y",
+      "name": "BME 281Y — Seminar on Protein Design",
+      "description": "Includes the Yeh Labâs weekly group meeting to discuss new data, present research paper, pitch new scientific idea, cover lab business, and practice presentations. Available for Satisfactory/Unsatisfactory or Pass/No Pass grading only.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME281Z",
+      "name": "BME 281Z — Seminar in Population and Evolutionary Genomics",
+      "description": "Covers major recent topics in evolutionary and population genomics. Consists primarily of discussions of recent literature and updates on group members' research. Enrollment is available only to members of the Corbett-Detig laboratory.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME293",
+      "name": "BME 293 — Seminar in Biomolecular Engineering",
+      "description": "Weekly seminar series covering topics of bioinformatics and biomolecular engineering research. Current research work and literature in this area discussed. Students lead some discussions and participate in all meetings.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME296",
+      "name": "BME 296 — Research in Bioinformatics",
+      "description": "Independent research in bioinformatics under faculty supervision. Although this course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME297A",
+      "name": "BME 297A — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME297B",
+      "name": "BME 297B — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME297C",
+      "name": "BME 297C — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME297F",
+      "name": "BME 297F — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course toward degree requirements. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME299A",
+      "name": "BME 299A — Thesis Research",
+      "description": "Thesis research conducted under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course towards degree requirements.Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME299B",
+      "name": "BME 299B — Thesis Research",
+      "description": "Thesis research conducted under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course towards degree requirements.Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BME299C",
+      "name": "BME 299C — Thesis Research",
+      "description": "Thesis research conducted under faculty supervision. Although course may be repeated for credit, not every degree program accepts a repeated course towards degree requirements.Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "BIOL247",
+      "name": "BIOL 247 — Stem Cell Research: Scientific, Ethical, Social, and Legal Issues",
+      "description": "Investigates the scientific, ethical, social, and legal dimensions of human embryonic stem-cell research, including the moral status of the embryo; the concept of respect for life; ethical constraints on oocyte procurement; creation of embryonic chimeras; federal policies; and political realities. (Also offered as Biomolecular Engineering 247. Students cannot receive credit for both courses.) Prerequisite(s): Course in stem cell biology (ex: BME 278 Stem Cell Research) or the equivalent knowledge. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Course in stem cell biology (ex: BME 278 Stem Cell Research) or the equivalent knowledge. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "BME278"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY268A",
+      "name": "SOCY 268A — Science and Justice: Experiments in Collaboration",
+      "description": "Considers the practical and epistemological necessity of collaborative research in the development of new sciences and technologies that are attentive to questions of ethics and justice. Enrollment is by permission of instructor. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY268B",
+      "name": "SOCY 268B — Science and Justice Research Seminar",
+      "description": "Provides in-depth instruction in conducting collaborative interdisciplinary research. Students produce a final research project that explores how this training might generate research that is more responsive to the links between questions of knowledge and questions of justice. Prerequisite(s): SOCY 268A , BME 268A, FMST 268A, or ANTH 267A. Enrollment is restricted to graduate students and by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

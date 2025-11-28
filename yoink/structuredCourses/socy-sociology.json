@@ -1,0 +1,1642 @@
+{
+  "department": "SOCY - Sociology",
+  "slug": "socy-sociology",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/socy-sociology",
+  "generated_at": "2025-11-28T07:51:44.877277+00:00",
+  "courses": [
+    {
+      "id": "SOCY1",
+      "name": "SOCY 1 — Introduction to Sociology",
+      "description": "A systematic study of social groups ranging in size from small to social institutions to entire societies. Organized around the themes of social interaction, social inequality, and social change. Fulfills lower-division major requirement.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY3A",
+      "name": "SOCY 3A — The Evaluation of Evidence",
+      "description": "Introduces students to major types of date and data analysis used in sociology. Designed to give students a foundation in understanding social science research articles, reports, and media reports used in political and policy debates. Topics include: general principles of research design, measurement, inductive and deductive modes of reasoning, experimental design, field work and ethnographic design, and reading and understanding basic quantitative forms of data and analysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY3B",
+      "name": "SOCY 3B — Statistical Methods",
+      "description": "Introduces basic quantitative data analysis found in sociological research and policy reports. Topics include: inferential statistics, such as probability distributions, sampling, and testing; and descriptive statistics, such as measures of association, bivariate, and multivariate analysis. (Formerly course 103A.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY10",
+      "name": "SOCY 10 — Issues and Problems in American Society",
+      "description": "Exploration of nature, structure, and functionings of American society. Explores the following: social institutions and economic structure; the successes, failures, and intractabilities of institutions; general and distinctive features of American society; specific problems such as race, sex, and other inequalities; urban-rural differences. Fulfills lower-division major requirement.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY15",
+      "name": "SOCY 15 — World Society",
+      "description": "Introduction to comparative and historical sociology. Focuses on the global integration of human society. Examines social changes such as industrialization, globalization, colonial rule, and the rise of Islamic fundamentalism. Uses social theory (including ideas from Marx, Weber, and Adam Smith) to explore the making of institutions like the nation-state, the World Trade Organization, the World Bank, and the International Monetary Fund. Fulfills lower-division major requirement.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY30A",
+      "name": "SOCY 30A — Introduction to Digital Justice Studies",
+      "description": "The first class in a three-quarter sequence that prepares students for designing social justice and sustainability projects using digital technologies and tools in partnerships with community and non-governmental organizations. Tuesday's class topics include globalization, info-exclusion, social justice, information revolution, global civil-society networks, social entrepreneurship, and organizational assessment. Thursday's technical laboratory teaches students to develop practical digital technology skills for working in solidarity with community organizations in areas such as web design, graphic design, and digital networking. (Formerly Introduction to Global Information and Social Enterprise Studies.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY99",
+      "name": "SOCY 99 — Tutorial",
+      "description": "Directed reading and research. Petitions may be obtained from the Sociology Department Office. Ordinarily call numbers for this course will not be issued after the first week of instruction. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY105A",
+      "name": "SOCY 105A — Classical Social Theory",
+      "description": "This intensive survey course examines the intellectual origins of the sociological tradition, focusing on changing conceptions of social order, social change, and the trends observed in the development of Western civilization in the modern era. Readings are all taken from original texts and include many of the classical works in social theory with special emphasis on the ideas of Marx, Weber, and Durkheim, which constitute the core of the discipline. Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY105B",
+      "name": "SOCY 105B — Contemporary Social Theory",
+      "description": "Surveys major theoretical perspectives currently available in the discipline including functionalism, symbolic interactionism, ethnomethodology, conflict theory, critical theory, neo-Marxism, and feminist theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 105A and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": [
+        [
+          "SOCY105A"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY107A",
+      "name": "SOCY 107A — Designing Digital Justice Projects",
+      "description": "Covers designing doable digital technology-based projects to support the social and environmental goals of community and non-profit organizations. Topics include: step-by-step project design; integrating social and technical solutions; project management and social entrepreneurship/enterprise case studies. Technical topics include: Internet resources; advanced web/database design; computer networks/maintenance. Prerequisite(s): SOCY 30A and by permission of instructor. (Formerly Designing ICT Projects for Social Enterprise.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY107B",
+      "name": "SOCY 107B — Project Implementation for Digital Justice",
+      "description": "Covers conversion of planned digital justice projects into a fundable grant proposal for social justice, integration of social activism, entrepreneurship and justice, and implementation of project. Topics include: funders, proposal design, field methods, project assessment, innovative digital technology applications, action research methods, project implementation. (Formerly Project Implementation and Grant Writing for Social Entrepreneurs.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 107A .",
+      "prereqGroups": [
+        [
+          "SOCY107A"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY107F",
+      "name": "SOCY 107F — Digital Social Enterprise and Project Management",
+      "description": "Provides Everett Program Fellows with hands-on experience, working in teams, running a digital social enterprise and managing technology-linked projects implemented with student teams. Fellows work closely with faculty and staff of the Everett Program for Technology and Social change, managing and implementing all aspects of the program, including fundraising and financial administration, project planning and development, maintaining communication with community partners, and mentoring younger students in the project in their own technology learning and project implementation activities. Prerequisite(s): SOCY 30A , SOCY 107A , and SOCY 107B . Enrollment is by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY111",
+      "name": "SOCY 111 — Family and Society",
+      "description": "Focuses on the interaction between family and society by considering the historical and social influences on family life and by examining how the family unit affects the social world. Readings draw on theory, history, and ethnographic materials.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY113C",
+      "name": "SOCY 113C — Topics in Civic Engagement",
+      "description": "Explores the historical origins of contemporary civic polarization through the decades of political, cultural, technological. and legal changes that have resulted in our current combative political environment.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY114",
+      "name": "SOCY 114 — Sports and Society",
+      "description": "Explores the interconnections between sports and society using sociological theories and methods. Topics include class, race, and gender; mass media and popular culture; political economy; education and socialization; leisure patterns (participants and spectators); globalization and cross-national comparisons.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY115",
+      "name": "SOCY 115 — Introduction to Sound Studies",
+      "description": "Explores the interdisciplinary field of Sound Studies. Surveys the work of social scientists, media scholars, philosophers and others to better understand the role of sound in society. Lectures are presented in an audio-only format with a variety of listening activities and supplemental videos. By the end of the course, students will have a working understanding of the field of Sound Studies and a completed final project of their own design.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY116",
+      "name": "SOCY 116 — Communication, Media, and Culture",
+      "description": "Examines media institutions, communication technologies, and their related cultural expressions. Focuses on specific ways the mediaâincluding media studies and criticismâoperates as social and cultural factor. Contemporary theory or equivalent in related fields recommended.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 105A and SOCY 105B . Enrollment is restricted to junior and senior majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": [
+        [
+          "SOCY105A",
+          "SOCY105B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY117E",
+      "name": "SOCY 117E — Migrant Europe",
+      "description": "Introduction to questions of immigration, nationalism, and racism in contemporary Europe. Addresses colonial roots of migration to Europe; patterns of immigration and responses to immigrants across different European regions; and political movements led by immigrants and other people of color.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 , or SOCY 10 or SOCY 15 or CRES 10 or LGST 10 ; or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15",
+          "CRES10",
+          "LGST10"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY117M",
+      "name": "SOCY 117M — Immigration Enforcement and Deportations",
+      "description": "The intensification of immigration enforcement in the United States and the associated rise of mass deportations have reached the lives of millions of immigrants and local communities. Course covers the context, determinants, and consequences of enforcement and deportation practices.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or LALS 1 . Enrollment restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15",
+          "LALS1"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY118",
+      "name": "SOCY 118 — Popular Music, Social Practices, and Cultural Politics",
+      "description": "Considers the role of popular music as a site of contemporary social practices and cultural politics. Examines the institutional organization and production of popular music, its cultural meanings, and its social uses by different communities and social formations. Also examines popular music as a vehicle through which major cultural and political debates about identity, sexuality, community, and politics are staged and performed.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 105A or SOCY 105B . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY105A"
+        ],
+        [
+          "SOCY105B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY119",
+      "name": "SOCY 119 — Sociology of Knowledge",
+      "description": "If people define things as real, they are real in their consequences, quipped W.I. Thomas. Surveys sociological theories about where and how knowledge comes from, and the politics of knowledge, with reference to contemporary debates surrounding issues, such as climate change, genetics, and inequality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 105A or SOCY 105B , or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "SOCY105A"
+        ],
+        [
+          "SOCY105B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY120",
+      "name": "SOCY 120 — Gender, Race/Ethnicity, Sexuality and Cultural Politics",
+      "description": "Focuses on the role feminist discourses play in cultural politics emphasizing sex, sexuality, and sex work as related to gender, race , and class. Examines the relationship between academic and popular feminisms. Interrogates post-feminism, third-wave feminism, and generational differences in feminisms. Formerly Gender, Sexuality, and Cultural Politics.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 126 recommended. Enrollment is restricted to junior and senior sociology, critical race and ethnic studies, feminist studies, global information and enterprise, and Latin America/sociology majors, proposed majors, and minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY121",
+      "name": "SOCY 121 — Sociology of Health and Medicine",
+      "description": "Analysis of the current health care crises and exploration of the social relationships and formal organizations which constitute the medical institution. Study of the political, economic, and cultural factors which affect the recognition, distribution, and response to illness.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors and minors in biochemistry; biological sciences; community studies; critical race and ethnic studies; sociology; the Latin American studies/sociology combined majors; proposed and declared biotechnology majors and proposed sociology majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY121G",
+      "name": "SOCY 121G — Genomics and Society",
+      "description": "Teaches critical skills for analyzing the co-production of genomics and society. Examines issues at stake as societies across the world increasingly turn to genomic data to cure disease, solve crimes, regulate immigration, revitalize economies, and answer age-old questions about who we are.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 10 and SOCY 105B , or by permission of the instructor. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY10",
+          "SOCY105B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY122",
+      "name": "SOCY 122 — The Sociology of Law",
+      "description": "Explores the social forces that shape legal outcomes and the ways law, in turn, influences social life. Traces the history and political economy of American law; the relation between law and social change; how this relation is shaped by capitalism and democracy; and how class, race, and gender are expressed in welfare and regulatory law.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology, community studies, global and community health BA and BS, legal studies, Latin American and Latino studies/sociology combined, and digital justice studies (formerly GISES) studies majors, proposed majors and minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY123",
+      "name": "SOCY 123 — Global and Transnational Perspectives in Science and Technology Studies",
+      "description": "Examines transnational dimensions of science, technology, and medicine, with special attention to knowledge production, scientific practices, and therapeutics outside of North America and Western Europe. Students develop a conceptual foundation to analyze the global scale and impacts of scientific research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior sociology, anthropology, biology B.A., biotechnology, biochemistry and molecular biology, community studies, critical race and ethnic studies, feminist studies, global and community health BA and BS, history, legal studies, Latin American and Latino studies/sociology combined, politics, science and justice, and digital justice studies (formerly GISES) studies majors, proposed majors and minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY124",
+      "name": "SOCY 124 — Visual Sociology",
+      "description": "Learn to critically consume documentary, ethnographic film, photojournalism, and the genre of realism as these methods are increasingly used to describe the social world. Addresses theoretical, methodological, practical, and ethical issues of creating visual media. Optional media lab teaches students how to create visual products as well.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY125",
+      "name": "SOCY 125 — Society and Nature",
+      "description": "A healthy society requires a stable and sustainable relationship between society and nature. Covering past, present, and future, the course covers environmental history of the U.S., the variety and extent of environmental problems today, and explores their likely development in our lifetimes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in sociology, global information and enterprise, and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY126",
+      "name": "SOCY 126 — Sex and Sexuality as Social Practice and Representation",
+      "description": "Explores social and cultural aspects of human sexuality and reproduction, including how and why meanings and behaviors are contested. Analyzes sexuality and reproduction as forms of social and political control as well as cultural expression and self-determination.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior sociology, critical race and ethnic studies, feminist studies, Latin American/sociology combined, and digital justice studies (formerly GISES) majors, proposed majors, and minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY127",
+      "name": "SOCY 127 — Drugs in Society",
+      "description": "Explores the history of the use and abuse of consciousness-altering substances like alcohol and other drugs. Social-psychological theories of addiction are reviewed in tandem with political-economic analyses to identify the social conditions under which the cultural practices involved in drug use come to be defined as public problems. An introductory sociology course is recommended prior to taking this course.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to majors and minors in legal studies, sociology, Latin American/sociology combined, and digital justice studies (formerly GISES).",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY127P",
+      "name": "SOCY 127P — Sociology of Drugs, Botanicals and Pharmaceuticals",
+      "description": "Engages the social, historical, and economic trajectories of the drugs, illicit and licit, botanical and pharmaceutical within U.S. society. Through an examination of case studies, and other texts of encounter, explores how international, state, and local actors mediate as interlocutors between globalized interests, local knowledges, and the molecules we have increasingly come to know, ingest, and incorporate.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior sociology, anthropology, biology, biotechnology, biochemistry and molecular biology, community studies, critical race and ethnic studies, global and community health B.A. and B.S., Latin American/sociology combined, and digital justice studies (formerly GISES) majors, proposed majors, and minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128",
+      "name": "SOCY 128 — Law and Politics in Contemporary Japan and East Asian Societies",
+      "description": "Introduction to contemporary analysis of Japan's race relations, ethnic conflicts, and a government's failure to restore remedial justice for war victims in Japan, Asia, and the U.S. Specific issues include comfort women, national or state narratives on Hiroshima, forced labor during World War II, and Haydon legislation that allows war victims to sue the Japanese government and corporations in California.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to sophomore, junior, and senior majors, proposed majors, and minors in legal studies, sociology, community studies, Latin American/sociology combined, digital justice studies (formerly GISES), and critical race and ethnic studies.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128A",
+      "name": "SOCY 128A — Research Methods in Legal Studies and Critical Criminology",
+      "description": "Introduces survey research methods including problem formulation, research design, instrument construction, data collection, codification, data processing, computer analyses, and report writing. The greater emphasis is placed on statistical analyses and questionnaire constructions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128C",
+      "name": "SOCY 128C — Social History of Democracy, Anarchism, and Indigenism",
+      "description": "Provided an overview of socio-political theories and thoughts from Athenian Direct Democracy in 500 BC, to Classical Liberalism, Social Contract, Libertarian Socialism, Anarcho-Syndicalism, Neo-Liberalism, Anarcho-Primitism, and lastly Indigenism in relation to the revival of indigenous knowledge, theMother Earth law, and the restoration of the nature's rights as espoused by many governments in the Third World today.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 , SOCY 10 , or SOCY 15 . Enrollment is restricted to sophomore, junior, and senior sociology, critical race and ethnic studies, community studies, legal studies, Latin American/sociology combined, and digital justice studies (formerly GISES) majors, proposed majors, and minors.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY128I",
+      "name": "SOCY 128I — Race and Law",
+      "description": "An introduction to comparative and historical analyses of the relation between race and law in the U.S. Emphasis on examinations of continuous colonial policies and structural mechanisms that help maintain and perpetuate racial inequality in law, criminal justice, and jury trials. (Formerly Race and Justice)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to sophomore, junior, and senior majors, proposed majors, and minors in legal studies, sociology, community studies, Latin American/sociology combined, digital justice studies (formerly GISES), and critical race and ethnic studies.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128J",
+      "name": "SOCY 128J — The World Jury on Trial",
+      "description": "Adoption of the jury and its varied forms in different nations provides ideal opportunities to examine differences between systems of popular legal participation. Course considers reasons why the right to jury trial is currently established in Japan or Asian societies, but abandoned or severely curtailed in others. American jury contrasted with other forms of lay participation in the legal process.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to sophomore, junior, and senior majors, proposed majors, and minors in legal studies, sociology, community studies, Latin American/sociology combined, digital justice studies (formerly GISES), and critical race and ethnic studies.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128M",
+      "name": "SOCY 128M — International Law and Global Justice",
+      "description": "Examines war crimes, crimes against humanity, and the evolution and role of the International Criminal Court (ICC). Examines the evolution of the concept of international law, the rationale for its birth and existence, roots of international conflicts and genocides, possible remedies available to victims, mechanisms for the creation and enforcement of international legal order, as well as the role of colonialism, migration, poverty, race/ethnic conflicts, gender, and international corporations in creating and maintaining conflicts and wars.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to sophomore, junior, and senior majors, proposed majors, and minors in legal studies, sociology, community studies, Latin American/sociology combined, digital justice studies (formerly GISES), and critical race and ethnic studies.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY129",
+      "name": "SOCY 129 — Popular Culture and Cultural Studies",
+      "description": "Examines the hidden politics of popular pleasure, studying the workings of domination and transgression in popular culture and everyday life. Explores not only media representations but cultural practices as well. Examines both cultural production and consumption. Considers how hegemonic discourses render the politics of resistance invisible.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 105A or SOCY 105B . Enrollment is restricted to junior and senior majors and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": [
+        [
+          "SOCY105A",
+          "SOCY105B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY130",
+      "name": "SOCY 130 — Sociology of Food",
+      "description": "Following food from mouth to dirt, explores the politics, economy, and culture of eating, feeding, buying, selling, and growing food. Topics cover both the political economy of the food system as well as how body and nature are contested categories at either end of this system.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors. Enrollment is restricted to sociology majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY131",
+      "name": "SOCY 131 — Media, Marketing, and Culture",
+      "description": "Explores relationship between modern forms of cultural production and the economy and society in which they emerge. Course reads, screens, and discusses variety of the cultural texts: from the historical and theoretical to the commercial, popular, and counter-cultural.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), community studies, and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY132",
+      "name": "SOCY 132 — Sociology of Science and Technology",
+      "description": "Reviews social and cultural perspectives on science and technology, including functionalist, Marxist, Kuhnian, social constructionist, ethnographic, interactionist, anthropological, historical, feminist, and cultural studies perspectives. Topics include sociology of knowledge, science as a social problem, lab studies, representations, practice, controversies, and biomedical knowledge and work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors/minors in sociology; biology; biochemistry; community studies; critical race/ethnic studies; global information/social enterprise; Latin American studies/sociology combined; proposed sociology majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY133",
+      "name": "SOCY 133 — Currents in African American Cultural Politics",
+      "description": "Takes as its subject, the dialogues, debates, conceptions, and strategies of self representation produced by blacks in the U.S. and Atlantic world in the twentieth and twenty-first centuries. These issues are examined through the insights of feminist theory, cultural studies, media studies, sociology, and African American studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY134",
+      "name": "SOCY 134 — Television and the Nation",
+      "description": "The role of American network television in the production of the post-war American national imagination is our focus. Our approach will explore issues of media power, especially television's industrial apparatus, its network structure, its strategies of representation in relationship to the construction of the image of the nation, and the meaning of citizens, consumers, and audiences.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors and minors in sociology, Latin America and Latino studies/sociology combined, digital justice studies (formerly GISES) studies, history, literature, and film and digital media.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY135",
+      "name": "SOCY 135 — Healing Justice",
+      "description": "This experiential course explores the theoretical foundations, history, and future of healing justice as a framework using an embodied approach. Healing justice has shaped wide-ranging fields, from grassroots organizing and holistic health, to grant-making, and education. While the framework informs a dynamic movement, healing justice is grounded in consistent commitments like collective healing; centering Black, indigenous and people of color knowledges; and more that guide this course. Grounded in somatic or embodied inquiry, students engage various materialsâfrom academic articles to poetryâusing some of the restorative practices that are central to healing justice work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 105A and SOCY 105B , or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "SOCY105A"
+        ],
+        [
+          "SOCY105B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY136",
+      "name": "SOCY 136 — Social Psychology",
+      "description": "Major theories and concepts in sociological study of social psychology. Topics include identity and social interaction, deviance, sociology of emotions, social narratives, and the social construction of reality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior sociology and Latin American studies/sociology majors and proposed majors, and sociology and digital justice studies (formerly GISES) minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY137",
+      "name": "SOCY 137 — Deviance and Its Discontents",
+      "description": "Why certain social acts are considered threatening and how individuals or groups become stigmatized. Sociological analysis of the institutions and processes of social control and the experience of becoming deviant and living with a stigmatized identity. Introductory course in sociology recommended. (Formerly Deviance and Conformity.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior sociology majors, minors, and proposed majors, digital justice studies (formerly GISES) studies minors, and Latin American and Latino studies/sociology combined majors and proposed majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY139",
+      "name": "SOCY 139 — Field Research Methods",
+      "description": "Research practicum which examines methods and problems of qualitative field research both through examining literature published in this tradition and by carrying out directed field exercises. Students also design and carry out their own research project.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 3A .",
+      "prereqGroups": [
+        [
+          "SOCY3A"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY139D",
+      "name": "SOCY 139D — Critical Digital Methods",
+      "description": "Introduces critical digital methods to examine ethical and epistemological concerns with Big Data, archives and digital collections, organizational records, mobile ethnographies, social media, and crowd-sourced data. Students use open-source text mining and data-visualization programs.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 , SOCY 10 , or SOCY 15 ; and SOCY 3A . Enrollment is restricted to junior and senior sociology, Latin American and Latino studies/sociology, and digital justice studies (formerly GISES) majors, proposed majors, and minors.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15"
+        ],
+        [
+          "SOCY3A"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY139G",
+      "name": "SOCY 139G — Introduction to Geographic Information Systems (GIS)",
+      "description": "Introduces Geographic Information Systems (GIS) including methods to analyze geographic data and create maps. Students learn software, such as Google Map APIs and Bing Maps APIs, and focus on the ArcGIS mapping software. A course in statistics is recommended as preparation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to junior and senior anthropology, environmental studies, sociology, Latin American and Latino studies/sociology combined, and digital justice studies (formerly GISES) majors, proposed majors, and minors; other majors by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY139I",
+      "name": "SOCY 139I — Community Engaged Research, Learning and Internships",
+      "description": "Introduction to critical community engaged learning and research for social change as practiced within the Sociology Department. Students build out their own internship and/or research objectives centering ethical community engaged practices. Students supported in locating internships, learning about various approaches to community engaged research and learning, and connecting to a range of opportunities to engage both on and off campus.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or by permission of the instructor. Enrollment is restricted to sociology majors and proposed majors, Latin American and Latino studies/sociology combined majors and proposed majors, and digital justice studies (formerly GISES) minors.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY139T",
+      "name": "SOCY 139T — Community-Engaged Research Practicum",
+      "description": "Covers the theories and methods associated with community-based and participatory action research. Students review relevant scholarship then engage in a collective field research project in collaboration with a community organization. Themes, collaborations, and research projects vary. Enrollment is by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY140",
+      "name": "SOCY 140 — Social Psychology of Power",
+      "description": "This course uses historical, sociological, and social psychological materials to introduce students to issues concerning class and power, religion and power, minorities and power, women and power, the rise of the New Right, and the successes and failures of the Left.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 , SOCY 10 , SOCY 15 , or PSYC 40 . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15",
+          "PSYC40"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY141",
+      "name": "SOCY 141 — Social Welfare",
+      "description": "Familiarizes students with the major social welfare programs and policies in the U.S., exploring changes in conceptualizations of social welfare, and offering a critical perspective on the present-day welfare state.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Two courses chosen from SOCY 1 , SOCY 10 , and SOCY 15 . Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY142",
+      "name": "SOCY 142 — Language and Social Interaction",
+      "description": "Concerns the routine and taken-for-granted activities that make up our interactions with one another, consisting in large partâbut not exclusivelyâof verbal exchanges. Emphasis on the socially situated character of communication, whether intimacy between two people or dominance of a group.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, language studies, linguistics, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY143",
+      "name": "SOCY 143 — Black Botanical Medicine in the Americas",
+      "description": "How have plants been part of Black-led community health and healing in the Americas? How has this botanical knowledge been central to material and discursive geographies of blackness; to how blackness is lived; and to how blackness is constructed in health narratives, policy, and movements? In addition to learning about Black botanical knowledge in North and Latin America (African-American and Afro-Latinx), students analyze their own social locations; interrogate assumptions about local and traditional plant knowledge; and encounter broad understandings of health that include environmental, economic, and spiritual dimensions. Students engage with academic texts, news stories, art, and creative writing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or CRES 10 or CRES 68 or GCH 1 , or by instructor permission. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15"
+        ],
+        [
+          "CRES10",
+          "CRES68"
+        ],
+        [
+          "GCH1"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY145",
+      "name": "SOCY 145 — Sociology of Masculinities",
+      "description": "Examines conflicting views on the development and state of modern masculinity as adaptation, transitional phase, or pathology. Did men lose the gender war? Do boys need rescuing? What are common and divergent social experiences of men within race, class, gender, culture, era? An introductory sociology course recommended.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, psychology, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY146",
+      "name": "SOCY 146 — Introduction to Population Health",
+      "description": "Why do people live longer today than they did 50 years ago? What drives differences in health between neighborhoods or nations? This course introduces students to questions and concepts central to the study of population healthâan interdisciplinary field based in demography, sociology, and epidemiology. It examines the policy implications and limitations of research on population health. Students practice evaluating evidence, translating big-picture concepts into measurable variables, and working with data. Student learning is evaluated through class discussion forums, quizzes, data interpretation assignments, and a take-home final exam.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: GCH 1 or SOCY 1 or SOCY 10 or SOCY 15 or CRES/SOCY 12. Enrollment restricted to sophomore, junior or senior proposed or declared majors and minors in GCH BA, SOCY BA, LALS/SOCY combined BA, digital justice studies (formerly GISES) minor, and science and justice minor.",
+      "prereqGroups": [
+        [
+          "GCH1",
+          "SOCY1",
+          "SOCY10",
+          "SOCY15"
+        ],
+        [
+          "CRESSOCY12"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY147",
+      "name": "SOCY 147 — Health in a Changing America",
+      "description": "What about America is making Americans sick? In this interdisciplinary course, students consider the changing social context of health in the United States and the social and political commitments necessary to protect health as a human right. Students analyze current challenges at the intersection of structural racism, political values, and health, and examine the ways that framing health as personal versus public responsibility is consequential for social policy. Using case studies, students envision a human rights- based response to these and other health challenges. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY148",
+      "name": "SOCY 148 — Educational Inequality",
+      "description": "Examines educational inequality in the United States, focusing on contemporary debates and issues, especially in the California context. Covers schooling from preschool to higher education, and examines educational inequality from a system, setting, and individual-level perspective.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 3A and SOCY 3B , or by instructor permission. Enrollment restricted to junior, senior majors, proposed majors, and minors in sociology, education, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": [
+        [
+          "SOCY3A"
+        ],
+        [
+          "SOCY3B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY149",
+      "name": "SOCY 149 — Sex and Gender",
+      "description": "Modern analyses of sexuality and gender show personal life closely linked to large-scale social structures: power relations, economic processes, structures of emotion. Explores these links, examining questions of bodily difference, femininity and masculinity, structures of inequality, the state in sexual politics, and the global re-making of gender in modern history. Recommended as background: any lower-division sociology course.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY150",
+      "name": "SOCY 150 — Sociology of Death and Dying",
+      "description": "Explores contemporary, historical, cross-cultural and interdisciplinary perspectives on the social psychology of death and dying. Cultural norms and institutional contexts are studied, along with the individual experience, and the ways in which our perspectives on death and dying influence our experiences of life and living.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY151",
+      "name": "SOCY 151 — Media Activism",
+      "description": "Delves into the dynamic interplay between media and activism, underscoring the ways in which grassroots communities use diverse media forms for mutual aid and social change. By analyzing case studies from across the globe, students gain a deeper understanding of the multifaceted influence of mediaâfrom its portrayal and (mis)framing of popular struggles to its capability to either propel or hinder social justice activism. Key areas of study encompass media and direct action, net histories, cyber queer and feminism, abolition technology, alternative media, gaming and tactical media, and more.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY152",
+      "name": "SOCY 152 — Body and Society",
+      "description": "Critically examines the place of the human body in contemporary society. Focuses on the social and cultural construction of bodies, including how they are gendered, racialized, sexualized, politicized, represented, colonized, contained, controlled, and inscribed. Discusses relationship between embodiment, lived experiences, and social action. Focuses on body politics in Western society and culture, especially the United States.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors and minors and proposed majors and minors in sociology, global information and enterprise, and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY153",
+      "name": "SOCY 153 — Sociology of Emotions",
+      "description": "Examines sociological approaches to the understanding of emotions and the application of these approaches to work, learning, interpersonal relationships, health and illness, sports, and other aspects of everyday life.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY154",
+      "name": "SOCY 154 — Sociology of Anti-Fat Bias",
+      "description": "Examines the ways in which U.S. society pathologizes and marginalizes fat bodies, the impact that structural and social exclusion have on fat peopleâs lives and health, and possibilities for transforming discourses of anti-fatness in cultural conversations around body size.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared junior and senior majors and minors in sociology, Latin American and Latino studies/sociology combined, and global and community health.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY155",
+      "name": "SOCY 155 — Political Consciousness",
+      "description": "Explores the relationship between consciousness, ideology, and political behaviors from voting to rebellion. Special attention is given to the lived experience and the identity interests that complicate the nexus of class position and political ideology. An introductory sociology course is recommended as preparation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY156",
+      "name": "SOCY 156 — U.S. Latinx Identities: Centers and Margins",
+      "description": "Explores historical and contemporary constructions of Latinx identities and experiences in U.S. Particular emphasis placed on transcultural social contexts, racial formations, and intersections with other identities including sexuality and gender. (Formerly U.S. Latina/o Identities: Centers and Margins).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, global information and enterprise, Latin American studies, and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY157",
+      "name": "SOCY 157 — Sexualities and Society",
+      "description": "Explores controversies in the sociology of sexuality. Focuses on tensions and disagreements that characterize debates over sex and society, and attempts to identify political and theoretical issues at stake in these debates.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior and senior majors, proposed majors, and minors in sociology, feminist studies, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY158",
+      "name": "SOCY 158 — Politics of Sex Work and Erotic Labor",
+      "description": "Examines sex work in an historical and cultural context, considering how it has changed over time. Considers the relationship of pornography, exotic dance, and selling sex on the Internet to racialization, queer politics, globalization, and tourism. Employs theories and methods of cultural studies in rethinking historical debates on sex work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 120 and SOCY 126 . Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, feminist studies, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": [
+        [
+          "SOCY120",
+          "SOCY126"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY159",
+      "name": "SOCY 159 — Pregnancy and Birth",
+      "description": "Examines the socio-cultural processes that shape the meanings, experiences, institutions, and outcomes of pregnancy and birth. Pregnancy and birth serve as a microcosm for understanding the interlocking forces of patriarchy, racial capitalism, and white supremacy, as well as the gendered and sexualized meanings and practices that work to discipline individuals and naturalize those processes. As such, course examines institutional efforts to control the reproductive capacities of people with wombs, as well as resistance to those efforts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or FMST 1 or CRES 10 or GCH 1 or by permission of the instructor. Enrollment is restricted to sophomores, juniors and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "FMST1"
+        ],
+        [
+          "CRES10"
+        ],
+        [
+          "GCH1"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY160",
+      "name": "SOCY 160 — Solving Homelessness",
+      "description": "Explores the phenomenon of homelessness and potential solutions to this troubling and persistent feature of American society. Discussions center on social research, historical context, and community and political discourse as they relate to homelessness at both the local and global level with the goal of better understanding what the trends in these areas mean for service providers, government entities, advocates, and our unhoused community members. While the course readings often center on theories and data, a key component this course is field visits and expert presentations, which introduce students to key individuals and organizations doing work or making policy to address homelessness.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY161",
+      "name": "SOCY 161 — Postpartum",
+      "description": "Examines the social processes that shape the meanings, experiences, institutions, and outcomes of the postpartum period. The postpartum period serves as a microcosm for understanding the interlocking forces of patriarchy, racial capitalism, and white supremacy, as well as the gendered and sexualized meanings and practices that work to discipline individuals and naturalize those processes. Despite that, parents organize for collective solutions, break stigma, resist shame and silence, and demand better conditions for families.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or FMST 1 or CRES 10 or GCH 1 , or by permission of the instructor. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "FMST1"
+        ],
+        [
+          "CRES10"
+        ],
+        [
+          "GCH1"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY162",
+      "name": "SOCY 162 — Sociology of Organizations",
+      "description": "Introduces students to a range of sociological approaches to the study of organizations. Covers the origins of organizations and informal organization. Also introduces a number of theoretical approaches to organizational studies. The course is relevant for organizational analyses applied in the public, private, and nonprofit sectors. In addition to reading foundational texts and theory, students also apply key concepts in the course to assignments with real-world applications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or by permission of the instructor. Enrollment is restricted to sociology, Latin American and Latino studies/sociology, and digital justice studies (formerly GISES) studies majors.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY163",
+      "name": "SOCY 163 — Global Corporations and National States",
+      "description": "Examines the nature and development of the capitalist world system since 1945. Emphasis is on the power of multinational corporations as managers of the world system and the response of states: role of multilateral agencies such as the World Bank, International Monetary Fund, United Nations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 15 . Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": [
+        [
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY164",
+      "name": "SOCY 164 — Capitalism and Its Critics",
+      "description": "Through comparative analysis of texts by several social theorists, explores the rise and consequences of capitalism. How has capitalism affected how humans understand and act in the world? How do oppressions along the lines of race, gender, sexuality, and nations intersect with capitalism? Is resistance desirable and/or possible?",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior sociology, global information and enterprise, and combined Latin American and Latin Studies/sociology majors, proposed majors, and minors, or by instructor permission.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY164T",
+      "name": "SOCY 164T — Marx and Marxist Theory",
+      "description": "Along with studying Marx's anatomy of capitalist society, this course also explores the work of Marxist theorists from the early 20th century through the contemporary moment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 105A or consent of instructor.",
+      "prereqGroups": [
+        [
+          "SOCY105A"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY166",
+      "name": "SOCY 166 — Economics for Non-Economists",
+      "description": "Fosters economic literacy among students who are not economics majors but are interested in the political and social ramifications of economic change. Emphasizes economic institutions and policy and is taught by case-study method, which requires active student participation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY167",
+      "name": "SOCY 167 — Development and Underdevelopment",
+      "description": "Examines contemporary debates about development in the Third World: alternative meanings of development, recent work on the impact of colonial rule, how some economies have industrialized, ideas about agrarian change, and recent research on paths out of poverty. Students work in pairs to examine a development in one country since World War II. SOCY 15 recommended.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in sociology, anthropology, politics, global economics, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY168",
+      "name": "SOCY 168 — Social Justice",
+      "description": "Explores sociological approaches to the quest for--and the realization of--social justice. Examines a range of approaches to such ongoing challenges as racism, sexism, gendered discrimination, classism, poverty, violence, militarism, environmental devastation, ableism, and ageism using non-fiction literature and biographical anthologies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to sophomores, juniors and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY169",
+      "name": "SOCY 169 — Social Inequality",
+      "description": "A survey of theories and systems of social stratification focusing on such phenomena as race, class, power, and prestige.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior sociology and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY170",
+      "name": "SOCY 170 — Ethnicity and Race",
+      "description": "Examines the enduring and changing status of ethnic and racialized minority groups in the United States, such as Latina/os, African Americans, Asian Americans, indigenous peoples within the U.S., as intersecting, historically situated, and dynamically produced categories of social identity and organization. (Formerly Ethnic and Status Groups.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or CRES 10 .",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "CRES10"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY170P",
+      "name": "SOCY 170P — The Political Economy of Race",
+      "description": "Explores the enduring racial and economic legacies of slavery and colonialism in relation to contemporary social problems, with an emphasis on segregation, policing, the prison industrial complex, immigration, and borders.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or CRES 10 , or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "SOCY15"
+        ],
+        [
+          "CRES10"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY171",
+      "name": "SOCY 171 — Exploring Global Inequality",
+      "description": "Seminar focusing on readings of key texts and recent research papers on several dimensions of global inequality (material, health, gender, cultural, migration) to find innovative ways of understanding the connections among different dimensions of inequality and of visualizing inequality in digital media. Students prepare visual presentations on contemporary social inequalities suitable for an online (for example, http://ucatlas.ucsc.edu/) or print atlas.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY172",
+      "name": "SOCY 172 — Sociology of Social Movements",
+      "description": "Through readings on social movements that span the 20th century, course examines the causes of popular mobilizations, their potential for rapid social change, and the theories developed to understand and explain their role in modern social life.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY173",
+      "name": "SOCY 173 — Water",
+      "description": "Analyzes access to clean water, both in the American West and global South. Reviews water quality, pivotal role of water in settlement and society, history and contemporary inequalities, water supplies, international conflict over water, climate change, and human use of water.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior sociology majors, and proposed majors, and minors in sociology, environmental studies, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY173X",
+      "name": "SOCY 173X — Water and Sanitation Justice",
+      "description": "Explores the many manifestations of water and sanitation justice and injustice on interlocking scales (i.e. local, national, transnational) while illustrating analytical ideas connecting a range of social processes including claims for human rights, deprivation and exclusion, urbanization and infrastructure development, and privatization of land and water. Looks at various case studies in high-income and low-income countries and uses key technical and social concepts to examine rights, equity, and justice with respect to water and sanitation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY174",
+      "name": "SOCY 174 — Tools for Human Rights Advocacy and Practice",
+      "description": "Presents professional practices in the international field of human rights leading to improvements in people's lives. Addresses recent political developments in the global application of human rights and exposes students to strategic toolsâ\"levers of effectiveness\"âused to promote the realization of human rights standards. Course also presents the work of key international and local non-governmental organizations in promoting the capacities of rights holder to claim and enjoy their rights and in persuading duty bearers to fulfill their human rights obligations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: SOCY 1 or SOCY 10 or SOCY 15 or LGST 10 or by permission of the instructor. Enrollment is restricted to proposed and declared sophomore, junior, and senior majors in sociology, legal studies, Latin American and Latino studies and sociology combined studies, and digital justice studies (formerly GISES) studies minors.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "SOCY15"
+        ],
+        [
+          "LGST10"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY175",
+      "name": "SOCY 175 — Technology and Labor",
+      "description": "This reading-intensive elective delves into the rapid acceleration of technology and its profound societal implications, especially the ways through which workplaces, homes, and the liminal spaces in between are imagined, constructed and reshuffled. It employs a historical, intersectional, infrastructural and global perspective to dismantle and reexamine conventional notions of technology and technological labor.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "SOCY10"
+        ],
+        [
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY176",
+      "name": "SOCY 176 — Women and Work",
+      "description": "Examines the history of women and work; women's current conditions of work and political, economic, and social factors affecting these conditions; means by which women may shape working conditions including contributing leadership, developing policies, building unity, and creating alliances.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, feminist studies, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY176A",
+      "name": "SOCY 176A — Work and Inequality",
+      "description": "Addresses how work is organized and shapes life changes. Covers: the history of paid work; the impact of technology; race/class/gender at work; professional and service work; work and family; collective responses to work; and challenges of work in a globalizing economy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, community studies, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY177",
+      "name": "SOCY 177 — Urban Sociology",
+      "description": "Historical and contemporary examination of urban life including community, race, geography, urban and suburban cultures and lifestyles, stratification, housing, crime, economic and environmental issues, demographic changes, and global urbanization.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY177A",
+      "name": "SOCY 177A — Latinos/as and the American Global City",
+      "description": "Examines roles of emerging Latino/a majorities in urban centers across the U.S. Explores the Latinization of U.S. cities and various factors affecting the life chances of Latinos/as including, but not limited to, immigration, segregation, social movements, and other forms of political participation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, Latin American and latino studies, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY177E",
+      "name": "SOCY 177E — Eco-Metropolis: Research Seminar in Urban and Environmental Studies",
+      "description": "Explores the intersection of cities and the environment through the emerging field of urban environmental studies. Focuses on varied and often contested efforts at urban sustainability in recent history. Draws on literatures in environmental history, environmental and urban sociology, geography, political ecology, and cultural studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, community studies, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY177G",
+      "name": "SOCY 177G — Global Cities",
+      "description": "Explores how global cities have facilitated increasing integration of the diverse cultures and economies of the world. Using historical, sociological, and comparative methods, analyzes how these spaces both enable and constrain transnational flows of capital, labor, information, and culture.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, community studies, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY178",
+      "name": "SOCY 178 — Sociology of Social Problems",
+      "description": "Views problems in society not as given but as social constructs. Examines the ways in which conditions in society become identified and defined as problems and consequences that follow from such a process.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY178T",
+      "name": "SOCY 178T — Special Topics in Sociology",
+      "description": "Taught on a rolling basis by faculty members with each offering varying by instructor. Topics are announced by the department.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY178Z",
+      "name": "SOCY 178Z — Disability and Society",
+      "description": "An in-depth exploration of Disability Studies, an interdisciplinary field of research that seeks to question and critique dominant Western understandings of disability and to advance discussions around issues of intersectionality, equality, inclusionary politics of access, and social justice.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY179",
+      "name": "SOCY 179 — Nature, Poverty, and Progress: Dilemmas of Development and Environment",
+      "description": "Concerns about environmental change, including global warming, threats to the ozone layer, and industrial pollution, raise questions about Third World development. Simple views of the relation between society and nature, such as blaming population growth, industrialization, or poor people, seem to preclude higher living standards. Uses debates and case studies to explore more subtle and optimistic views of social-natural relations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in environmental studies, sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors. SOCY 15 recommended.",
+      "prereqGroups": [
+        [
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY180",
+      "name": "SOCY 180 — Social Movements of the 1960s",
+      "description": "Examines the roots, development, and political outcomes of black civil rights organizations during the Sixties. Explores social and structural forces, mobilization of black communities, strategies and tactics used, nature of the relationships between various civil rights organizations, unity and disunity among organizations, leadership gains, and impact on race relations in the U.S.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY184",
+      "name": "SOCY 184 — Hunger and Famine",
+      "description": "Why do famines happen? Why are some hungry and some over-fed? Recent advances in the understanding of food crises and chronic undernutrition are the focus of this course.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY185",
+      "name": "SOCY 185 — Environmental Inequality",
+      "description": "Modern society not only assaults nature, it does so in ways that reproduce existing social inequalities. This course reviews three types of contemporary environmental inequality (environmental racism, displacement, and privilege), and the processes that produced them, with a focus on industrialization, urbanization, and the rise of capitalism in Europe and the United States.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, community studies, digital justice studies (formerly GISES), environmental studies, and Latin American studies/sociology combined.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY187",
+      "name": "SOCY 187 — Feminist Theory",
+      "description": "Examination of shifts in 20th- and 21st-century feminist theory and epistemology. Considers various deconstructive challenges to second wave feminism based on the politics of race, ethnicity, nation, sexuality, and class. Focus changes regularly.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or FMST 1 . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "SOCY1"
+        ],
+        [
+          "FMST1"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY188A",
+      "name": "SOCY 188A — Social Change in the Global Economy",
+      "description": "Explores local dimensions of globalization, focusing on experiencing more global divisions of labor in both industrialized and developing countries. Themes include: economic integration and dislocation; new forms of governance; globalizing consumption and culture; gender; and popular resistance.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in sociology, digital justice studies and Latin American studies/sociology combined majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY193",
+      "name": "SOCY 193 — Field Study",
+      "description": "Provides for (department-sponsored) individual field study in the vicinity of the campus under the direct supervision of a faculty sponsor (as opposed to SOCY 198 where faculty supervision is by correspondence). Up to three such courses may be taken for credit in any one quarter. Ordinarily call numbers for this course will not be issued after the first week of instruction. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY193D",
+      "name": "SOCY 193D — Summer Digital Justice Project Implementation",
+      "description": "Open to students in the Everett Program who have completed SOCY 107A and SOCY 107B and are in the process of completing their project requirement for the Digital Justice Studies minor/intensive concentration in sociology. This course provides hands-on experience, working in teams, to implement a digital justice project in collaboration with a community partner. Prerequisite(s): SOCY 107A and SOCY 107B . Enrollment is by permission of the instructor.",
+      "credits": "10",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY193F",
+      "name": "SOCY 193F — Field Study",
+      "description": "Provides for department-sponsored individual field study in the vicinity of campus under the direct supervision of a faculty sponsor. May not be counted toward major requirements. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY193I",
+      "name": "SOCY 193I — Sociology Global Internship",
+      "description": "This course, in collaboration with Global Learning, supports students in completing an internship abroad, while engaging in research and scholarly investigation around the context that the organization is working in. Students are supported with a faculty member to process skills, and engage in research that supports the work of the internship. Students must apply through the UCSC Global Internships program. Enrollment is restricted to junior and senior declared and proposed sociology and Latin American and Latino studies/sociology combined majors, and global information and social enterprise studies minors.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY194",
+      "name": "SOCY 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY194F",
+      "name": "SOCY 194F — Group Tutorial",
+      "description": "Small group study of a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY195A",
+      "name": "SOCY 195A — Senior Thesis",
+      "description": "Preparation of a senior thesis over one, two, or three quarters, beginning in any quarter. The senior thesis satisfies the comprehensive requirement. Course is for independent thesis research and writing. Courses may be taken consecutively or concurrently. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY195B",
+      "name": "SOCY 195B — Senior Thesis",
+      "description": "Preparation of a senior thesis over one, two, or three quarters, beginning in any quarter. The senior thesis satisfies the comprehensive requirement. Course is for independent thesis research and writing. Courses may be taken consecutively or concurrently. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY195C",
+      "name": "SOCY 195C — Senior Thesis",
+      "description": "Preparation of a senior thesis over one, two, or three quarters, beginning in any quarter. The senior thesis satisfies the comprehensive requirement. Course is for independent thesis research and writing. Courses may be taken consecutively or concurrently. Completion of course 195C (completion of the thesis) satisfies the W general education requirement. Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY196G",
+      "name": "SOCY 196G — Project Practicum: Digital Justice Studies",
+      "description": "Project practicum and evaluation are required for completion of major or minor in digital justice studies studies (DJS). Projects require approval in advance by the director of DJS. Completed projects must be uploaded electronically on the website or archive of the Everett Program. (Formerly Project Practicum: Global Information and Social Enterprise.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY196S",
+      "name": "SOCY 196S — Senior Seminar",
+      "description": "Small seminars that focus on advanced topics in sociology. The pedagogical aims vary but these seminars often emphasize at least one of the following: close textual analysis, critical and analytical thinking, active learning, field research, advanced research methods, or advanced theory. Topics vary yearly; consult current course listings. Enrollment by application with selection based on appropriate background and by consent of instructor. Satisfies senior comprehensive requirement. Restricted to senior sociology majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY198",
+      "name": "SOCY 198 — Independent Field Study",
+      "description": "Provides for (department-sponsored) individual study program off campus for which faculty supervision is not in person (e.g., supervision is by correspondence). Up to three such courses may be taken for credit in any one quarter. Ordinarily call numbers for this course will not be issued after the first week of instruction. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY199",
+      "name": "SOCY 199 — Tutorial",
+      "description": "Advanced directed reading and research. Petitions may be obtained from the Sociology Department Office. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY199F",
+      "name": "SOCY 199F — Tutorial",
+      "description": "Advanced directed readingsand research. Petitions may be obtained from the Sociology Department Office. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY200A",
+      "name": "SOCY 200A — Social Theory 1",
+      "description": "The first in a three-quarter theory sequence that surveys major schools of modern social and political thought, including political economy, structuralism, post-structuralism, phenomenology, global Marxisms, post-colonial theory, critical race theory, and queer and feminist theory. Each quarter covers three thematic modules from the following: the history of sociology and the social sciences; the Enlightenment and the social turn; modernity and its others; political economy; culture and cultural politics; identity, subjectivity, consciousness; the social production of difference; the human and its others; space, place, and power.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY200B",
+      "name": "SOCY 200B — Social Theory 2",
+      "description": "The second in the three-quarter theory sequence that surveys major schools of modern social and political thought, including political economy, structuralism, post-structuralism, phenomenology, global Marxisms, post-colonial theory, critical race theory, and queer and feminist theory. Each quarter covers three thematic modules from the following: the history of sociology and the social sciences; the Enlightenment and the social turn; modernity and its others; political economy; culture and cultural politics; identity, subjectivity, consciousness; the social production of difference; the human and its others; space, place, and power.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 200A . Enrollment is restricted to sociology graduate students or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "SOCY200A"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY200C",
+      "name": "SOCY 200C — Social Theory 3",
+      "description": "The third in Sociologyâs three-quarter theory sequence that surveys major schools of modern social and political thought, including political economy, structuralism, post-structuralism, phenomenology, global Marxisms, post-colonial theory, critical race theory, and queer and feminist theory. Each quarter covers three thematic modules from the following: the history of sociology and the social sciences; the Enlightenment and the social turn; modernity and its others; political economy; culture and cultural politics; identity, subjectivity, consciousness; the social production of difference; the human and its others; space, place, and power.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: SOCY 200A and 200B. Enrollment is restricted to sociology graduate students or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "SOCY200A",
+          "SOCY200B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY203",
+      "name": "SOCY 203 — Sociological Methods",
+      "description": "Approaches methods as a series of conscious and strategic choices for doing various kinds of research. Introduces students to the epistemological questions of method in social sciences; to key issues in technique, particularly control, reliability, and validity; and to good examples of social research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students and by permission number.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY204",
+      "name": "SOCY 204 — Methods of Quantitative Analysis",
+      "description": "Students are provided with intuitive explanation of fundamental concepts in statistics and learn how to use statistics to answer sociological questions. Experience and guidance in using computers to efficiently analyze data are provided.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students and by permission number.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY205",
+      "name": "SOCY 205 — Field Research Methods",
+      "description": "Gives students first-hand experience doing fieldwork with an emphasis on participant observation and some interviewing. Students submit weekly field notes and a final project analysis. At seminar meetings, field experiences and relevant literature are examined.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students and by permission number.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY206",
+      "name": "SOCY 206 — Comparative Historical Methods",
+      "description": "Overview of research strategies and methods used in historical and social sciences. Students read works exemplifying a variety of analytical approaches. Written assignments cultivate critical skills, weighing of tradeoffs inherent in all methodological choices, and elaboration of hypothetical research designs.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY208",
+      "name": "SOCY 208 — Writing Practicum",
+      "description": "Writing intensive course designed to facilitate the completion of the master's thesis, orals field statement, or the dissertation in sociology. The seminar is convened by a faculty member in conjunction with students and their adviser or appropriate committee chair. Students are expected to produce and present drafts of work completed in the seminar.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY209",
+      "name": "SOCY 209 — The Analysis of Cultural Forms",
+      "description": "Examines material and symbolic forms such as media products, cultural artifacts, language, nonverbal communication and social practices using discourse, textual, content, interpretive, and conversation analyses as well as ethnography and different channels of communication. Theoretically, relies on cultural studies, communication studies, cultural sociology, film studies, and ethnomethodology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY220",
+      "name": "SOCY 220 — Global Transformation: Macrosociological Perspectives",
+      "description": "Classical concepts and contemporary approaches in macrosociology, the study of large-scale, long term social change. Readings drawn primarily from the Marxian and Weberian traditions (new institutionalism, varieties of neo-Marxism, environmental history, state centrism) as they focus on agrarian and industrial structures and commodity chains; household, village, and neighborhood organization; social movements and revolutions; culture, ideology, and consciousness; policy analysis; comparative urban, national, and civilizational development.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY222",
+      "name": "SOCY 222 — Political Sociology",
+      "description": "A survey of major works and themes in the relationship of politics and society, with primary emphasis on the compatibilities and contradictions of pluralist, elite, and class perspectives on the state.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY223",
+      "name": "SOCY 223 — Sociology of the Environment",
+      "description": "Advanced treatment of the dominant ideas of nature and the environment in the West and their relationship to the development of Western capitalism. Leading Western theories of environmental crisis and their relation with ideologies of environmentalism and environmental movements.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY224",
+      "name": "SOCY 224 — Globalization: Theories and Social Movements",
+      "description": "Examines the structures, processes, and movements associated with globalization processes. Reviews political economy theories, cultural theories systems, state industrial policies, and popular responses to globalization. Also assesses contribution of resistance movements informed by class, ethno-nationalism, religion, or gender.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY225",
+      "name": "SOCY 225 — Political Economy for Sociologists",
+      "description": "Examines rudiments of historical materialism in light of advances in cultural and ecological Marxism. Basic categories of Marxist political economy. Thematic focus on the first and second contradictions of capitalism in world economy today.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY227",
+      "name": "SOCY 227 — Learning from Environmental Historians",
+      "description": "Looks at several major themes in the sociology of the environment and asks how the works of environmental history address those themes. Includes reflections on how history as a method interrogates social questions. Possible themes include: sustainability; social justice; universalism vs. particularity; city and country; and social movements.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY229",
+      "name": "SOCY 229 — Work and Labor Markets in the New Economy",
+      "description": "Focuses on the interaction of work restructuring and existing race/class/gender inequalities. Themes include: the labor process and theories of consent; labor market segmentation; job and occupational segregation; information technologies, flexible work, and post-industrialism; flexible employment relations; and low-wage service and labor markets.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY230",
+      "name": "SOCY 230 — Theory and Method in the Sociology of Marx",
+      "description": "Examines theoretical and methodological implications of Marxist theory for empirical social research. Analyzes how historians and social scientists apply Marxist method in explaining society, social change, globalization, culture, and late capitalism. Goal is to assist students to employ Marxist theory and method creatively in their research projects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY240",
+      "name": "SOCY 240 — Inequality and Identity",
+      "description": "Explores recent theoretical and empirical studies of race, class, gender, and sexuality with an emphasis on the production of identities and their relationship to processes and structures of power in a postcolonial context.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY241",
+      "name": "SOCY 241 — Cross-National and Cross-Cultural Research",
+      "description": "Seminar examining theoretical and methodological issues in doing cross-national and cross-cultural research. In addition to a consideration of different research paradigms and approaches, representative works from each comparative tradition are examined.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY242",
+      "name": "SOCY 242 — Feminist Research Seminar",
+      "description": "Provides scholarly support to students doing feminist research. Examines issues concerning conceptualization of feminism and feminist research. Explores relation of feminist research to intersections of gender, class, and race; to the self; to power; and to transformative social praxis. Students present and are given assistance with their work, as well as listen to, read, and assist with the work of others.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY244",
+      "name": "SOCY 244 — Race and Ethnicity",
+      "description": "A critical survey of the theoretical issues of persistence and change, public policy, and recent empirical studies in the field of race and ethnic relations. Readings introduce comparative race relations and a historical background of major theoretical paradigms in the field which purport to explain race and ethnic relations in general and race relations in America specifically.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY245",
+      "name": "SOCY 245 — Feminist Theory",
+      "description": "Examination of shifts in 20th- and 21st-century feminist theory and epistemology. Explores the decentering of universalist feminist theories and asks what constitutes feminist theory after gender has been decentered. Considers various deconstructive challenges to second-wave feminist theory based on the politics of race, ethnicity, nation, sexuality, and class. Focus changes regularly.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY246",
+      "name": "SOCY 246 — Class, Culture, and Movement",
+      "description": "Analyzes impact of ethnicity, gender, and religion on the class situation of laboring people in a globalized economy by intensive reading and critique of classic studies, explaining how social movements reflect combinations of social relations and cultural practices.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY247",
+      "name": "SOCY 247 — Race and Class",
+      "description": "Introduces the student to the recent literature on race and class. Covers several different theoretical perspectives including internal colonialism, labor market segmentation theories, racial formation, and neo-gramscian cultural analyses. In addition to study of theory, also compares theoretical perspectives to the historical experience of minority groups, in particular, blacks, Hispanics, and Asians.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY249",
+      "name": "SOCY 249 — Feminisms and Cultural Politics",
+      "description": "Focuses on the role feminist discourses play in contemporary cultural politics with the main focus on the politics of sex, sexuality, and sex work. Begins with considerations of (mis)representations of feminisms in popular cultures; considers the relationship between academic and popular feminisms; and interrogates the meaning of terms post-feminism and third-wave feminism .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY250",
+      "name": "SOCY 250 — Course Design and Grant-Writing Seminar",
+      "description": "A professional training seminar devoted to the philosophical, conceptual, and practical issues of course design, pedagogy, and grant writing. Topics covered: institutional contexts; curriculum (including syllabi, course content, assignments, evaluation); pedagogy; teaching as work/labor process; grant writing; budgets.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY252",
+      "name": "SOCY 252 — Symbolic Interactionism and Sociology of Emotions",
+      "description": "Examines classic and contemporary theories and concepts that play a major role in sociological studies of identity, symbolic and social interaction, and the sociology of emotions. Examines how cultural forms, rules, and rituals define, structure, and mediate emotions and how identities are situated within social institutions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY253",
+      "name": "SOCY 253 — Race, Crime, and Justice",
+      "description": "Covers empirical research on \"race, crime, and justice\" from multiple methodological and theoretical traditions in social science research. The course draws on historical examples of slavery, state violence, and crimes against humanity across the globe. Also covers research on the entanglement of race and crime in the United States, both historically and today.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY255",
+      "name": "SOCY 255 — Engaging Cultural Studies",
+      "description": "Examines feminist and ethnic studies production, appropriation, and transformation of cultural studies theories and methodologies. Considers the utility of various theoretical apparatuses and methodological strategies employed in the interdisciplinary site that combines feminist, ethnic, and cultural studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY256",
+      "name": "SOCY 256 — Urban Sociology",
+      "description": "Introduction to core writings and key theoretical pardigms in urban sociology. Examines the history and contemporary conditions of cities in the U.S. and the urban experience. Urbanization, suburbanization, community, social inequality, urban politics, relationship between the built environment and human behavior.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY257",
+      "name": "SOCY 257 — Colonialism, International Law, and Global Justice",
+      "description": "Examines colonialism, war crimes, crimes against humanity, and legal remedies, and the role of the International Criminal Court (ICC); traces the history of colonial expansionism, starting from the Roman Empire to the present American imperial dominance in global politics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY258",
+      "name": "SOCY 258 — Global Lay Justice Systems and Direct Democracy",
+      "description": "Introduces historical analysis of lay justice participation. Examines global exploration of the use of lay judge institutions in citizen's movements and the assumption that juries are a derivative institution of democratic ideals. Focuses on corporate media creation of anti-jury sentiment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY259",
+      "name": "SOCY 259 — Space and the Politics of Difference",
+      "description": "Brings together the fields of sociology and geography to explore the complex and multiple ways of thinking together space and social difference. Course texts examine the co-constitution of space with bodies, subjectivities, and social formations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY260",
+      "name": "SOCY 260 — Culture, Knowledge, Power",
+      "description": "An introduction to theoretical approaches and exemplary studies of culture, knowledge, and power which critically interrogate the relationship between cultural formations and the production, circulation, and meaning of knowledges, materials, artifacts, and symbolic forms. Explores the concrete ways that power is organized and operates through different forms and sites, how it interpolates with other forms of power, and examines knowledges and culture as specific forms of power and sites of political struggle.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY261",
+      "name": "SOCY 261 — Sociology of Knowledge",
+      "description": "Explores three main issues: the social determination of knowledge, including natural science; the character of intellectual labor and intellectuals as a social group; the role of organized knowledge and knowledge industries in contemporary social change. Texts examined include class-based theories (Lukacs, Mannheim, Gramsci), feminist standpoint analysis (Smith, Harding, etc.), and theories of postmodern culture (Lyotard, Harvey, etc.).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY262",
+      "name": "SOCY 262 — Cultural Practice and Everyday Life",
+      "description": "Examines contemporary debates about the role of mass produced expressive symbols in modern industrial societies, and the circumstances of cultural production for its impact on the creation, organization, and use of cultural artifacts. Concern with the use and experience of popular symbols for the ways that their use involves the creation of meanings and the role of such meanings in the social organization of society.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY263",
+      "name": "SOCY 263 — Cultural Politics of Difference",
+      "description": "Considers the cultural turn and the turn to difference in understanding relations of power and struggles over representation in studies of race, media, and culture. Examines national identity, difference, subjectivity, and authenticity, especially as they bear on quests to create new identifications, alignments, and efforts to protect existing identities.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY264",
+      "name": "SOCY 264 — Science, Technology, and Medicine",
+      "description": "Explores social and cultural perspectives on science, technology, and medicine. Analyzes theoretical approaches that open up black boxes of scientific and biomedical knowledge, including the politics of bodies, objects, and health/illness. Links are made to medical sociology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY268A",
+      "name": "SOCY 268A — Science and Justice: Experiments in Collaboration",
+      "description": "Considers the practical and epistemological necessity of collaborative research in the development of new sciences and technologies that are attentive to questions of ethics and justice. Enrollment is by permission of instructor. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY268B",
+      "name": "SOCY 268B — Science and Justice Research Seminar",
+      "description": "Provides in-depth instruction in conducting collaborative interdisciplinary research. Students produce a final research project that explores how this training might generate research that is more responsive to the links between questions of knowledge and questions of justice. Prerequisite(s): SOCY 268A , BME 268A, FMST 268A, or ANTH 267A. Enrollment is restricted to graduate students and by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY282",
+      "name": "SOCY 282 — Social Policy Research",
+      "description": "Policy research. Covers a variety of theoretical perspectives found in policy studies. Surveys various methodological approaches used in policy research. Theories and methods linked to research agendas on the various phases of the policy life cycle. Students are required to design a research proposal.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY290",
+      "name": "SOCY 290 — Advanced Topics in Sociological Analysis",
+      "description": "The topics to be analyzed each year vary with the instructor but focus upon a specific research area. Enrollment restricted to graduate students by consent of the instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY290W",
+      "name": "SOCY 290W — Sociological Analysis Working Group",
+      "description": "This two-credit course, repeatable for credit, brings together faculty and graduate students interested and actively engaged in a particular research area, and does so in a variety of ways. May include: close readings and discussion, invited speakers, sharing of student and faculty work, and field trips. Working group framework enhances one-on-one mentoring experiences by creating a scholarly community and support structure on campus for scholars in this area, and by introducing students to a range of faculty on our campus and beyond. Also fosters peer-to-peer learning and collegiality among graduate students researching similar topics. Enrollment is by permission of the instructor. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY293",
+      "name": "SOCY 293 — Going on the Job Market",
+      "description": "A seminar devoted to the practical problems of securing a job as a professional sociologist. Topics covered: researching colleges, universities, and public and private organizations that employ sociologists; designing a curriculum vitae; writing an application letter; preparing a job talk; handling questions during the interview process; the etiquette of visiting (and its aftermath); finding out about them; and the terms of employment: what is negotiable and what is not.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY294",
+      "name": "SOCY 294 — Writing for Social Scientists",
+      "description": "Seminar on the genres of social science writing, and the problems of starting and finishing a publishable thesis, book, or article. For advanced graduate students working on the composition of their dissertations and journal articles.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY295",
+      "name": "SOCY 295 — The Pedagogy of Sociology",
+      "description": "Graduate students develop, enhance, or deepen their pedagogical knowledge and skills in the field of sociology and other social sciences.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to sociology graduate students at all stages of their graduate careers.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY297",
+      "name": "SOCY 297 — Independent Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY299",
+      "name": "SOCY 299 — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES12",
+      "name": "CRES 12 — Science and Justice: Critical Intro",
+      "description": "Students learn to critically analyze the entanglements of technoscience with systemic injustice. Our collective task is to creatively imagine and practically enact new ways of producing knowledgeâincluding new approaches to science and technologyâthat support the mutual flourishing of the broadest possible range of lives. Course asks: What is the relationship between science, technology, and social justice? What power structures and systems of inequality do science and technology produce and uphold?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LALS186",
+      "name": "LALS 186 — Field Research Methods",
+      "description": "Introduction to field research methods that consider theory, methodological challenges, and epistemology in conducting research. Explains the research process, including designing research questions, interview instruments, concepts maps, and methods of data collection, and data analysis. (Meets the methods requirement in Latin America and Latino studies.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LALS 100; and LALS 100A or LALS 100W. Enrollment is restricted to junior and senior Latin American and Latino studies majors, minors, and combined majors and Sociology majors.",
+      "prereqGroups": [
+        [
+          "LALS100"
+        ],
+        [
+          "LALS100A",
+          "LALS100W"
+        ]
+      ]
+    }
+  ]
+}

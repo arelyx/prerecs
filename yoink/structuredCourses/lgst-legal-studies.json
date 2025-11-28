@@ -1,0 +1,816 @@
+{
+  "department": "LGST - Legal Studies",
+  "slug": "lgst-legal-studies",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/lgst-legal-studies",
+  "generated_at": "2025-11-28T07:51:41.342430+00:00",
+  "courses": [
+    {
+      "id": "LGST10",
+      "name": "LGST 10 — Introduction to Legal Process",
+      "description": "Introduction to U.S. and comparative legal institutions and practices. Examines diverse areas of law from torts to civil rights to international human rights. Why is America portrayed as having an activist legal culture; why is law used to decide so many questions from presidential elections to auto accidents; can law resolve disputes that, historically, have led to war and violence; is the legal system fair and/or effective, and, if so, for whom and under what conditions?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST106",
+      "name": "LGST 106 — Topics in Legal Studies",
+      "description": "Examines advanced topics in the field of legal studies. The theme of this course is law, colonialism, and authoritarianism.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST107",
+      "name": "LGST 107 — Toleration, Speech, and Hate",
+      "description": "Analyzes arguments concerning speech and toleration in the Western philosophical tradition. Is the freedom to think and speak freely a good thing? Why or why not? To what extent is this true? When does expression constitute harm, to either the community or individuals? What does it mean to tolerate those beliefs or practices you find bigoted? Evil? Dangerous to society? What kinds of disagreements can exist without destroying the political community, and what kinds can we simply not abide? Students will know and understand the very best arguments for free speech, for restricting certain kinds of speech and become empowered to engage with the speech disputes in our own political moment.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST108",
+      "name": "LGST 108 — Gender, Sexuality, and Law",
+      "description": "Analysis of legal issues related to gender, sexuality, and sexual orientation. Introduction to the key areas of gender and sexuality regulated by law and critical analysis of how law and policy should and do treat these issues.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST109",
+      "name": "LGST 109 — Legal Theory",
+      "description": "Offers systematic exploration of alternative conceptions of the nature of law, including positivism, natural law, formalism, realism, pragmatism, and theories of justice. Additional focus on the nature of law; relation of law and morality, rights and other legal concepts; and philosophical debates such as critical legal studies and critical race theory.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST111B",
+      "name": "LGST 111B — Civil Liberties",
+      "description": "Explores the status of American civil liberties as provided by the Bill of Rights. Particular attention will be given to issues of concern relating to the aftermath of 9/11, including issues relating to detainees, freedom of information requests, wiretapping authority, watch lists, profiling, and creation of a domestic intelligence agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST111C",
+      "name": "LGST 111C — The First Amendment",
+      "description": "Surveys First Amendment jurisprudence using history, case law, and philosophical writings. Class discusses emerging issues in free expression, including defamation, incitement to violence, hate speech, and freedom of the press. (Formerly Issues in Constitutional Law.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST113",
+      "name": "LGST 113 — Gay Rights and the Law",
+      "description": "Examines relevant court cases as well as local, state, and federal laws that define boundaries for legal recognition of sexual orientation and personal sexuality. Explores legal assumptions behind current and historical cases defining personal sexuality and sexual orientation and considers the social and political impetus in each era that drove the courts and legislatures to make such decisions.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST114",
+      "name": "LGST 114 — Jews, Anti-Semitism, and the American Legal System",
+      "description": "Explores how Jews have influenced and been impacted by the American legal system. Students explore significant cases, debates, and trends in the law as it relates to Jewish identity, religious freedom, and conceptions of justice.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST115",
+      "name": "LGST 115 — Law and the Holocaust",
+      "description": "Examines the Nazi philosophy of law, and how it was used to pervert Germany's legal system in order to discriminate against, ostracize, dehumanize, and ultimately eliminate certain classes of human beings, and the role of international law in rectifying the damage.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST116",
+      "name": "LGST 116 — Comparative Law",
+      "description": "Explores how countries organize their societies through legal rules. Particular attention is given to constitutional design, differences between common and civil law systems, changes brought about by the European Union, and the convergence of legal norms globally.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST117",
+      "name": "LGST 117 — Sports, Law, and Politics",
+      "description": "Investigates the relationship between sports, law, and politics, focusing on racism, colonialism, post-colonialism, and globalization.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST118",
+      "name": "LGST 118 — Law and Literature",
+      "description": "Law and literature have been understood as separate fields of social, expressive endeavors. This class thinks about how these two modes of writing represent and reshape each other, and the social worlds in which they circulate. Students read literary texts that narrate and refigure the problems of law, justice, and legal modernity. The class mixes law and literature âclassicsââMerchant of Venice, Antigone, Billy Buddâand more contemporary literature. Course also pairs readings of primary literary texts with secondary law and literature criticism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST124",
+      "name": "LGST 124 — Government Secrecy",
+      "description": "Studies the history of America's regime of government secrecy from a human rights perspective. Focus is the dispiriting history of judicial deference to executive authority that enabled the massive secrecy regime to establish and perpetuate itself. Tracing the origin of the secrecy state to the nuclear program during World War II, students consider how the \"state secrets doctrine\" was codified in early Cold War jurisprudence as an all-purpose alibi for government interventions abroad and surveillance at home. The second half of the course turns to the 21st century War on Terror, highlighting the kidnappings, torture, and assassinations perpetrated by the secrecy state, with an eye on the role of the court system as a vehicle for exposure and redress.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST125",
+      "name": "LGST 125 — History of the U.S. Penal Culture",
+      "description": "Explores the history and theory of U.S. state punishment from its 17th-century beginnings to the present and notes evolving models of criminal deviance, focusing on how punishment systems legitimate particular models of criminal deviance, crime, and its correction.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST130",
+      "name": "LGST 130 — Inequality and Law",
+      "description": "Explores the complex relationship between race and the law in American society. Included subjects are critical race theory, civil rights and voting rights law, issues of the criminal justice system, intersections with issues of class and gender, and the social construction of race through law and legal decisions. (Formerly Race and the Law.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST131",
+      "name": "LGST 131 — Wildlife, Wilderness, and the Law",
+      "description": "Introduction to wildlife, wilderness, and natural resources law, policy, and management. Examines rules governing resource allocation and use including discussion of fundamental legal concepts. Explores laws and management policies affecting wildlife and wilderness, including their origins and impacts. Examines how conflicts over natural resources are being negotiated today.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST133",
+      "name": "LGST 133 — Law of Democracy",
+      "description": "Explores the role of law in both enabling and constraining the actions of elected politicians in the U.S. Among issues examined are voting rights, redistricting, and campaign finance. Course asks how the law shapes and limits our ability to choose our elected leaders, and in turn, how the law is shaped by political forces.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST137",
+      "name": "LGST 137 — International Environmental Law and Policy",
+      "description": "International environmental law (IEL) endeavors to control pollution and depletion of natural resources within a framework of sustainable development and is formally a branch of public international lawâa body of law created by nation states for nation states, to govern problems between nation states. Examines landmark developments of IEL since 1972 within a historical continuum to better understand their strengths and weaknesses.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST139",
+      "name": "LGST 139 — War Crimes",
+      "description": "Explores complex international human rights/humanitarian law issues surrounding genocide and other mass violence, beginning with the Nuremberg trials following World War II up to recent atrocities in Rwanda, Bosnia, and elsewhere. Covers basic legal framework of human rights law, examines specific situations on a case by case basis, and discusses what options the international community, the nations themselves, and individuals have in the wake of such catastrophes.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST146",
+      "name": "LGST 146 — Philosophy of Law",
+      "description": "Introduction to topics in the philosophy of law. Begins by discussing some famously difficult legal cases. These motivate students to consider more generally how to theorize about law and legality. Course ends by examining a handful of modern legal issues from a philosophical perspective. Course asks students to formulate and defend their positions on classic and contemporary legal debates and provides them tools from moral and legal philosophy with which to work.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST148",
+      "name": "LGST 148 — Cites, Urban Planning, and the Law",
+      "description": "Explores how local land use and planning objectives are defined and determined by federal, state, and (most importantly) local law. Focuses on California, and on California municipal law issues. Housing, transportation, water supply, regional government, environmental protection, natural resource protection, urban sprawl, and growth management issues are addressed as students learn how federal, state, and local laws relate to city urban planning problems.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST150",
+      "name": "LGST 150 — Children and the Law",
+      "description": "Explores the legal rights of children. Topics may include juvenile justice, gang offenses, free speech and Internet censorship, religious rights, child custody and support, adoption, foster care, abuse and sexual harassment, special needs, public benefits, and medical care.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST152",
+      "name": "LGST 152 — Courts and Litigation",
+      "description": "A study of the role of courts in society and the uses of litigation to address and deflect social problems. Focus is on recent developments in American litigation, but comparative materials may be considered.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST153",
+      "name": "LGST 153 — Immigration, Citizenship, and Law",
+      "description": "Explores U.S. laws and policies regarding immigration and citizenship from historical and contemporary perspectives. Includes studying landmark court cases, key statues and regulations governing immigration and citizenship, and scholarly treatments in order to critically examine historical developments and contemporary debates.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST154",
+      "name": "LGST 154 — The Legal Profession",
+      "description": "Lawyers stand between the legal system and those who are affected by it. Examines this relationship descriptively and normatively, and from the point of view of sociological theory. Concentrates on the U.S. profession, with some comparative material.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST155",
+      "name": "LGST 155 — Topics in American Legal History: Making of American Constitutionalism",
+      "description": "Explores some aspects of early American constitutional thought, particularly immediately preceding the American Revolution, situating early colonial constitutional thought within some of the larger themes and controversies of the 17th-century English constitutionalism, then considering some aspects of American constitutional thought in the founding period against the background of the colonial experience.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST156",
+      "name": "LGST 156 — Administrative Law and Challenges of Regulation",
+      "description": "The rise of the regulatory state brings with it a host of questions regarding the exercise of state power and separation of powers. Takes up some of these questions; in particular, questions about administrative agencies and their relationship to the judiciary, the legislature and private individuals and groups. (Formerly Administrative Jurisprudence.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST157",
+      "name": "LGST 157 — Political Jurisprudence",
+      "description": "Explores some themes in legal and political theory, especially on the relationship of theories of justice, law, and ethics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to legal studies majors during first and second pass enrollment.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST158",
+      "name": "LGST 158 — Law and Politics of Memory",
+      "description": "Examines why we choose to memorialize some aspects of our history, but not others. What impact do those choices have on our contemporary politics and society? How may memorials help create a stronger democracy?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST159",
+      "name": "LGST 159 — Property and the Law",
+      "description": "Begins with an examination of the concept of property, then covers how different cultures characterize property and determine ownership and the laws and policies that define property in modern society. Topics include theories of property law, common property, property and natural resources, zoning, regulatory takings, and intellectual and cultural property",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST161",
+      "name": "LGST 161 — Intellectual Property",
+      "description": "Advanced study of the concepts, practices, and history of intellectual property. Topically, it is a study of how, when, and why you can own something like an idea, a story, a mathematical algorithm, a business process, or an arrangement of cells. Course is organized around different kinds of things one might own: artistic creation and representation (copyright), scientific discovery and invention (patents), and business processes and secrets (trademark and trade secrets). Studies different intellectual property regimes and the philosophical and moral issues underlying claims to intellectual property.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST173",
+      "name": "LGST 173 — Disability, Law, & Politics",
+      "description": "Introduction to how individuals, societies, and states answer fundamental questions about disability, including what is or is not a disability, what causes disability, and what the proper responses to the existence of disabilities are.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST185",
+      "name": "LGST 185 — Internship/Field Seminar: Experiences in Law, Politics, and Policy",
+      "description": "A practicum seminar for students seeking field experience in politics, law- and/or policy-making settings. Designed to be combined with an internship; provides structured class meetings, readings, and work, including weekly field notes and a final paper. NOTE: Prior to enrolling, students must have secured an internship of at least 8 hours per week for the duration of the quarter. (Formerly Legal Studies Internship/Field Seminar: Experiences in Law, Policy, and Society.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST188A",
+      "name": "LGST 188A — Introduction to the Legal Profession and Legal Aid Work",
+      "description": "Introduces key aspects of the legal profession and legal aid for under-served communities. Offers practical information and training on topics such as professional responsibility, ethics, confidentiality, interviewing skills, record keeping, communication, and working with diverse clients. Designed as a preparation or companion course for law-related internships and field student through courses such as OAKS 188B /LGST 188B (3 credits), OAKS 199 , or LGST 185 Internship (5 credits).",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST193",
+      "name": "LGST 193 — Field Study",
+      "description": "Field research performed off-campus, under the supervision of a member of the legal studies faculty.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST194",
+      "name": "LGST 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST195A",
+      "name": "LGST 195A — Senior Thesis",
+      "description": "Preparation of a senior thesis over one, two, or three quarters, beginning in any quarter. When taken as a multiple-term course extending over two or three quarters, the grade and evaluation submitted for the final quarter apply to each of the previous quarters. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST195B",
+      "name": "LGST 195B — Senior Thesis",
+      "description": "Preparation of a senior thesis over one, two, or three quarters, beginning in any quarter. When taken as a multiple-term course extending over two or three quarters, the grade and evaluation submitted for the final quarter apply to each of the previous quarters. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST195C",
+      "name": "LGST 195C — Senior Thesis",
+      "description": "Preparation of a senior thesis over one, two, or three quarters, beginning in any quarter. When taken as a multiple-term course extending over two or three quarters, the grade and evaluation submitted for the final quarter apply to each of the previous quarters. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST196",
+      "name": "LGST 196 — Senior Capstone",
+      "description": "Examines related legal topics from an interdisciplinary perspective. Each focuses broadly on the relationship between law as a distinct system and law as an attempt to achieve justice, which requires that law remain open to claims of political morality generally. To what extent are legal norms internal to a separate system called law and to what extent are claims of political right in general relevant to question of what law is?",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior legal studies majors.",
+      "prereqGroups": [
+        [
+          "LGST196"
+        ]
+      ]
+    },
+    {
+      "id": "LGST198",
+      "name": "LGST 198 — Independent Field Study",
+      "description": "Individual studies undertaken off-campus for which faculty supervision is not in person, but by correspondence. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST198F",
+      "name": "LGST 198F — Independent Field Study",
+      "description": "Individual studies undertaken off-campus for which faculty supervision is not in person, but by correspondence. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST199",
+      "name": "LGST 199 — Tutorial",
+      "description": "A student normally approaches a faculty member and proposes a LGST 199 course on a subject he or she has chosen. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LGST199F",
+      "name": "LGST 199F — Tutorial",
+      "description": "A student normally approaches a faculty member and proposes a LGST 199 course on a subject he or she has chosen. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110C",
+      "name": "ANTH 110C — California Pasts",
+      "description": "This course is structured around four critical moments--missionization, Rancho-Era, Gold Rush, and World War II--through the eyes of the ethnic and racial minorities who experienced them. Special attention is given to oral, archival, and archaeological sources which reveal California's multiethnic pasts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH126",
+      "name": "ANTH 126 — Contraband: Shadow Economies and the Law",
+      "description": "Course takes an interdisciplinary approach to studying contraband and smuggling. Focusing on concepts used to describe illegality we examine how \"shadow economies\" are central to the making of states and sovereignty, the legal and illegal being blurred.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH138",
+      "name": "ANTH 138 — Political Anthropology",
+      "description": "The ideas, in selected non-Western societies, about the nature of power, order, social cohesion, and the political organization of these societies.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH142",
+      "name": "ANTH 142 — Anthropology of Law",
+      "description": "An ethnographically informed consideration of law, dispute management, and social control in a range of societies including the contemporary U.S. Topics include conflict management processes, theories of justice, legal discourse, and relations among local, national, and transnational legal systems.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to anthropology and legal studies majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART181",
+      "name": "ART 181 — Art, Power & Politics",
+      "description": "Explores strategies artists use to engage political subject matter in the 21st century. Students create their own projects, research and test approaches, techniques and strategies learning from the ways national and international artists encode and convey information in creating political work. Methods range from community collaboration; to tactical culture jamming, participatory collaborative projects, activism and intervention, symbolic and gestural work, artist-led projects, performances and community projects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): three courses from: ART 15, ART 20G, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+      "prereqGroups": [
+        [
+          "ART15",
+          "ART20G",
+          "ART20H",
+          "ART20I",
+          "ART20J",
+          "ART20K",
+          "ART20L",
+          "ART26"
+        ]
+      ]
+    },
+    {
+      "id": "ECON128",
+      "name": "ECON 128 — Poverty and Public Policy",
+      "description": "Studies the causes, consequences, and governmental response to urban poverty in the U.S. Topics include how public policy, the macroeconomy, race, gender, discrimination, marriage, fertility, child support, and crime affect and are affected by urban poverty. Emphasizes class discussion and research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s):ECON 100A or ECON 100M; and ECON 113. Enrollment is restricted to economics, business management economics, global economics, legal studies, or economics combined majors.",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ],
+        [
+          "ECON113"
+        ]
+      ]
+    },
+    {
+      "id": "ECON160A",
+      "name": "ECON 160A — Industrial Organization",
+      "description": "The structure and conduct of American industry with strong emphasis on the role of government, regulation, anti-trust, etc. The evolution of present-day industrial structure. The problems of overall concentration of industry and of monopoly power of firms. Pricing, output decisions, profits, and waste. Approaches include case study, theory, and statistics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M.",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON162",
+      "name": "ECON 162 — Legal Environment of Business",
+      "description": "A study of law and the legal process, emphasizing the nature and function of law within the U.S. federal system. Attention is given to the legal problems pertaining to contracts and related topics, business association, and the impact of law on business enterprise.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M.",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON169",
+      "name": "ECON 169 — Economic Analysis of the Law",
+      "description": "The application of the theories and methods of neoclassical economics to the central institutions of the legal system, including the common law doctrines of negligence, contract, and property; bankruptcy and corporate law; and civil, criminal, and administrative procedure.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON183",
+      "name": "ECON 183 — Women in the Economy",
+      "description": "Study of gender roles in economic life, past and present. Topics include occupational structure, human capital acquisition, income distribution, poverty, and wage differentials. The role of government in addressing economic gender differentials is examined.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M; and ECON 113 is strongly recommended.",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ],
+        [
+          "ECON113"
+        ]
+      ]
+    },
+    {
+      "id": "ENVS140",
+      "name": "ENVS 140 — National Environmental Policy",
+      "description": "An overview of all major federal environmental policy domains. Analyzes political, social, economic, and other forces influencing federal (and some state) public policy responses to land use, natural resources, pollution, and conservation dilemmas.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "ENVS100",
+          "ENVS100L"
+        ]
+      ]
+    },
+    {
+      "id": "ENVS149",
+      "name": "ENVS 149 — Environmental Law and Policy",
+      "description": "Surveys a wide range of topics in environmental law, including state and federal jurisdiction, administrative law, separation of powers, state and local land use regulation, public land and resource management, pollution control, and private rights and remedies. Students read a large number of judicial cases and other legal documents.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "ENVS100",
+          "ENVS100L"
+        ]
+      ]
+    },
+    {
+      "id": "ENVS151",
+      "name": "ENVS 151 — Environmental Assessment",
+      "description": "Introduction to California land use planning law and practice, and the theory, practice, and public policy aspects of environmental assessment, using the California Environmental Quality Act (CEQA) as a model. The National Environmental Policy Act (NEPA) and other environmental and planning legislation also considered. Covers elements of State law and regulations, environmental impact assessment requirements, and practical procedures for preparing and evaluating CEQA documents, with case studies that exemplify legal, regulatory and public policy and practice aspects of the assessment process.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "ENVS100",
+          "ENVS100L"
+        ]
+      ]
+    },
+    {
+      "id": "HISC128",
+      "name": "HISC 128 — Why Obey?",
+      "description": "We are everyday confronted with countless expectations of obedienceâat home, work, while studying or at worship; with parents, teachers, the police. Some demands are formal and public, others are informal, unwritten norms, or habitual codes of conduct. Basic observation of the vast range of rules, norms, and codes that demand compliance invites a range of questions, from a diverse set of perspectives. In response to this challenge, this course examines the theory and practice of disobedience across a range of time periods and contexts. Course considers examples of conscientious objection, riots, strikes, direct action and the like, ultimately seeking to answer: why and how do people disobey?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC142",
+      "name": "HISC 142 — What is a Person?",
+      "description": "The question âwhat is a person?â may seem simple, but upon reflection it is revealed to be complex and contentious. Consider: the vast majority of human beings have historically been denied the status of âpersons,â including most women and racialized peoples. Conversely, there are many non-human entities that have been granted recognition as persons, including corporations, artificial learning systems, even rivers and mountains. So, if âpersonsâ are not merely synonymous with individual biological humans, what are they? This course examines these questions through the scope and nature of personhood from the medieval world to the present, exploring how they touch upon fields such as philosophy, law, politics, science, and the arts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHIL140",
+      "name": "PHIL 140 — History of Ethics",
+      "description": "A careful study of any one or a number of selected primary texts in the history of moral philosophy, with some emphasis on the relation to contemporary issues.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHIL 9; one from PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and PHIL 100A or PHIL 100B or PHIL 100C.",
+      "prereqGroups": [
+        [
+          "PHIL9"
+        ],
+        [
+          "PHIL11",
+          "PHIL22",
+          "PHIL23",
+          "PHIL24",
+          "PHIL80E",
+          "BME80G",
+          "PHIL80G",
+          "PHIL80M",
+          "PHIL80S"
+        ],
+        [
+          "PHIL100A",
+          "PHIL100B",
+          "PHIL100C"
+        ]
+      ]
+    },
+    {
+      "id": "PHIL144",
+      "name": "PHIL 144 — Topics in Social and Political Philosophy",
+      "description": "A study of selected classical and contemporary writings dealing with topics such as the nature and legitimacy of the liberal state, the limits of political obligation, and theories of distributive justice and rights. (Formerly Social and Political Philosophy.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHIL 9; one from PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and PHIL 100A or PHIL 100B or PHIL 100C.",
+      "prereqGroups": [
+        [
+          "PHIL9"
+        ],
+        [
+          "PHIL11",
+          "PHIL22",
+          "PHIL23",
+          "PHIL24",
+          "PHIL80E",
+          "BME80G",
+          "PHIL80G",
+          "PHIL80M",
+          "PHIL80S"
+        ],
+        [
+          "PHIL100A",
+          "PHIL100B",
+          "PHIL100C"
+        ]
+      ]
+    },
+    {
+      "id": "PHIL153",
+      "name": "PHIL 153 — Philosophy of Race",
+      "description": "Topics include conceptual-analytical and political-social issues. Selected topics may include: the ontology of race; race as real or constructed; scientific understandings of race; race and identity; and color-blind versus color-sensitive theories of justice and political policy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHIL 9; one from course PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and PHIL 100A or PHIL 100B or PHIL 100C.",
+      "prereqGroups": [
+        [
+          "PHIL9"
+        ],
+        [
+          "PHIL11",
+          "PHIL22",
+          "PHIL23",
+          "PHIL24",
+          "PHIL80E",
+          "BME80G",
+          "PHIL80G",
+          "PHIL80M",
+          "PHIL80S"
+        ],
+        [
+          "PHIL100A",
+          "PHIL100B",
+          "PHIL100C"
+        ]
+      ]
+    },
+    {
+      "id": "POLI105A",
+      "name": "POLI 105A — Ancient Political Thought",
+      "description": "Explores tensions between reason and revelation, justice and democracy, and freedom and empire through close readings of ancient texts. Emphasis on Athens, with Hebrew, Roman, and Christian departures and interventions. Includes Sophocles, Thucydides, Socrates, Plato, Aristotle, Stoics, the Bible, and Augustine.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI105B",
+      "name": "POLI 105B — Early Modern Political Thought",
+      "description": "Studies republican and liberal traditions of political thought and politics. Authors studied include Hobbes, Locke, and Rousseau. Examination of issues such as authorship, individuality, gender, state, and cultural difference.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI105C",
+      "name": "POLI 105C — Modern Political Thought",
+      "description": "Studies in 19th- and early 20th-century theory, centering on the themes of capitalism, labor, alienation, culture, freedom, and morality. Authors studied include J. S. Mill, Marx, Nietzsche, Foucault, Hegel, Fanon, and Weber.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI105D",
+      "name": "POLI 105D — Contemporary Political Theory: Modernity and its Discontents",
+      "description": "Examines the condition of modernity as it is understood, dwelled upon, and critiqued by political theorists since the second half of the 20th century. Explores how the modern condition was viewed by Euro-American thinkers, who saw themselves as its originators and heirs, as well as Chinese, Indian, Arab, and African thinkers for whom European modernity was an inescapable, if not an insurmountable, imposition to be engaged, transformed, and critiqued. (Formerly Late-20th Century Political Thought.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI110",
+      "name": "POLI 110 — Law and Social Issues",
+      "description": "Examines current problems in law as it intersects with politics and society. Readings are drawn from legal and political philosophy, social science, and judicial opinions.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI120A",
+      "name": "POLI 120A — Congress, President, and the Court in American Politics",
+      "description": "Study of political development, behavior, performance, and significance of central governmental institutions of the U.S. Emphasizes the historical development of each branch and their relationship to each other, including changes in relative power and constitutional responsibilities.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI120B",
+      "name": "POLI 120B — Society and Democracy in American Political Development",
+      "description": "Examines the role of social forces in the development of the American democratic processes and in the changing relationship between citizen and state. Course materials address the ideas, the social tensions, and the economic pressures bearing on social movements, interest groups, and political parties.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI120C",
+      "name": "POLI 120C — State and Capitalism in American Political Development",
+      "description": "Examines the relationship between state and economy in the U.S. from the 1880s to the present, and provides a theoretical and historical introduction to the study of politics and markets. Focus is on moments of crisis and choice in U.S. political economy, with an emphasis on the rise of regulation, the development of the welfare state, and changes in employment policies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI121",
+      "name": "POLI 121 — Racism & Justice in America",
+      "description": "Examines racism as a logic of governance in American politics and traces racial reasoning in transcendent notions of \"justice\" in the U.S. from the nation's founding into the 21st century. (Formerly offered as Race & Justice in America.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI132",
+      "name": "POLI 132 — California Water Law and Policy",
+      "description": "Explores the rich history and fundamental legal concepts surrounding water in California. Students identify, evaluate, and debate some critical water policy questions faced by Californians today and in the future.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI160B",
+      "name": "POLI 160B — International Law",
+      "description": "Origins and development of international law: international law is examined both as a reflection of the present world order and as a basis for transformation. Topics include state and non-state actors and sovereignty, treaties, the use of force, and human rights.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI165",
+      "name": "POLI 165 — Global Organization",
+      "description": "Addresses whether and how global organizations are changing the international system. Examines multilateral institutions, regional organizations, and nonstate actors. Overriding aim is to discern whether these global organizations are affecting the purported primacy of the state.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "POLI190R",
+      "name": "POLI 190R — Comparative Law and Society",
+      "description": "Interdisciplinary investigation into functions of law across political, historical, and cultural contexts. Examines the international and comparative turn in public law scholarship and the role of law-based strategies in state building. Reviews literature in law, political science and legal anthropology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): POLI 160B. Enrollment is restricted to senior politics and Latin American and Latino studies/politics combined majors.",
+      "prereqGroups": [
+        [
+          "POLI160B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY127",
+      "name": "SOCY 127 — Drugs in Society",
+      "description": "Explores the history of the use and abuse of consciousness-altering substances like alcohol and other drugs. Social-psychological theories of addiction are reviewed in tandem with political-economic analyses to identify the social conditions under which the cultural practices involved in drug use come to be defined as public problems. An introductory sociology course is recommended prior to taking this course.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to majors and minors in legal studies, sociology, Latin American/sociology combined, and digital justice studies (formerly GISES).",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128",
+      "name": "SOCY 128 — Law and Politics in Contemporary Japan and East Asian Societies",
+      "description": "Introduction to contemporary analysis of Japan's race relations, ethnic conflicts, and a government's failure to restore remedial justice for war victims in Japan, Asia, and the U.S. Specific issues include comfort women, national or state narratives on Hiroshima, forced labor during World War II, and Haydon legislation that allows war victims to sue the Japanese government and corporations in California.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to sophomore, junior, and senior majors, proposed majors, and minors in legal studies, sociology, community studies, Latin American/sociology combined, digital justice studies (formerly GISES), and critical race and ethnic studies.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128A",
+      "name": "SOCY 128A — Research Methods in Legal Studies and Critical Criminology",
+      "description": "Introduces survey research methods including problem formulation, research design, instrument construction, data collection, codification, data processing, computer analyses, and report writing. The greater emphasis is placed on statistical analyses and questionnaire constructions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128C",
+      "name": "SOCY 128C — Social History of Democracy, Anarchism, and Indigenism",
+      "description": "Provided an overview of socio-political theories and thoughts from Athenian Direct Democracy in 500 BC, to Classical Liberalism, Social Contract, Libertarian Socialism, Anarcho-Syndicalism, Neo-Liberalism, Anarcho-Primitism, and lastly Indigenism in relation to the revival of indigenous knowledge, theMother Earth law, and the restoration of the nature's rights as espoused by many governments in the Third World today.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCY 1, SOCY 10, or SOCY 15. Enrollment is restricted to sophomore, junior, and senior sociology, critical race and ethnic studies, community studies, legal studies, Latin American/sociology combined, and digital justice studies (formerly GISES) majors, proposed majors, and minors.",
+      "prereqGroups": [
+        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15"
+        ]
+      ]
+    },
+    {
+      "id": "SOCY128I",
+      "name": "SOCY 128I — Race and Law",
+      "description": "An introduction to comparative and historical analyses of the relation between race and law in the U.S. Emphasis on examinations of continuous colonial policies and structural mechanisms that help maintain and perpetuate racial inequality in law, criminal justice, and jury trials. (Formerly Race and Justice)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to sophomore, junior, and senior majors, proposed majors, and minors in legal studies, sociology, community studies, Latin American/sociology combined, digital justice studies (formerly GISES), and critical race and ethnic studies.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128J",
+      "name": "SOCY 128J — The World Jury on Trial",
+      "description": "Adoption of the jury and its varied forms in different nations provides ideal opportunities to examine differences between systems of popular legal participation. Course considers reasons why the right to jury trial is currently established in Japan or Asian societies, but abandoned or severely curtailed in others. American jury contrasted with other forms of lay participation in the legal process.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to sophomore, junior, and senior majors, proposed majors, and minors in legal studies, sociology, community studies, Latin American/sociology combined, digital justice studies (formerly GISES), and critical race and ethnic studies.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY128M",
+      "name": "SOCY 128M — International Law and Global Justice",
+      "description": "Examines war crimes, crimes against humanity, and the evolution and role of the International Criminal Court (ICC). Examines the evolution of the concept of international law, the rationale for its birth and existence, roots of international conflicts and genocides, possible remedies available to victims, mechanisms for the creation and enforcement of international legal order, as well as the role of colonialism, migration, poverty, race/ethnic conflicts, gender, and international corporations in creating and maintaining conflicts and wars.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to sophomore, junior, and senior majors, proposed majors, and minors in legal studies, sociology, community studies, Latin American/sociology combined, digital justice studies (formerly GISES), and critical race and ethnic studies.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPAN130",
+      "name": "SPAN 130 — Spanish for the Legal Profession",
+      "description": "Introduction to legal language in Spanish by surveying a range of topics in civil law, criminal law, and immigration law. While acquiring the necessary vocabulary to talk about these topics, students gain awareness of the functioning of the U.S. legal system as well as the ways in which language intersects with the law. Comparisons with Latin America and Spain are made when relevant. Class discussions provide opportunities for debate, analysis, and critical reflection.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "SPAN6",
+          "SPHS6"
+        ]
+      ]
+    }
+  ]
+}

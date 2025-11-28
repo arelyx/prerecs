@@ -1,0 +1,32 @@
+{
+  "department": "MSE-Materials Science and Engineering",
+  "slug": "mse-materials-science-and-engineering",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/mse-materials-science-and-engineering",
+  "generated_at": "2025-11-28T07:51:42.375316+00:00",
+  "courses": [
+    {
+      "id": "MSE200",
+      "name": "MSE 200 — Introduction to Materials Science and Engineering",
+      "description": "Introduction to graduate studies in materials science and engineering. Provides overview of the areas of specialization of the academic program as well as research opportunities and facilities at UC Santa Cruz. Covers fundamental methods of the discipline. Summarizes areas of employment of graduates in materials science and engineering.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MSE280",
+      "name": "MSE 280 — Colloquium in Materials Science and Engineering",
+      "description": "Talks about current research topics in materials science and engineering presented by faculty members, visiting scientists, and graduate students. Students who present a seminar receive a letter grade; other students who attend receive a Satisfactory (S) or No Credit (NC) grade. Course is repeatable.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MSE290",
+      "name": "MSE 290 — Research Rotation",
+      "description": "Two quarters of rotations with research groups for first year MSE Ph.D. students. Aim is to expose incoming Ph.D. students to research groups and their projects so they can make an informed decision on which research group to join. Each rotation will require a short (~5 page) report on the research of said group. The two rotations may be taken from the same instructor. Enrollment is restricted to MSE graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

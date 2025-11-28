@@ -1,0 +1,260 @@
+{
+  "department": "FREN - French",
+  "slug": "fren-french",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/fren-french",
+  "generated_at": "2025-11-28T07:51:38.758317+00:00",
+  "courses": [
+    {
+      "id": "FREN1",
+      "name": "FREN 1 — First-Year French",
+      "description": "Introduction to French language and culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of French.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN2",
+      "name": "FREN 2 — First-Year French",
+      "description": "Further development of cultural competence and basic French language skills, both written and spoken. Students learn past tenses in this course.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 1 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "FREN1"
+        ]
+      ]
+    },
+    {
+      "id": "FREN3",
+      "name": "FREN 3 — First-Year French",
+      "description": "Final quarter of first-year sequence. Students complete study of French language basics, including the future tense and the conditional and the subjunctive moods, while continuing to learn about French and Francophone cultures.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 2 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "FREN2"
+        ]
+      ]
+    },
+    {
+      "id": "FREN4",
+      "name": "FREN 4 — Second-Year French",
+      "description": "First course in intermediate sequence. Students review and expand upon their previous study of the language through short literary readings, vocabulary building, grammar study, composition, and discussions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 3 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "FREN3"
+        ]
+      ]
+    },
+    {
+      "id": "FREN5",
+      "name": "FREN 5 — Second-Year French",
+      "description": "Further development of intermediate-level oral and written skills through study of vocabulary and structures. Students also read and discuss a French or Francophone play.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 4 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "FREN4"
+        ]
+      ]
+    },
+    {
+      "id": "FREN6",
+      "name": "FREN 6 — Second-Year French",
+      "description": "Final course of intermediate sequence includes grammar study, vocabulary building, extensive writing, and discussion. Reading of a French or Francophone novel is an integral part of course.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 5 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "FREN5"
+        ]
+      ]
+    },
+    {
+      "id": "FREN35",
+      "name": "FREN 35 — Conversational practice and vocabulary development",
+      "description": "Students work on developing fluency and spontaneity in French conversation, focusing on oral expression in a range of common daily situations, including social interactions, navigating transportation systems, securing lodging and accommodations, ordering food in restaurants, and so forth. Students also focus on acquiring vocabulary related to each theme. This course aims to build studentsâ oral proficiency as well as confidence, especially for students interesting in further French coursework or a sojourn abroad in a French-speaking context (such as one of the UCEAP programs in France).",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 3 .",
+      "prereqGroups": [
+        [
+          "FREN3"
+        ]
+      ]
+    },
+    {
+      "id": "FREN85",
+      "name": "FREN 85 — (De)constructing contemporary French identity",
+      "description": "Taught in English, this course examines core values and events in France, such as Republican values (in the French sense of \"Republican\"), secularism, globalization, immigration, that have helped shape current French society.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN94",
+      "name": "FREN 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN99",
+      "name": "FREN 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN99F",
+      "name": "FREN 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN105",
+      "name": "FREN 105 — French Regional Cultures Through Cuisine",
+      "description": "âTell me what you eat, and I will tell you what you are.â This famous quote is the title of a book by the French gastrosopher (philosopher of gastronomy) Brillat-Savarin in XIX-century France. His work was highly influential on brilliant authors such as Balzac and Barthes. This English course explores French regional cultures, traditions, and savoir-faire and their impact on the people.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN108",
+      "name": "FREN 108 — French Cinema",
+      "description": "Investigation of a variety of topics (historical, cultural, and linguistic) in France and the French-speaking world. Topics are explored through film. Conducted in English.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN111",
+      "name": "FREN 111 — Stylistics",
+      "description": "Intensive work in French composition with the aim of attaining fluency and accuracy of expression while developing literary appreciation. May be repeated for credit with consent of instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN114",
+      "name": "FREN 114 — French Phonetics",
+      "description": "Introduction to the French sound system and basic phonetics. Extensive practice of French pronunciation and phonetic transcriptions of both written and spoken language samples.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "FREN6"
+        ]
+      ]
+    },
+    {
+      "id": "FREN120",
+      "name": "FREN 120 — French Linguistics",
+      "description": "Major topics in contemporary French linguistics, covering both formal and social properties of French. Descriptive and theoretical study of phonetics and phonology, lexicon, morphology, syntax, sociolinguistic variation, status of regional and minority languages, and language planning. Taught in French.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 6 or placement by assessment, or by consent of the instructor.",
+      "prereqGroups": [
+        [
+          "FREN6"
+        ]
+      ]
+    },
+    {
+      "id": "FREN121",
+      "name": "FREN 121 — History of the French Language",
+      "description": "Overview of the history and development of the French language from Latin to early modern French. Sound changes, grammatical and lexical changes, language policy (e.g., l'Academie francaise), external influences on the language. Taught in French.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 6 or placement by assessment, or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "FREN6"
+        ]
+      ]
+    },
+    {
+      "id": "FREN125A",
+      "name": "FREN 125A — French Civilization: 19th Century",
+      "description": "Survey of the important historical events, social changes, and artistic movements contributing to the development of French culture during the 19th century.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "FREN6"
+        ]
+      ]
+    },
+    {
+      "id": "FREN125B",
+      "name": "FREN 125B — French Civilization: 20th Century",
+      "description": "A survey of the important historical events, social changes, and artistic movements contributing to the development of French culture during the 20th century.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "FREN6"
+        ]
+      ]
+    },
+    {
+      "id": "FREN130",
+      "name": "FREN 130 — French for Professions",
+      "description": "Students better understand administrative organization in France through preparation of their own professional dossier in French, and preparation to look for professional opportunities in France. Taught in French.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 6 , or placement by assessment, or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "FREN6"
+        ]
+      ]
+    },
+    {
+      "id": "FREN131",
+      "name": "FREN 131 — Social Activism in France: The Tradition of Chanson Française Engagée",
+      "description": "Explores the French tradition of musical activism from the French Revolution to the present. Societal issues such as war, racism, poverty, environmental issues, globalization, and terrorism are addressed.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FREN 6 or placement by assessment, or by interview with consent of instructor.",
+      "prereqGroups": [
+        [
+          "FREN6"
+        ]
+      ]
+    },
+    {
+      "id": "FREN136",
+      "name": "FREN 136 — La Francophonie",
+      "description": "In-depth multidisciplinary study of one or more French-speaking regions of the world. Topics may include history, language, society, literature, and the arts. All coursework will be done in French.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN194",
+      "name": "FREN 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN199",
+      "name": "FREN 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FREN199F",
+      "name": "FREN 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

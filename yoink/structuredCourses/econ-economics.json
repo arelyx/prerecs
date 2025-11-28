@@ -1,0 +1,1740 @@
+{
+  "department": "ECON - Economics",
+  "slug": "econ-economics",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/econ-economics",
+  "generated_at": "2025-11-28T07:51:37.664964+00:00",
+  "courses": [
+    {
+      "id": "ECON1",
+      "name": "ECON 1 — Introductory Microeconomics: Resource Allocation and Market Structure",
+      "description": "For all interested students as well as prospective economics majors. Examines how markets allocate resources in different kinds of economies. Topics include competitive markets, monopoly, financial markets, income distribution, market failures, the environment, and the role of government.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON2",
+      "name": "ECON 2 — Introductory Macroeconomics: Aggregate Economic Activity",
+      "description": "For all interested students and prospective economics majors. Examines how the overall level of national economic activity is determined, including output, employment, and inflation. Explores the roles of monetary and fiscal policies in stabilizing the economy and promoting growth, with a focus on contemporary policy debates.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON10A",
+      "name": "ECON 10A — Economics of Accounting",
+      "description": "Introduces students to fundamental accounting principles and practices. Key topics include reviewing the accounting cycle, preparing basic financial statements, and integrating data analysis tools to interpret and analyze financial statement data. Course improves students' financial literacy skills by illustrating how financial statements are used by external parties such as bankers, creditors, investors, and others who have a desire and/or need to learn more about the financial information of business organizations.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON10B",
+      "name": "ECON 10B — Economics of Accounting",
+      "description": "Foundation of accounting course providing students with the concepts, practices, and tools for analyzing, planning, and making managerial accounting decisions for the future with an emphasis on performance measurement using various data analysis tools. Key topics include product and service costing, management decision-making and analysis, planning and controlling processes, CVP analysis, budgeting, variance analysis, and segment reporting.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 10A .",
+      "prereqGroups": [
+        [
+          "ECON10A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON20",
+      "name": "ECON 20 — Economics for Non-Majors",
+      "description": "Designed for non-majors seeking a basic introduction to core economic concepts relevant for social and public policy decision making. Fundamental economic concepts illustrated through their application to a variety of public policy questions.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON22P",
+      "name": "ECON 22P — Introduction to Python for Data Science",
+      "description": "Introduction to programming in Python with emphasis on commands and workflow useful for data science, especially in economics and other social sciences. Data science applications are interwoven with lessons about basic syntax. Topics of study include variables and operations, containers, Pandas dataframes, conditional statements and conditional slicing of dataframes, loops, advanced string processing, file input/output, functions, and data visualization. This course places less emphasis on object-oriented programming and more emphasis on practical data science applications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared economics, business management economics, global economics, economics/mathematics combined, and environmental studies/economics combined majors. Restrictions lifted after first pass enrollment.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON30",
+      "name": "ECON 30 — Introduction to Entrepreneurship",
+      "description": "Provides an overview of the role and importance of entrepreneurship in the economy and society; a framework for approaching entrepreneurship and innovation; and exposure to the core competencies required of all entrepreneurs. The course incorporatescase studies and speakers (often actual entrepreneurs) to provide context for the entrepreneurial topics covered in the course.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON50",
+      "name": "ECON 50 — Economics, Science, and Policy of Climate Change",
+      "description": "Climate change has become the problem of today rather than a problem of the future, and it is felt as a personal problem by many young people. ;At the same time, the scale of the problem makes it common to feel resigned, depressed, and powerless. This course is designed to introduce students to accurate facts about climate change and to potential and existing climate solutions and ways students can contribute to these solutions in their personal and professional lives.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON99",
+      "name": "ECON 99 — Tutorial",
+      "description": "No description provided.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON100A",
+      "name": "ECON 100A — Intermediate Microeconomics",
+      "description": "Covers major theoretical issues arising in the study of resource allocation, the function of markets, consumer behavior, and the determination of price, output, and profits in competitive, monopolistic, and oligopolistic market structures. Also considers issues of welfare and public policy. Students cannot receive credit for this course and course 100M.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; and AM 11B or ECON 11B or MATH 22 or MATH 23A or AM 30 .",
+      "prereqGroups": [
+        [
+          "ECON1",
+          "ECON2"
+        ],
+        [
+          "AM11B",
+          "ECON11B",
+          "MATH22",
+          "MATH23A",
+          "AM30"
+        ]
+      ]
+    },
+    {
+      "id": "ECON100B",
+      "name": "ECON 100B — Intermediate Macroeconomics",
+      "description": "Covers major theoretical issues arising in the study of income, employment, interest rates, and the price level. Examines the role of monetary and fiscal policy in economic stabilization. Also considers these issues as they relate to the global economy. Students cannot receive credit for this course and course 100N.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; and AM 11B or ECON 11B or MATH 22 or MATH 23A or AM 30 .",
+      "prereqGroups": [
+        [
+          "ECON1",
+          "ECON2"
+        ],
+        [
+          "AM11B",
+          "ECON11B",
+          "MATH22",
+          "MATH23A",
+          "AM30"
+        ]
+      ]
+    },
+    {
+      "id": "ECON100M",
+      "name": "ECON 100M — Intermediate Microeconomics, Math Intensive",
+      "description": "Mathematically sophisticated version of course 100A. Provides analytically rigorous treatment of the subject using a calculus-intensive presentation of microeconomic theory. For specific topics, see course 100A. Students cannot receive credit for this course and course 100A.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; and AM 11B or ECON 11B or MATH 22 or MATH 23A .",
+      "prereqGroups": [
+        [
+          "ECON1",
+          "ECON2"
+        ],
+        [
+          "AM11B",
+          "ECON11B",
+          "MATH22",
+          "MATH23A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON100N",
+      "name": "ECON 100N — Intermediate Macroeconomics, Math Intensive",
+      "description": "Provides rigorous, mathematical-intensive treatment of topics covered in course 100B. Core is devoted to model-based analysis of questions in macroeconomics. Use of mathematical tools allows study of advanced topics and data-intensive applications. See course 100B for specific topics. Students cannot receive credit for this course and course 100B.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; and AM 11B or ECON 11B or MATH 22 or MATH 23A .",
+      "prereqGroups": [
+        [
+          "ECON1",
+          "ECON2"
+        ],
+        [
+          "AM11B",
+          "ECON11B",
+          "MATH22",
+          "MATH23A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON101",
+      "name": "ECON 101 — Managerial Economics",
+      "description": "Analysis of the theory and practice of decision making in business firms, applying the concepts and techniques of microeconomics. Topics may include pricing schemes, non-price competition, internal organization of firms, incentive contracts, asymmetric information, and game theory. Case studies are used to illustrate some topics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ],
+        [
+          "ECON113"
+        ]
+      ]
+    },
+    {
+      "id": "ECON104",
+      "name": "ECON 104 — Is There Truth in Numbers: The Role of Statistics in Economics",
+      "description": "Applies the techniques of econometrics and experimental economics to the understanding of economics. A hands-on course where real economic data is used in an interactive way so that students develop the art of empirical analysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 , and Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ],
+        [
+          "ECON113"
+        ]
+      ]
+    },
+    {
+      "id": "ECON105",
+      "name": "ECON 105 — Topics in Macroeconomics",
+      "description": "Covers topics in macroeconomics. Course builds on the tools of macroeconomics developed in ECON 100B and ECON 100N to explore topical macroeconomic issues. Possible topics include economic growth, business cycles, financial crises, unemployment, inflation, inequality, and the global economy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100B or ECON 100N ; and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100B",
+          "ECON100N"
+        ],
+        [
+          "ECON113"
+        ]
+      ]
+    },
+    {
+      "id": "ECON110",
+      "name": "ECON 110 — Managerial Cost Accounting and Control",
+      "description": "Focuses on how cost data are used by managers in the planning and control of both private- and public-sector organizations. Specific topics include organization of the management and control function, use of cost data for the pricing of goods and services, the effect of cost systems on management performance, and capital budgeting.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 10B .",
+      "prereqGroups": [
+        [
+          "ECON10B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON111A",
+      "name": "ECON 111A — Intermediate Accounting I",
+      "description": "Principles, control, and theory of accounting for assets; accounting as an information system; measurement and determination of income. Projects involving spreadsheet software are required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 10B .",
+      "prereqGroups": [
+        [
+          "ECON10B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON111B",
+      "name": "ECON 111B — Intermediate Accounting II",
+      "description": "Covers the principles, control, the theory of accounting for liabilities and property; plant and equipment, the preparation and analysis of investments,and review and analysis of bonds and leases.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 111A .",
+      "prereqGroups": [
+        [
+          "ECON111A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON111C",
+      "name": "ECON 111C — Intermediate Accounting III",
+      "description": "Covers the principles of control, the theory of accounting for pensions and income taxes; the determination of share-based compensation and earnings per share, the calculation of shareholder's equity, and advanced topics in intermediate accounting.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 111A .",
+      "prereqGroups": [
+        [
+          "ECON111A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON112",
+      "name": "ECON 112 — Auditing and Attestation",
+      "description": "For business management economics majors interested in careers that emphasize accounting, finance, or technology management. Also for students who intend to take the CPA exam. Covers audit techniques, risk analysis, and development of control structures for major financial processes including cash, investments, accounts receivable, inventories, accounts payable, debt, equity capital, and related information systems security.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 10B .",
+      "prereqGroups": [
+        [
+          "ECON10B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON113",
+      "name": "ECON 113 — Introduction to Econometrics",
+      "description": "Practical methods for organizing and analyzing economic data, testing economic hypotheses, and measuring economic relationships. Regression analysis is the main empirical method, and basic statistical and probability theory is included. Students gain hands-on computer experience with an econometric software package.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; STAT 17 and STAT 17L ; and one of the following: AM 11B or ECON 11B, or MATH 22 , or MATH 23A , or AM 30 . ECON 100A or ECON 100B strongly recommended as preparation.",
+      "prereqGroups": [
+        [
+          "ECON1",
+          "ECON2"
+        ],
+        [
+          "STAT17",
+          "STAT17L"
+        ],
+        [
+          "AM11B",
+          "ECON11B",
+          "MATH22",
+          "MATH23A",
+          "AM30"
+        ]
+      ]
+    },
+    {
+      "id": "ECON114",
+      "name": "ECON 114 — Advanced Quantitative Methods",
+      "description": "Application of statistical methods to estimating and testing economic relationships, i.e., econometric techniques. Topics include the effects of misspecification, choice of functional form, serial correlation, heteroscedasticity, limited dependent variables, and simultaneous equations. Includes discussion of existing empirical work and econometric projects by students.",
+      "credits": "6",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M , and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ],
+        [
+          "ECON113"
+        ]
+      ]
+    },
+    {
+      "id": "ECON115",
+      "name": "ECON 115 — Introduction to Management Sciences",
+      "description": "The scientific study of management decision making. Topics include linear, integer, and non-linear programming. Special emphasis on a wide variety of practical applications, including production scheduling, optimal transportation assignments, and optimal inventory policy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON116",
+      "name": "ECON 116 — Advanced Topics in Accounting and Ethics",
+      "description": "Covers topics in accounting and ethics. Builds a strong accounting foundation; develops critical thinking skills; and explores ethical standards in accounting, forensic accounting, international financial recording standards, and accounting for sustainability. Meets the California state educational ethics requirement for certified public accountant (CPA) licensure.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 111A and ECON 111B . Enrollment is restricted to economics, business management economics, global economics, and the combined economics and environmental studies and mathematics majors.",
+      "prereqGroups": [
+        [
+          "ECON111A",
+          "ECON111B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON117A",
+      "name": "ECON 117A — Income Tax Factors for Individuals",
+      "description": "Introduces federal taxation for individuals. Topics for study include taxable income, gross income exclusions and inclusions, capital gains, depreciation, business and itemized deductions, personal and dependency exemptions, passive activity losses, tax credits, and methods of accounting.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 10A .",
+      "prereqGroups": [
+        [
+          "ECON10A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON117B",
+      "name": "ECON 117B — Tax Factors of Business and Investment",
+      "description": "Focuses on various tax subjects providing a strong foundation in tax concepts and preparation for work in either public or corporate accounting. Topics include historical perspective of the U.S. tax system, introduction to estate and gift taxes, employment and self-employment taxes, tax concepts and laws, business expenses, capital recovery, tax credits, capital gains and losses, capital investments, and corporate operations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 10A .",
+      "prereqGroups": [
+        [
+          "ECON10A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON119",
+      "name": "ECON 119 — Advanced Accounting",
+      "description": "Accounting for business organizations; partnerships; government and non-profit organization funds; branches, consolidations, and installment sales. Projects involving spreadsheet software required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 111A or ECON 111B .",
+      "prereqGroups": [
+        [
+          "ECON111A",
+          "ECON111B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON120",
+      "name": "ECON 120 — Development Economics",
+      "description": "Studies the microeconomics of development. Topics may include health and nutrition, education, intra-household economics, formal and informal risk-coping mechanisms, savings, credit, agriculture, institutions, and service delivery and corruption. Focuses on empirical methods. Problem sets require statistical software such as Stata. (Formerly Economic Development.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 1 ; STAT 17 and STAT 17L .",
+      "prereqGroups": [
+        [
+          "ECON1"
+        ],
+        [
+          "STAT17",
+          "STAT17L"
+        ]
+      ]
+    },
+    {
+      "id": "ECON121",
+      "name": "ECON 121 — Economic Growth",
+      "description": "Studies economic growth from theoretical, empirical, and historical perspectives. Topics include: theories of economic growth and their empirical importance, technology and innovation, social institutions and growth, and competing explanations of the global distribution of wealth.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 1 , ECON 2 , ECON 11A or AM 11A , and ECON 11B or AM 11B (or the equivalent); ECON 100B is strongly recommended.",
+      "prereqGroups": [
+        [
+          "ECON1"
+        ],
+        [
+          "ECON2"
+        ],
+        [
+          "ECON11A",
+          "AM11A"
+        ],
+        [
+          "ECON11B",
+          "AM11B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON124",
+      "name": "ECON 124 — Machine Learning for Economists",
+      "description": "Introduction to machine learning from the perspective of economics. Students introduced to modern estimation methods for high-dimensional data, which is illustrated through applications to causal inference and prediction problems in economics, business, and related fields. Students gain experience working with these methods through programming assignments. Course focuses on methodology and its practical application and culminates in an empirical project in which students apply course concepts to real-world data.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 113 or ECON 216 . Enrollment is restricted to undergraduate majors in economics, business management economics, global economics, and economics combined programs and master's students in the quantitative economics and finance (formerly applied economics and finance) program.",
+      "prereqGroups": [
+        [
+          "ECON113"
+        ],
+        [
+          "ECON216"
+        ]
+      ]
+    },
+    {
+      "id": "ECON125",
+      "name": "ECON 125 — Economic History of the U.S",
+      "description": "The development of the American economy from colonial times to the present, with emphasis on the interaction between institutional structure and economic development. Topics include the economics of slavery, the rise of big business, and the causes of the Great Depression.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 . Related coursework in history also helpful. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "ECON1"
+        ],
+        [
+          "ECON2"
+        ]
+      ]
+    },
+    {
+      "id": "ECON128",
+      "name": "ECON 128 — Poverty and Public Policy",
+      "description": "Studies the causes, consequences, and governmental response to urban poverty in the U.S. Topics include how public policy, the macroeconomy, race, gender, discrimination, marriage, fertility, child support, and crime affect and are affected by urban poverty. Emphasizes class discussion and research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 . Enrollment is restricted to economics, business management economics, global economics, legal studies, or economics combined majors.",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON130",
+      "name": "ECON 130 — Money and Banking",
+      "description": "Examines the nature of money, financial intermediation, financial asset pricing, and markets; banking business and the banking industry; financial and banking crises, especially the 2007-09 crisis in the U.S. and abroad; the evolving nature of financial regulation and supervision of banking and financial institutions and markets; history and functions of the U.S. central bank (Federal Reserve); the role of the central bank in providing liquidity, credit, and creating money; central bank emergency lending in crises; institutional design of central banks and macroeconomic policy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100B or ECON 100N ; and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100B"
+        ],
+        [
+          "ECON100N"
+        ]
+      ]
+    },
+    {
+      "id": "ECON131",
+      "name": "ECON 131 — International Financial Markets",
+      "description": "International financial management analyzes the key financial markets and instruments that facilitate trade and investment activity on a global scale. Inquiry spans two areas: (1) economic determinants of prices in international financial markets; and (2) decisions facing private individuals and enterprises, with topics including capital financing, investment, and risk management.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 100B or ECON 100N .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON133",
+      "name": "ECON 133 — Security Markets and Financial Institutions",
+      "description": "An examination of all major financial markets: equities, bonds, options, forwards, and futures. Uses modern financial theory, including asset pricing models such as CAPM and APT.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M , and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON135",
+      "name": "ECON 135 — Corporate Finance",
+      "description": "An analysis of financial policies of business enterprises. Topics include cash flow analysis, stock and bond valuation, asset pricing models, capital budgeting, financial market institutions, and financial planning.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 10A ; and ECON 100A or ECON 100M ; and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON10A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON136",
+      "name": "ECON 136 — Business Strategy",
+      "description": "The strategic management process, techniques for analyzing single-business and diversified companies, implementing strategy, organization, business planning, financial strategy, competitive analysis, entrepreneurial skills.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 10A ; and ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON10A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON138",
+      "name": "ECON 138 — The Economics and Management of Technology and Innovation",
+      "description": "Examines the analytics of issues in technology and innovation, including cooperation in research and development (R&D), standardization and compatibility, patents and intellectual property rights, and strategic management, using economic models and firm case studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M , or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON139A",
+      "name": "ECON 139A — The Economics of Electronic Commerce",
+      "description": "An analysis of the broad spectrum of issues affecting commercial uses of the Internet and the next-generation information infrastructure. Uses economics to examine market structure, pricing quality, intellectual property rights, security, electronic payments and currencies, and public policy implications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M , or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON139B",
+      "name": "ECON 139B — E-Commerce Strategy",
+      "description": "Review of economic principles and trends in e-commerce, including online retailing of physical products, digital products and services, financial services, business-to-business transactions, e-business, and e-marketing. Business-to-business and business-to-consumer business models are explored both in terms of strategy and implementation. Topics include how and why successful companies deploy e-business strategies and how these evolve in fast-changing technological and business environments..",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 139A or ECON 161A .",
+      "prereqGroups": [
+        [
+          "ECON139A"
+        ],
+        [
+          "ECON161A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON140",
+      "name": "ECON 140 — International Trade",
+      "description": "The theory of international production and trade. The effects of tariffs and quantitative trade restrictions; the nature of economic integration; multinational firms; effects of trade and protection on economic stability and welfare.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON141",
+      "name": "ECON 141 — International Finance",
+      "description": "Topics include national accounting, balance of payments theories, parity conditions in international finance, exchange rate determination models, forward-looking financial instruments, international monetary systems, country interdependence and exchange rate regimes, international monetary integration, and Eurocurrency market.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100B or ECON 100N .",
+      "prereqGroups": [
+        [
+          "ECON100B"
+        ],
+        [
+          "ECON100N"
+        ]
+      ]
+    },
+    {
+      "id": "ECON142",
+      "name": "ECON 142 — Advanced Topics in International Economics",
+      "description": "Selected issues in contemporary international economics: theory, empirical evidence, and public policy. Seminar emphasizing discussion and individual research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ECON 100A or ECON 100M ; and ECON 100B or ECON 100N ; and ECON 140 or ECON 141 .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON143",
+      "name": "ECON 143 — Policy Issues in the International Economy",
+      "description": "Covers selected issues concerning the international economy. Topics include: U.S. competitiveness; U.S. trade policy; immigration; trade and the environment; developing countries; foreign investment; foreign exchange markets; and international economic institutions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON149",
+      "name": "ECON 149 — The Economies of East and Southeast Asia",
+      "description": "Examines the pattern of international trade, investment, and industrial structure in Asia. Examines competing explanations of rapid growth of Japan, Korea, and Taiwan; presents an overview of economic developments in China, Hong Kong, and Taiwan. Concludes with an analysis of high technology trade and multinationals in Asia in 2000 and beyond.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 .",
+      "prereqGroups": [
+        [
+          "ECON1"
+        ],
+        [
+          "ECON2"
+        ]
+      ]
+    },
+    {
+      "id": "ECON150",
+      "name": "ECON 150 — Public Finance",
+      "description": "Economics of taxation, including incidence, equity issues, efficiency, and supply side effects. Close attention to taxes in the U.S. system and tax-reform issues. Students cannot receive credit for this course and course 250.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 100B or ECON 100N .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON156",
+      "name": "ECON 156 — Health Economics and Policy",
+      "description": "Health economics theory and review of empirical studies how we value and produce health, including current topics. Studies the intersection of health and the environment, and the consequences of imperfect information for health and health policy. (Formerly offered as Health Care and Medical Economics.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON159",
+      "name": "ECON 159 — The Economics of Organizations",
+      "description": "Uses an economic approach to shed light on questions such as why and how organizations are formed, and what consequences they may have on the adoption of different types of organizations for economic performance. Also emphasizes differences between the internal markets within organizations and market transactions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON160A",
+      "name": "ECON 160A — Industrial Organization",
+      "description": "The structure and conduct of American industry with strong emphasis on the role of government, regulation, anti-trust, etc. The evolution of present-day industrial structure. The problems of overall concentration of industry and of monopoly power of firms. Pricing, output decisions, profits, and waste. Approaches include case study, theory, and statistics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON160B",
+      "name": "ECON 160B — Government and Industry",
+      "description": "The influence of government regulation on industry and the allocation of resources is rigorously examined using theory and statistics. Areas of regulation include transportation and power, pollution and congestion, rent control, and liability insurance regulation. Both optimal and actual regulation are examined from the point of view of effectiveness, efficiency, social welfare, and re-distribution.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON161A",
+      "name": "ECON 161A — Marketing",
+      "description": "The evolution of markets and marketing; market structure; marketing cost and efficiency; public and private regulation; the development of marketing programs including decisions involving products, price, promotional distribution.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON161B",
+      "name": "ECON 161B — Marketing Research",
+      "description": "Prepares students to conduct market research and use it in solving real management problems. Students work with a company to solve marketing-based problems. Students conduct research, process data, and make a presentation to the company's management. Course work involves marketing, statistics, and communications; material is both qualitative and quantitative.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 113 and ECON 161A .",
+      "prereqGroups": [
+        [
+          "ECON113"
+        ],
+        [
+          "ECON161A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON162",
+      "name": "ECON 162 — Legal Environment of Business",
+      "description": "A study of law and the legal process, emphasizing the nature and function of law within the U.S. federal system. Attention is given to the legal problems pertaining to contracts and related topics, business association, and the impact of law on business enterprise.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON164",
+      "name": "ECON 164 — Economics and the Telecommunications Industry",
+      "description": "Covers the economics of the telecommunications industry including telephone, cellular telephone, and data communications. Particular emphasis on the Internet, satellite, paging, cable television, radio and television broadcasting. Examines the industry structure and implications of moving from a regulated environment to competition. Topics examined from a competitive strategic standpoint as well as public policy perspective.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON165",
+      "name": "ECON 165 — Economics as an Experimental Science",
+      "description": "The design, execution, and analysis of laboratory experiments in economics. Students study experimental methodology, critically survey the published literature, and design an experiment. Literature includes lab studies of investigations in auctions, markets, social choice theory, and game theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .; and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON166A",
+      "name": "ECON 166A — Game Theory and Applications I",
+      "description": "Introduces modern game theory, including applications in social science, biology, and engineering. Topics include extensive form, strategic form, mixed strategies, incomplete information, repeated games, evolutionary games, and simulation techniques.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 5 , STAT 7 , STAT 17 or ECON 113 ; and AM 11B or ECON 11B, or MATH 11B , MATH 19B , STAT 131 or CSE 107 . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "STAT5"
+        ],
+        [
+          "STAT7"
+        ],
+        [
+          "STAT17"
+        ],
+        [
+          "ECON113"
+        ]
+      ]
+    },
+    {
+      "id": "ECON166B",
+      "name": "ECON 166B — Game Theory and Applications II",
+      "description": "Explores research frontiers in game theory, emphasizing applications in social science, biology, and engineering. Each interdisciplinary team develops a topic, and presents it to the class in oral and written reports and demonstrations. Students must have shown a strong performance in course 166A or equivalent. Students cannot receive credit for this course and ECON 272 , CSE 209, or BIOE 274.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 166A or CSE 166A; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "ECON166A"
+        ],
+        [
+          "CSE166A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON169",
+      "name": "ECON 169 — Economic Analysis of the Law",
+      "description": "The application of the theories and methods of neoclassical economics to the central institutions of the legal system, including the common law doctrines of negligence, contract, and property; bankruptcy and corporate law; and civil, criminal, and administrative procedure.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON170",
+      "name": "ECON 170 — Environmental Economics",
+      "description": "Economic analysis of environmental issues. Environmental pollution and deterioration as social costs. Economic policy and institutions for environmental control. Influences of technology, economic growth, and population growth on environmental quality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON171",
+      "name": "ECON 171 — Natural Resource Economics",
+      "description": "The application of economic analysis to the use of renewable and nonrenewable natural resources. Efficiency and distributional aspects of natural resource scarcity. Measurement of the benefits and costs. Optimal extraction or use policies. Common property and externalities. Government policies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON175",
+      "name": "ECON 175 — Energy Economics",
+      "description": "Applications of micro, welfare, and international economic theory and methodology to the energy field. Questions considered include optimal allocation of natural resources; pricing and investment; regulations and taxes; import and export control; redistributional policies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON180",
+      "name": "ECON 180 — Labor Economics",
+      "description": "A study of topics in modern labor economics with an emphasis on data analysis and econometrics. Topics include labor supply, labor demand, human capital, minimum wage, employment and wage discrimination, immigration, self-employment, earned income tax credit, and unemployment insurance.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 .",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ],
+        [
+          "ECON113"
+        ]
+      ]
+    },
+    {
+      "id": "ECON182",
+      "name": "ECON 182 — Unemployment",
+      "description": "Presents facts about the labor market and unemployment, models to describe unemployment, and policies to tackle unemployment. The course addresses several questions: Why does unemployment exist? Why does unemployment vary over the business cycle? What is the socially optimal rate of unemployment? How should policies respond to fluctuations in unemployment? The course relies on basic mathematical methods such as unconstrained and constrained optimization, and linear and nonlinear differential equationsâincluding phase diagrams.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100B . Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "ECON100B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON183",
+      "name": "ECON 183 — Women in the Economy",
+      "description": "Study of gender roles in economic life, past and present. Topics include occupational structure, human capital acquisition, income distribution, poverty, and wage differentials. The role of government in addressing economic gender differentials is examined.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 is strongly recommended.",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ],
+        [
+          "ECON113"
+        ]
+      ]
+    },
+    {
+      "id": "ECON186",
+      "name": "ECON 186 — Mathematical Methods for Economic Analysis",
+      "description": "Presents mathematical methods commonly used in graduate-level economic analysis: basic matrix algebra, real analysis, functions, continuity concepts, differentiation, Taylor expansions, and implicit function theorem and optimization.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON188",
+      "name": "ECON 188 — Management in the Global Economy",
+      "description": "An overview of how firms do business in the global economy. The focus is on the motivations of firm behavior, but also explores the impact of corporate decision-making on national welfare. Includes a mix of business case studies, applied economic theory, and empirical applications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 113 and either ECON 100A or ECON 100M .",
+      "prereqGroups": [
+        [
+          "ECON113"
+        ],
+        [
+          "ECON100A",
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON190",
+      "name": "ECON 190 — Senior Proseminar",
+      "description": "Courses focus on problems of interest to advanced students of economics. They offer a flexible framework, so those interested in specific issues can read, present papers, and develop their ideas.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON191",
+      "name": "ECON 191 — Economics Teaching Practicum",
+      "description": "Each student serves as facilitator for small discussion group in connection with core economics courses. Facilitators complete course readings and meet with instructor as a group to discuss the teaching process. May not be counted toward upper-division major requirements.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON192",
+      "name": "ECON 192 — Directed Student Teaching",
+      "description": "Teaching of a lower-division seminar, course 42, under faculty supervision. May not be counted toward the upper-division major requirements. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON193",
+      "name": "ECON 193 — Field Study",
+      "description": "Provides for department-sponsored individual field study experience in an area connected with economics or business. Students work 12-14 internship hours per week. May not be counted toward the upper-division major requirements. Prerequisite(s): ECON 100A , ECON 100B , and ECON 113 . Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON193F",
+      "name": "ECON 193F — Field Study",
+      "description": "Provides for department-sponsored individual field study experience in an area connected with economics or business under the direct supervision of a faculty sponsor. Students work five-six hours internship hours per week. May not be counted toward the upper-division major requirements. Prerequisite(s): ECON 100A , ECON 100B and ECON 113 . Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON194",
+      "name": "ECON 194 — Advanced Topics in Management",
+      "description": "Honors course providing detailed analysis of specialized topics in management. Possible topics include: venture capital, the financial services industry, e-business, behavioral finance, advanced consumer behavior, entrepreneurship, high-tech marketing, risk management, and option value approaches to business strategy. Students cannot receive credit for this course and ECON 194F . Prerequisite(s): ECON 100A or ECON 100M , ECON 100B or ECON 100N , and ECON 113 . Enrollment is by permission of instructor, and review of performance in economics courses. Enrollment is restricted to junior and senior business management economics majors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON194B",
+      "name": "ECON 194B — Advanced Topics in Business and Professional Development",
+      "description": "Enhances students' marketability, strengthens verbal and written communication skills, teaches appropriate business etiquette, improves networking skills, and helps students determine how to become an integral part of an organization's intellectual capacity. Business professionals provide guest presentations.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors economics, business management economics, global economics majors and combined majors with mathematics and environmental studies.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON194F",
+      "name": "ECON 194F — Advanced Topics in Management and Finance",
+      "description": "Detailed analysis of specialized topics in management. Possible topics include: venture capital, the financial services industry, e-business, behavioral finance, advanced consumer behavior, entrepreneurship, high-tech marketing, risk management, and option value approaches to business strategy. Formerly, Advanced Topics in Management and Finance.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 ; ECON 133 or ECON 135 strongly recommended. Enrollment is restricted to junior and senior business management economics majors.",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ],
+        [
+          "ECON113"
+        ],
+        [
+          "ECON133",
+          "ECON135"
+        ]
+      ]
+    },
+    {
+      "id": "ECON195",
+      "name": "ECON 195 — Senior Thesis",
+      "description": "A supervised research project. If the project is of unusual scope, the course may be repeated for credit. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON197",
+      "name": "ECON 197 — Economic Rhetoric: Using Economic Theory and Empirical Evidence in Arguing Policy",
+      "description": "Economics students are expected to learn to effectively communicate economic theory and evidence relating to economic policy to audiences that do not have economics degrees. The skills to be learned are both written and oral communication. Students learn to present convincing policy arguments in position papers, executive summaries, and in oral presentation that may include charts and other means of communication.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Entry Level Writing and Composition requirements; ECON 100A or ECON 100M . ECON 100B or ECON 100N and ECON 113 strongly recommended. Restricted to sophomore, junior, and senior economics, business-management economics, global economics and combined economics/math majors.",
+      "prereqGroups": [
+        [
+          "ECON100A",
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECON199",
+      "name": "ECON 199 — Tutorial",
+      "description": "May be repeated for credit, but may be counted only once toward the upper-division major requirements. Undergraduates may not take graduate courses for credit as ECON 199 . Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON199F",
+      "name": "ECON 199F — Tutorial",
+      "description": "Specialized study with individual faculty. May not be applied toward the major requirements. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON200",
+      "name": "ECON 200 — Microeconomic Analysis",
+      "description": "Survey of partial equilibrium analysis, market distortions, consumer choice and production and trade theory, perfect and imperfect competition, price discrimination, and intertemporal choice theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON201",
+      "name": "ECON 201 — Applications in Microeconomics",
+      "description": "Applies concepts and tools developed in ECON 200 to problems encountered in private- and public-sector output and labor markets. The focus is empirical; topics include analysis of labor supply and labor demand and the role of government labor market policies, analysis of pricing policies and regulation, estimation of the returns to schooling, estimation of demand and cost functions, and the role of unions in the economy. ECON 200 is strongly recommended as preparation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON202",
+      "name": "ECON 202 — Macroeconomic Analysis",
+      "description": "Aggregate economic analysis: determinants of aggregate expenditures and output, the roles of monetary and fiscal policy, recent developments in macro theory; macro policy issues.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON204A",
+      "name": "ECON 204A — Advanced Microeconomic Theory I",
+      "description": "Economic theory of individual and market behavior, including constrained optimization, duality, theory of the consumer, theory of the producer, dynamic optimization, behavior under uncertainty, intertemporal choice, asymmetric information, game theory, partial and general equilibrium, pure and applied welfare economics, public goods and externalities. ECON 204A, ECON 204B , and ECON 204C must be taken in sequence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Ph.D. students in economics or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON204B",
+      "name": "ECON 204B — Advanced Microeconomic Theory II",
+      "description": "Economic theory of individual and market behavior, including constrained optimization, duality, theory of the consumer, theory of the producer, dynamic optimization, behavior under uncertainty, intertemporal choice, asymmetric information, game theory, partial and general equilibrium, pure and applied welfare economics, public goods and externalities. Courses must be taken in sequence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204A .",
+      "prereqGroups": [
+        [
+          "ECON204A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON204C",
+      "name": "ECON 204C — Advanced Microeconomic Theory III",
+      "description": "Economic theory of individual and market behavior, including constrained optimization, duality, theory of the consumer, theory of the producer, dynamic optimization, behavior under uncertainty, intertemporal choice, asymmetric information, game theory, partial and general equilibrium, pure and applied welfare economics, public goods and externalities. Courses must be taken in sequence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204B .",
+      "prereqGroups": [
+        [
+          "ECON204B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON205A",
+      "name": "ECON 205A — Advanced Macroeconomic Theory I",
+      "description": "Modern macroeconomic theory: theories of growth and business cycle fluctuations; theories of household and firm behavior; models of financial markets and labor markets; recent developments in the analysis of macroeconomic policy. ECON 205A, ECON 205B , and ECON 205C must be taken in sequence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Ph.D. students in economics or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON205B",
+      "name": "ECON 205B — Advanced Macroeconomic Theory II",
+      "description": "Modern macroeconomic theory: theories of growth and business cycle fluctuations; theories of household and firm behavior; models of financial markets and labor markets; recent developments in the analysis of macroeconomic policy. Courses must be taken in sequence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 205A .",
+      "prereqGroups": [
+        [
+          "ECON205A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON205C",
+      "name": "ECON 205C — Advanced Macroeconomic Theory III",
+      "description": "Modern macroeconomic theory: theories of growth and business cycle fluctuations; theories of household and firm behavior; models of financial markets and labor markets; recent developments in the analysis of macroeconomic policy. Courses must be taken in sequence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 205B .",
+      "prereqGroups": [
+        [
+          "ECON205B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON210A",
+      "name": "ECON 210A — Mathematical Methods for Economic Analysis",
+      "description": "Mathematical methods commonly used in economic analysis are discussed. Covers basic matrix algebra, real analysis, functions, continuity concepts, differentiation, Taylor expansion, implicit function theorem, and optimization. Prerequisite(s): qualifications as determined by instructor; inquire at department office.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON210B",
+      "name": "ECON 210B — Mathematical Methods for Economic Analysis",
+      "description": "A course in introductory mathematical economics which covers standard optimization problems, difference and differential equations, optimal control theory, decisions under uncertainty, game theory, and stochastic calculus. ECON 210A or equivalent is strongly recommended as preparation. Enrollment is restricted to Ph.D. students in economics or by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Ph.D. students in economics or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON211A",
+      "name": "ECON 211A — Advanced Econometrics I",
+      "description": "Introduces advanced econometric methods. Topics include probability theory, hypothesis testing, linear regression analysis, heteroscedasticity, serial correlation, instrumental variables, and panel data models.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to economics Ph.D. students or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON211B",
+      "name": "ECON 211B — Advanced Econometrics II",
+      "description": "Focuses on the use of econometric methods for causal inference. Research designs covered include: OLS regression, non-parametric regression, propensity score, panel models, synthetic control, instrumental variables, and regression discontinuity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 211A . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECON211A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON211C",
+      "name": "ECON 211C — Advanced Econometrics III",
+      "description": "Covers the asymptotic theory of m-estimators, resampling methods, nonparametric estimation, and statistical (machine) learning methods commonly used in industry. Emphasis is on theory but students also have the chance to implement some of the methods on real datasets.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 211A . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECON211A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON212",
+      "name": "ECON 212 — Empirical Project in Econometrics",
+      "description": "Empirical project or paper in econometrics to demonstrate student's ability to conduct applied econometric analysis. Ph.D. requirement to be completed by beginning of student's third year of study. Prerequisite(s): ECON 211A and ECON 211B .",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON216",
+      "name": "ECON 216 — Applied Econometric Analysis I",
+      "description": "The use of statistical techniques for the testing of economic hypotheses and the estimation of parameters, with emphasis on regression analysis. Includes methods of dealing with serial correlation, errors in variables, multicollinearity, and heteroscedasticity. Experience with common statistical packages.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON217",
+      "name": "ECON 217 — Applied Econometric Analysis II",
+      "description": "Covers discrete and limited dependent variable models, nonparametric estimation methods, resampling methods, as well as statistical (machine) learning methods commonly used in industry. Students learn the theoretical foundations behind the methods and also how to apply them in practice.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON220A",
+      "name": "ECON 220A — Development Economics I",
+      "description": "Studies the microeconomics of development. Topics may include health and nutrition, education, intra-household economics, formal and informal risk-coping mechanisms, savings, credit, agriculture, institutions, and service delivery, and corruption.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON220B",
+      "name": "ECON 220B — Development Economics II",
+      "description": "Methodological class covering how to build a good theoretical model, how to derive a convincing test of a model, and how to structurally estimate a model. Examples drawn largely (though not exclusively) from the study of economic development.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON221A",
+      "name": "ECON 221A — Advanced Methods in Macroeconomics I",
+      "description": "Covers major issues in monetary economics, focusing on the core theoretical models employed in monetary economics. Topics include: money in general equilibrium; money-in-the-utility function approaches; cash-in-advance models; search-based models; welfare costs of inflation; optimal inflation tax; informational frictions in monetary economies; financial and credit frictions; nominal price and wage frictions; time-dependent and state-dependent models of price adjustment; and money in new Keynesian models.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 205A , ECON 205B , and ECON 205C , or by permission of instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECON205A",
+          "ECON205B",
+          "ECON205C"
+        ]
+      ]
+    },
+    {
+      "id": "ECON221B",
+      "name": "ECON 221B — Advanced Methods in Macroeconomics II",
+      "description": "Covers major issues in business-cycle macroeconomics, focusing on structural vector auto-regressions (VARs); solution and estimation of dynamic stochastic general equilibrium (DSGE) models; and solution and estimation of other modelsâincluding with slack and unemployment. Topics include: recursive identification; long-run restrictions; sign restrictions; Bayesian estimation; model comparisons; non-linear solution methods; particle filters; and other advanced topics related to business-cycle macroeconomics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 205C , or by permission of instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECON205C"
+        ]
+      ]
+    },
+    {
+      "id": "ECON221C",
+      "name": "ECON 221C — Advanced Methods in Macroeconomics",
+      "description": "Focuses on the use of disaggregated data on firms, establishments, workers, and households in macroeconomic research. Students learn about commonly used administrative records, survey data, quasi-experiments, etc., and their use to answer questions of interest to macroeconomists.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204C , ECON 205C , ECON 211C . Enrollment is restricted to economics graduate students.",
+      "prereqGroups": [
+        [
+          "ECON204C",
+          "ECON205C",
+          "ECON211C"
+        ]
+      ]
+    },
+    {
+      "id": "ECON222",
+      "name": "ECON 222 — Data Science and Applied Microeconomics",
+      "description": "Technological advances are creating new opportunities and challenges in the observation of economic behavior and changing the scope of empirical economics. This course exposes students to a variety of approaches to âlarge nâ and âlarge pâ problems and familiarizes students with recent research that has used big data to push the cutting-edge of applied microeconomics and finance. Through a combination of assignments (labs) and work on an independent project, students acquire the statistical and computational tools needed for making use of big data in empirical research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON224",
+      "name": "ECON 224 — Economic Applications of Machine Learning",
+      "description": "Introduces machine learning methods and their application to econometrics and applied economics. Covers the traditional use of machine learning for solving prediction problems and recent research applying the methods to causal inference and counterfactual prediction. Students learn the basic theory justifying the use of these methods and gain experience implementing them in R using economic data. Through class discussions, students study examples of applied economic research utilizing machine learning methods.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 211A , ECON 211B and ECON 211C , or ECON 216 and ECON 217 . Recommended prerequisites: M.S. QEFN students should have Aâs in the econometrics sequence and be comfortable with linear algebra. Experience with R, MATLAB, Python, or related programming language is very strongly recommended, as the course will not teach basic programming.",
+      "prereqGroups": [
+        [
+          "ECON211A",
+          "ECON211B",
+          "ECON211C"
+        ],
+        [
+          "ECON216",
+          "ECON217"
+        ]
+      ]
+    },
+    {
+      "id": "ECON231",
+      "name": "ECON 231 — International Financial Management",
+      "description": "Equips students with the analytical tools they need to make informed financial decisions and manage the risks that businesses face in today's competitive global environment. Covers the fundamental theories and real-world examples in international financial markets.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 233 . Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": [
+        [
+          "ECON233"
+        ]
+      ]
+    },
+    {
+      "id": "ECON233",
+      "name": "ECON 233 — Finance I",
+      "description": "Applications of economic analysis in private finance. Topics include risky choice and intertemporal choice theory, asset pricing models, efficient market hypotheses, market institutions, and derivative securities. ECON 200 is strongly recommended as preparation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON234",
+      "name": "ECON 234 — Financial Institutions and Markets",
+      "description": "Examines various aspects of financial institutions and markets, with emphasis on financial stability and sustainability. Topics include the role banks and other financial intermediaries play in achieving ESG sustainability goals and minimizing systemic risks. The course also discusses the structure of financial regulation and its role in achieving stability and sustainability goals.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 233 .",
+      "prereqGroups": [
+        [
+          "ECON233"
+        ]
+      ]
+    },
+    {
+      "id": "ECON235",
+      "name": "ECON 235 — Corporate Finance",
+      "description": "Application of modern financial theory to corporate decision making. Topics covered include capital budgeting and the firm's investment decision, capital structure, dividend policies, and the implications of corporate governance for enterprise financial goals.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 233 .",
+      "prereqGroups": [
+        [
+          "ECON233"
+        ]
+      ]
+    },
+    {
+      "id": "ECON236",
+      "name": "ECON 236 — Financial Engineering",
+      "description": "This course surveys the financial risks faced by corporation, banks, and other financial institutions that arise from changes in interest rates, foreign exchange rates, commodity prices, and stock prices. It examines the characteristics, payoffs, and pricing of financial derivatives and other instruments for managing risk, including options, forwards, futures, swaps, structured notes, and asset-backed securities. Several cases will be used to illustrate how actual firms solve financial risk management problems.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 233 . Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students.",
+      "prereqGroups": [
+        [
+          "ECON233"
+        ]
+      ]
+    },
+    {
+      "id": "ECON238",
+      "name": "ECON 238 — Market Design: Theory and Pragmatics",
+      "description": "Surveys the principles of mechanism design and applies them to a variety of 21st Century markets, e.g., for energy, spectrum, finance, online ads, and predictions. Student teams develop new applications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON239",
+      "name": "ECON 239 — Current Topics in Finance",
+      "description": "Topics in finance selected by the instructor.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 233 .",
+      "prereqGroups": [
+        [
+          "ECON233"
+        ]
+      ]
+    },
+    {
+      "id": "ECON240A",
+      "name": "ECON 240A — International Trade I",
+      "description": "The theory of international trade and commercial policy. Both traditional analyses and recent developments are covered. Topics include both normative and positive theoretical analyses, as well as empirical testing of theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. ECON 204A , ECON 204B , and ECON 204C are strongly recommended as preparation.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON240B",
+      "name": "ECON 240B — International Trade II",
+      "description": "The second quarter of a two-quarter sequence which focuses on advanced research topics in trade and its intersection with applied microeconomics. The course is theoretical and empirical, and designed to acquaint students with recent developments in the field. Research topics include: trade and development; political economy of trade policies; trade and labor markets; trade and environment; theories, determinants, and implications of foreign direct investments; economic geography; and spatial/urban economics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204C .",
+      "prereqGroups": [
+        [
+          "ECON204C"
+        ]
+      ]
+    },
+    {
+      "id": "ECON241A",
+      "name": "ECON 241A — Advanced International Finance I",
+      "description": "Covers the foundations of international macroeconomics. Topics include international borrowing and lending, the role of international financial markets, exchange rate economics, wealth and income in open economies, and macroeconomic policy interdependence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204C , and ECON 205C , and ECON 211C . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECON204C",
+          "ECON205C",
+          "ECON211C"
+        ]
+      ]
+    },
+    {
+      "id": "ECON241B",
+      "name": "ECON 241B — Advanced International Finance II",
+      "description": "Covers major topics in international finance and open economy macroeconomics, focusing on contemporary theoretical and empirical analysis. Topics include: international capital flows, financial crises, exchange rate economics, financial policy intervention, and fiscal and monetary policies in open economies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204C , ECON 205C , and ECON 211C . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECON204C",
+          "ECON205C",
+          "ECON211C"
+        ]
+      ]
+    },
+    {
+      "id": "ECON241C",
+      "name": "ECON 241C — Advanced International Finance III",
+      "description": "Covers contemporary research topics in international macroeconomics and finance, including advances in both theoretical analysis and empirical methods. Specific topics on international macroeconomics, finance, and policy vary.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204C , ECON 205C , and ECON 211C . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECON204C",
+          "ECON205C",
+          "ECON211C"
+        ]
+      ]
+    },
+    {
+      "id": "ECON249A",
+      "name": "ECON 249A — International Trade and Development Policy I",
+      "description": "Focuses on a range of real-life issues in international trade and development. Topics include North American Free Trade Agreement (NAFTA), the semiconductor industry, the Boeing-Airbus aircraft trade problems, the World Trade Organization (WTO) and developing countries, U.S./Japan trade, trade and the environment, and U.S./China trade.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON249B",
+      "name": "ECON 249B — International Trade and Development Policy II",
+      "description": "Emphasizes government policies to promote growth. Topics include the Washington Consensus, the East Asian model, and recent policy changes in East Asia, Latin America, Eastern Europe, and the former Soviet Union.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 249A . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECON249A"
+        ]
+      ]
+    },
+    {
+      "id": "ECON250A",
+      "name": "ECON 250A — Applied Microeconomics I",
+      "description": "Theory of the role of public sector expenditures and taxes in market economies. Analyzes efficiency and equity arguments for government intervention. Topics include the role of public debt and deficits in economies, international effects of tax and spending policies, and economic theories of public sector decision making. ECON 204A and ECON 205A are strongly recommended as preparation. Students cannot receive credit for this course and ECON 150 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is retricted to Ph.D. students in economics or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON250B",
+      "name": "ECON 250B — Applied Microeconomics II",
+      "description": "Covers topics in applied microeconomics, including public, labor, education, environmental, and health. Discusses advanced econometric techniques used to establish causal identification. Students read and evaluate current research and develop an independent research agenda.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON250C",
+      "name": "ECON 250C — Applied Microeconomics III",
+      "description": "Covers topics in applied microeconomics, with an emphasis on labor topics not covered in 250A and 250B. Students read and evaluate current research, discuss applications of advanced econometric techniques for causal identification, and develop an independent research agenda.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204C and ECON 211C . ECON 250A and ECON 250B are strongly recommended as preparation. Enrollment is restricted to economics Ph.D. students.",
+      "prereqGroups": [
+        [
+          "ECON204C",
+          "ECON211C"
+        ]
+      ]
+    },
+    {
+      "id": "ECON259A",
+      "name": "ECON 259A — Cost-Benefit Analysis",
+      "description": "Applications of economic analysis in public finance, largely from the revenue side: taxation. The issues considered include the effects of taxation on consumer welfare, consumption, labor, capital, production, growth. Course 200 is strongly recommended as preparation. Students cannot receive credit for this course and course 153.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON259B",
+      "name": "ECON 259B — Public Policy Analysis",
+      "description": "Applications of welfare and microeconomic theory and methodology to the public expenditure question: cost-benefit. Examines the effects of the taxes discussed in course 259A and sophisticated tools used in the face of these and other distortions with regard to measurement of benefits, costs, and the discount rate. ECON 200 and ECON 216 are strongly recommended as preparation. Enrollment is restricted to applied economics and finance graduate students.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to quantitative economics and finance (formerly applied economics and finance) graduate students or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON270A",
+      "name": "ECON 270A — Advanced Topics in Microeconomics I",
+      "description": "Advanced topics and current research in microeconomic theory and applications, including topics on decision theory, game theory, behavioral economics, and general equilibrium analysis. (Formerly ECON 270, Advanced Topics in Applied Microeconomics.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON270B",
+      "name": "ECON 270B — Advanced Topics in Microeconomics II",
+      "description": "Course on microeconomic theory for second-year Ph.D. students in the Economics Department. Covers selected topics in applied theory, especially those related to information economics, mechanism design, and industrial organization. Students are directed to the research frontier of economic theory, and facilitate use of theory to implement a structural approach to empirical work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204C . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECON204C"
+        ]
+      ]
+    },
+    {
+      "id": "ECON272",
+      "name": "ECON 272 — Evolutionary Game Theory",
+      "description": "Reviews static equilibrium concepts, games of incomplete information, and the traditional theory of dynamic games in discrete time. Develops recent evolutionary game models, including replicator and best reply dynamics, and applications to economics, computer science, and biology. Prerequisite(s): upper-division math courses in probability theory are strongly recommended. Cannot receive credit for this course and ECON 166B or CSE 166B.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON274",
+      "name": "ECON 274 — Macroeconomics Workshop",
+      "description": "For Ph.D. students in economics who are at the early stages of their research careers as well as for those who are engaged in dissertation work in macroeconomics and monetary economics. Students present original research in progress. (Formerly Workshop in Macroeconomics and Monetary Economics.)",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON275",
+      "name": "ECON 275 — Applied Microeconomics Workshop",
+      "description": "For Ph.D. students in economics who are at the early stages of their research careers as well as for those who are engaged in dissertation work in applied microeconomics or other empirical work. Students present original research in progress. (Formerly Workshop in Applied Microeconomics.)",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON276",
+      "name": "ECON 276 — Behavioral, Experimental, and Theoretical Economics Workshop",
+      "description": "For economics doctoral students who are at early stages of their research careers as well as those engaged in dissertation research in behavioral, experimental and theoretical economics using laboratory experiments and related techniques. Students present original research in progress. (Formerly offered as Workshop in Experimental Economics.)",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON280A",
+      "name": "ECON 280A — Applied Economics Seminar",
+      "description": "Weekly seminar designed to present students with current working applications in various fields of applied economics. (Formerly ECON 294D.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to economics Ph.D. students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON280G",
+      "name": "ECON 280G — Economics Guest Seminar Series",
+      "description": "Bi-weekly seminars by visiting faculty and industry leaders who are experts in their fields provide in-depth insight on topics relevant to graduate students in economics. (Formerly ECON 294C.)",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON290",
+      "name": "ECON 290 — Topics in International Economics",
+      "description": "Covers several advanced topics in the history of international economics, international trade, and international finance. Topics include imperfect competition and trade, strategic trade policies, increasing returns, and the pattern of trade, economic geography, exchange rate target zones, and balance of payment crises. Topics vary from year to year. Courses 204A- ECON 204B - ECON 204C and ECON 205A - ECON 205B - ECON 205C are strongly recommended as preparation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON291",
+      "name": "ECON 291 — Workshop in Applied Economics",
+      "description": "Experience in applied projects, report writing and presentation, drawing on previous coursework.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON293",
+      "name": "ECON 293 — Field Study",
+      "description": "Students will undertake analytical projects in public or private institutions. The material covered must be different from that of the thesis topic.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON294A",
+      "name": "ECON 294A — Applied Economics and Finance Laboratory",
+      "description": "Practical experience in managing computerized data sets and running statistical packages. Covers STATA and R.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON294B",
+      "name": "ECON 294B — Applied Economics and Finance Seminar",
+      "description": "Bi-weekly seminars designed to present students with current working applications in various fields of applied economics and finance.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON295",
+      "name": "ECON 295 — Directed Reading",
+      "description": "Reading in research area of student interest, with faculty supervision through weekly discussion. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON296A",
+      "name": "ECON 296A — Third Year Ph.D. Seminar",
+      "description": "Student presentations of literature and/or original research in areas of student research interest. Student discussion of presentations under faculty supervision.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECON 204C , ECON 205C , ECON 211B , ECON 240A , ECON 240B , ECON 241A , and ECON 241B .",
+      "prereqGroups": [
+        [
+          "ECON204C"
+        ],
+        [
+          "ECON205C"
+        ],
+        [
+          "ECON211B"
+        ],
+        [
+          "ECON240A"
+        ],
+        [
+          "ECON240B"
+        ],
+        [
+          "ECON241A"
+        ],
+        [
+          "ECON241B"
+        ]
+      ]
+    },
+    {
+      "id": "ECON297A",
+      "name": "ECON 297A — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON297B",
+      "name": "ECON 297B — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON297C",
+      "name": "ECON 297C — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON297H",
+      "name": "ECON 297H — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "1",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON298A",
+      "name": "ECON 298A — Master's Thesis Research",
+      "description": "May be taken once to meet course requirements for the master's degree. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON298B",
+      "name": "ECON 298B — Master's Thesis Research",
+      "description": "May be taken once to meet course requirements for the master's degree. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON298C",
+      "name": "ECON 298C — Master's Thesis Research",
+      "description": "May be taken once to meet course requirements for the master's degree. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON299A",
+      "name": "ECON 299A — Doctoral Thesis Research",
+      "description": "Research toward Ph.D. dissertation under faculty supervision. Prerequisite(s): advancement to candidacy and students submit petition to sponsoring agency. (Formerly, course 298 Dissertation Research)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON299B",
+      "name": "ECON 299B — Doctoral Thesis Research",
+      "description": "Research toward Ph.D. dissertation under faculty supervision. Prerequisite(s): advancement to candidacy and students submit petition to sponsoring agency. (Formerly, course 298 Dissertation Research)",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECON299C",
+      "name": "ECON 299C — Doctoral Thesis Research",
+      "description": "Research toward Ph.D. dissertation under faculty supervision. Prerequisite(s): advancement to candidacy and students submit petition to sponsoring agency. (Formerly, course 298 Dissertation Research)",
+      "credits": "15",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

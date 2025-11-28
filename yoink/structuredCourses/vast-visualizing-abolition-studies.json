@@ -1,0 +1,40 @@
+{
+  "department": "VAST-Visualizing Abolition Studies",
+  "slug": "vast-visualizing-abolition-studies",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/vast-visualizing-abolition-studies",
+  "generated_at": "2025-11-28T07:51:45.935447+00:00",
+  "courses": [
+    {
+      "id": "VAST188J",
+      "name": "VAST 188J — Curation and Justice",
+      "description": "How does cultural and political change happen? What role can cultural institutions play in meeting the social, political, and ecological challenges of our times? This interdisciplinary course explores curation as a place for critical engagement with pressing social and political issues including prison abolition and climate destruction, using the current exhibitions and programs at the Institute of the Arts and Sciences as a case study.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "VAST199",
+      "name": "VAST 199 — Independent Study",
+      "description": "Students work with faculty to develop an agreement that outlines learning objectives, assignments, and assessment for an individual study. To enroll, students submit a petition to the faculty director of the Visualizing Abolition Studies Certificate Program that includes the student/faculty agreement.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST176",
+      "name": "FMST 176 — Law, Prisons, and Popular Culture",
+      "description": "Examines the voluminous history of popular culture representing incarceration through new research in visual criminology, carceral aesthetics, and critical prison studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST71",
+      "name": "FMST 71 — Introduction to Visualizing Abolition Studies",
+      "description": "Why has the proliferation of research on prisonsâdemonstrating economic and racial disparities, as well as negative effects on individuals and communitiesânot led to more substantial questioning of public policy that treats imprisonment as a major solution to social problems? This course is an interdisciplinary inquiry into the role visual culture plays in the maintenance of the prison industrial complex and an introduction to artistic practices that challenge law and social policy; the course also introduces fundamental concepts to the study of art and visual culture in relation to the movement for prison abolition.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

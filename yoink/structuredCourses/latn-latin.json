@@ -1,0 +1,44 @@
+{
+  "department": "LATN - Latin",
+  "slug": "latn-latin",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/latn-latin",
+  "generated_at": "2025-11-28T07:51:41.198860+00:00",
+  "courses": [
+    {
+      "id": "LATN1",
+      "name": "LATN 1 — Elementary Latin",
+      "description": "Instruction in Latin grammar, using a modern Latin method, designed to prepare for the study of classical literature. The sequence begins in the fall quarter only.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LATN2",
+      "name": "LATN 2 — Elementary Latin",
+      "description": "Instruction in Latin grammar, using a modern Latin method, designed to prepare for the study of classical literature.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LATN 1 .",
+      "prereqGroups": [
+        [
+          "LATN1"
+        ]
+      ]
+    },
+    {
+      "id": "LATN99",
+      "name": "LATN 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LATN99F",
+      "name": "LATN 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

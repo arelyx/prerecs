@@ -1,0 +1,1178 @@
+{
+  "department": "EDUC - Education",
+  "slug": "educ-education",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/educ-education",
+  "generated_at": "2025-11-28T07:51:37.857207+00:00",
+  "courses": [
+    {
+      "id": "EDUC10",
+      "name": "EDUC 10 — Introduction to Learning",
+      "description": "Survey course exploring the foundational perspectives on learning, especially when considering learners from non-dominant communities, how those views of learning are reflected in what and how students learn in school and out of school, and how those views of learning can impact teaching practices.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC50A",
+      "name": "EDUC 50A — CAL Teach 1: Science and Mathematics",
+      "description": "Introductory seminar exploring secondary students, teaching, and schools in the context of science and/or mathematics instruction. Concurrent participation in a secondary school internship required. Course material supports and enhances students' placement experiences. Prerequisite(s): Acceptance into CAL Teach and concurrent participation in a secondary school internship in a science or math classroom.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC50B",
+      "name": "EDUC 50B — CAL Teach 1: Mathematics",
+      "description": "Introductory seminar exploring secondary students, teaching, and schools in the context of mathematics instruction. Concurrent participation in a secondary school internship required. Course material supports and enhances students' placement experiences. Prerequisite(s): Acceptance into CAL Teach and concurrent participation in a secondary school internship in a math classroom.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC50C",
+      "name": "EDUC 50C — CAL Teach 1: Science",
+      "description": "Introductory seminar exploring secondary students, teaching, and schools in the context of science instruction. Concurrent participation in a secondary school internship required. Course material supports and enhances students' placement experiences. Prerequisite(s): Acceptance into CAL Teach and concurrent participation in a secondary school internship in a science classroom.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC60",
+      "name": "EDUC 60 — Schooling, Democracy, and Justice",
+      "description": "Survey course exploring the foundations of public education in the United States, including: the social and political forces within schools and school systems in the U.S. the history and formation of the system and the educational policies and practices in our culturally and linguistically diverse nation. (Formerly Introduction to Education: Learning, Schooling, and Society.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC99",
+      "name": "EDUC 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC100A",
+      "name": "EDUC 100A — Cal Teach 2: Science and Mathematics",
+      "description": "Examines students, schools, and science and/or mathematics instruction with emphasis on developing an instructional project aligned with state-mandated content standards. Concurrent participation in a secondary school internship required. Course content supports and enhances students' internship experience.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; EDUC 50A , EDUC 50B , or EDUC 50C ; and acceptance into the Cal Teach program. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "EDUC50A",
+          "EDUC50B",
+          "EDUC50C"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC100B",
+      "name": "EDUC 100B — Cal Teach 2: Mathematics",
+      "description": "Examines students, schools, and mathematics instruction with emphasis on developing an instructional project aligned with state-mandated content standards. Concurrent participation in a secondary school internship required. Course content supports and enhances students' internship experience.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; EDUC 50A , EDUC 50B , or EDUC 50C ; and acceptance into the Cal Teach program. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "EDUC50A",
+          "EDUC50B",
+          "EDUC50C"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC100C",
+      "name": "EDUC 100C — Cal Teach 2: Science",
+      "description": "Examines students, schools, and science instruction with emphasis on developing an instructional project aligned with state-mandated content standards. Student must concurrently participate in a K-12 school internship. Concurrent participation in a secondary school internship required. Course content supports and enhances students' internship experience.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; EDUC 50A , EDUC 50B , or EDUC 50C ; and acceptance into the Cal Teach program. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "EDUC50A",
+          "EDUC50B",
+          "EDUC50C"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC102",
+      "name": "EDUC 102 — Education, Media, and Society",
+      "description": "Focusing on ways the media (both news and the entertainment industry) portrays schools, teachers, and students to the public, investigates the way society views education, the way education is presented in the media, and the way education is influenced by society.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to declared EDJ majors or education minors or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC104",
+      "name": "EDUC 104 — Ethical Issues and Teaching",
+      "description": "Emphasizes a philosophical exploration of the moral complexities of teaching. Students read theoretical investigations of these complexities, and examine case studies that pose difficult moral questions and illuminate the dilemmas of everyday life in classrooms. Course is grounded in a dialogical approach to learning.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC105",
+      "name": "EDUC 105 — Cal Teach: Establishing Effective Classroom Communities",
+      "description": "Provides guided field experiences for prospective math and science teachers to explore how teachers establish effective classroom communities. Course is scheduled to overlap with early weeks of the K-12 academic year. Concurrent participation in a field placement in a secondary math or science classroom is required. Course content supports and enhances students' internship experiences. Prerequisite(s): EDUC 50B , EDUC 50C , EDUC 180 , or similar experience. Enrollment is by instructor consent. Participants must be admitted to and in good standing in the Cal Teach program at UCSC (apply at calteach.ucsc.edu) or another UC campus.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC110",
+      "name": "EDUC 110 — Popular Education, Democracy, and Social Movements",
+      "description": "Examines transformative learning and action at the heart of movements for social justice. Investigates principles and practices of \"popular education\" and other grassroots education traditions that have emerged from struggles for liberation and democracy. Topics include: abolition-democracy, critical consciousness, humanization, critical literacy, problem-posing, praxis, counter-narrative, participatory action research, and cultural organizing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry-Level Writing and Composition requirements and EDUC 60 . Enrollment is restricted to education, democracy and justice majors, science education majors, STEM education minors, and education minors, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "EDUC60"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC115",
+      "name": "EDUC 115 — K-12 Student Assessment",
+      "description": "Provides an overview of educational testing. Appropriate use and interpretation of standardized, classroom achievement and special needs assessments are examined. Issues on fair testing of diverse populations of students are discussed within each topic area.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to declared education, democracy and justice majors, science or math education major, STEM ED or EDUC minor, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC120",
+      "name": "EDUC 120 — The Arts in Schools: Aesthetic Education Theory and Practice",
+      "description": "Explores the historical legacy of the arts within education; considers aesthetic education as an inter-arts philosophical and practical endeavor; studies alternatives to the current situation of the arts in education; develops theory, curricula and methods necessary to teach the arts. Addresses both elementary and secondary teaching in the arts. Meets third-course requirements.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education minors; STEM education minors; education, democracy and justice majors; science education majors; or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC125",
+      "name": "EDUC 125 — Multicultural Children's Literature for Elementary Classrooms",
+      "description": "Offers opportunities for undergraduate and graduate students to learn about fundamental aspects of children's literature, increase their knowledge of range and quality of children's literature, enhance their understanding of multicultural children's literature, and develop ways to integrate children's literature into elementary- and middle-school curriculum areas.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education democracy and justice majors, education minors, and STEM education minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC126",
+      "name": "EDUC 126 — Foundations of Literacy Learning: Contemporary Perspectives",
+      "description": "Offers an overview of historical and contemporary perspectives regarding literacy learning in America. Using a socio-cultural lens and research findings to analyze instructional practices, it provides foundational knowledge for potential teachers and policy makers regarding literary education.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 60 and EDUC 180 .",
+      "prereqGroups": [
+        [
+          "EDUC60",
+          "EDUC180"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC128",
+      "name": "EDUC 128 — Immigrants and Education",
+      "description": "Research and theory on the education of immigrant students. Major topics include the Americanization movement and America's changing demography, identity maintenance and change, home-school relations, and educators' roles in meeting the needs of culturally and linguistically diverse student populations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC135",
+      "name": "EDUC 135 — Gender and Education",
+      "description": "Addresses the changing but continuing patterns of unequal expectations, opportunities, and treatment throughout the educational system for all students, female and male, who do not match a standard model of gender performance.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC140",
+      "name": "EDUC 140 — Language, Diversity, and Learning",
+      "description": "Explores the intersection between language, diversity, and education to examine the education of youth who have been historically underserved by schools. Topics include dialect and register variation; language policy; and sociocultural perspectives on learning/teaching of language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education, democracy and justice majors; science education majors; and STEM and EDUC minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC141",
+      "name": "EDUC 141 — Bilingualism and Schooling",
+      "description": "Introduces participants to issues related to the schooling of students who speak languages other than or in addition to English. Uses a multidisciplinary perspective to understand the circumstances these students face in schools and considers approaches and policies that best meet their needs.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC160",
+      "name": "EDUC 160 — Issues in Educational Reform",
+      "description": "Explores a variety of perspectives on key educational policy issues including desegregation, bilingual education, affirmative action, charter schools, national and state curriculum standards, student assessment and the assessment and certification of teachers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC162",
+      "name": "EDUC 162 — Critical Youth Studies in Education",
+      "description": "Examines youth as a social construction, relation, and achievement to understand the everyday lives, experiences, learning, and education of youth. Explores the development, histories, cultures, politics, and resistance of youth in education, focusing on race, gender/sexuality, class, and their intersections.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to junior and senior education minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC164",
+      "name": "EDUC 164 — Urban Education",
+      "description": "Focuses on urban schooling through critical readings, fieldwork, group projects, and extensive writing. Students explore how socialization, marginalization, and assimilation impede or support academic success, how class intersects with race, and how culture affects one's orientation to education.",
+      "credits": "5",
+      "rawRequirements": "American History and Institutions Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC166",
+      "name": "EDUC 166 — Technology and Education",
+      "description": "Explores the history of technology in education from approximately 1950 to the present, addressing the interpersonal, epistemological, and pedagogical differences between digital and analog learning. Although no programming experience is required, participants will create an instructional application.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education minors, STEM education minors, education democracy and justice majors, science education majors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC173",
+      "name": "EDUC 173 — Seminar in Critical Pedagogy",
+      "description": "Philosophical and pedagogical exploration of relationships among oppression, power, society, education, and change. Examines how history, power, economics, and discrimination shape societal perspectives and schooling practices, and considers ways to transform education.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC174",
+      "name": "EDUC 174 — Ethnographic Research in Schools and Communities",
+      "description": "Explores ethnographic research as an important path for future teachers in understanding how diverse communities provide and support schooling at all levels.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 60 and EDUC 180 .Enrollment is restricted to junior and senior education or STEM minors or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "EDUC60",
+          "EDUC180"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC177",
+      "name": "EDUC 177 — Teaching Linguistically Diverse Students",
+      "description": "Examines equity issues in the learning and teaching of math and science in culturally and linguistically diverse school settings. Draws on multicultural, bilingual, and math/science education perspectives. Intended for undergraduate majors considering a K-12 teaching career. Satisfies an elective requirement for the minor in education program. Prior completion of EDUC 180 is advised. (Formerly Teaching Culturally and Linguistically Diverse Students Math and Science.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC178",
+      "name": "EDUC 178 — Special Topics in Education",
+      "description": "Taught on a rotating basis by various faculty members. The precise focus of each year's course will vary according to the instructor. Please contact the department for information on the current topic. Individual topics may be applied only once to the education minor, STEM minor or education major. (Formerly Advanced Educational Studies.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC180",
+      "name": "EDUC 180 — Introduction to Teaching",
+      "description": "Designed to encourage students to think about teaching in new ways. Assumptions about teaching and schooling are examined as well as considering what it takes to teach so that children learn and understand. Not a course in how to teach, but an opportunity to reconsider what teaching should try to accomplish and what kinds of learning teachers should foster. Practicum in the schools of 30 hours per quarter required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Entry Level Writing and Composition requirements; and EDUC 60 . Enrollment is restricted to education, democracy and justice majors, science education majors, STEM education minors, and education minors, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "EDUC60"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC181",
+      "name": "EDUC 181 — Race, Class, and Culture in Education",
+      "description": "Examines the schooling experience and educational attainment of racial/ethnic minority students in the U.S. Focuses primarily on domestic minorities. Addresses issues of variability between and within minority groups and the role of cultural, structural, and psychological factors in the educational attainment of these students.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC182",
+      "name": "EDUC 182 — Social and Political Contexts of Teachersâ Work",
+      "description": "Explores the social, cultural, historical, and policy context of teachers' work in the United States. Examines the historical evolution and development of the teaching profession, explores contemporary images of teachers, analyzes demographics of the teaching workforce, and investigates the sources of teacher motivation, satisfaction and frustration. In particular, students examine student, cultural, media, teacher and policy representations of teachers and their work. Whenever possible, students will engage with what teachers' themselves say about their work, rather than relying on second-hand accounts with the aim of building a picture of the complexity of teachers' work. (Formerly American Teacher.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education or STEM minors, education, democracy and justice, science education, sociology, and critical race and ethnic studies majors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC183",
+      "name": "EDUC 183 — Children's Mathematical Thinking",
+      "description": "Provides an introduction to children's mathematical thinking and an overview of major themes, issues, and questions that researchers in mathematics education have studied in relation to children's mathematical thinking.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 60 . Enrollment is restricted to education or STEM minors; physics education majors; students with math education concentration; Earth Sciences science education concentration; biology B.A. bioeducation; or by instructor permission.",
+      "prereqGroups": [
+        [
+          "EDUC60"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC185B",
+      "name": "EDUC 185B — Introduction to Mathematics Education",
+      "description": "Provides an introduction to principles and practices for mathematics education; examines how research on learning and teaching mathematics informs approaches to teaching mathematics; provides an introduction to national and state standards, mathematics curricula, and other current issues in mathematics education.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 11A and MATH 11B , or MATH 19A and MATH 19B ; or MATH 20A and MATH 20B ; or AM 11A and AM 11B ; or ECON 11A and ECON 11B; or equivalent courses (by instructor approval); or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "MATH11A",
+          "MATH11B"
+        ],
+        [
+          "MATH19A",
+          "MATH19B"
+        ],
+        [
+          "MATH20A",
+          "MATH20B"
+        ],
+        [
+          "AM11A",
+          "AM11B"
+        ],
+        [
+          "ECON11A",
+          "ECON11B"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC185C",
+      "name": "EDUC 185C — Introduction to Teaching Science",
+      "description": "An introduction to the principles and practices for teaching science in secondary classrooms. Course examines theoretical and practical approaches to teaching science, provides an introduction to national and state standards and an overview of science curricula and current issues in science teaching.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM education minors, and education minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC185L",
+      "name": "EDUC 185L — Introduction to Teaching: Cal Teach 3",
+      "description": "Supplements theoretical and practical introduction to the teaching of science or mathematics with subject-pedagogical approaches. Concurrent participation in an advanced Cal Teach internship provides context to apply theory and practical techniques. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; EDUC 50A, EDUC 50B , or EDUC 50C ; EDUC 100A, EDUC 100B , or EDUC 100C ; EDUC 185B or EDUC 185C . Enrollment restricted to juniors and seniors or education minors, or by permission of instructor.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC187",
+      "name": "EDUC 187 — Cognition and Instruction",
+      "description": "Addresses the question, How do people learn? by examining theories of learning and research on cognition, learning, and instruction.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors, seniors, or education minors, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC190",
+      "name": "EDUC 190 — Senior Seminar Capstone",
+      "description": "Senior seminars focus on advanced topics in education. The pedagogical goals vary by instructor but often emphasize at least one of the following: critical and analytical thinking, field research, advanced research methods (qualitative or quantitative), or advanced theory. Satisfies senior capstone requirement.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Entry Level Writing and Composition requirements. EDUC 10 and EDUC 60 ; EDUC 110 or EDUC 180 . Enrollment is restricted to education, democracy and justice majors, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "EDUC10",
+          "EDUC60"
+        ],
+        [
+          "EDUC110",
+          "EDUC180"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC194",
+      "name": "EDUC 194 — Group Projects",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC194F",
+      "name": "EDUC 194F — Group Projects",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC197A",
+      "name": "EDUC 197A — Cal Teach Special Project",
+      "description": "Work with K-12 students on science or math projects, ideally involving inquiry-based learning. Site supervision provided by a credentialed teacher. Project-dependent reading and writing assignments negotiated with instructor. Projects will be offered as available or initiated by student. Enrollment is by interview only. Prerequisite(s): EDUC 50A, EDUC 50B , or EDUC 50C . Enrollment is restricted to majors in the physical and biological sciences and majors in the school of engineering or by permission of instructor.",
+      "credits": "1",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC197B",
+      "name": "EDUC 197B — Cal Teach Special Project",
+      "description": "Work with K-12 students on science or math projects, ideally involving inquiry-based learning. Site supervision provided by a credentialed teacher. Project-dependent reading and writing assignments negotiated with instructor. Projects will be offered as available or initiated by student. Enrollment is by interview only. Prerequisite(s): EDUC 50A, EDUC 50B , or EDUC 50C . Enrollment is restricted to majors in the physical and biological sciences and majors in the school of engineering or by permission of instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC197C",
+      "name": "EDUC 197C — Cal Teach Special Project",
+      "description": "Work with K-12 students on science or math projects, ideally involving inquiry-based learning. Site supervision provided by a credentialed teacher. Project-dependent reading and writing assignments negotiated with instructor. Projects will be offered as available or initiated by student. Enrollment is by interview only. Prerequisite(s): course 50A, 50B, or 50C. Enrollment is restricted to majors in the physical and biological sciences and majors in the school of engineering or by permission of instructor.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC198",
+      "name": "EDUC 198 — Independent Field Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC198F",
+      "name": "EDUC 198F — Independent Field Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC199",
+      "name": "EDUC 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC199F",
+      "name": "EDUC 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC200",
+      "name": "EDUC 200 — Beginning Student Teaching",
+      "description": "A required course that introduces students to the diverse cultural and linguistic settings of today's classrooms. Classroom practices, instructional strategies, and analysis are emphasized. First course in the student teaching placement series. Placements are used to examine and apply teaching methods while developing classroom management skills. Class meetings include discussion and demonstration of teaching methods.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC201",
+      "name": "EDUC 201 — Intermediate Student Teaching",
+      "description": "Designed to provide students enrolled in the UCSC teacher education program a coherent, integrated, pre-professional experience in public school classrooms. Students assume part-time student teaching responsibilities totalling 14â16 hours per week under the direct supervision of an exemplary classroom teacher. Weekly seminars and ongoing supervision by department staff are required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 200 . Enrollment is restricted to MA/credential students.",
+      "prereqGroups": [
+        [
+          "EDUC200"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC201A",
+      "name": "EDUC 201A — Intermediate Student Teaching: Single Subject",
+      "description": "Provides advanced pre-professional experience for single subject teaching candidates who progressively assume full-time responsibility for public school student teaching beginning in winter quarter. Taken concurrently with EDUC 201. Weekly supervision and seminars with teacher supervisors are required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 200 . Enrollment is restricted to MA/credential students.",
+      "prereqGroups": [
+        [
+          "EDUC200"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC202A",
+      "name": "EDUC 202A — Advanced Student Teaching",
+      "description": "Designed for students who have extensive field and course experience in education, and who wish to qualify for the single-subject or multiple-subject teaching credential by undertaking a quarter of full-time, supervised student teaching.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 201 . Enrollment is restricted to M.A./credential students.",
+      "prereqGroups": [
+        [
+          "EDUC201"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC202B",
+      "name": "EDUC 202B — Advanced Student Teaching",
+      "description": "Designed for students who have extensive field and course experience in education, and who wish to qualify for the single-subject or multiple-subject teaching credential by undertaking a quarter of full-time, supervised student teaching.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 201 . Enrollment is restricted to M.A./credential students.",
+      "prereqGroups": [
+        [
+          "EDUC201"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC202C",
+      "name": "EDUC 202C — Advanced Student Teaching",
+      "description": "Designed for students who have extensive field and course experience in education, and who wish to qualify for the single-subject or multiple-subject teaching credential by undertaking a quarter of full-time, supervised student teaching.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 201 . Enrollment is restricted to M.A./credential students.",
+      "prereqGroups": [
+        [
+          "EDUC201"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC203",
+      "name": "EDUC 203 — Teaching English Language Development: Foundations, Approaches, and Strategies",
+      "description": "This course will help future educators develop a practical theory for teaching English as a second language in K-5 schools. Topics include the theoretical foundation for language acquisition; current trends and research in the field; the role of culture in teaching English learners; language assessment; and the design of instructional units. Also focuses on teaching social studies to English learners. Enrollment restricted to M.A./credential students.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC204",
+      "name": "EDUC 204 — Methods of English Language Development: Single Subject",
+      "description": "Course helps future educators develop a practical theory for teaching English in the elementary and secondary schools to students who speak other languages. Topics include current trends in the field, language assessment, and the design of instructional units.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC205",
+      "name": "EDUC 205 — Teaching, Learning, and Schooling in a Diverse Society",
+      "description": "Required for master's students in education other than those in an approved 4+1 pathway who have the option to waive the course; offered in summer. Three basic units comprise the subject matter: teaching/learning, with such topics as development, learning, pedagogy, and socialization theories; schooling, as the context of teaching/learning both in its existent structures and its reform movements; and the sociocultural context in which educational institutions exist, topics such as cultural and historical forces, political and economic condition, family, and community structures.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC206",
+      "name": "EDUC 206 — Teaching, Learning, and Schooling: Single Subject",
+      "description": "Required for master's students in education; offered in summer. Three basic units comprise the subject matter: teaching/learning, with such topics as development, learning, pedagogy, and socialization theories; schooling, as the context of teaching/learning both in its existent structures and its reform movements; and the sociocultural context in which educational institutions exist, including topics such as cultural and historical forces, political and economic conditions, family, and community structures.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC207",
+      "name": "EDUC 207 — Social Foundations of Education",
+      "description": "Offered in summer. A sustained inquiry into the social, political, economic, and historical foundations of schools with an emphasis on community attitudes toward education. Student narratives of engagement and resistance will provide a basis for insights and interventions useful to educators.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC208",
+      "name": "EDUC 208 — Portfolio Development",
+      "description": "Offered in summer. Provides student and faculty adviser with time to confer over the completion of the required portfolio.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC210",
+      "name": "EDUC 210 — Health, Safety, and Community",
+      "description": "Offered in summer. Addresses the preparation of teachers for creating a supportive, healthy environment for student learning. Covers topics related to physical, emotional, and social health.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC211",
+      "name": "EDUC 211 — Teaching Special Populations in the General Education Classroom",
+      "description": "Addresses the preparation of teachers for meeting needs of special populations within the general education setting. Covers basic knowledge, skills, and strategies. (Formerly Topics in Elementary Education: Teaching Special Populations.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC212A",
+      "name": "EDUC 212A — Bilingualism and Biliteracy: History, Politics, Theory, and Practice",
+      "description": "Taught in Spanish. Prepares future bilingual teachers to be knowledgeable about history, politics, theory, and practices related to bilingual instructional programs. Topics: second-language acquisition, bilingual-program models, equity pedagogy.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC212B",
+      "name": "EDUC 212B — Bilingualism and Biliteracy: Language, Literacy and Content Instruction",
+      "description": "Taught in Spanish. Prepares future bilingual teachers to teach language, literacy, and the content areas in ways that address the needs of culturally and linguistically diverse students. Topics: literacy in two languages; academic language; assessment.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC212C",
+      "name": "EDUC 212C — Bilingualism and Biliteracy: Community and School Partnerships",
+      "description": "Taught in Spanish. Provides opportunities for future bilingual teachers to develop culturally relevant practices that build collaboration between the school, students' families, and community. Topics: Latino culture and history, school-parent communication.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC213",
+      "name": "EDUC 213 — Child and Adolescent Development for Educators",
+      "description": "Offered in summer. Addresses theories of child and adolescent development and how these theories apply to student success in school. Topics include: cognitive, social, emotional, and physical development, and how this knowledge influences decisions teachers make about instruction and their interaction with students.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC214",
+      "name": "EDUC 214 — Contemporary Issues in Education",
+      "description": "Addresses current issues in California's educational landscape. Potential topics include the teaching of LGBTQ curricula, understanding youth gang participation, the initiation of ethnic studies courses, school funding and school district budgets, and new technologies for student assessment.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/Credential graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC217",
+      "name": "EDUC 217 — Topics in Elementary Education: Physical Education",
+      "description": "Examines pedagogical understanding in teaching physical education. Introduces candidates to theoretical and research basis in physical education and content standards and frameworks. Also investigates and presents instructional practices.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC218",
+      "name": "EDUC 218 — Topics in Elementary Education: Visual Arts",
+      "description": "Examines pedagogical understanding in teaching visual arts. Introduces candidates to theoretical and research basis for teaching visual arts and content standards and frameworks. Also investigates and presents instructional practices.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC219",
+      "name": "EDUC 219 — Topics in Elementary Education: Performing Arts",
+      "description": "Examines pedagogical understanding in teaching performing arts. Introduces candidates to theoretical and research basis for teaching performing arts and content standards and frameworks. Also investigates and presents instructional practices.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC220",
+      "name": "EDUC 220 — Reading and Language Arts for Elementary Classrooms",
+      "description": "This course provides both a theoretical and practical foundation for literacy instruction, emphasizing reading and language arts instruction in grades Kâ8. Interactive instruction and field experience will be used to examine curricula, methods, materials, and literacy evaluation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC221",
+      "name": "EDUC 221 — Science Learning and Teaching in Elementary Classrooms",
+      "description": "Examines constructivist and sociocultural approaches to the learning and teaching of science in elementary classrooms, including beliefs about the nature of science and theories of how children learn science. Provides a critical overview of curricula, instructional theories, and multiple approaches to teaching the big ideas in elementary science.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC222",
+      "name": "EDUC 222 — Mathematics Learning and Teaching in Elementary Classrooms",
+      "description": "This course is required for the multiple subject credential. Examines constructivist and sociocultural approaches to the learning and teaching of mathematics in elementary classrooms, including the nature of mathematics and theories of how children learn mathematics. Provides an introduction to mathematics teaching standards and a critical overview of curricula, instructional theories, and multiple approaches to teaching the big ideas in elementary mathematics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC225",
+      "name": "EDUC 225 — Reading Across the Curriculum in Middle School and Secondary",
+      "description": "Provides a theoretical and practical foundation for teaching reading within content area instruction in middle school and secondary classrooms. Field experiences and interactive instruction will facilitate learning about strategies, curricula, methods, materials, and observation. Intended for students pursuing a single subject credential.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC226",
+      "name": "EDUC 226 — English Teaching: Theory and Curriculum",
+      "description": "Required for the single subject English credential student. Examines sociocultural approaches to the learning and teaching of English in secondary classrooms, including theories of how children learn English language, literature, and composition.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC227",
+      "name": "EDUC 227 — English Teaching for Secondary Classrooms",
+      "description": "Prepares English single subject credential candidates for student teaching in winter and spring. Course focuses on developing curricula and strategies in the content area. Through classroom placements, students observe and apply techniques to develop curriculum units used in student teaching.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC228",
+      "name": "EDUC 228 — Math Education: Research and Practice",
+      "description": "Examines research on the learning and teaching of mathematics. Topics include the nature of mathematics cognition and learning, how children learn mathematics, mathematical discourse, and perspectives on addressing diversity in mathematics classrooms. Course is required for M.A./credential students in secondary (single subject) mathematics and of Ph.D. students in mathematics education.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC229",
+      "name": "EDUC 229 — Teaching Mathematics in the Secondary Classroom",
+      "description": "Examines constructivist and sociocultural approaches to teaching mathematics in the secondary classroom. Course will provide an introduction to mathematics teaching standards and a critical overview of curricula, instructional theories, and multiple approaches to teaching the big ideas in secondary mathematics. Required for mathematics secondary credential.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 228 . Enrollment is restricted to MA/credential students.",
+      "prereqGroups": [
+        [
+          "EDUC228"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC230",
+      "name": "EDUC 230 — Science Education: Research and Practice",
+      "description": "Examines theoretical approaches to the learning and teaching of science including the nature of scientific knowledge, theories of how children learn science, approaches to scientific discourse, and perspectives on addressing diversity in science classrooms. Course is required for single subjects science credential.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC231",
+      "name": "EDUC 231 — Teaching Science in the Secondary Classroom",
+      "description": "Examines constructivist and sociocultural approaches to teaching science in secondary classrooms. Course will provide a critical overview of curricula, instructional theories, and multiple approaches to teaching the big ideas in science.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC232",
+      "name": "EDUC 232 — Social Science: Theory and Curriculum",
+      "description": "Required for the single subject social science credential student. Tracks both the implicit and explicit connections between theory and practice, illustrating that theory suggests best practice while practice informs theory-formation and testing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC233",
+      "name": "EDUC 233 — Social Science Teaching for Secondary Classrooms",
+      "description": "Prepares social science single subject credential candidates for student teaching in winter and spring. Course focuses on developing curricula and strategies in the content area. Through classroom placements, students observe and apply techniques to develop curriculum units that are used in student teaching.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to MA/credential students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC235",
+      "name": "EDUC 235 — Introduction to Educational Inquiry",
+      "description": "Addresses foundational knowledge needed to understand and conduct educational inquiry and research. Topics include epistemology in the human sciences, philosophical foundations of modern research strategies, and general classes of research investigations in education.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC236",
+      "name": "EDUC 236 — Quantitative Research Methods",
+      "description": "Provides an introductory-level knowledge of quantitative research methods in educational settings. Students learn the foundations of quantitative data theory, general logic behind statistical inference, and specific methods of data analysis in educational contexts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC237",
+      "name": "EDUC 237 — Qualitative Research Methods",
+      "description": "Graduate level introduction to qualitative methods, with special attention to ethnographic research on schooling. Moves from overview of different methods, through examination of selected studies, to discussion of issues in research design, data collection, analysis, and writing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; priority is given to graduate students in education.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC250",
+      "name": "EDUC 250 — Teaching and Teachers",
+      "description": "Examines the historical, socio-political, and research contours of the teaching profession. Investigates histories of teaching and teacher's work in the 19th and 20th centuries. Analyzes the contemporary era of teachers and teaching in the United States.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC251",
+      "name": "EDUC 251 — Analysis of Activity and Interaction in Educational Settings",
+      "description": "Analyzes topics, which vary systematically from year to year, including analysis of classroom interaction, video recording and transcription, coding and analysis of discourse data, and software programs for qualitative analysis.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC252",
+      "name": "EDUC 252 — Hermeneutics of Education",
+      "description": "Investigates philosophical hermeneutics to deeply interrogate education. Addresses such questions as: What is hermeneutics? How is education an hermeneutic enterprise? How does knowing hermeneutics deepen the ability to engage in education research?",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC253",
+      "name": "EDUC 253 — Research Design in Mathematics and Science Education",
+      "description": "Examines multiple approaches to designing research studies in mathematics and science education. Introduces multiple types of research designs and principles used by education researchers examining mathematics/science learning and teaching.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC254",
+      "name": "EDUC 254 — Critical and Alternative Paradigms in Education Research",
+      "description": "Examines theoretical foundations of critical and alternative research paradigms commonly used in education, including critical ethnography, participatory research, counter-storytelling, and social-design experiments. Examines critiques of qualitative/quantitative research from feminist and critical theory; surveys how such critiques have informed the development of new paradigms in education research; and explores the benefits and limits of selected alternative paradigms.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC255",
+      "name": "EDUC 255 — Intermediate Quantitative Methods",
+      "description": "Focuses on the applied statistical modeling and analysis of educational data (large-scale data sets), not on the mathematical foundations of science. Students learn to address quantitative research questions using general linear model (GLM) statistical methods. GLM includes regression analysis, analysis of variance (ANOVA), and analysis of covariance (ANCOVA). Students learn statistics by doing statistics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): introductory statistics course ( EDUC 236 or equivalent). Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "EDUC236"
+        ]
+      ]
+    },
+    {
+      "id": "EDUC256",
+      "name": "EDUC 256 — Intermediate Qualitative Analysis",
+      "description": "Emphasizes the analysis of qualitative data in education research and introduces interpretive analytical approaches for its use with empirical data, the use of coding software for ethnographic analysis, and video recording and transcription.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC260",
+      "name": "EDUC 260 — The Teacher and The School: An Investigation of Related Practice, Reform, and Research",
+      "description": "Explores empirical and theoretical interconnections between teachers and teaching on the one side, and schools as situated organizations on the other. The course examines these various interconnections in relation to contemporary educational research, practice, and policy reform.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC261",
+      "name": "EDUC 261 — Thinking and Learning",
+      "description": "Examines multiple theoretical perspectives on thinking, learning, and teaching; the development of the whole person in a variety of cultural contexts; the roles thinking, learning, and teaching play in that development; and how researchers' and educators' conceptions shape instruction.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC262",
+      "name": "EDUC 262 — Social and Cultural Context of Education",
+      "description": "Application of anthropological and sociological theories to study of education. Examines social, cultural, and linguistic context of schooling with particular attention to role of race, class, culture, power, and language in influencing schooling outcomes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC263",
+      "name": "EDUC 263 — Educational Reform",
+      "description": "Provides students with multiple analytic perspectives from which to examine important educational issues by analyzing political, historical, and philosophical origins of educational reform in the U.S. and internationally.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC264",
+      "name": "EDUC 264 — Research on Teacher Development and Teacher Education",
+      "description": "Addresses personal and professional development of teachers. Explores models of teacher education with specific attention to methods and processes by which teachers can be better prepared to work with culturally and linguistically diverse students.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC265",
+      "name": "EDUC 265 — Teacher as Educational Policy Maker",
+      "description": "Focuses on the role teachers play in making/implementing educational policy. Addresses how this topic is implicated in enhancing the educational opportunities available to students who, historically, have been underserved by schools.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC266",
+      "name": "EDUC 266 — Program Evaluation and Action Research in Educational Reform",
+      "description": "Overview of the purpose of and practice in program evaluations in a variety of contexts with a specific focus on educational settings. Students learn the techniques of program evaluation; the historical and theoretical context of program evaluations, including its relation to experimental research; and how action research can be used in conducting field-based evaluations. Students should be familiar with basic quantitative and qualitative methodologies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC268",
+      "name": "EDUC 268 — Schools, Communities, and Families",
+      "description": "Examines the nexus of schools, communities, and families, and, in particular, how collaboration across institutional boundaries can facilitate school and community reform.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC271",
+      "name": "EDUC 271 — Theoretical Perspectives on Learning and Using Literacy",
+      "description": "Examines theoretical perspectives, educational issues, and scholarship related to use and development of literacy among diverse populations, particularly those who have not fared well in U.S. schools.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC272",
+      "name": "EDUC 272 — Language in Education and Society",
+      "description": "Investigates discipline of sociolinguistics and explores actual ways in which sociolinguistics has become a useful lens for better understanding teaching, learning, and schooling. Conduct own sociolinguistic analyses of data collected for culminating project.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC273",
+      "name": "EDUC 273 — Language Acquisition, Bilingualism, and Education",
+      "description": "Foundations of first- and second-language acquisition and bilingualism with emphasis on implications for education in linguistically diverse settings. Topics include linguistic, cognitive, sociolinguistic, and sociocultural approaches to development of languages and the nature of individual and societal bilingualism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC274",
+      "name": "EDUC 274 — Language and Power in Education",
+      "description": "Examines relationships between sociopolitical struggles and language/language practices. Students study ways in which Marxism, critical theory, and post structuralism have represented links between language and power, and investigate contemporary studies of language and power in education.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC276",
+      "name": "EDUC 276 — Theory and Practice of Writing",
+      "description": "Explores first and second language-writing theory, research, and practice, especially relating to language minority students and others considered academically under-prepared. Focuses on educational settings from pre-school settings including families and communities.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC277A",
+      "name": "EDUC 277A — Second-year Doctoral Proseminar",
+      "description": "Three-quarter seminar supporting second-year doctoral students as they progress through their second year research project from proposal, through data collection and analysis, to final paper and presentation.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to education doctoral students working on their second-year project.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC277B",
+      "name": "EDUC 277B — Second-year Doctoral Proseminar",
+      "description": "Three-quarter seminar supporting second-year doctoral students as they progress through their second year research project from proposal, through data collection and analysis, to final paper and presentation.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to education doctoral students working on their second-year project.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC277C",
+      "name": "EDUC 277C — Second-year Doctoral Proseminar",
+      "description": "Three-quarter seminar supporting second-year doctoral students as they progress through their second-year research project from proposal, through data collection and analysis, to final paper and presentation.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to education doctoral students working on their second-year project.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC278",
+      "name": "EDUC 278 — Critical Exploration of Reading Theory and Practice",
+      "description": "Doctoral seminar that examines historical and current research on reading processes and instructional practices. Intensive study of factors affecting the development of proficient, engaged, and reflective readers who can acquire new knowledge from text.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC279",
+      "name": "EDUC 279 — Directed Reading",
+      "description": "Directed reading that does not involve a final paper. Students submit a petition to the course-sponsoring agency. May be repeated for credit up to four times. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC279F",
+      "name": "EDUC 279F — Directed Reading",
+      "description": "Directed reading that does not involve a final paper. Students submit a petition to the course-sponsoring agency. May be repeated for credit up to four times. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC280",
+      "name": "EDUC 280 — Language and Literacy Across Disciplines",
+      "description": "Considers and critiques conceptualizations of the language used for academic pursuits, from the early years of schooling to higher education. Focuses on implications for research and practice related to the education of students in linguistically diverse schools and societies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC281",
+      "name": "EDUC 281 — Conceptual Change in Science and Mathematics",
+      "description": "Examines approaches in cognitive science, mathematics education, and science education to documenting student conceptions in science and mathematics, defining conceptual change, and describing relationship between conceptual change and learning with understanding.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC282",
+      "name": "EDUC 282 — Informal Learning in Sciences and Mathematics",
+      "description": "Explores research on learning outside of school in multiple settings such as museums, after-school clubs, aquariums, workplaces, and homes. Readings draw from multiple fields and disciplines, including cognitive psychology, cognitive anthropology, cognitive science, education, museum education and evaluation, science, and mathematics education. Examine theoretical approaches to describing and understanding how people learn science and mathematics outside of school, empirical studies documenting learning in multiple non-school settings, and diversity issues in out-of-school settings.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC283",
+      "name": "EDUC 283 — Equity and Social Justice in Mathematics and Science Education",
+      "description": "Examines the theory, research, policy and practice of social justice and equity in mathematics and science education in local, national, and international contexts. Emphasizes the promotion of equity and critical mathematics and science literacy in schools and communities.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC284",
+      "name": "EDUC 284 — Gender in Mathematics and Science Education",
+      "description": "Explores basic aspects of gender in the fields of mathematics and science education. Discusses historical trends, current dilemmas, and how science and mathematics block or enable access for women.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC285",
+      "name": "EDUC 285 — Culture and Learning",
+      "description": "Examines multiple approaches to the study of the relation between culture and learning. Readings include historical and contemporary perspectives from cognitive science, cognitive anthropology, cross-cultural psychology, cultural psychology, and socio-cultural theories as frameworks for the study of culture and learning.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC286",
+      "name": "EDUC 286 — Research in STEM Education",
+      "description": "Focuses on particular issues of theoretical importance to research in mathematics and science education. Topics vary from year to year. Particular issues in cognition, learning, teaching, curriculum, and assessment in mathematics and science education may be covered.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC287",
+      "name": "EDUC 287 — Issues in Educational Assessment",
+      "description": "Familiarizes students with the basic concepts of educational assessment and explores issues related to the design and implementation of educational assessment as well as the application of educational assessment in educational research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC288",
+      "name": "EDUC 288 — Ethnographies of Education",
+      "description": "Offers opportunity to critique a range of book-length ethnographic studies of education focusing on relationship between culture, learning, and schooling in the U.S. with comparative studies from other countries.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC289",
+      "name": "EDUC 289 — School Organization",
+      "description": "Applies multiple perspectives drawn from organizational theory, highlighting important aspects of organization of schools, including their operational environment, instructional organization, and professional and bureaucratic dimensions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC290",
+      "name": "EDUC 290 — CHAT and Educational Practice and Research",
+      "description": "Introduction to cultural-historical activity theory (CHAT) based on work of Vygotsky, Bakhtin, and contemporary developments of their ideas. Explores the utility of CHAT as a framework for thinking about educational practice and research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC291",
+      "name": "EDUC 291 — Globalization and Transnationalism in Education",
+      "description": "Examines educational access and advancement in several nations affected by globalization, national policies, and localized identity and opportunity structures. Attention to language and cultural expectations relevant to research in international contexts and how this knowledge provides reflection on the American condition.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC292",
+      "name": "EDUC 292 — Ideology and Education",
+      "description": "Philosophical study of the theory of ideology from Marx to the present and how ideologies (racism, sexism, classism, linguicism, abilityism) become embodied, reproduced, resisted, and transformed (and particularly the role of education therein).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC293A",
+      "name": "EDUC 293A — Research Apprenticeship",
+      "description": "Research apprenticeship under guidance of faculty member during first or second year of doctoral studies. May also be taken in the third year and beyond. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC293B",
+      "name": "EDUC 293B — Research Apprenticeship",
+      "description": "Research apprenticeship under guidance of faculty member during first or second year of doctoral studies. May also be taken in the third year and beyond. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC294",
+      "name": "EDUC 294 — Second-Year Research Project",
+      "description": "Doctoral students work with faculty advisors to plan, carry out, and write up small independent research project during second year of graduate studies. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC295",
+      "name": "EDUC 295 — Critical Perspectives on Education",
+      "description": "Investigates critical theories in education. Situates the themes against and within critical theory and philosophic foundations of Paulo Freire's theory of liberation education. Elaborates these themes within the discourses on critical race theory and education, and feminism and education.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC296",
+      "name": "EDUC 296 — Educational Policy and the Context of Teachers' Work",
+      "description": "Focuses on both the conceptual and methodological developments in the study of policy and on the research relation to the policy context of teachers' work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC297",
+      "name": "EDUC 297 — Independent Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC297F",
+      "name": "EDUC 297F — Independent Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC298",
+      "name": "EDUC 298 — TA Apprenticeship",
+      "description": "Students work with a faculty member who is teaching an undergraduate or MA/Credential course. Students will not be responsible for final grades, narrative evaluations, or holding discussion section. The expected course time commitment is limited to 2-3 hours per week, plus class meeting time. Students gain perspectives and practices of teaching undergraduate and graduate courses, working with the instructor on lesson planning, class instruction, and grading some student work.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC299",
+      "name": "EDUC 299 — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES121",
+      "name": "CRES 121 — The Struggle for K-12 Ethnic Studies",
+      "description": "Critical analysis of the movement for K-12 ethnic studies in historical and contemporary time periods with a particular focus on the Liberated Ethnic Studies Model Curriculum. Students read, discuss, and analyze past and present K-12 ethnic studies research, policy, and practice to deepen their knowledge and strengthen their ability to critique issues in K-12 ethnic studies education while reflecting on how the concepts and questions that arise relate to their own educational experiences and lives.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS151A",
+      "name": "OAKS 151A — Corre la Voz: Community Literacies and Power Seminar",
+      "description": "Required seminar for first-quarter students in the Corre la Voz program. Examines theories, curriculum design, and teaching methods that emphasize social connection, leadership, verbal enrichment, multi-modal literacies, and community empowerment. Taken concurrently with field study. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Co-requisite(s): course 151B. Enrollment is by interview only and successful application to the Corre la Voz program.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

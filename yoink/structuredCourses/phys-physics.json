@@ -1,0 +1,1365 @@
+{
+  "department": "PHYS - Physics",
+  "slug": "phys-physics",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/phys-physics",
+  "generated_at": "2025-11-28T07:51:43.639833+00:00",
+  "courses": [
+    {
+      "id": "PHYS1A",
+      "name": "PHYS 1A — Physics for Everyone",
+      "description": "Explores some of the great topics in classical and modern physics, including relativity, and the connections to a broad range of inquiry, from daily life to cosmology. Math, mainly algebra, is used in a way that is completely accessible to everyone. No previous knowledge of physics is necessary.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS1B",
+      "name": "PHYS 1B — Physics for Everyone",
+      "description": "Explores some of the great topics in classical and modern physics, including thermal physics, quantum mechanics, and the constituents of matter, and their connections to a broad range of inquiry, from daily life to particle physics and cosmology. Probabilistic evidence, backgrounds, statistical fluctuations and systematic uncertainties, discovery significance, what we infer, and what can go wrong, are illustrated in some depth. Math is used in a way that is completely accessible to everyone. No previous knowledge of physics or statistics is necessary.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS2",
+      "name": "PHYS 2 — The Physicist's Toolbox",
+      "description": "Prepares students for success in subsequent classes in physics and astrophysics. Course is designed for students majoring or considering majoring in physics, applied physics, or astrophysics. Includes overview of physics and astrophysics, and their major tools: experiment, theory, observation, and computation. Provides conceptual overview of the top-level theoretical approaches including classical mechanics, quantum mechanics, and statistical mechanics. Also reviews problem-solving skills for work in subsequent classes, including the physicist's approach to calculus, working intuitively with graphs, solving simultaneous equations, and understanding equations conceptually. Examines the educational path to different physics careers, physics as a collaborative discipline, and effective methods for group work as well as individual study.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to first-year and second-year students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS5A",
+      "name": "PHYS 5A — Introduction to Physics I",
+      "description": "Elementary mechanics. Vectors, Newton's laws, inverse square force laws, work and energy, conservation of momentum and energy, and oscillations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 19A or MATH 20A . Concurrent enrollment in PHYS 5L , and either MATH 19B or MATH 20B , is required.",
+      "prereqGroups": [
+        [
+          "MATH19A",
+          "MATH20A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS5B",
+      "name": "PHYS 5B — Introduction to Physics II",
+      "description": "A continuation of PHYS 5A . Wave motion in matter, including sound waves. Geometrical optics, interference and polarization, statics and dynamics of fluids.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A and MATH 19B or MATH 20B ; concurrent enrollment in PHYS 5M is required.",
+      "prereqGroups": [
+        [
+          "PHYS5A"
+        ],
+        [
+          "MATH19B",
+          "MATH20B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS5C",
+      "name": "PHYS 5C — Introduction to Physics III",
+      "description": "Introduction to electricity and magnetism. Electromagnetic radiation, Maxwell's equations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A and MATH 19B or MATH 20B . Concurrent enrollment in PHYS 5N is required.",
+      "prereqGroups": [
+        [
+          "PHYS5A"
+        ],
+        [
+          "MATH19B",
+          "MATH20B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS5D",
+      "name": "PHYS 5D — Introduction to Physics IV",
+      "description": "Introduces temperature, heat, thermal conductivity, diffusion, ideal gases, laws of thermodynamics, heat engines, and kinetic theory. Introduces the special theory of relativity and the equivalence principle. Includes the photoelectric effect, the Compton effect, matter waves, atomic spectra, and the Bohr model.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L , or PHYS 6A and PHYS 6L ; and PHYS 5B or PHYS 6B ; and MATH 19B or MATH 20B .",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ],
+        [
+          "PHYS5L",
+          "PHYS6L"
+        ],
+        [
+          "PHYS5B",
+          "PHYS6B"
+        ],
+        [
+          "MATH19B",
+          "MATH20B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS5L",
+      "name": "PHYS 5L — Introduction to Physics I Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in PHYS 5A and PHYS 15A . One three-hour laboratory session per week.",
+      "credits": "1",
+      "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in PHYS 5A or PHYS 15A is required.",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS15A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS5M",
+      "name": "PHYS 5M — Introduction to Physics II Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in PHYS 5B. One three-hour laboratory session per week.",
+      "credits": "1",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5L ; concurrent enrollment in PHYS 5B is required.",
+      "prereqGroups": [
+        [
+          "PHYS5L"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS5N",
+      "name": "PHYS 5N — Introduction to Physics Laboratory III",
+      "description": "Laboratory sequence illustrating topics covered in PHYS 5C and PHYS 15C . One three-hour laboratory session per week.",
+      "credits": "1",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5L . Concurrent enrollment in PHYS 5C or PHYS 15C is required.",
+      "prereqGroups": [
+        [
+          "PHYS5L"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS6A",
+      "name": "PHYS 6A — Introductory Physics I",
+      "description": "Elementary mechanics. Vectors, Newton's laws, inverse square force laws, work and energy, conservation of momentum and energy, and oscillations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 11B or 16B or 19B or 20B or AM 15B.",
+      "prereqGroups": [
+        [
+          "MATH11B",
+          "MATH16B",
+          "MATH19B",
+          "MATH20B",
+          "AM15B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS6B",
+      "name": "PHYS 6B — Introductory Physics II",
+      "description": "A continuation of PHYS 6A . Geometric optics; statics and dynamics of fluids; introduction to thermodynamics, including temperature, heat, thermal conductivity, and molecular motion; wave motion in matter, including sound waves.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A or PHYS 6A or PHYS 7A ; and MATH 11B or MATH 16B or MATH 19B or MATH 20B or AM 15B.",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS6A",
+          "PHYS7A"
+        ],
+        [
+          "MATH11B",
+          "MATH16B",
+          "MATH19B",
+          "MATH20B",
+          "AM15B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS6C",
+      "name": "PHYS 6C — Introductory Physics III",
+      "description": "Introduction to electricity and magnetism. Elementary circuits; Maxwell's equations; electromagnetic radiation; interference and polarization of light.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A or PHYS 6A or PHYS 7A ; and MATH 11B or MATH 16B or MATH 19B or MATH 20B or AM 15B.",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS6A",
+          "PHYS7A"
+        ],
+        [
+          "MATH11B",
+          "MATH16B",
+          "MATH19B",
+          "MATH20B",
+          "AM15B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS6L",
+      "name": "PHYS 6L — Introductory Physics I Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in PHYS 6A . One two-hour laboratory session per week.",
+      "credits": "1",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in PHYS 6A or PHYS 7A is required.",
+      "prereqGroups": [
+        [
+          "PHYS6A",
+          "PHYS7A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS6M",
+      "name": "PHYS 6M — Introductory Physics II Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in PHYS 6B . One two-hour laboratory session per week.",
+      "credits": "1",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in Phys 6B.",
+      "prereqGroups": [
+        [
+          "PHYS6B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS6N",
+      "name": "PHYS 6N — Introductory Physics III Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in PHYS 6C . One two-hour laboratory session per week.",
+      "credits": "1",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in PHYS 6C .",
+      "prereqGroups": [
+        [
+          "PHYS6C"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS7A",
+      "name": "PHYS 7A — Elementary Physics I",
+      "description": "Examines elementary mechanics, including vectors, kinematics, Newton's laws, work and energy, conservation of momentum and energy, fluid motion, and temperature and heat.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 11A or MATH 19A or MATH 20A or AM 15A. Concurrent enrollment in PHYS 6L or PHYS 7L is required.",
+      "prereqGroups": [
+        [
+          "MATH11A",
+          "MATH19A",
+          "MATH20A",
+          "AM15A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS7B",
+      "name": "PHYS 7B — Elementary Physics II",
+      "description": "Examines elementary wave motion, light polarization, reflection and refraction; elementary electricity, including electric charge, Coulomb's Law,and electric field and potential; electrostatic energy, currents, conductors, resistance, and Ohm's Law; and magnetic fields, inductors, and circuits.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 7A , and MATH 11B , or MATH 19B , or MATH 20B , or AM 15B.",
+      "prereqGroups": [
+        [
+          "PHYS7A"
+        ],
+        [
+          "MATH11B",
+          "MATH19B",
+          "MATH20B",
+          "AM15B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS7L",
+      "name": "PHYS 7L — Elementary Physics Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in PHYS 7A. One three-hour laboratory session per week.",
+      "credits": "1",
+      "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in PHYS 7A is required.",
+      "prereqGroups": [
+        [
+          "PHYS7A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS11",
+      "name": "PHYS 11 — The Physicist in Industry",
+      "description": "One two-hour meeting per week. Subjects include roles of the physicist in industry, the business environment in a technical company, economic considerations, job hunting, and discussions with physicists with industrial experience.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to applied physics, physics, and physics (astrophysics) majors or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS15A",
+      "name": "PHYS 15A — Honors Introduction to Physics I",
+      "description": "Covers similar material to PHYS 5A (Mechanics, vectors, Newtonâs laws, inverse square force laws, work and energy, conservation of momentum and energy, oscillations, and rotational motion), but in greater depth and with more sophisticated techniques. These include kinematics in polar coordinates, and associated descriptions of motion in rotating coordinate systems; information encoded in potential energy functions; the use and importance of symmetry; handling of complications due to real-world effects; and connections between position and momentum in simple harmonic oscillators. Students are expected to be fluent with precalculus and to be familiar with integration, and are encouraged to contact the instructor if they are uncertain about their preparation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 19A or MATH 20A . Concurrent enrollment in MATH 19B or MATH 20B , and PHYS 5L is required.",
+      "prereqGroups": [
+        [
+          "MATH19A",
+          "MATH20A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS15C",
+      "name": "PHYS 15C — Honors Introduction to Physics - III",
+      "description": "Covers similar material to PHYS 5C (electricity and magnetism, electromagnetism and Maxwellâs equations, electromagnetic radiation), but in greater depth and with more sophisticated techniques. These include the development and frequent use of Maxwellâs equations in both integral and differential form, the use of electric and magnetic potentials, gauge invariance and connection to modern electrodynamics, generalized impedance in ac circuits, and how accelerating charges produce electromagnetic radiation. Students who are uncertain about their preparation are encouraged to contact the instructor.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A or PHYS 15A , and MATH 19B or MATH 20B . Concurrent enrollment in PHYS 5N is required.",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS15A"
+        ],
+        [
+          "MATH19B",
+          "MATH20B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS80A",
+      "name": "PHYS 80A — Elementary Physics of Energy",
+      "description": "The physics of energy developed in a course accessible to non-science majors as well as science majors. Fundamental principles and elementary calculations, at the level of basic algebra, developed and applied to the understanding of the physics of energy. Topics include fossil fuels, renewable energy, solar cells and waste energy, waste-energy recovery, nuclear power, and global greenhouse effects. (Formerly offered as PHYS 2 .)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS80U",
+      "name": "PHYS 80U — Physics and Psychophysics of Music",
+      "description": "Fundamental theory of vibration, sound waves, sound propagation, diffraction, and interference. Free, coupled, and driven oscillations. Resonance phenomena and modes of oscillation. Fourier's theorem. Anatomy and psychophysics of the ear. Musical scales and intervals. Nature of plucked and bowed strings; guitar, violin, piano. Woodwind and brass instruments. Architectural acoustics. High school algebra and basic knowledge of musical notation recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS99",
+      "name": "PHYS 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS102",
+      "name": "PHYS 102 — Modern Physics",
+      "description": "Topics in quantum physics including the Schrodinger equation; angular momentum and spin; the Pauli exclusion principle; and quantum statistics. Applications in multi-electron atoms and molecules, and in solid-state, nuclear, and particle physics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A , PHYS 5L , PHYS 5B , PHYS 5M , PHYS 5C , PHYS 5N and PHYS 5D ; or PHYS 6A , PHYS 6L , PHYS 6B , PHYS 6M , PHYS 6C , PHYS 6N , and PHYS 5D ; or equivalent.",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS6A",
+          "PHYS7A"
+        ],
+        [
+          "PHYS5L",
+          "PHYS6L"
+        ],
+        [
+          "PHYS5B",
+          "PHYS6B"
+        ],
+        [
+          "PHYS5M",
+          "PHYS6M"
+        ],
+        [
+          "PHYS5C",
+          "PHYS6C"
+        ],
+        [
+          "PHYS5N",
+          "PHYS6N"
+        ],
+        [
+          "PHYS5D"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS105",
+      "name": "PHYS 105 — Mechanics",
+      "description": "Particle dynamics in one, two, and three dimensions. Conservation laws. Small oscillations, Fourier series and Fourier integral solutions. Phase diagrams and nonlinear motions, Lagrange's equations, and Hamiltonian dynamics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L ; and PHYS 116A or MATH 21 plus MATH 24 or AM 10 plus AM 20 ; and ASTR 119 or CSE 20 . Concurrent enrollment in PHYS 116C or MATH 107 is required.",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS5L"
+        ],
+        [
+          "PHYS116A",
+          "MATH21",
+          "MATH24",
+          "AM10",
+          "AM20"
+        ],
+        [
+          "ASTR119",
+          "CSE20"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS110A",
+      "name": "PHYS 110A — Electricity, Magnetism, and Optics",
+      "description": "Examines electrostatics, including the electric field, potential, solutions to Laplace's and Poisson's equations, and work and energy; electricity in matter (conductors, dielectrics); magnetostatics, including the magnetic field and vector potential, Ampere's and Faraday's laws; magnetism in matter; and Maxwell's equations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5C ; and PHYS 116A or MATH 21 and MATH 24 ; and PHYS 116C or MATH 107 .",
+      "prereqGroups": [
+        [
+          "PHYS5C"
+        ],
+        [
+          "PHYS116A",
+          "MATH21",
+          "MATH24"
+        ],
+        [
+          "PHYS116C",
+          "MATH107"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS110B",
+      "name": "PHYS 110B — Electricity, Magnetism, and Optics",
+      "description": "Examines electromagnetic waves, including absorption and dispersion, reflection and transmission, and wave guides; conservation laws and gauge invariance; time-dependent vector and scalar potentials and application to radiation of charges and antennae; and electrodynamics and relativity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 110A ; and PHYS 116C or MATH 107 .",
+      "prereqGroups": [
+        [
+          "PHYS110A"
+        ],
+        [
+          "PHYS116C",
+          "MATH107"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS112",
+      "name": "PHYS 112 — Thermodynamics and Statistical Mechanics",
+      "description": "Consequences of the first and second laws of thermodynamics, elementary statistical mechanics, thermodynamics of irreversible processes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5D and MATH 23B . Concurrent enrollment in PHYS 102 is required.",
+      "prereqGroups": [
+        [
+          "PHYS5D"
+        ],
+        [
+          "MATH23B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS115",
+      "name": "PHYS 115 — Computational Physics",
+      "description": "This course applies efficient numerical methods to the solutions of problems in the physical sciences which are otherwise intractable. Examples will be drawn from classical mechanics, quantum mechanics, statistical mechanics, and electrodynamics. Students apply a high-level programming language, such as Python, to the solution of physical problems and develop appropriate error and stability estimates.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 102 and PHYS 105 ; and PHYS 116A or MATH 21 and MATH 24 ; and PHYS 116C or MATH 107 , or equivalent. Basic programming experience in Python or similar language.",
+      "prereqGroups": [
+        [
+          "PHYS102",
+          "PHYS105"
+        ],
+        [
+          "PHYS116A"
+        ],
+        [
+          "MATH21",
+          "MATH24"
+        ],
+        [
+          "PHYS116C"
+        ],
+        [
+          "MATH107"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS116A",
+      "name": "PHYS 116A — Mathematical Methods in Physics",
+      "description": "Infinite series. Topics in linear algebra including vector spaces, matrices and determinants, systems of linear equations, eigenvalue problems and matrix diagonalization. Ordinary differential equations and Laplace transforms.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 23A .",
+      "prereqGroups": [
+        [
+          "MATH23A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS116C",
+      "name": "PHYS 116C — Mathematical Methods in Physics",
+      "description": "Fourier series and transforms, Dirac-delta function, Green's functions, series solutions of ordinary equations, Legendre polynomials, Bessel functions, sets of orthogonal functions, and partial differential equations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 116A or MATH 21 and MATH 24 ; and MATH 23A and MATH 23B .",
+      "prereqGroups": [
+        [
+          "PHYS116A"
+        ],
+        [
+          "MATH21",
+          "MATH24"
+        ],
+        [
+          "MATH23A",
+          "MATH23B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS116D",
+      "name": "PHYS 116D — Mathematical Methods in Physics",
+      "description": "Complex functions, complex analysis, asymptotic series and expansions, special functions defined by integrals, and probability and statistics. (Formerly offered as PHYS 116B.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 116A or MATH 21 and MATH 24 ; and PHYS 116C .",
+      "prereqGroups": [
+        [
+          "PHYS116A"
+        ],
+        [
+          "MATH21",
+          "MATH24"
+        ],
+        [
+          "PHYS116C"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS120",
+      "name": "PHYS 120 — Polymer Physics",
+      "description": "Statistical properties polymers; scaling behavior, fractal dimensions; random walks, self avoidance; single chains and concentrated solutions; dynamics and topological effects in melts; polymer networks; sol-gel transitions; polymer blends; application to biological systems; computer simulations will demonstrate much of the above. Students cannot receive credit for this course and PHYS 240.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 112 .",
+      "prereqGroups": [
+        [
+          "PHYS112"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS129",
+      "name": "PHYS 129 — Particle Physics and Astrophysics",
+      "description": "The standard model of particle physics; physics beyond the standard model; neutrino physics; the early universe; dark matter and dark energy; selected topics in general relativistic cosmology and high-energy astrophysics. (Formerly Nuclear and Particle Astrophysics.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5D , PHYS 102 , and MATH 23B ; and PHYS 116A or MATH 21 . Students with equivalent coursework may contact instructor for permission to enroll.",
+      "prereqGroups": [
+        [
+          "PHYS5D",
+          "PHYS102",
+          "MATH23B"
+        ],
+        [
+          "PHYS116A"
+        ],
+        [
+          "MATH21"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS130",
+      "name": "PHYS 130 — Multiwavelength Astronomical Techniques",
+      "description": "Survey of observational astronomy across the electromagnetic spectrum and including multi-messenger probes. Covers the physics of light detection and instrumentation in different wavelength bands as well as astrophysical sources of emission and the relevant radiative processes associated to them. Aspects of statistics and statistical inference relevant for astronomical data analysis are also covered.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 102 ; and PHYS 133 ; and either ASTR 19 or ASTR 119 or CSE 20 .",
+      "prereqGroups": [
+        [
+          "PHYS102"
+        ],
+        [
+          "PHYS133"
+        ],
+        [
+          "ASTR19"
+        ],
+        [
+          "ASTR119"
+        ],
+        [
+          "CSE20"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS133",
+      "name": "PHYS 133 — Intermediate Laboratory",
+      "description": "Demonstration of phenomena of classical and modern physics. Development of a familiarity with experimental methods. Special experimental projects may be undertaken by students in this laboratory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5D and one from CSE 5J , or CSE 14, or CSE 20 , or ASTR 119 , or by permission of the instructor. Enrollment is restricted to physics, applied physics, physics (astrophysics), and science education majors and physics minors.",
+      "prereqGroups": [
+        [
+          "PHYS5C",
+          "PHYS5D"
+        ],
+        [
+          "CSE5J"
+        ],
+        [
+          "CSE14"
+        ],
+        [
+          "CSE20"
+        ],
+        [
+          "ASTR119"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS134",
+      "name": "PHYS 134 — Physics Advanced Laboratory",
+      "description": "Individual experimental investigations of basic phenomena in atomic, nuclear, and solid state physics.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS135",
+      "name": "PHYS 135 — Astrophysics Advanced Laboratory",
+      "description": "Introduction to the techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Offered in some academic years as a multiple-term course: PHYS 135A in fall and PHYS 135B in winter, depending on astronomical conditions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors. Intended primarily for juniors and seniors majoring or minoring in astrophysics.",
+      "prereqGroups": [
+        [
+          "PHYS133"
+        ],
+        [
+          "PHYS135A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS135A",
+      "name": "PHYS 135A — Astrophysics Advanced Laboratory",
+      "description": "Introduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term course PHYS 135 in fall, depending on astronomical conditions.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 133 and at least one astronomy course. Enrollment is restricted to physics (astrophysics) majors and minors.",
+      "prereqGroups": [
+        [
+          "PHYS133"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS135B",
+      "name": "PHYS 135B — Astrophysics Advanced Laboratory",
+      "description": "Introduction to techniques of modern observational astrophysics at optical and radio wavelengths through hands-on experiments. Intended primarily for juniors and seniors majoring or minoring in astrophysics. Offered in some academic years as single-term PHYS 135 in fall, depending on astronomical conditions.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 135A . Enrollment is restricted to physics (astrophysics) majors and minors.",
+      "prereqGroups": [
+        [
+          "PHYS135A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS137",
+      "name": "PHYS 137 — Advanced Optics Laboratory",
+      "description": "Application of advanced optical techniques to the study of problems in astrophysics, physics, chemistry, biology, and engineering. Techniques include interferometry, Fourier optics, adaptive optics, optical tweezers, photon correlation spectroscopy, optical pumping, laser spectroscopy, and more.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 102 or ECE 102 ; and PHYS 133 or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS133"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS138",
+      "name": "PHYS 138 — Quantum Information Science Laboratory",
+      "description": "Application of advanced laboratory techniques to the emerging field of quantum information science. Techniques include laser physics, quantum entanglement, quantum correlations, electron spin resonance, ion trapping; Josephson junctions, and more.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 102 and PHYS 133 , or permission of the instructor. Enrollment is restricted to physics B.S. majors.",
+      "prereqGroups": [
+        [
+          "PHYS102",
+          "PHYS133"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS139A",
+      "name": "PHYS 139A — Quantum Mechanics I",
+      "description": "Basic principles and mathematical techniques of nonrelativistic quantum mechanics: Schrodinger equation and Dirac notation; one-dimensional systems, including the free particle and harmonic oscillator; three-dimensional problems with spherical symmetry; angular momentum; hydrogen atom; spin; identical particles and degenerate gases.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 102 ; and PHYS 116A or MATH 21 and MATH 24 ; and PHYS 116C or MATH 107 .",
+      "prereqGroups": [
+        [
+          "PHYS102"
+        ],
+        [
+          "PHYS116A"
+        ],
+        [
+          "MATH21",
+          "MATH24"
+        ],
+        [
+          "PHYS116C"
+        ],
+        [
+          "MATH107"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS139B",
+      "name": "PHYS 139B — Quantum Mechanics II",
+      "description": "Approximation methods in nonrelativistic quantum mechanics: time-independent perturbation theory (non-degenerate and degenerate) and addition of angular momenta; variational methods; the WKB approximation; time-dependent perturbation theory and radiation theory; scattering theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 102 ; and PHYS 116A or MATH 21 and MATH 24 ; and PHYS 116C or MATH 107 ; and PHYS 139A .",
+      "prereqGroups": [
+        [
+          "PHYS102"
+        ],
+        [
+          "PHYS116A"
+        ],
+        [
+          "MATH21",
+          "MATH24"
+        ],
+        [
+          "PHYS116C"
+        ],
+        [
+          "MATH107"
+        ],
+        [
+          "PHYS139A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS150",
+      "name": "PHYS 150 — Quantum Computing",
+      "description": "Review of linear algebra. Includes basic concepts in quantum mechanics including quantum states, measurements, operators, entanglement, entanglement entropy, \"no cloning\" theorem, and density matrices; classical gates, reversible computing, and quantum gates; several quantum algorithms including Deutsch's algorithm, Simon's algorithm, Shor's algorithm, and the Grover algorithm; quantum error correction; and quantum key distribution and teleportation.",
+      "credits": "5",
+      "rawRequirements": "Requirements PHYS 116A or MATH 21 or AM 10 . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "PHYS116A"
+        ],
+        [
+          "MATH21"
+        ],
+        [
+          "AM10"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS152",
+      "name": "PHYS 152 — Physics and Machine Learning",
+      "description": "Review of select topics in statistical physics including information theory, entropy, coupled systems, phase transitions, and symmetry breaking. Introduction to multivariate algorithms, with an emphasis on their foundations in statistical physics and classical mechanics. Notebooks, data preparation, cross-validation, supervised and unsupervised learning. Practical considerations for training and optimizing neural networks and related tools. (Formerly offered as Neural Networks, Statistical Physics and Computing.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 105 ; and CSE 20 or ASTR 119 or PHYS 115 or prior programming experience with permission of instructor. Corequisite: PHYS 112 .",
+      "prereqGroups": [
+        [
+          "PHYS105"
+        ],
+        [
+          "CSE20"
+        ],
+        [
+          "ASTR119"
+        ],
+        [
+          "PHYS115"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS156",
+      "name": "PHYS 156 — Applications of Quantum Materials",
+      "description": "Quantum mechanics in solid-state materials plays a fundamental role in the development of quantum computation and sustainable technologies, as well as the search for fundamental physics beyond the Standard Model. This course introduces the quantum physics of semiconductors and low-dimensional materials (such as graphene), with emphasis on applications to transistors for logic operations, p-n junctions for photovoltaic cells and particle detection, as well as quantum dots for qubits. (Formerly Applications of Solid State Physics.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 102 or CHEM 163A .",
+      "prereqGroups": [
+        [
+          "PHYS102"
+        ],
+        [
+          "CHEM163A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS157",
+      "name": "PHYS 157 — Frontier of Quantum Materials",
+      "description": "The fundamentals of quantum materials are revamped by incorporating the geometric Berry phase and the topology of quantum wave functions. The traditional solid-state phenomena of superconductivity and magnetism are taught from a cutting-edge topological perspective, to understand phenomena such as the quantum Hall effect and emergent Majorana fermions. Applications of topological quantum materials range from spintronics to quantum information and computation. (Formerly offered as PHYS 155, Solid State Physics.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 112 and PHYS 139A ; students with equivalent coursework may contact instructor for permission to enroll.",
+      "prereqGroups": [
+        [
+          "PHYS112",
+          "PHYS139A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS160",
+      "name": "PHYS 160 — Practical Electronics",
+      "description": "Provides a practical knowledge of analog electronics that experimentalists generally need in research, including basic circuits with bipolar and field-effect transistors, op-amps, comparators, oscillators, and voltage regulators. It assumes no previous knowledge of electronics but includes twice-weekly lectures with some homework assignments, including small circuit simulations done using PSpice. However, with the aid of the instructor and teaching assistant, the students are expected to learn mainly through the construction, debugging, and analysis of small electronics projects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N .",
+      "prereqGroups": [
+        [
+          "PHYS5C",
+          "PHYS5N"
+        ],
+        [
+          "PHYS6C",
+          "PHYS6N"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS171",
+      "name": "PHYS 171 — General Relativity, Black Holes, and Cosmology",
+      "description": "Special relativity is reviewed. Curved space-time, including the metric and geodesics, are illustrated with simple examples. The Einstein equations are solved for cases of high symmetry. Black-hole physics and cosmology are discussed, including recent developments.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 105 , PHYS 110A , and PHYS 110B ; and PHYS 116A or MATH 21 and MATH 24 .",
+      "prereqGroups": [
+        [
+          "PHYS105",
+          "PHYS110A",
+          "PHYS110B"
+        ],
+        [
+          "PHYS116A"
+        ],
+        [
+          "MATH21",
+          "MATH24"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS180",
+      "name": "PHYS 180 — Biophysics",
+      "description": "Physical principles and techniques used in biology: X-ray diffraction; nuclear magnetic resonance; statistics, kinetics, and thermodynamics of macromolecules; viscosity and diffusion; DNA/RNA pairing; electrophoresis; physics of enzymes; biological energy conversion; optical tweezers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 112 ; students who have a biochemistry background may contact instructor for permission. Restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "PHYS112"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS182",
+      "name": "PHYS 182 — Scientific Communication for Physicists",
+      "description": "Develops the writing skills necessary to prepare professional publications: how to structure a physics article; write for a specific audience with clarity, precision, and concision; and deliver a short informal presentation. Additionally, students become familiar with the peer review process and the ethics of the publication process.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 133 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior majors in physics, astrophysics, applied physics, or physics education.",
+      "prereqGroups": [
+        [
+          "PHYS133"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS191",
+      "name": "PHYS 191 — Teaching Practicum",
+      "description": "Designed to provide upper-division undergraduates with an opportunity to work with students in lower division courses, leading discussions, reading and marking submissions, and assisting in the planning and teaching of a course. Prerequisite(s): excellent performance in major courses; instructor approval required; enrollment restricted to senior physics majors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS192",
+      "name": "PHYS 192 — Directed Student Teaching",
+      "description": "Teaching of a lower-division seminar under faculty supervision. (See PHYS 42.) Prerequisite(s): upper-division standing; submission of a proposal supported by a faculty member willing to supervise.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS195A",
+      "name": "PHYS 195A — Senior Thesis I",
+      "description": "Independent research for seniors conducted under the supervision of a faculty mentor. Students develop a written research proposal, thesis outline, and introductory material. Prerequisite(s): Entry Level Writing and Composition requirements. Enrollment is restricted to senior applied physics, physics, and physics (astrophysics) majors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS195B",
+      "name": "PHYS 195B — Senior Thesis II",
+      "description": "Independent research for seniors conducted under the supervision of a faculty mentor. Students prepare an oral presentation of their results, and they submit a written senior thesis on their research topic. Prerequisite(s): Entry Level Writing and Composition requirements. Enrollment is restricted to senior applied physics, physics, and physics (astrophysics) majors.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 195A .",
+      "prereqGroups": [
+        [
+          "PHYS195A"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS199",
+      "name": "PHYS 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS199F",
+      "name": "PHYS 199F — Tutorial",
+      "description": "Tutorial",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS202",
+      "name": "PHYS 202 — Introduction to Teaching in Physics",
+      "description": "A practical introduction to working as a teaching assistant for undergraduate classes in physics, including both teaching laboratories and running discussion sections. The training includes topics in classroom climate and inclusivity, active learning, motivating students, office hours, information technology, grading, communication with the instructor, and handling difficult situations. Students engaged in teaching in the same quarter are encouraged to apply the lessons in their classes and return with feedback to be discussed. Required course for first year graduate students.",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS205",
+      "name": "PHYS 205 — Introduction to Research in Physics",
+      "description": "Introduction to current research opportunities at UCSC for graduate students. Topics include: elementary particle physics, condensed matter and solid state physics, high energy astrophysics, biophysics, and cosmology. Selected topics related to career development may also be included.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS210",
+      "name": "PHYS 210 — Classical Mechanics and Thermal Physics",
+      "description": "Generalized coordinates, Lagrange and Hamiltonian mechanics, Poisson Brackets, Classical field theory, other advanced topics in classical dynamics. Introduction to thermodynamics, thermodynamic potentials and Legendre transforms, entropy, distribution functions. (Formerly Classical Mechanics.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS212",
+      "name": "PHYS 212 — Electromagnetism I",
+      "description": "Examines electrostatics and magnetostatics, boundary value problems, multipole expansion, dielectric and magnetic materials, time-varying electromagnetic fields, Maxwell's equations, conservation laws, and plane electromagnetic waves and wave propagation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS214",
+      "name": "PHYS 214 — Electromagnetism II",
+      "description": "Electromagnetic waves; waves in dispersive media; waveguides and cavities; complete development of special relativity with applications; Lorentz covariant formulation of Maxwell's equations; radiating systems; scattering and diffraction; advanced topics in radiation theory and optics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 212 . Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS212"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS215",
+      "name": "PHYS 215 — Introduction to Non-Relativistic Quantum Mechanics",
+      "description": "Mathematic introduction; fundamental postulates; time evolution operator, including the Heisenberg and Schrodinger pictures; simple harmonic oscillator and coherent states; one-dimensional scattering theory, including S-matrix resonant phenomena; two-state systems, including magnetic resonance; symmetries, including rotation group, spin, and the Wigner-Eckart theorem; rotationally invariant problems, including the hydrogen atom; gauge invariance, including Landau levels; introduction to path integral.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS216",
+      "name": "PHYS 216 — Advanced Topics in Non-Relativistic Quantum Mechanics",
+      "description": "Approximate methods: time-independent perturbation theory, variational principle, time-dependent perturbation theory; three-dimensional scattering theory; identical particles; permutation symmetry and exchange degeneracy, anti-symmetric and symmetric states; many-body systems and self-consistent fields: variational calculations; second quantized formalism, including Fock spaces/number representation, field operators and Green functions; applications: electron gas; quantization of the electromagnetic field and interaction of radiation with matter: absorption, emission, scattering, photoelectric effect, and lifetimes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 215 . Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS215"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS217",
+      "name": "PHYS 217 — Quantum Field Theory I",
+      "description": "Lorentz invariance in quantum theory, Dirac and Klein-Gordon equations, the relativistic hydrogen atom, Green functions and canonical approach to field theory, quantum electrodynamics, Feynman diagrams for scattering processes, symmetries and Ward identities. Students learn to perform calculations of scattering and decay of particles in field theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 216 or exception by permission of the instructor. Enrollment is restricted to graduate students or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "PHYS216"
+        ],
+        [
+          "PHYS216"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS218",
+      "name": "PHYS 218 — Quantum Field Theory II",
+      "description": "Path integral approach to quantum field theory. Theory of renormalization and the renormalization group, introduction to gauge theories and spontaneously broken field theories. Applications to the standard model of strong, weak, and electromagnetic interactions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 217 . Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS217"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS219",
+      "name": "PHYS 219 — Statistical Physics",
+      "description": "The basic laws of thermodynamics, entropy, thermodynamic potentials, kinetic theory of gases, quantum and classical statistical mechanics, virial expansion, linear response theory. Applications in condensed matter physics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: PHYS 210 . Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS210"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS220",
+      "name": "PHYS 220 — Theory of Many-Body Physics",
+      "description": "Finite temperature Green functions, Feynman diagrams, Dyson equation, linked cluster theorem, Kubo formula for electrical conductivity, electron gas, random phase approximation, Fermi surfaces, Landau fermi liquid theory, electron phonon coupling, Migdal's theorem, superconductivity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 216 and PHYS 219 . Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS216",
+          "PHYS219"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS221A",
+      "name": "PHYS 221A — Introduction to Particle Physics I",
+      "description": "First quarter of a two-quarter graduate level introduction to particle physics, including the following topics: discrete symmetries, quark model, particle classification, masses and magnetic moments, passage of radiation through matter, detector technology, accelerator physics, Feynman calculus, and electron-positron annihilation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 217 or concurrent enrollment. Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS217"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS221B",
+      "name": "PHYS 221B — Introduction to Particle Physics II",
+      "description": "Second quarter of a two-quarter graduate level introduction to particle physics, including the following topics: nucleon structure, weak interactions and the Standard Model, neutrino oscillation, quantum chromodynamics, CP violation, and a tour of the Stanford Linear Accelerator Center.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 221A ; PHYS 217 or concurrent enrollment. Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS221A",
+          "PHYS217"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS222",
+      "name": "PHYS 222 — Quantum Field Theory III",
+      "description": "Focuses on the theoretical underpinnings of the standard model, including the spontaneous symmetry breaking, the renormalization group, the operator product expansion, and precision tests of the Standard Model.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 218 and PHYS 221B . Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS218",
+          "PHYS221B"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS224",
+      "name": "PHYS 224 — Particle Astrophysics and Cosmology",
+      "description": "Particle physics and cosmology of the very early universe: thermodynamics and thermal history; out-of-equilibrium phenomena (e.g., WIMPs freeze-out, neutrino cosmology, Big Bang nucleosynthesis, recombination); baryogenesis; inflation; topological defects. High-energy astrophysical processes: overview of cosmic ray and gamma ray astrophysics; radiative and inelastic processes; astroparticle acceleration mechanisms; magnetic fields and cosmic ray transport; radiation-energy density of the universe; ultrahigh-energy cosmic rays; dark-matter models; and detection techniques.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS226",
+      "name": "PHYS 226 — General Relativity",
+      "description": "Develops the formalism of Einstein's general relativity, including solar system tests, gravitational waves, cosmology, and black holes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS231",
+      "name": "PHYS 231 — Introduction to Condensed Matter Physics",
+      "description": "Crystal structures, reciprocal lattice, crystal bonding, phonons (including specific heat), band theory of electrons, free electron model, electron-electron and electron-phonon interactions, transport theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 216 or equivalent course or by permission of the instructor. Enrollment is restricted to graduate students only, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS216"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS232",
+      "name": "PHYS 232 — Condensed Matter Physics",
+      "description": "Magnetism (para, ferro, anti-ferro, ferri), spin waves, superconductivity, introduction to semiconductors.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 231 . Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS231"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS233",
+      "name": "PHYS 233 — Advanced Condensed Matter Physics",
+      "description": "A special topics course which includes areas of current interest in condensed matter physics. Possible topics include superconductivity, phase transitions, renormalization group, disordered systems, surface phenomena, magnetic resonance, and spectroscopy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 231 . Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": [
+        [
+          "PHYS231"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS234",
+      "name": "PHYS 234 — Soft Condensed Matter Physics",
+      "description": "A selection of topics from: liquid crystals, biological systems, renormalization group and critical phenomena, stochastic processes, Langevin and Fokker Planck equations, hydrodynamic theories, granular materials, glasses, quasicrystals.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 219 and PHYS 232 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "PHYS219",
+          "PHYS232"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS240",
+      "name": "PHYS 240 — Polymer Physics",
+      "description": "Statistical properties polymers. Scaling behavior, fractal dimensions. Random walks, self avoidance. Single chains and concentrated solutions. Dynamics and topological effects in melts. Polymer networks. Sol-gel transitions. Polymer blends. Application to biological systems. Computer simulations demonstrating much of the above. Students cannot receive credit for this course and PHYS 120 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS242",
+      "name": "PHYS 242 — Computational Physics",
+      "description": "This course will apply efficient numerical methods to the solution of problems in the physical sciences which are otherwise intractable. Examples will be drawn from classical mechanics, quantum mechanics, statistical mechanics, and electrodynamics. Students will apply a high-level programming language such as Mathematica to the solution of physical problems and will develop appropriate error and stability estimates.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): basic programming experience in C or Fortran. No previous experience with Mathematica is required. Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS251",
+      "name": "PHYS 251 — Group Theory and Modern Physics",
+      "description": "Finite and continuous groups, group representation theory, the symmetric group and Young tableaux, Lie groups and Lie algebras, irreducible representations of Lie algebras by tensor methods, unitary groups in particle physics, Dynkin diagrams, Lorentz and PoincarÃ© groups.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students only, except by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS261",
+      "name": "PHYS 261 — Fundamentals of Mesoscopic Systems",
+      "description": "Introduction to the physics of electrons and particles on length scales between micro and macro worlds, at which the laws of quantum mechanics govern macroscopic behavior. Covered topics include, but are not limited to, quantum effects in electron transport in solids, Anderson localization, quantum Hall effect, physics of topological insulators, and an introduction to superconductivity. Connections with electronic devices and their properties when they are miniaturized as a result of their quantum mechanical properties is discussed.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 210 , PHYS 215 , PHYS 216 , PHYS 219 or equivalents; exceptions are possible by permission of instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "PHYS210",
+          "PHYS215",
+          "PHYS216",
+          "PHYS219"
+        ]
+      ]
+    },
+    {
+      "id": "PHYS262",
+      "name": "PHYS 262 — Phase Transformations in Materials",
+      "description": "Teaches basic concepts of thermodynamics and kinetics of phase transformations in materials. Students develop an understanding of binary and ternary phase diagrams and learn theories on nucleation and growth, diffusion, and solidification in materials.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students in physics, materials science and engineering, and chemistry and biochemistry programs.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS290",
+      "name": "PHYS 290 — Special Topics",
+      "description": "A series of lectures on various topics of current interest in physics at UC Santa Cruz.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS291A",
+      "name": "PHYS 291A — Cosmology",
+      "description": "Intensive research seminar on cosmology and related topics in astrophysics: nature of dark matter; origin of cosmological inhomogeneities and other initial conditions of the big bang; origin and evolution of galaxies and large scale structure in the universe.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS291B",
+      "name": "PHYS 291B — X-rays and Magnetism",
+      "description": "Research seminar on x-ray studies of the properties and behavior of magnetic materials. Topics include: the underlying physical interactions, experimental techniques, and selected examples from current research. This course includes a visit to the Advanced Light Source in Berkeley.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS291C",
+      "name": "PHYS 291C — Developments in Theoretical Particle Physics",
+      "description": "Seminar on the current literature of elementary particle physics, ranging from strong and weak interaction phenomenology to Higgs physics, supersymmetry, and superstring theory. Students may present their own research results.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS291D",
+      "name": "PHYS 291D — Experimental High-Energy Collider Physics",
+      "description": "Seminar on current results in experimental high-energy particle physics. Topics follow recently published results, including design of experiments, development of particle detector technology, and experimental results from new particle searches, quantum chromodynamics, and properties of heavy flavor quarks.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS291E",
+      "name": "PHYS 291E — Applied Physics",
+      "description": "Intensive research seminar on applied physics and related topics in materials science, including semiconductor devices, optoelectronics, molecular electronics, magnetic materials, nanotechnology, biosensors, and medical physics. Students may present their own research results.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS291F",
+      "name": "PHYS 291F — Experimental High-Energy and Particle Astrophysics Seminar",
+      "description": "Survey of current research in experimental high-energy and particle astrophysics. Recent observations and development in instrumentation for x-rays, gamma rays, and neutrinos, and evidence for dark matter and other new particles. Students lead discussion of recent papers.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS291G",
+      "name": "PHYS 291G — Condensed Matter Physics Research Seminar",
+      "description": "Weekly seminar series covering topics of current interest in condensed matter physics. Local and external speakers discuss their work.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS291H",
+      "name": "PHYS 291H — Physics Education and Communication Seminar",
+      "description": "Seminar on communicating physics both in the classroom and in the research setting. Topics include a review of current research in physics education research, as well as methods and techniques for effective communication of research results in standard conference presentation modes. Recently published results are covered.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS292",
+      "name": "PHYS 292 — Seminar",
+      "description": "Weekly seminar attended by faculty and graduate students. Directed at all physics graduate students who have not taken and passed the qualifying examination for the Ph.D. program.",
+      "credits": "0",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS292F",
+      "name": "PHYS 292F — Seminar",
+      "description": "Seminar",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS297A",
+      "name": "PHYS 297A — Independent Study",
+      "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS297B",
+      "name": "PHYS 297B — Independent Study",
+      "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS297C",
+      "name": "PHYS 297C — Independent Study",
+      "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS298",
+      "name": "PHYS 298 — Theoretical and Experimental Research Project",
+      "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS299A",
+      "name": "PHYS 299A — Thesis Research",
+      "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS299B",
+      "name": "PHYS 299B — Thesis Research",
+      "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS299C",
+      "name": "PHYS 299C — Thesis Research",
+      "description": "Enrollment restricted to graduate students only, except by permission of instructor.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM107",
+      "name": "AM 107 — Introduction to Fluid Dynamics",
+      "description": "Covers fundamental topics in fluid dynamics: Euler and Lagrange descriptions of continuum dynamics; conservation laws for inviscid and viscous flows; potential flows; exact solutions of the Navier-Stokes equation; boundary layer theory; gravity waves. Students cannot receive credit for this course and AM 217 . ( AM 107 formerly AMS 107.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 112 or MATH 107 or PHYS 116C or EART 111.",
+      "prereqGroups": [
+        [
+          "AM112"
+        ],
+        [
+          "MATH107"
+        ],
+        [
+          "PHYS116C"
+        ],
+        [
+          "EART111"
+        ]
+      ]
+    },
+    {
+      "id": "ASTR9A",
+      "name": "ASTR 9A — Introduction to Research in Physics and Astrophysics",
+      "description": "Introduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Enrollment is restricted to first-year proposed astrophysics and physics majors and by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ASTR9B",
+      "name": "ASTR 9B — Introduction to Research in Physics and Astrophysics",
+      "description": "Introduction to research for first-year students interested in physics and astrophysics. Students complete projects in small groups with scientists. Introduces techniques for collaboration; science writing; physics careers. Continuing course spanning two quarters. Prerequisite(s): ASTR 9A. Enrollment is restricted to first-year proposed applied physics, physics, and physics (astrophysics) majors and by permission of the instructor.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

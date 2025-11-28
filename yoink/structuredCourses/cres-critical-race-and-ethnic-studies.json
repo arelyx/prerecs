@@ -1,0 +1,1025 @@
+{
+  "department": "CRES - Critical Race and Ethnic Studies",
+  "slug": "cres-critical-race-and-ethnic-studies",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cres-critical-race-and-ethnic-studies",
+  "generated_at": "2025-11-28T07:51:35.980325+00:00",
+  "courses": [
+    {
+      "id": "CRES10",
+      "name": "CRES 10 — Critical Race and Ethnic Studies: An Introduction",
+      "description": "Examines the concept of race, followed by an investigation of colorblindness, multiculturalism, and post-racialism. Race and ethnicity are examined as historically formulated in relationship to the concepts of gender, sexuality, class, nationalism, indigeneity, citizenship, immigration, and inequality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing requirement.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES12",
+      "name": "CRES 12 — Science and Justice: Critical Intro",
+      "description": "Students learn to critically analyze the entanglements of technoscience with systemic injustice. Our collective task is to creatively imagine and practically enact new ways of producing knowledgeâincluding new approaches to science and technologyâthat support the mutual flourishing of the broadest possible range of lives. Course asks: What is the relationship between science, technology, and social justice? What power structures and systems of inequality do science and technology produce and uphold?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES14",
+      "name": "CRES 14 — Center for Racial Justice Service Learning",
+      "description": "Supplemented by invited guest speakers and field activities, this Center for Racial Justice-sponsored course is facilitated by an activist-in-residence. Through critical readings, discussions, and situated learning, students take part in an experiential learning project and contribute service hours to a community-based organization.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES15",
+      "name": "CRES 15 — Resource Centers Service Learning Course",
+      "description": "This service learning course offers students of all majors the opportunity to intern at UCSC Resource Centers. Students organize educational community-oriented programs and projects to address retention and equity issues in higher education. Through this course, students develop critical thinking, problem-solving, project planning, and writing skills by combining theoretical concepts and experiential learning experience. Students explore texts that highlight resiliency of minoritized communities through the study of trans, queer, Asian American/Pacific Islander, Black, American Indian, Chicanx/Latinx, undocumented, and feminist political thought.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES25",
+      "name": "CRES 25 — Race / Land / Property",
+      "description": "Provides a long historical account of the accumulation of land through logics of dispossession within the system of racial capitalism. Students explore the historical methods of claiming private property as a racialised project. Questions of settler-colonialism, imperialism, indigeneity, place and placelessness as well as claims to land and sovereignty are key to our inquiry. Focus is on the legacies of the transatlantic slave trade, specifically through examples in England, the Caribbean and North America.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES45",
+      "name": "CRES 45 — Pilipinx Historical Dialogue",
+      "description": "Examines the history, politics, and cultural expressions of the Pilipinx community, in the Philippines and the diaspora, with an emphasis on Pilipinx and Pilipinx-American activism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES60E",
+      "name": "CRES 60E — Blackness and Indigeneity in Europe",
+      "description": "What are the contours of Black Europe? This course emphasizes a range of disciplinary approaches to the concepts of blackness and indigeneity, introducing and questioning Black Europe as a field, a culture, and a set of ideologies.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES68",
+      "name": "CRES 68 — Approaches to Black Studies",
+      "description": "Provides a diasporic approach to the field of Black Studies in the modern era, with a focus on histories of dispossession and resistance.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES70B",
+      "name": "CRES 70B — Black Radical University?",
+      "description": "Course emerges from a collaboration with the Black Student Union around Black student organizing and Black liberationist pedagogies. Students explore and archive histories of Black student organizing on the UC Santa Cruz campus and beyond (locally, nationally, and globally), as well as Black liberationist pedagogy (e.g., decolonial thought in the Third World, freedom schools in the U.S. South, Black Panther Party liberation schools, Black feminist pedagogies). Course is offered for pass/no pass grading only.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES70S",
+      "name": "CRES 70S — Introduction to the Sikhs",
+      "description": "Introduces the Sikh community, including its origins, history, belief system and contemporary challenges. Other topics include Sikh music, art, literature, and aspects of Sikh society. Specific attention is paid to the Sikh diaspora community in the United States, and in California in particular, including comparative perspectives with respect to other minority communities.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES70U",
+      "name": "CRES 70U — (Un)docu Studies",
+      "description": "Deconstructs the common perception of immigration as strictly a Latinx issue in order to develop solidarity among different groups of students and to explore a range of narratives surrounding undocumented status and migration with the aim of empowering us as agents of transformative social change. Legal papers, as a violent affirmation of settler sovereignty, do not capture the complexities of who we are, much less all our relationsâto each other, to place, to life worlds. By exploring those complexities, we strive to create a communal space where we courageously articulate self, community, and relationality in ways that state documents must disavow. Course is offered for Pass/No Pass grading only.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES94",
+      "name": "CRES 94 — Group Tutorial",
+      "description": "A lower-division group tutorial, led by a faculty member, that focuses on various problems within critical race and ethnic studies. Topics to be chosen by the instructor and undergraduate student participants. Enrollment is restricted to critical race and ethnic studies majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES94F",
+      "name": "CRES 94F — Group Tutorial",
+      "description": "A program of independent study arranged between a group of students and a faculty instructor. Students submit petition to sponsoring agency. Enrollment is restricted to critical race and ethnic studies majors.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES99",
+      "name": "CRES 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES100",
+      "name": "CRES 100 — Comparative Theories of Race and Ethnicity",
+      "description": "Examines race and ethnicity as categories of lived identity intersecting with gender, sexuality, class, and culture; historical discourses of difference underwriting social inequalities and movements to redress those inequalities; and concepts critical to the understanding and reshaping of power and privilege.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 and satisfaction of the Entry Level and Composition requirements.",
+      "prereqGroups": [
+        [
+          "CRES10"
+        ]
+      ]
+    },
+    {
+      "id": "CRES101",
+      "name": "CRES 101 — Research Methods and Writing in Critical Race and Ethnic Studies",
+      "description": "Introduces students to tools, conceptual frameworks, keywords, and methods for research and writing in critical race and ethnic studies. Drawing from ethnic studies, Asian American studies, Arab American studies, Black studies, Indigenous studies, Latinx studies, feminist studies, and queer studies, students analyze how scholars do the work of studying the effects of and resistance to U.S. colonialism, capitalism, empire, war, globalization, and migration. Examines questions of settler colonial state practice, dispossession, diaspora, incarceration, and the ethics of research methods. Students practice the craft of writing about race, colonialism, state violence, and the manifold movements that imagine alternative, decolonized futures.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100"
+        ]
+      ]
+    },
+    {
+      "id": "CRES112",
+      "name": "CRES 112 — AsianAm Enviro Justice",
+      "description": "Explores the concept of environmental racism in a transnational framework, focusing on the shaping of Asian American and Pacific Islander communities in the United States and in the current and former territories of U.S. empire in the Pacific. Students explore environmental racism within the historical contexts of U.S. militarism and imperial warfare, empire and settler colonialism, disasters and disaster aid, and climate change refugeehood.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES113",
+      "name": "CRES 113 — Music and Performance",
+      "description": "Considers issues of race, place, gender, power, and identities through the converging fields of Black studies and performance studies. Emphasizes global diasporic histories of broad music production and performance from the 14th century onward with an emphasis on the making and performance of global Black social life. Primarily creative in nature, the course allows students to practice creative processes and allows opportunities to produce music and generate performance art.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES115",
+      "name": "CRES 115 — Frantz Fanon: Resistance, Revolution, and Decolonization",
+      "description": "Students immerse themselves in the intellectual, political, and critical thought of 20th-century Martiniquan psychoanalyst, writer, and revolutionary Frantz Fanon. Students closely read several of Fanonâs most noted works, including Black Skin, White Masks, A Dying Colonialism, and The Wretched of the Earth, as well as thinkers Fanon studied and engaged in these works. Class also engages contemporary interpretations of Fanonâs transnational, emancipatory thought and practice from scholarly, aesthetic, and political organizing perspectives.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES118",
+      "name": "CRES 118 — Abolitionist Futures",
+      "description": "Grounded in local, national, and global prison abolition movements, this course explores through feminist political frameworks creative strategies that imagine and work to end all systems of domination and exploitation. Looks at California's prisoner organizing and abolition movements, along with other historic and contemporary social movements which deepen our understandings of the ways in which carceral systems are shaped by and through capitalist formations of race, gender, sexuality, and disability. Also examines strategies such as disability justice and transformative justice which demonstrate expansive and liberatory visions of abolition, extending far beyond the prison system itself.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES120",
+      "name": "CRES 120 — Third World Feminisms",
+      "description": "Places the thought and praxis developed and pursued by Third Worldist women, queer, and gender nonconforming peoples at the center of a conversation on the conditions of coloniality and pursuits of liberation from the entwined tyrannies of imperial, racial, and gendered oppressions. Course asks how African, Asian, Caribbean, and other Third Worldist women activists, artists, and scholars imagined and defined what liberation might have looked like in the 20th century, and what it might mean today.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES121",
+      "name": "CRES 121 — The Struggle for K-12 Ethnic Studies",
+      "description": "Critical analysis of the movement for K-12 ethnic studies in historical and contemporary time periods with a particular focus on the Liberated Ethnic Studies Model Curriculum. Students read, discuss, and analyze past and present K-12 ethnic studies research, policy, and practice to deepen their knowledge and strengthen their ability to critique issues in K-12 ethnic studies education while reflecting on how the concepts and questions that arise relate to their own educational experiences and lives.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES122",
+      "name": "CRES 122 — Decolonial Intersectionality: Gender, Race, Indigeneity",
+      "description": "Applies the concept of intersectionality within feminist thinking to an exploration of the limits and possibilities of decolonization and the ways in which gender, race, and indigeneity inform both colonial domination and resistance.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES123",
+      "name": "CRES 123 — Introduction to Native American & Indigenous Studies",
+      "description": "Explores the emergence of Native American and Indigenous Studies as well as the theories, methods, and contemporary issues that inform the field. Centers key concepts and central themes from over the last half century of academic scholarship, and activist organizing, for Indigenous peoples and the decolonization of settler occupied lands.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES124",
+      "name": "CRES 124 — Demilitarizing the University",
+      "description": "With a principal focus on the Cold War and post-9/11 U.S. research university as the object of our collective study, studentrs inquire into its lethal centrality to the military/security-industrial complex, from the development of the atomic bomb to the present day. Course also examines insurgent efforts, including mass student mobilizations, to demilitarize the university.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES127",
+      "name": "CRES 127 — Indigenous Environmentalisms From Oceania to Native California",
+      "description": "Examines Indigenous environmentalist struggles and contemporary movements to protect land and water in California and in Oceania. Course examines three Indigenous women-led movements to protect land and water: Run4Salmon, Sogorea Te Land Trust, and Protect Mauna Kea. Also examines their transnational collaborations with Aotearoa/New Zealand and West Papua.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES129",
+      "name": "CRES 129 — Black Marxism",
+      "description": "Marxism has been a foundational framework for the Black radical tradition. This course offers a theoretical framework to key texts in Marxism, and an overview to the problems, insights, contexts, and interventions that Black intellectuals have deployed in conversation with it.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES131",
+      "name": "CRES 131 — Black Freedom Movements",
+      "description": "Examines the development of Black freedom movements ranging from resistance to slavery to contemporary movements for Black power in Jackson, Mississippi. Interdisciplinary in scope, course examines a variety of materials ranging from novels, to autobiographies, to political manifestos in order to understand fully the broad scope of Black freedom movements.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES132",
+      "name": "CRES 132 — Black Speculations",
+      "description": "Traces the heterogenous historic, material, and ephemeral manifestations of Blackness and the Black radical imaginary in science fiction, fantasy, horror, and visionary literary, sonic, and visual cultural forms. Identifies how Black speculative aesthetic, cultural, and political practices reorients understanding of the past, recalibrates elation to the present, remaps assumptive notions of space and time, and allows us to reimagine our futures. Class collectively identifies, interprets, and puts into conversation the meaning-making speculative practices of Black diasporic writers, musicians, artists, filmmakers, abolitionists, even in genres and traditions seldom thought of as speculative. Class pays particular attention to Black diasporic/international contributions to these genres.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES134",
+      "name": "CRES 134 — The Black \"Middle East\"",
+      "description": "This course accounts for the racial heterogeneity of the âMiddle East.â Ranging from the Maghreb, the Levant, and Gulf, the Middle East is also a political construct of myriad histories and processes of enslavement, displacement, racialization, domination, and resistance. Many of these processes precede European colonization, merged with imported Euro-American racial ideologies, and continue to reverberate in the region. This class focuses specifically on how blackness as a racial, cultural, and political identity is forged, understood, and contested along this vast terrain, attending to how articulations of Black being and blackness continue to be translated and lived to this day.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES140",
+      "name": "CRES 140 — Latina/o/x Geographies",
+      "description": "Explores questions like: Who is Latinx? What communities does this include/exclude? How extensive of a geography does Latinidad cover? What is the political usefulness of Latinidad in the face of overwhelming heterogeneity? How does Latinx Geographies reckon with or overcome the anti-Black and de-Indigenizing nationalist projects of Latinidad in Latin America and in the U.S.? Students learn how to define Latinx geographies and evaluate its disciplinary boundaries and assess the work of Latinx geographers and their ability to negotiate historic tensions within academia and Latinx studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 .",
+      "prereqGroups": [
+        [
+          "CRES10"
+        ]
+      ]
+    },
+    {
+      "id": "CRES144",
+      "name": "CRES 144 — Introduction to Black Poetry",
+      "description": "Introduction to the literary, social, activist, and experimental traditions of Black Poetry from the 18th century through the present. With an emphasis on poets of the Americas and the Caribbean, course explores a range of lyrical works by poets of the African Diaspora whose poetry expresses the enduring mental, emotional, and physical consequences of slavery.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES150",
+      "name": "CRES 150 — Race, Gender and Algorithms",
+      "description": "Algorithms shape race and gender today, yet algorithms are older than digital media and can be understood as recipes or rituals. Course engages with the emerging field of trans of color poetics by studying readings in women of color feminism, transgender studies, and decolonial theory. Digital media art grounds the discussion, including works from queer and trans artists of color working in digital games, anti-surveillance fashion and performance art. Students create digital media projects in response to the ideas of the course, in the medium or platform of their choice, including video prototypes, web sites, Scalar books, Twine games, podcasts and/or video channels, the technical aspects of which will be covered in class.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES151",
+      "name": "CRES 151 — After Man: Race, Gender and Technology",
+      "description": "As Sylvia Wynter and many of the other authors to be read this quarter point out, the definition of the human has historically excluded racialized peoples, gender non-conforming people, indigenous people, disabled people, and even at times cisgender women. This class examines the intersection of science and justice to understand how the border of the human is used to reinforce anti-blackness, xenophobia, transphobia and many other forms of social oppression.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES153",
+      "name": "CRES 153 — A Radical History of the Korean War",
+      "description": "Against dominant framings of the Korean War, which left 4 million Koreans dead, as the freeing of the Korean people by the United States from the forces of global communism, this course reconsiders the war, which has never formally ended, from below and to the left, namely, through the lenses of multigenerational people's struggles against fascism and imperialism. Through collaborative, participatory research, students materialize from the ashbin of history what might be called a people's archive of the Korean War.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES159",
+      "name": "CRES 159 — Latinxs and the History of U.S. Policing",
+      "description": "How does the criminal justice system make itself felt in the everyday lives of Latinxs? From border enforcement, to stop and frisk, to the phenomenon of mass incarceration, many Latinxs find themselves and their communities enmeshed within a dense web of surveillance, punishment, and detention. This interdisciplinary course examines the historical, political, economic, and social factors that have, in many ways, criminalized Latinidad and rendered Latinxs illegal.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES160",
+      "name": "CRES 160 — Latina/o/x Geographies",
+      "description": "Explores questions like: Who is Latinx? What communities does this include/exclude? How extensive of a geography does Latinidad cover? What is the political usefulness of Latinidad in the face of overwhelming heterogeneity? How does Latinx Geographies reckon with or overcome the anti-Black and de-Indigenizing nationalist projects of Latinidad in Latin America and in the U.S.? Students learn how to define Latinx geographies and evaluate its disciplinary boundaries and assess the work of Latinx geographers and their ability to negotiate historic tensions within academia and Latinx studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 .",
+      "prereqGroups": [
+        [
+          "CRES10"
+        ]
+      ]
+    },
+    {
+      "id": "CRES161",
+      "name": "CRES 161 — The Racial and Gendered Economies of Housing",
+      "description": "Explores the political and libidinal economic dimensions of the housing market and their relation as analytics to explain the development of the housing market over the 20th and 21st centuries. Explores the interdependence of political and libidinal factors in influencing the operation and management of housing markets from public and private entities. Course pays special attention to the role of race (in addition to other determinants of difference: gender, class, etc.) in structuring housingâs libidinal and political economies. Students cannot receive credit for this course and CRES 261 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , and satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "CRES10"
+        ]
+      ]
+    },
+    {
+      "id": "CRES170",
+      "name": "CRES 170 — Intro to Arab American Communities",
+      "description": "Situates Arab American studies and the study of Arab and Muslim diasporic communities originating from the region within a broader global racial order and through an intersectional approach. This course can be used to satisfy the CRES Transnational or Social Movement requirement if completed with a C/P or better. (Formerly Arab Diasporic Communities.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES171",
+      "name": "CRES 171 — Arab Feminist Visions",
+      "description": "Examines how global and historical factors contribute to the manufacturing of gender as a social construction of power in the Arab World. Draws on lived experiences of Arab/Muslim women and illuminates the ways in which they articulate gender and feminism, providing a community-centered alternative narrative on such questions. This course can be used to satisfy the CRES Transnational requirement if completed with a C/P or better.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES172",
+      "name": "CRES 172 — Arab Uprising: Movements, Revolutions, and Praxis",
+      "description": "Situates the historical and present conditions, through a multiplicity of local, regional, and global configurations of power, that work to repress and mobilize the Arab masses. Course centers 20th- and 21st-century movements and revolutions with the aim of understanding these uprisings in their given contexts and analyzing what we can learn about praxis through them. This course can be used to satisfy the CRES Transnational or Social Movement Requirement if completed with a C/P or better.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES173",
+      "name": "CRES 173 — Palestine: A History from Below",
+      "description": "Offers a chronological trajectory of more than 100 years of Palestinian history from the diverse perspectives of Palestinians as knowledge producers in transnational community.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES174",
+      "name": "CRES 174 — Palestine Through Ethnic Studies Lens",
+      "description": "This course offers Palestinian perspectives and contexts for themes in ethnic studies. Analyzes Palestinian subjectivity by drawing on ethnic studies frameworks of colonialism, carcerality, borders, race and more.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES179A",
+      "name": "CRES 179A — Critical Filipinx Poetics: A Workshop for Reading and Writing Poetry",
+      "description": "Writing workshop exploring the aesthetic and critical engagements of Filipina/o/x poets. Students analyze authorsâ prosody and craft, and explore thematization of migration, family, violence, culture, history, and agency. How do Filipinx poets address racialization, gendering, sexuality, class, and citizenship? What are their commitments to place, the divine, multilingualism, and the natural world? Students also write and workshop poems. Assignments: portfolio of three poems, in-class writing exercises, revised poem drafts, peer review comments, and performance of poems in class and at one public reading.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES179C",
+      "name": "CRES 179C — Artivist Creative Nonfiction Workshop",
+      "description": "Students create compelling nonfiction essays combining personal experience, research, and narrative craft. How do we address settler occupation, colonial extraction, carceral violence, migrant dehumanization, climate crisis, misogynist assaults, and anti-trans and anti-queer hatred, while also celebrating solidarity, culture, and connection? Course examines creative nonfiction forms such as the flash essay, memoir, braided essay, reported essay, and hybrid essay. Assignments include in-class writing exercises, a text presentation, annotated bibliography, initial and revised essay drafts, and peer feedback.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES183",
+      "name": "CRES 183 — A Black Lyric",
+      "description": "In-depth study of literary, social, activist, and experimental Black Poetry of the Americas, the Caribbean, and the African Diaspora. Focuses on either a single era (i.e., specific time period), a social movement (i.e., Black Arts Movement), an aesthetic style (i.e., experimental poetry), or a combination of these areas from the 18th century through the present.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES185",
+      "name": "CRES 185 — Race, Gender, and Science",
+      "description": "What does science say about who we are? How does it script what bodies can mean? Can scientific knowledge be produced under occupation? How has science featured in struggles for racial and sexual liberation? This course investigates the relationship between scientific discourse and global ideas of race and gender. Students build literacy in different ways of scientific knowing, while reflecting on their social, political, and ethical ramifications. Also inquires into ongoing efforts to decolonize science. No prior science experience is required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES188A",
+      "name": "CRES 188A — Topics in Transnational Asian American and Pacific Islander Studies",
+      "description": "Focuses on a particular topic in Asian American and Pacific Islander studies. Topics vary with each offering but might include approaching racial and ethnic formations through a range of disciplinary and interdisciplinary perspectives, with a focus on a transnational critique of intellectual histories, political movements, cultural expressions, lived experiences and critical theories of Asian Americans and Pacific Islanders.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES188B",
+      "name": "CRES 188B — Topics in Black Studies",
+      "description": "Focuses on a particular topic in black studies. Topics vary with each offering but might include approaching racial and ethnic formations through a range of disciplinary and interdisciplinary perspectives, with a focus on the intellectual histories, political movements, cultural expressions, lived experiences, and critical theories of peoples throughout the Black diaspora and Africa.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES188M",
+      "name": "CRES 188M — Topics in Critical Migration Studies",
+      "description": "Focuses on a particular topic in migrant and migration studies. Topics vary with each offering but might include examining the intersections of race, gender, and citizenship through a variety of disciplinary and interdisciplinary perspectives, intellectual histories, and political movements as they relate to labor and capital, imperialism and neoliberalism, the racialized criminalization of movement, detention and deportation, and violence against migrant workers.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES188S",
+      "name": "CRES 188S — Topics in Settler Colonial Critique",
+      "description": "Focuses on a particular topic in settler and colonial studies. Topics vary with each offering but might include examining the intersections of race and racism through a variety of disciplinary and interdisciplinary perspectives, intellectual histories, and political movements as they relate to empire, racial capitalization, colonial occupation and dispossession, mass incarceration and concepts of property and accumulation.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES188T",
+      "name": "CRES 188T — Topics in Race, Science and Technology",
+      "description": "Focuses on a particular topic in race and science/technology. Topics vary, but focus on the history and politics of scientific inquiry and technological development within legacies and realities of racism and colonialism, including in the areas of public health, migration, labor, and reproductive rights.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES188X",
+      "name": "CRES 188X — Topics in Critical Race and Ethnic Studies",
+      "description": "Focuses on a particular topic in critical race and ethnic studies. Topics vary with each offering but might include approaching racial and ethnic formations through a range of disciplinary and interdisciplinary perspectives, including indigenous studies, Black studies, Latinx studies, Asian American studies, queer critique, gender studies, transgender studies, performance studies, human rights studies, mixed race studies, legal studies, critical area studies, war and empire studies, environmental studies, science studies, and critical university studies.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES190A",
+      "name": "CRES 190A — Critical Race Feminisms",
+      "description": "Focuses on key learning outcomes of humanistic research and writing: developing a method for critical race feminist analysis, identifying objects and fields of study, formulating an appropriately narrow topic and thesis, identifying and critiquing sources, and completing well-structured written argumentation. Readings offer key theoretical models in critical race and ethnic studies, feminist studies, and queer theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190B",
+      "name": "CRES 190B — Critical Migration Studies",
+      "description": "Focuses on critically analyzing public representations of migration. Exploring key scholarship in migration and diaspora studies, including recent writings on \"border crises,\" students develop an individual research project exploring a controversy, archive, cultural text, or historical debate in research on a specific migrant or diasporic group. The focus is on key learning outcomes of humanistic research and writing: developing a method for studying migration attentive to critical race analysis; identifying objects and fields of study, formulating research questions, organizing an appropriately narrow thesis, identifying and critiquing sources, and completing well-structured written argumentation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190C",
+      "name": "CRES 190C — The Black Transnational",
+      "description": "Senior seminar focusing on the transnational circulation of Black political and cultural thought and practice in the 20th century. Explores the dynamics of Black transnational circulations beyond (and often in spite of) imposed national and international borders that have historically and continue presently to dictate, criminalize, or otherwise obstruct or limit the free movement of Black peoples. Aims to permit students to trace the multidirectional, radical imaginary of such Black diasporic circulations, cataloguing the possibilities that Black transnational political and cultural thought and practice engendered alongside the differences and contestations these formations might reveal.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190D",
+      "name": "CRES 190D — Black Geographies and the Imperative of Abolition",
+      "description": "Far from a recent development, abolitionist demands to defund the police are actually central to a 400-year legacy of Black struggle. In the wake of the 2020 Black Lives Matter uprisings that erupted in response to several high-profile police murders, this senior seminar takes an interdisciplinary look at the burgeoning field of Black geographies to help us understand the renewed urgency of these calls in our current moment by engaging with works of activism, speculative fiction, and multimedia, including videos, podcasts, music, websites, and graphics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190E",
+      "name": "CRES 190E — Thinking Through Palestine",
+      "description": "This senior seminar centers concepts, theories, and frameworks central to the field of ethnic studies that are advanced by examining the Palestinian context. (Formerly Thinking Palestine.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190F",
+      "name": "CRES 190F — Black Queer Film",
+      "description": "Students critically examine public representations of Black queer and trans communities. Work is grounded in analysis of Black feminist, Black queer, and Black trans thought in relation to critical media studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190L",
+      "name": "CRES 190L — Comparative Settler Colonial Studies",
+      "description": "Discusses the characteristics of settler colonialism and the politics of comparison in the study of global settler colonialism. Looks at settler colonial state practice across multiple different sites, including Santa Cruz, as students craft their own research projects. (Formerly offered as HIS 194C .)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES190N",
+      "name": "CRES 190N — Science/Fiction and the Possible",
+      "description": "Where are the limits of our imaginations around science and technology? How does existing science fiction reimagine the same old kinds of science, technology, and social and political relations between people? How do they wildly reimagine all these categories? This senior seminar analyzes and creates short pieces of speculative fiction that imagine new political configurations capable of giving rise to different forms of science and technology than those currently on offer. Class collates these into an anthology, and culminate the course with a public reading of our work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190P",
+      "name": "CRES 190P — Trans of Color Performance and Media",
+      "description": "Trans of color poetics is a decolonial method of study and creation that decenters Western conceptions of gender, race, and identity. Students study trans of color performance and media art, and create performance art in response. Trans of color poetics is an emerging field that is in dialog with queer of color theory and women of color feminism. Students also read trans of color theory and learn about these genealogies, and read performance studies and watch performance artworks to understand the genres of performance and media art as artistic movements where artists make art with bodies in time and space. Assignments include performances on video and photo, as well as writing assignments.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190S",
+      "name": "CRES 190S — From Slavery to Precarity: Race, Logistics and Globalization",
+      "description": "Over the past half-century, there has been a profound transformation in the way that goods are produced and moved about the world resulting in what has been referred to as the \"logistics revolution\". Course examines the ways in which this \"revolution\" in mass circulation of goods necessitates a radical thinking of race and racial politics in the context of contemporary capitalist globalization.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190T",
+      "name": "CRES 190T — The War on Terror: Imperialism Past and Present",
+      "description": "Senior seminar focusing on the theoretical underpinnings of U.S. imperialism from a global perspective, from the annexation of the Philippines in 1898 to the current War on Terror. Drawing on the history of U.S. settler-colonialism and liberal empire as racial projects, the course investigates contemporary forms of racialization surrounding the Muslim as figure for foreign enemy. Utilizing a diverse range of media, course considers various theoretical texts in critical race and ethnic studies, visual studies, gender and queer studies, history, and literature.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 and CRES 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190X",
+      "name": "CRES 190X — Racial Capitalism",
+      "description": "Overview of the history and conceptualization of racial capitalism. Students study recent works in critical race and ethnic studies that analyze capitalism as a specifically racial phenomenon, and evaluate their contribution in a historical lens.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 and CRES 101 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior CRES majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES190Y",
+      "name": "CRES 190Y — Solidarity",
+      "description": "Considers different moments in movement workâfor example, solidarity with Palestine, #NODAPL, Mauna Kea, Black freedom struggles, ACT UP, trans liberation, and beyondâand explores the failures and liberatory potential of solidarity. Students read theoretical meditations on solidarity, thinking through what it means to study solidarity, and also consider how solidarity can require risk, danger, and loss. Most importantly, course studies what it means to craft horizontal networks of care in the face of the ceaseless demands to (re)produce hierarchical ones.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
+      "prereqGroups": [
+        [
+          "CRES10",
+          "CRES100",
+          "CRES101"
+        ]
+      ]
+    },
+    {
+      "id": "CRES192",
+      "name": "CRES 192 — Directed Student Teaching",
+      "description": "Teaching of a lower-division seminar by an upper-division student under faculty supervision. (See CRES 42.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES194",
+      "name": "CRES 194 — Group Tutorial",
+      "description": "Group tutorial, led by a faculty member, that focuses on various problems within critical race and ethnic studies. Topics to be chosen by the instructor and undergraduate student participants. Enrollment restricted to critical race and ethnic studies majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES199",
+      "name": "CRES 199 — Tutorial",
+      "description": "Students submit a petition to the sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES199F",
+      "name": "CRES 199F — Tutorial",
+      "description": "Individual study in areas approved by sponsoring instructors. May not be counted toward upper-division major requirements. Student submits petition to sponsoring agency. Enrollment is restricted to critical race and ethnic studies majors.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES200",
+      "name": "CRES 200 — Black Studies Methods",
+      "description": "Exploration of interdisciplinary research methodologyâa broader set of scientific beliefs, approaches, inquiries, theories, and analyticsârelevant to the study of Black communities. Students read, explore, and engage in particular methodsâapproaches to data collection and analysesâemphasizing various forms of ethnographic research. Course also examines other approaches to the study of Blackness, such as historical/archival, cultural studies and discursive analyses, and mixed methods.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES201",
+      "name": "CRES 201 — Exile & Diaspora",
+      "description": "Explores \"subaltern\" narratives of diaspora exile in order to interrogate the condition of exile and its interwoven, often contradictory relations to many diasporic formations that endure in the 20th and 21st centuries. Students explore the various origins of diaspora and forms of exile emergent from chattel slavery, colonialism, war, racism, xenophobia, political dissidence, and dispossession, informing an understanding of these broader global machinations, and the experiences of those exiled and in diaspora themselves.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES202",
+      "name": "CRES 202 — Ecopoetics and Ecoaesthetics",
+      "description": "Considers theories of race, place, gender, and climate through the overlapping burgeoning fields of ecopoetics and ecoaesthetics. Reflects on how the environment, climate crises, and various ecologies inform contemporary experimental poetry, film, music, dance, visual art, performance, and community activism of the 20th and 21st centuries.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES203",
+      "name": "CRES 203 — Black Studies Theories",
+      "description": "Exploration of interdisciplinary research and theoretical frameworks relevant to the study of the global black communities. Examines multiple theoretical approaches to the study of Blackness, drawing from a wide array of ethnographic, historical/archival, cultural studies and discursive analyses. Designed to help students develop a research tool kit, one that is rigorous, flexible, practical, ethical, grounded, and self-reflexive.",
+      "credits": "Credits",
+      "rawRequirements": "Requirements Enrollment is restricted to Graduate Students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES204",
+      "name": "CRES 204 — Decolonial Futures",
+      "description": "Critical examination of anti-colonial social movements, Indigenous thought and praxis, and the possibilities and limits of the concept of decolonization.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES205",
+      "name": "CRES 205 — Critical Indigenous Studies",
+      "description": "Examines a variety of theories and methods relevant to Indigenous studies through a sustained critical engagement with key concepts and salient themes and by tending to questions of power and resistance in the context of anti-colonial struggle and Indigenous resilience as exercised among communities across Turtle Island and Oceania, but also beyond.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES206",
+      "name": "CRES 206 — Studying with Ancestors",
+      "description": "This seminar is an experiment in reclaiming a small patch of the university as a space for studying with ancestors. Reflects on how practices of ancestral relation have informed anti-colonial rebellions and subsequent struggles against racial capitalism. Also investigates how European colonial modernity reproduces itself through the brutal regulation of ancestral knowledge. A transnational archive of art, seed, film, and social theory guides students in thinking collectively about their own practices of studyâand how they might channel or divert the currents of the past.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES217",
+      "name": "CRES 217 — Indigenous Politics",
+      "description": "Examines key questions in Indigenous studies through a variety of methods, theories, histories, and issues regarding Indigenous peoples and a critical study of power in the context of anti-colonial struggle across Turtle Island and Oceania, but also beyond.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES222",
+      "name": "CRES 222 — Experimental Language Poetry",
+      "description": "In-depth study of 20th- and 21st-century poetry emerging in and expanding from experimental movements of the 1960s-1970s and onward. Focuses on works by clusters of poets (i.e. press mates, regional, literary movements), on a particular theme (i.e. ecological, racial, sexual), using a particular poetic practice (i.e. ritual, transmission, divination), or a combination of these areas. The course involves reading poetry, talking about poetry, writing poetry, and discussing your own original poetry with peers in generative writing workshops.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES227",
+      "name": "CRES 227 — From Oceania to Native California: Indigenous Environmentalisms",
+      "description": "Examines Indigenous environmentalist struggles and contemporary movements to protect land and water here in California and in Oceania. We look at three Indigenous-women-led movements to protect land and water: Run4Salmon, Sogorea Te Land Trust, and Protect Mauna Kea.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES261",
+      "name": "CRES 261 — The Racial and Gendered Economies of Housing",
+      "description": "Explores the political and libidinal economic dimensions of the housing market and their relation as analytics to explain the development of the housing market over the 20th and 21st centuries. Explores the interdependence of political and libidinal factors in influencing the operation and management of housing markets from public and private entities. Course pays special attention to the role of race (in addition to other determinants of difference: gender, class, etc.) in structuring housingâs libidinal and political economies. Students cannot receive credit for this course and CRES 161 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRES297A",
+      "name": "CRES 297A — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH110G",
+      "name": "ANTH 110G — Westside Stories: Race, Place and the California Imaginary",
+      "description": "From South Central to La MisiÃ³n, this course explores the role of race and culture in creating the California Dream. Draws on films, music, and activism as lenses into the complex flows of power that shape our communities.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH130IG",
+      "name": "ANTH 130IG — Cultures of India Abroad",
+      "description": "An examination of anthropological studies of tribal, rural, and urban cultures of India and a look at changes taking place in India.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH140",
+      "name": "ANTH 140 — The Body in Rain: Environmental and Medical Intersections",
+      "description": "Explores medical and environmental anthropologies, including how bodies-human and other-are implicated in processes often figured as environmental. Explores how the body and the environment combine and interact to form nexus of political, cultural, and material forces.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANTH196G",
+      "name": "ANTH 196G — Queer Worlds: Sexuality, Intimacy and Power in Contemporary Ethnography",
+      "description": "How do we read, write, and recognize the queer body? How is it marked in politics, in intimate spaces, and in the ethnographic text? Drawing on ethnic studies and black queer studies, this seminar engages contemporary anthropological approaches to sexuality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1, ANTH 2, and ANTH 3. Enrollment is restricted to senior anthropology majors.",
+      "prereqGroups": [
+        [
+          "ANTH1",
+          "ANTH2",
+          "ANTH3"
+        ]
+      ]
+    },
+    {
+      "id": "ARTG142",
+      "name": "ARTG 142 — Black Aesthetics: Interventions in Digital Media",
+      "description": "How do we conceptualize a Black Aesthetic in the realm of digital art and media? How do we re/define Black virtuality when, historically, computer graphics has failed to accurately render Blackness? This course looks at the field of digital media from a technological and cultural perspective, understanding the ways in which anti-Blackness has been embedded in our technology, from photography to video games. Concurrently, course examines the history of the Black Aesthetic as an interventionist art movement, and find ways to intervene in the contemporary digital media landscape.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior art and design: games and playable media, and critical race and ethnic studies majors, and Black studies minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FIL82",
+      "name": "FIL 82 — Introduction to Filipino Language & Culture",
+      "description": "Introduction to Filipino language and culture. Four skills (reading, writing, speaking, listening) in basic Filipino (Tagalog), with readings and discussion of critical contemporary thought (decolonization, gender, social movements) in English. For heritage speakers and second-language learners.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST125",
+      "name": "FMST 125 — Race, Sex, and Technology",
+      "description": "Explores theories and case studies tied to race, gender, and technology. Covers the history of feminist and critical race analyses of technology as well as contemporary debates.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST136",
+      "name": "FMST 136 — Organizing for Water Justice in California",
+      "description": "Investigates, imagines, and practices movement toward water justice in California using feminist, Indigenous, and critical race theory. The course includes collaborative projects with environmental justice organizers in the Central Valley, and offers new ways of thinking about water inequity and access through racial capitalism, settler colonialism, and critical theories of place.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST194K",
+      "name": "FMST 194K — Black Diaspora",
+      "description": "Seminar focuses on the historical and subjective processes that produce the concept of an African or Black Diaspora. In narrative, film, and cultural studies, themes of slavery, exile, home, identity, alienation, colonialism, politics, and reinvention are explored.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194M",
+      "name": "FMST 194M — Empire and Sexuality",
+      "description": "Explores the production of sexualities, sexual identification, and gender differentiation within multiple contexts of colonialism, decolonization, and emerging neo-colonial global formations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194O",
+      "name": "FMST 194O — The Politics of Gender and Human Rights",
+      "description": "Examines human rights projects and discourses with a focus on the politics of gender, sexuality, race, and rights in the international sphere. Reading important human rights documents and theoretical writings, and addressing particular case studies, emphasizes the tensions between the ideals of the universal and the particular inherent in human rights law, activism, and humanitarianism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194Q",
+      "name": "FMST 194Q — Queer Diasporas",
+      "description": "Queer diaspora emerged from Third World/queer-of-color critique of queer theory and provides a framework for analyzing racializations, genders, and sexualities in colonial, developmental, and modernizing contexts. Readings from anthropology, history, literature, and feminist and cultural studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194R",
+      "name": "FMST 194R — HIstories of the Carceral State",
+      "description": "Surveys how over the course of the 20th century and into the present, the U.S. prison system has metastasized with more than 2 million people locked in cages and many millions more under forms of correctional supervision such as parole, probation, or deportation order, as well as the expansion of a policing apparatus that surveils, stops and frisks, asks for \"papers, please,\" and shoots first. Recently, historians have produced works exploring the origins of this era of racialized police terror, criminalization, mass incarceration, and deportation. Course surveys key works in carceral studies while guiding students through the process of crafting their own original research projects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1, FMST 100, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194U",
+      "name": "FMST 194U — Touring War and Empire",
+      "description": "Senior seminar focusing on tourism, colonialism, and militarism. Considers case studies on tourism in colonial contexts and sites of U.S. empire across multiple geographies as students craft their projects, participate in writing workshops, and present research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST194V",
+      "name": "FMST 194V — Marxism and Feminism",
+      "description": "Explores critically the intersections and crisis points between feminism and Marxism as bodies of thought, theoretical formations, and forms of historical inquiry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
+      "prereqGroups": [
+        [
+          "FMST1",
+          "FMST100"
+        ]
+      ]
+    },
+    {
+      "id": "FMST208",
+      "name": "FMST 208 — African(a) Genders and Sexualities",
+      "description": "Examines a number of classic and new critical texts in the field of African(a) Feminism and Sexuality. Focuses on how African(a) scholars have had to theorize genders and sexualities through an intersectional lens that takes into account questions of decoloniality and freedom. How might we rethink issues of oppression and domination in relationship to race, nation, sex, gender, and sexuality in the global Black world using the tools provided by Africa(a) scholars?",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST210",
+      "name": "FMST 210 — Sex and the Carceral State",
+      "description": "The expansion of the state's carceral capacity over the course of the 20th century and into the present has been intimately connected to ideas about sex, gender. This course examines the ways that sex has been a target of the carceral state at the same time that policing and incarceration have shaped our understanding of sexuality and gender. Rather than focusing solely on repression, course also examines how feminists and queer activists have challenged carceral logics and practices and imagined expansive forms of freedom, justice, and safety.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST213",
+      "name": "FMST 213 — Colonialism, Racial Capitalism and Surveillance",
+      "description": "Course asks students to consider surveillance technologies beyond the history of modernity and the rise of bureaucratic governance as well as the framework of liberal understandings of the right to privacy. Instead, students examine the ways colonialism and racial capitalism are structured within surveillance technologies, or violent modes of \"seeing\" that contribute to the brutal genocide, dehumanization, containment, extraction, and enslavement of bodies and land.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST218",
+      "name": "FMST 218 — Militarism and Tourism",
+      "description": "Positioning tourism and militarism as central sites of inquiry for feminist and ethnic studies, course draws from literature on colonialism and empire to illuminate how tourism functions and how tourists move, in sites of past and present warfare.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST224",
+      "name": "FMST 224 — Reproductive Justice",
+      "description": "Explores practices of reproductive labor, care and justice, centering global south and transnational perspectives. Readings draw from ethnography alongside critical race, feminist, and queer theory to trouble the concepts of the body, agency, and freedom that have shaped dominant discourses of reproductive politics such as, the \"right to choose,\" along with secular liberal frameworks of justice more broadly. Aims to expand vision of what is possible and necessary in our contemporary moment of heightened contestation over reproductive life and rights.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST243",
+      "name": "FMST 243 — Feminism, Race, and the Politics of Knowledge",
+      "description": "Course takes as its central topic the institutional politics of feminist and critical race knowledges in the post-1960s United States university. Considers these fields' complex and contradictory relation to disciplinarity, the university's primary or default mode of arranging and legitimizing knowledge formations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HIS9C",
+      "name": "HIS 9C — California Indian History",
+      "description": "California encompasses the nation's largest Native population and the state's policies create a complex political and legal structure. This course provides a history of early California in the 18th and 19th centuries and a review of the urban Indian experience in the 20th century. The first part sets the historical foundation and traces early California Indian history. The second part shifts to 20th-century urban Indian issues and the contemporary moment for California Indian peoples. Covers topics such as Indian labor exploitation, genocide, termination, relocation, and federal recognition. (Formerly FMST 13.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC117",
+      "name": "HISC 117 — Making the Refugee Century: Non-Citizens and Modernity",
+      "description": "Examines the material, discursive, and racialized conditions that have produced refugees in the last century. Also examines the social claims made by refugees, institutional responses to them, and political alternatives to state belonging",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC140A",
+      "name": "HISC 140A — Africa: How to Make a Continent",
+      "description": "Introduces the histories of exploration, museum collection, and photography that shape historical and contemporary ideas about race, culture, and place in Africa.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING135",
+      "name": "LING 135 — Language and Racialization",
+      "description": "Many of us are probably aware that people of different ethnic or racial backgrounds may speak differently, but most of us probably do not know that all varieties of English are equally \"grammatical.\" And while some of us are probably aware of the fact that racial and ethnic categories are \"constructed,\" most of us have probably not considered the ways in which language use figures in the construction of ethnic and/or racial identity. Course introduces a number of racialized linguistic varieties and their intersections with other identity categories (gender, sexuality, socio-economic class), as well as emergent new scholarship on language and racialization.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Ling 50.",
+      "prereqGroups": [
+        [
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "LIT179E",
+      "name": "LIT 179E — Writing for Transformation",
+      "description": "Introductory cross-genre writing workshop exploring the social and political engagements of a wide array of BIPOC authorsâ work. In interactive lectures and small group discussion,students analyze authorsâ use of craft and form to inspire creation of our own poetry, flash nonfiction, and flash fiction. Course considers how authors thematize family, community, language, activism, love, culture, health, state and structural violence, relations with our natural environment, and more.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to declared and proposed literature and critical race and ethnic studies majors, literature minors, and Black studies minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS133",
+      "name": "OAKS 133 — Writing Resistance: Creative Writing Workshop",
+      "description": "Engages diasporic and people of color (POC) writers whose work inspires social justice. Through course materials and creative exercises, students examine and break down the roadblocks that create silence. Focuses on the craft of writing, and revision and performance to create socially relevant and powerful words through community engagement. (Formerly OAKS 130.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCY268A",
+      "name": "SOCY 268A — Science and Justice: Experiments in Collaboration",
+      "description": "Considers the practical and epistemological necessity of collaborative research in the development of new sciences and technologies that are attentive to questions of ethics and justice. Enrollment is by permission of instructor. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

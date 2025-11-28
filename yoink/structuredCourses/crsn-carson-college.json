@@ -1,0 +1,304 @@
+{
+  "department": "CRSN - Carson College",
+  "slug": "crsn-carson-college",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/crsn-carson-college",
+  "generated_at": "2025-11-28T07:51:36.141944+00:00",
+  "courses": [
+    {
+      "id": "CRSN1",
+      "name": "CRSN 1 — Academic Literacy and Ethos: Environment and Society",
+      "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Engages students in Rachel Carson's intellectual tradition of investigating relationships between environment and society.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN1A",
+      "name": "CRSN 1A — Introduction to University Life and Learning",
+      "description": "Orientation to and exploration of the nature of the liberal arts, and of learning at research universities. Topics include: academic planning for upper-division coursework; enrollment processes; and understanding pathways to degree completion; UCSC resources that support health and well-being strategies for academic success; the cultivation of just communities; the prevention of sexual harassment and violence; campus conduct policies; awareness of risks associated with drug and/or alcohol use; and an introduction to traditions of community-engaged learning, ground-breaking research, and interdisciplinary thinking that define a UC Santa Cruz degree. This course can be taken for Pass/No Pass grading only.",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to entering first-year Rachel Carson College students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN10",
+      "name": "CRSN 10 — Academic Success",
+      "description": "An interactive course providing students with the opportunity to assess and revise methods of and purposes in studying. Critical, effective approaches to reading, writing, participating in lectures and sections, taking exams, balancing competing responsibilities, and utilizing campus resources are all explored. Enrollment by permission of college adviser.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN15",
+      "name": "CRSN 15 — Strategies to Jump Start Your STEM Learning",
+      "description": "Introduces tips and techniques to supplement and expand a student's existing repertoire of science/mathematics problem-solving skills for science, technology, engineering, and mathematics (STEM) classes. The material covered is intended to aid development as a confident learner and future expert in the student's major.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to first-year through third-year students. Others may enroll with instructor permission.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN15A",
+      "name": "CRSN 15A — STEM Essentials",
+      "description": "Introduces tips and techniques to supplement and expand a student's existing repertoire of science/mathematics problem-solving skills for science, technology, engineering, and mathematics (STEM) classes. The material covered is intended to aid development as a confident learner and future expert in the student's major.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN20C",
+      "name": "CRSN 20C — The Water Environment: Literature of the Sea",
+      "description": "Students consider the representation of the sea in selected texts, noting how it becomes the focal point for the fears, hopes, and prejudices of Western civilization. Students write critical papers and their own narratives.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment restricted to first-year and sophomore college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN20D",
+      "name": "CRSN 20D — College Students' Lives",
+      "description": "Students understand their peers and themselves better through an exploration of issues that affect the daily life of college students. Topics include campus/student cultures, the academic system, and other critical issues. Overview of campus resources also provided.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment restricted to first-year and sophomore College members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN20F",
+      "name": "CRSN 20F — Justice on Earth",
+      "description": "Examines issues of oppression, privilege, and social justice within a global and environmental context through self-reflective and group work. May include an optional service-learning component requiring travel during spring break.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN20G",
+      "name": "CRSN 20G — Peregrine Falcons Return",
+      "description": "A case study of the 1970s-1990s UC Santa Cruz effort to restore a nearly extinct peregrine falcon population including reviews of the Endangered Species Act, falcon physiology, and the innovative conservation biology techniques that led to success.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN28",
+      "name": "CRSN 28 — Peer Leadership in Higher Education",
+      "description": "Overview of theories of student development, critical student issues, and skills needed for appropriate peer leadership interventions. Utilizes a variety of learning modes including readings, discussions, case studies, lectures, and group projects. Interview only: approval of instructor; Resident Assistant (RA) pre-employment training course.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN55",
+      "name": "CRSN 55 — Rachel Carson College: Service Learning Practicum",
+      "description": "Introduces service-learning theory and practice for students engaging in service-learning work in the college, college-related projects, community service organizations, or public agencies.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN56",
+      "name": "CRSN 56 — Media Internships for Sustainability",
+      "description": "Students develop and work on media projects related to the college theme of Environment and Society in film, on television, in print, and on the Internet. Students work in groups with specific instructors and project leaders. Enrollment by application and instructor consent.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN61",
+      "name": "CRSN 61 — Education for Sustainable Living Program",
+      "description": "Analyzes sustainability and its application in daily life and on campus, involving collaboration between students, faculty, staff, administration, and the community. Guest lecturers, discussions, an optional UC-wide retreat, and essays allow engagement with aspects of ecological and social sustainability.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN81C",
+      "name": "CRSN 81C — Designing a Sustainable Future",
+      "description": "Introduces key technological solutions to environmental problems; discusses their underlying principles; and examines their societal dimensions. Topics include: conventional and renewable energy; emerging technologies for transportation, energy efficiency clean water; planetary engineering; and lean manufacturing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to first-year and sophomore college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN82",
+      "name": "CRSN 82 — Environment and Society in Film",
+      "description": "Students write about and discuss a variety of films and articles about environment and society. Topics may include water, food systems, wilderness, wildlife, pollution, global warming, nuclear energy, conservation, and environmental activism.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment restricted to college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN90",
+      "name": "CRSN 90 — Cultivating Food Justice and Sustainability",
+      "description": "Learn sustainable, ecologically sound horticulture, permaculture, and small-scale organic agricultural practices through hands-on gardening experience. This outdoor interdisciplinary course operates within a food justice framework. (Formerly Rachel Carson College Garden Internship.)",
+      "credits": "1",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN93",
+      "name": "CRSN 93 — Field Study",
+      "description": "No description provided.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN99",
+      "name": "CRSN 99 — Tutorial",
+      "description": "No description provided.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN99F",
+      "name": "CRSN 99F — Tutorial",
+      "description": "Individual study for lower-division students directed by a faculty member affiliated with the college. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN128",
+      "name": "CRSN 128 — Advanced Peer Leadership Practicum",
+      "description": "Advanced practicum for the application of skills and theoretical knowledge studied in course 28. Uses many learning modes including readings, discussions, case studies, lectures, and group projects. Prerequisite(s): CRSN 28 . Enrollment by permission of instructor.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN151A",
+      "name": "CRSN 151A — Sustainability Praxis in the Natural and Built Environment",
+      "description": "Introduces the concepts, methods, practices, and tools of the trade for conceptualizing and conducting research in sustainability praxis in the built and natural environment, and the quantitative and analytical tools required to conduct such analysis and research.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN151B",
+      "name": "CRSN 151B — Innovation and Professionalization for Sustainability Designers, Engineers, and Entrepreneurs",
+      "description": "Teaches how to become innovators and entrepreneurs, develop projects and enterprises, and adopt professional practices. Focuses on sustainability for students in Sustainability Studies, especially in connection with students' research and interests.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN151C",
+      "name": "CRSN 151C — Sustainability Laboratory Tools, Techniques, and Applications",
+      "description": "Introduces the concepts, skills, and strategies fundamental to the successful development of sustainability-related projects appropriate to the Sustainability Lab. Provides access to functional and living laboratory space, equipment, professional development, and technical training.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN151S",
+      "name": "CRSN 151S — Sustainability Field Laboratory Tools, Techniques, and Applications",
+      "description": "Introduces the concepts, skills, and strategies fundamental to the successful development of sustainability-related projects in the field, for community and ecosystem development. Provides technical and professional training in quantitative and qualitative methods for data accumulation using laboratory and field equipment for resource assessment, data analysis, and efficiency in water and energy systems.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN152",
+      "name": "CRSN 152 — IDEASS Laboratory Practicum",
+      "description": "Laboratory designed to advance sustainability education with real-world impact. Enables students to develop as change agents and to make valued contributions to sustainable-design projects that advance new technologies or strategies and bring about societal and environmental change.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN155",
+      "name": "CRSN 155 — Rachel Carson College Sustainability Internship",
+      "description": "For students undertaking sustainability-oriented service-learning work in the college (college-related projects, community service organizations, or public agencies). Students are supervised by the instructor and project supervisor, and determine the content of their internship with the instructor and supervisor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN155S",
+      "name": "CRSN 155S — Innovation & Sustainability for Global Impact Practicum",
+      "description": "Centered around an internship, students learn how to use design thinking and lean innovation tools to research global sustainability problems, design innovative solutions, prototype and test them, and launch them in the real world. These tools will help students initiate and develop sustainability innovation projects in companies, non-profit organizations, startups, government, and more, with the intention to make a positive impact on people and the environment. This course fulfills a requirement for the sustainability minor, and is also open to any students from other minors and majors.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN160",
+      "name": "CRSN 160 — Developing Leadership to Facilitate Environmental Education",
+      "description": "Prepares students to facilitate working groups for Sustainable Living (courses 61/161) during the spring quarter. The skills acquired during this course include: facilitation skills; problem-solving; syllabus planning; curriculum building; experiential learning techniques; leadership skills; cultural competence; and non-violent communication training. Enrollment by interview only. Enrollment restricted to sophomores, juniors, and seniors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN161",
+      "name": "CRSN 161 — Education for Sustainable Living Program",
+      "description": "Analyzes sustainability and its application in daily life and on campus, involving collaboration between students, faculty, staff, administration, and the community. Guest lecturers, discussions, an optional UC-wide retreat, and essays allow engagement with aspects of ecological and social sustainability.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN162",
+      "name": "CRSN 162 — Sustainability Internship Practicum",
+      "description": "Introduces students to sustainable practices and state, local, and UC-wide policies through projects. Matches students with UCSC staff partners to work collaboratively on projects that integrate sustainability into aspects of campus operations. Supports students to develop the competencies necessary to become effective environmental professionals through learning models including hands-on work experience; professional skills training; guest lectures; reading, and discussion; and peer-to-peer advising. In addition to project deliverables, students complete and present a portfolio of their work upon completion of their project. Enrollment limited to Sustainability Office Interns and by instructor permission; an interview, resume, and cover letter are required.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN193",
+      "name": "CRSN 193 — Field Study",
+      "description": "No description provided.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN193F",
+      "name": "CRSN 193F — Field Study",
+      "description": "Provides for individual programs of study sponsored by the college and performed off campus. Must be sponsored by college faculty. Approval of the student's adviser and the academic preceptor is needed to enroll. May be repeated three times for credit. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN195",
+      "name": "CRSN 195 — Senior Thesis",
+      "description": "No description provided.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN198",
+      "name": "CRSN 198 — Independent Field Study",
+      "description": "No description provided.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN199",
+      "name": "CRSN 199 — Tutorial",
+      "description": "No description provided.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN199F",
+      "name": "CRSN 199F — Tutorial",
+      "description": "Individual study for upper-division students directed by a faculty member affiliated with the college. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE80G",
+      "name": "ECE 80G — Creating and Financing a Sustainable Startup in the Global Economy",
+      "description": "Introduces students and prospective entrepreneurs to the ingredients required to successfully create and finance a sustainability-minded startup or nonprofit in the global economy. Emphasis is placed on ethical business practice, tools for understanding markets and supply chains, and building value for all stakeholders, including communities and the environment.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "department": "CMMU - Community Studies",
+  "slug": "cmmu-community-studies",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/cmmu-community-studies",
+  "generated_at": "2025-11-28T07:51:35.499750+00:00",
+  "courses": [
+    {
+      "id": "CMMU10",
+      "name": "CMMU 10 — Introduction to Community Activism",
+      "description": "Surveys different strategies of community activism including charity, volunteering, labor and community organizing, and recently emerging global activism with goal of demonstrating how certain strategies challenge existing social relations and arrangements while others typically (and often by design) reproduce them.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU12",
+      "name": "CMMU 12 — Field Study Placement",
+      "description": "The heart of the community studies major is the field study experience. Through this series of courses, students prepare for, complete and reflect on six months of immersive, full-time experiential learning with a community-based or social change organization. This process culminates in the production of original qualitative research that builds new knowledge about the processes and conditions that facilitate social change. In this 1-credit preparatory course, students develop and articulate their intellectual, professional, and personal goals for field study. They research and communicate with potential field study sites, and locate organizations with which they can complete it.",
+      "credits": "1",
+      "rawRequirements": "Requirements Prerequisite(s): CMMU 10 . Enrollment is restricted to sophomore, junior, and senior community studies majors and proposed majors.",
+      "prereqGroups": [
+        [
+          "CMMU10"
+        ]
+      ]
+    },
+    {
+      "id": "CMMU20",
+      "name": "CMMU 20 — Media and Social Movements",
+      "description": "From #BlackLivesMatter to #MeToo, from the Women's March on Washington to the March for Our Lives following the Stoneman Douglas High School shooting, a new generation of activists is using media to advance social justice goals. From the perspectives of sociology, psychology, and political science, course explores how contemporary activists harness a diverse range of media tools and platforms for social change and how contemporary strategies are rooted in and/or diverge from historical practices of using media to effect social and political change. Defines \"media\" broadly to include social media and legacy media forms, such as radio, television, and print journalism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU30",
+      "name": "CMMU 30 — Numbers and Social Justice",
+      "description": "Relates simple lessons of quantitative thinking to topical materials that are accessible and relevant to working for justice and social change. Students learn practical techniques to distinguish credible statistical evidence from misleading statistical claims.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU93",
+      "name": "CMMU 93 — Field Study",
+      "description": "Supervised work in a community-based setting conducted under the guidance of a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU93F",
+      "name": "CMMU 93F — Field Study",
+      "description": "Supervised work in a community-based setting conducted under the guidance of a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU93G",
+      "name": "CMMU 93G — Field Study",
+      "description": "Supervised work in a community-based setting conducted under the guidance of a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU99",
+      "name": "CMMU 99 — Tutorial",
+      "description": "Individual directed study for lower-division undergraduates.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU99F",
+      "name": "CMMU 99F — Tutorial",
+      "description": "Individual directed study for lower-division undergraduates.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU101",
+      "name": "CMMU 101 — Communities, Social Movements, and the Third Sector",
+      "description": "Engages with crosscutting ideas and concepts central to the major including constructions of community in social-change efforts and the institutionalization of social movements in third-sector organizations. Deepens students' understanding of the opportunities and obstacles embedded in various avenues of social action.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior community studies majors and proposed majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU100",
+      "name": "CMMU 100 — Preparation for Field Studies",
+      "description": "A praxis-based practicum that prepares students for both the professional and research aspects of their six-month field study. Prerequisite(s): CMMU 10 ; or concurrent enrollment in CMMU 20C; satisfaction of the Entry Level Writing and Composition requirements; Enrollment is restricted to proposed and declared community studies majors. (Formerly CMMU 102.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU103",
+      "name": "CMMU 103 — Field Study Practicum",
+      "description": "A practicum in social change work in which the students works for a social change organization on a part-time basis. Concurrent enrollment in CMMU 102 is required.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU105A",
+      "name": "CMMU 105A — Field Study",
+      "description": "Full-time independent field study in an approved off-campus setting with onsite supervision by the sponsoring organization and regular distanced supervision by campus faculty. Enrollment is restricted to community studies majors upon completion of the required preparatory coursework. Prerequisite(s): CMMU 102. (Formerly CMMU 198, Independent Field Study.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU105B",
+      "name": "CMMU 105B — Field Study",
+      "description": "Full-time independent field study in an approved off-campus setting with onsite supervision by the sponsoring organization and regular distanced supervision by campus faculty. Enrollment is restricted to community studies majors upon completion of the required preparatory coursework. Prerequisite(s): CMMU 102. (Formerly CMMU 198, Independent Field Study.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU105C",
+      "name": "CMMU 105C — Field Study",
+      "description": "Full-time independent field study in an approved off-campus setting with onsite supervision by the sponsoring organization and regular distanced supervision by campus faculty. Enrollment is restricted to community studies majors upon completion of the required preparatory coursework. Prerequisite(s): CMMU 102. (Formerly CMMU 198, Independent Field Study.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU107",
+      "name": "CMMU 107 — Analysis of Field Materials",
+      "description": "A seminar for students who have completed a full-time field study. Devoted to the systematic analysis of field materials, integrating appropriate concepts and relevant literature, as well as utilizing the experience of other students.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, CMMU 105A , CMMU 105B , and CMMU 105C . Enrollment is restricted to community studies majors.",
+      "prereqGroups": [
+        [
+          "CMMU105A",
+          "CMMU105B",
+          "CMMU105C"
+        ]
+      ]
+    },
+    {
+      "id": "CMMU130",
+      "name": "CMMU 130 — Community Organizing Principles and Practice",
+      "description": "Community organizing brings people together in pursuit of self-determination in one or several realms of their lives. This course explores the history, philosophy, goals and accomplishments of community organizing and introduces students to practical community organizing skills.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU132",
+      "name": "CMMU 132 — American Cities and Social Change",
+      "description": "Examines the historical development of and contemporary conditions within U.S. cities by focusing on social and economic restructurings of cities, cultural and political transformations, and spatial reorganizations of the urban landscape. Goal is understanding the changing nature of urban experience.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU133",
+      "name": "CMMU 133 — Making California: Landscapes, People, Politics, Economy",
+      "description": "Examines key moments in the development of California to provide understanding of the challenges and opportunities facing California today. Particular focus is given to abiding tensions around wealth and poverty, opportunity and exclusion, and progressive and conservative politics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU134",
+      "name": "CMMU 134 — No Place Like Home",
+      "description": "Examines the class and race dynamics of the housing market and public policy, asking what kinds of housing get built, where it gets built, and for whom it is (or is not) built--and, crucially, why. Questions how homelessness became normalized in contemporary society.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU137",
+      "name": "CMMU 137 — Communities and Climate Change",
+      "description": "For many communities the impacts of global warming, rising sea levels and environmental degradation compound already existing systemic racial, class, and gender inequalities. How do we understand the relationships between people and the environment? How are movements for social and ecological justice (dis)connected? This class considers how and why communities, activists and organizations press for alternatives through case studies from the U.S. environmental justice movement and related local and global struggles for food sovereignty, Indigenous rights and climate justice.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU141",
+      "name": "CMMU 141 — Economic Justice in Theory and Practice",
+      "description": "Examines how markets operate within the political economy of contemporary capitalism to generate myriad and often chronic forms of economic and social inequality in the United States. Explores different approaches to addressing inequality within the multi-faceted economic justice movement. (Formerly Political Justice in Theory and Practice.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to community studies majors and proposed majors during First Pass enrollment.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU143",
+      "name": "CMMU 143 — Wal-Mart Nation",
+      "description": "Examines origins and growth of Wal-Mart stores as powerful guides to understanding dynamics of contemporary global political economy and, relatedly, the changing fortunes of global social classes.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU145",
+      "name": "CMMU 145 — Global Capitalism: a History of the Present",
+      "description": "Provides an overview of the history of capitalism in order to understand current crises within the global political economy. Gives particular attention to the origin, character, and consequences of neoliberalism. (Formerly Globalization and Its Discontents.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU148",
+      "name": "CMMU 148 — The Problem with Solutions",
+      "description": "\"Solutionism\" encourages college students to tackle the world \"grand challenges\" in areas such energy and resources, food and agriculture, education and literacy, or global health, with \"innovative\" technologies or program design. Rarely, however, are they encouraged to learn more about the problems they are trying to solve. Course examines contemporary solutionism, with a specific focus on agriculture and food, in order to recognize and understand its contexts, cultures, and consequences for social and ecological justice.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU149",
+      "name": "CMMU 149 — Political Economy of Food and Agriculture",
+      "description": "Examines key concepts in agrarian political economy; the historical development of the world food system; and a selection of contemporary issues related to food production, consumption, distribution, and regulation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU151",
+      "name": "CMMU 151 — Sex, Race, and Globalization",
+      "description": "Examines globalization by attending to shaping forces of sexuality, gender, and race. Foregrounds Third World feminist theories, social movements. Topics include sexual and racial dynamics of free trade and labor fragmentation; global sex trades; HIV/AIDS politics in the South and North; transnational LGBT/queer politics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU156",
+      "name": "CMMU 156 — Politics of Food and Health",
+      "description": "Critically examines contemporary debates about market and policy approaches to improve nutrition and dietary health and to address issues, such as food insecurity, obesity, and malnutrition.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU157",
+      "name": "CMMU 157 — Ageism and Activism",
+      "description": "Introduces students to gerontology, the study of aging. Taking a multidisciplinary approach, critically examines the theories, stereotypes, and realities of worldwide demographic transition and considers the many interesting implications for organizing social and personal life.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU160",
+      "name": "CMMU 160 — Public Health",
+      "description": "Examination of community activism to address health issues: examples are drawn from a range of concerns, e.g., environmental racism, prison conditions, feminist health matters, the AIDS epidemic, violence, and alcoholism. Special attention is given to the social frameworks of health and to the utilization of social and political strategies for improving community well-being.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU161",
+      "name": "CMMU 161 — Gender Health and Justice",
+      "description": "Critically examines concrete aspects of health in U.S. social and political contexts, emphasizing how gendered interpretations and practices construct and affect health equity and the practices of health care.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU162",
+      "name": "CMMU 162 — Community Gardens and Social Change",
+      "description": "Examines history, theory, and practice of community gardening, emphasizing contemporary garden projects using the transformative power of direct contact with nature to effect social change. Aims include understanding the nonprofit sector's response to social problems with novel programs and practices.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU163",
+      "name": "CMMU 163 — Health Care Inequalities",
+      "description": "Examines system and non-system that is American health care with special attention to inequalities in access, financing, and quality of care. Covers concepts such as equality, fairness, and need as well as community organizing and community building for health.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU164",
+      "name": "CMMU 164 — Health Justice in Conflict",
+      "description": "Explores three case studies to address critical themes of healthcare inequalities in the context of conflict: the legal battle of Ecuadorians against Texaco/Chevron; the struggle of comfort women during World War II; and chemical saturation in Iraq.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU165",
+      "name": "CMMU 165 — Community Analysis for Global Health",
+      "description": "Practical, skill-building course that starts from the premise that while all communities value health, different communities develop distinctive understandings of what health means to them and how best to achieve it given their specific environments and economies. Course focuses on health justice from a political economy perspective, analyzing how health is shaped by the interaction of multiple societal forces, including who holds power and what steps marginalized groups have taken to achieve more just distributions of resources. By studying community health, across multiple communities in a variety of locations, students learn how to be effective agents of global health equity.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU167",
+      "name": "CMMU 167 — Special Topics in Health Equity",
+      "description": "Special topics course in the field of health equity that offers focused content and/or perspectives within a field of study already central to the community studies curriculum, in this case public health and health equity. Specific course content varies with instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU186",
+      "name": "CMMU 186 — Food and Agriculture Social Movements",
+      "description": "Examines the primary ways in which activists are attempting to resist, provide alternatives to, and/or transform aspects of the food system using social and environmental justice frameworks to evaluate such activism. Topics explored include organic farming, food charity, fair trade, relocalization, and farmworker organizing.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU189",
+      "name": "CMMU 189 — Mentoring in Community Studies",
+      "description": "Each student serves as a facilitator for small discussion groups in connection with core community studies courses. Facilitators complete course readings and meet with instructor as a group to discuss the teaching process. May not be counted toward upper-division major requirements. Prerequisite(s): prior course work in the major.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU191",
+      "name": "CMMU 191 — Student Volunteer Internship",
+      "description": "Course bridges Santa Cruz and university communities through students organizing volunteer opportunities and charitable events. Students contribute 10 hours per week on and off campus, including outreach, event-planning, and database maintenance; supplemented by reading and biweekly discussions. Enrollment is by permission of instructor after application and interview.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU192",
+      "name": "CMMU 192 — Directed Student Teaching",
+      "description": "Teaching of a lower-division seminar, course 42, under faculty supervision. Students submit petition to sponsoring agency. Approval by the Committee on Educational Policy the prior quarter.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU193",
+      "name": "CMMU 193 — Field Study",
+      "description": "Supervised work in a community-based setting conducted under the guidance of a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU193F",
+      "name": "CMMU 193F — Field Study",
+      "description": "Supervised work in a community-based setting conducted under the guidance of a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU193G",
+      "name": "CMMU 193G — Field Study",
+      "description": "Supervised work in a community-based setting conducted under the guidance of a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU195A",
+      "name": "CMMU 195A — Senior Thesis",
+      "description": "Individual study with a faculty member to complete the senior thesis.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU195B",
+      "name": "CMMU 195B — Senior Thesis",
+      "description": "Individual study with a faculty member to complete the senior thesis.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU195C",
+      "name": "CMMU 195C — Senior Thesis",
+      "description": "Individual study with a faculty member to complete the senior thesis.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU199",
+      "name": "CMMU 199 — Tutorial",
+      "description": "Advanced directed reading and research for the serious student.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU199F",
+      "name": "CMMU 199F — Tutorial",
+      "description": "Advanced directed reading and research for the serious student.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMMU297",
+      "name": "CMMU 297 — Independent Study",
+      "description": "Either study related to a course being taken or a totally independent study. Designed for graduate students. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

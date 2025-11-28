@@ -1,0 +1,229 @@
+{
+  "department": "APLX - Applied Linguistics",
+  "slug": "aplx-applied-linguistics",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/aplx-applied-linguistics",
+  "generated_at": "2025-11-28T07:51:33.614908+00:00",
+  "courses": [
+    {
+      "id": "APLX55",
+      "name": "APLX 55 — Pardon My French: Politeness, Impoliteness, Swearing, Slang, and Humor",
+      "description": "Explores the history and use of \"bad;\" language, including issues of politeness, impoliteness, swearing, slang, and humor. In readings, lectures and discussions, we examine contexts of language use: who can say what, when, how and under what communicative conditions.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX80",
+      "name": "APLX 80 — Introduction to Applied Linguistics",
+      "description": "Introduces the field of applied linguistics, learning about language acquisition, use, and teaching in multilingual contexts from multiple disciplinary perspectives. Also, introduces research models that examine psycholinguistic, sociolinguistic, and/or educational aspects of multilingualism..",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX99",
+      "name": "APLX 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX99F",
+      "name": "APLX 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX101",
+      "name": "APLX 101 — Second-Language Acquisition",
+      "description": "Introduces the field of second-language acquisition. Topics include contexts of acquisition, the impact of individual differences, and basic methods of data collection and analysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): APLX 80 or LING 50 .",
+      "prereqGroups": [
+        [
+          "APLX80",
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "APLX102",
+      "name": "APLX 102 — Bilingualism",
+      "description": "An overview of bilingualism. Focuses on bilingualism as an individual phenomenon (i.e., how two languages develop and are represented in the minds of individual speakers), and as a social one (i.e., how do bilinguals interact in a community and how does this context of language contact shape their linguistic identity).",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): APLX 80 or LING 50 .",
+      "prereqGroups": [
+        [
+          "APLX80",
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "APLX103",
+      "name": "APLX 103 — Second Language Speech",
+      "description": "Examines themes related to the acquisition of L2 phonetics and phonology, including theories and models of L2 speech learning; phonetics and phonology in L2 acquisition; as well as the training effects on L2 pronunciation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): APLX 80 or LING 50 .",
+      "prereqGroups": [
+        [
+          "APLX80",
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "APLX105",
+      "name": "APLX 105 — Language Loss",
+      "description": "The phenomenon of losing your native language is well attested anecdotally by many speakers who are separated from their first language environment. Course provides a broad overview of first language attrition (loss) in different populations including adult native speakers, children, international adoptees, heritage speakers, and bilingual returnees. Examines the linguistic aspects of attrition in order to determine which areas of language are typically impacted by attrition, then focuses on individual differences (e.g., identity) and contextual factors (e.g., input) that may speed up or prevent attrition. Emphasizes considering first language attrition and second language (L2) acquisition as two inseparable sides of bilingualism, both in individual speakers and in bilingual communities.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): APLX 80 or LING 50 or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "APLX80",
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "APLX112",
+      "name": "APLX 112 — Language and Gender",
+      "description": "Examines the relationship between language and gender. Topics include: gender differences in speech; linguistic gender norms and stereotypes; gender and the construction of identity in discourse; sexuality and language; sexism in language; social, educational, and political implications. (Formerly Languages 112.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX113",
+      "name": "APLX 113 — Inter-Cultural Communication",
+      "description": "Examines intercultural communication and miscommunication between individuals and speech communities, both within North American and global contexts. Through discourse and analytic approaches, students explore cultural stereotypes and interactional expectations, among other issues, that influence the outcome of intercultural communication. (Formerly Languages 113, Cross-Cultural Communication and Miscommunication.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX113I",
+      "name": "APLX 113I — Intercultural CommunicationâGlobal Internship",
+      "description": "Examines intercultural (mis)communication among individuals and speech communities, both within U.S. and global contexts. Using discourse and other analytic approaches, students explore cultural values, stereotypes, and interactional expectations, among other issues, that influence the outcome of intercultural communication. Enrollment is restricted to students enrolled in the Global Internship summer program.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX115",
+      "name": "APLX 115 — Language and Power",
+      "description": "Examines the relationship between language and power. Explores the ways in which national languages, regional and social dialects, and specific phonological morpho-syntactic, or lexical features come to be associated with particular social meanings and contribute to creating social inequality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): APLX 80 . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "APLX80"
+        ]
+      ]
+    },
+    {
+      "id": "APLX116",
+      "name": "APLX 116 — Discourse Analysis: Language Use and Context",
+      "description": "Familiarizes students with the methods and theoretical assumptions behind discourse analytic approaches to the study of language. Examines language used in specific contexts. Topics include: genres, registers; discourse organization; discourse grammar; interaction; conversation; pragmatics; and social practice.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 50 or by consent of the instructor. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "APLX122",
+      "name": "APLX 122 — Linguistic Diversity & Social Justice",
+      "description": "Explores the relationship between linguistic diversity and social justice: the celebration of multilingualism on the one hand and the negative experiences of people who speak \"minority\" languages in \"dominant\" cultural contexts on the other.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): APLX 80 ; enrollment restricted to applied linguistics and multiculturalism, language studies, and linguistics majors.",
+      "prereqGroups": [
+        [
+          "APLX80"
+        ]
+      ]
+    },
+    {
+      "id": "APLX124",
+      "name": "APLX 124 — Second Language Variation and Sociolinguistics",
+      "description": "Addresses issues related to the second-language acquisition and use of variable structures and the development of sociolinguistic competence. Topics include: overview of linguistic variation and sociolinguistics; immersion contexts; individual differences and predictors of success; and ultimate attainment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): APLX 101 .",
+      "prereqGroups": [
+        [
+          "APLX101"
+        ]
+      ]
+    },
+    {
+      "id": "APLX135",
+      "name": "APLX 135 — Second Language Teaching",
+      "description": "Introduces the theories of second-language acquisition and their connection to second-language teaching. Students develop cutting-edge teaching and testing materials, and engage with current scholarship on language instruction. Recommend at least one year of college-level study of a foreign language, or its equivalent. Enrollment is restricted to applied linguistics and multiculturalism, linguistics, and language studies majors, or by permission of instructor.Â Students cannot receive credit for this course and APLX 235 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to applied linguistics and multilinguialism, linguistics, and language studies majors, or by permission of instructor. Students cannot receive credit for this course and APLX 235 .",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX136",
+      "name": "APLX 136 — Second Language Assessment",
+      "description": "Introduces the fundamentals of second-language testing by presenting theories, key concepts, and practical applications in language assessment. Throughout the course, students develop their own assessment portfolios, creating materials they can use in their post-B.A. career.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in APLX 135 .",
+      "prereqGroups": [
+        [
+          "APLX135"
+        ]
+      ]
+    },
+    {
+      "id": "APLX138",
+      "name": "APLX 138 — English Grammar for TESOL",
+      "description": "What is it that teachers of English as a second/foreign language should know about the English grammar systemâand about pedagogical options for teaching grammarâin order to best facilitate students' language development? Course is designed to be an accessible overview of English grammatical structures and grammar-teaching methods for practical classroom application.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX190",
+      "name": "APLX 190 — Research Seminar in Applied Linguistics",
+      "description": "Prepares students to conduct research in applied linguistics. Students evaluate published studies that represent both quantitative and qualitative methods.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): APLX 80 and APLX 101 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to seniors.",
+      "prereqGroups": [
+        [
+          "APLX80",
+          "APLX101"
+        ]
+      ]
+    },
+    {
+      "id": "APLX199",
+      "name": "APLX 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX199F",
+      "name": "APLX 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "APLX235",
+      "name": "APLX 235 — Second Language Teaching",
+      "description": "Helps novice instructors learn about the theory and practice of language teaching and learning. Focuses on current methods used in communicatively oriented classrooms. Topics include: listening comprehension, grammar, vocabulary, reading, writing, and testing/assessment. Students cannot receive credit for this course and course 135. (Formerly Language Studies 201.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    }
+  ]
+}

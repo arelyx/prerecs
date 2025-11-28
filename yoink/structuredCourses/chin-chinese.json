@@ -1,0 +1,206 @@
+{
+  "department": "CHIN - Chinese",
+  "slug": "chin-chinese",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/chin-chinese",
+  "generated_at": "2025-11-28T07:51:35.141893+00:00",
+  "courses": [
+    {
+      "id": "CHIN1",
+      "name": "CHIN 1 — First-Year Chinese",
+      "description": "Instruction in elementary spoken and written Chinese (Mandarin), beginning with the sounds of Chinese and their representation in the pinyin romanization system. Conversation, structural analysis, and an introduction to character texts. The first-year sequence (1-2-3) begins only in the fall quarter. Students interested in learning Chinese who are uncertain about where they should enter the sequence should meet with the instructor prior to the first class meeting.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHIN2",
+      "name": "CHIN 2 — First-Year Chinese",
+      "description": "Continuation of Chinese 1, which assumes that students are familiar both with the pinyin romanization system and approximately 150 basic characters.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 1 , placement by assessment, or instructor permission.",
+      "prereqGroups": [
+        [
+          "CHIN1"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN3",
+      "name": "CHIN 3 — First-Year Chinese",
+      "description": "Continuation of Chinese 2, which assumes that students are familiar both with the pinyin romanization system and approximately 300 basic characters.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 2 , placement by assessment, or instructor permission.",
+      "prereqGroups": [
+        [
+          "CHIN2"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN4",
+      "name": "CHIN 4 — Second-Year Chinese",
+      "description": "Instruction in intermediate spoken and written Chinese (Mandarin). Conversation, composition, and the reading of modern texts. The second-year sequence (4-5-6) begins only in the fall quarter.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 3 or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "CHIN3"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN5",
+      "name": "CHIN 5 — Second-Year Chinese",
+      "description": "Continuation of Chinese 4. Conversation, composition, and the reading of modern texts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 4 or CHIN 4H or placement by assessment, or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "CHIN4",
+          "CHIN4H"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN6",
+      "name": "CHIN 6 — Second-Year Chinese",
+      "description": "Continuation of Chinese 5. Conversation, composition, and the reading of modern texts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 5 or CHIN 5H or placement by assessment, or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "CHIN5",
+          "CHIN5H"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN80",
+      "name": "CHIN 80 — Chinese for Traveling: Introduction to Spoken Chinese and the Cultures of the Chinese-Speaking World",
+      "description": "For individuals with little or no prior knowledge of Chinese culture and language. Taught primarily in English, the course introduces cultural and linguistic aspects of travel discourse in Mandarin-speaking regions (including Taiwan, Hong Kong, and Singapore), presented in English. The target audience is students who plan to study abroad or are interested in Chinese culture knowledge and wish to learn a few phrases in Chinese Mandarin. The curriculum introduces a basic Chinese Alphabet spelling system (pinyin) and popular travel and social topics.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHIN94",
+      "name": "CHIN 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHIN99",
+      "name": "CHIN 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHIN99F",
+      "name": "CHIN 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHIN103",
+      "name": "CHIN 103 — Advanced Chinese: Language and Society",
+      "description": "Designed to enhance the students' ability to understand, analyze, and discuss authentic Chinese reading materials. Chinese linguistic and cultural aspects are introduced.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 6 or placement by assessment, or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "CHIN6"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN104",
+      "name": "CHIN 104 — Advanced Chinese: Readings in Literature",
+      "description": "Close readings in Chinese vernacular literature of recognized merit from contemporary and modern writers as wells as from models from the traditional period. Student are introduced to the basic critical issues, in Chinese, relating to narrative and drama, revealed by the works under discussion.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 103 or CHIN 105 or CHIN 107 or CHIN 108 ; or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "CHIN103",
+          "CHIN105",
+          "CHIN107",
+          "CHIN108"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN105",
+      "name": "CHIN 105 — Advanced Chinese: Readings in History",
+      "description": "Offers an appreciation of some of the central issues in Chinese history as defined by Chinese historians of the 20th century. Through readings of graduated difficulty, the vocabulary, style, and form of modern Chinese historical writing are introduced.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 107 or CHIN 108 ; or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "CHIN103",
+          "CHIN104",
+          "CHIN107",
+          "CHIN108"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN107",
+      "name": "CHIN 107 — Introduction to Classical Chinese Prose",
+      "description": "Introduces the grammar and lexicon of classical Chinese and the language of China's pre-modern canonical writings in philosophy, religion, history, music, visual art, and literature. Reading from the Han and pre-Han era is featured.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 105 or CHIN 108 ; or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "CHIN103",
+          "CHIN104",
+          "CHIN105",
+          "CHIN108"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN108",
+      "name": "CHIN 108 — Introduction to Classical Chinese Poetry",
+      "description": "Introduces the grammar and lexicon of classical Chinese and the language of China's pre-modern canonical writings in philosophy, religion, history, music, visual art, and literature. Classical poetry and lyrics are featured.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHIN 103 or CHIN 104 or CHIN 105 or CHIN 107 ; or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "CHIN103",
+          "CHIN104",
+          "CHIN105",
+          "CHIN107"
+        ]
+      ]
+    },
+    {
+      "id": "CHIN194",
+      "name": "CHIN 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHIN199",
+      "name": "CHIN 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHIN199F",
+      "name": "CHIN 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

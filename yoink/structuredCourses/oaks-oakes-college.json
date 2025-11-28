@@ -1,0 +1,391 @@
+{
+  "department": "OAKS - Oakes College",
+  "slug": "oaks-oakes-college",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/oaks-oakes-college",
+  "generated_at": "2025-11-28T07:51:42.786567+00:00",
+  "courses": [
+    {
+      "id": "OAKS1",
+      "name": "OAKS 1 — Academic Literacy and Ethos: Communicating Diversity for a Just Society",
+      "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. The Oakes core course considers the intersections between reading, personal and social identities, and social justice.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS1A",
+      "name": "OAKS 1A — Introduction to University Life and Learning",
+      "description": "Orientation to and exploration of the nature of the liberal arts, and of learning at research universities. Topics include: academic planning for upper-division coursework; enrollment processes; and understanding pathways to degree completion; UCSC resources that support health and well-being strategies for academic success; the cultivation of just communities; the prevention of sexual harassment and violence; campus conduct policies; awareness of risks associated with drug and/or alcohol use; and an introduction to traditions of community-engaged learning, ground-breaking research, and interdisciplinary thinking that define a UC Santa Cruz degree. This course can be taken for Pass/No Pass grading only.",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to entering first-year Oakes College students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS3L",
+      "name": "OAKS 3L — Precalculus Academy Lab",
+      "description": "Students use worksheets designed to help them solve problems by thinking critically, and participate in answering project-based questions relevant to the themes of their college core courses.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS10",
+      "name": "OAKS 10 — Academic Success",
+      "description": "Provides opportunity to assess and revise methods of and purposes in studying. Critical, effective approaches to reading, writing, participating in lectures and sections, taking exams, balancing competing responsibilities, and utilizing campus resources explored. Enrollment by permission of college adviser.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS11",
+      "name": "OAKS 11 — Foundation of Leadership",
+      "description": "Teaches leadership skills to create effective teams, and motivates individuals to communicate effectively with teammates with different styles. Enrollment is restricted to first-year and sophomore college members and by permission of instructor.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS20",
+      "name": "OAKS 20 — STEM Success",
+      "description": "Introduces students to critical, effective approaches to success in entry-level science, technology, engineering, and mathematics courses. Covers effective strategies for STEM prereqs, time management, goal setting, test-taking, and productive study habits. Builds community for underrepresented and first-gen. Oakes students in STEM fields. Students in other colleges may request a permission code from the instructor.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS26",
+      "name": "OAKS 26 — Navigating the University From a Black Critical Lens",
+      "description": "Explores critical engagement in education within the U.S. research university context. Introduces sociohistorical perspectives on how new students (frosh and transfer) can navigate the opportunities and challenges of the institution's academic life from a critical race and decolonial theoretical lens. Provides strategies to define goals, develop an action-oriented plan toward academic, career, and civic-oriented outcomes, and examine and build students' own social and cultural capital.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS30",
+      "name": "OAKS 30 — Thesis Writing and Editing",
+      "description": "Substantial writing and revision for a piece of writing relevant to a student's field. Focuses on academic research, documentation, editing, and revision. Enrollment restricted to junior and senior college members. Enrollment by permission of instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS46",
+      "name": "OAKS 46 — Multiracial Visibility Project",
+      "description": "The purpose of the class is to bring visibility to multiracial and multicultural populations on college campuses. Students explore readings and other course content to understand the experiences of multiracial people. They explore different ways to advocate for multiracial people who may not have space or a voice in research or in popular cultural outlets (e.g., mainstream media). The goal is to raise awareness of multiracial people by elevating multiracial students' voices and experiences.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Oakes College affiliates.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS47",
+      "name": "OAKS 47 — Building an Inner Sanctuary",
+      "description": "Through experiential methodologies of self-leadership and mind-body practices, this course encourages students to discover and flex those internal resources which enhance resilience, foster psycho-emotional and community-building skills, and affirm their cultural dignity. Enrollment is by application and permission of the instructor. First-pass enrollment is restricted to Oakes students. Second-pass enrollment open to all students.",
+      "credits": "2",
+      "rawRequirements": "Requirements First-pass enrollment is restricted to Oakes students. Second-pass enrollment is open to all students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS48",
+      "name": "OAKS 48 — Slugs Speak: Our Stories, Our Selves",
+      "description": "Students learn about the power of story to make change through this Storytelling for Justice project. Students practice developing personal life stories, learn to create and facilitate community space, and participate in a community storytelling event focused on intersectional identities.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to Oakes College affiliates or by instructor permission.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS60",
+      "name": "OAKS 60 — Oakes Literary Journal: Further Reflections on a Diverse Society",
+      "description": "For publication in an Oakes College literary journal, students significantly refine an essay from the fall quarter Oakes College core course. Course work includes consideration of a substantive text that engages core course themes and promotes the focus of the essay.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS67",
+      "name": "OAKS 67 — The Politics of Food: Labor and Social Justice",
+      "description": "Engages the themes of Oakes College (respect for diversity and social justice) and the interests of UCSC's Center for Agroecology and Sustainable Food Systems. Topics include the racial politics of food, farm labor, organic farming, and activism.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS70",
+      "name": "OAKS 70 — Diverse Voices in Contemporary American Women's Poetry",
+      "description": "Students examine issues in the work of contemporary American women poets representing a range of cultural, sexual, socioeconomic, and ideological identities. Discussion focuses on theories of poetics as well as poetry analysis and interpretation within the context of social and cultural identity. Students create a portfolio of their own poetry in response to weekly prompts.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS72",
+      "name": "OAKS 72 — Building the Strength to Love and Dream: Oakes Oral History Project",
+      "description": "Students study the founding and development of Oakes College through oral history. Students immerse themselves in thorough background research and build skills necessary to conduct oral histories with previous Oakes affiliates, revising pieces suitable for publication.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s):satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to College members; other students may contact the instructor for a permission code.",
+      "prereqGroups": [
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "OAKS73B",
+      "name": "OAKS 73B — Oakes College Mentoring: Service Learning Practicum",
+      "description": "Mentors introduce first-year students to campus resources, provide them with academic support, share academic successes and difficulties, and offer guidance on college adjustment. Enrollment is restricted to College members. Please apply to be a mentor or a mentee online on the Oakes College Mentoring website.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS74",
+      "name": "OAKS 74 — Oakes Core Assistant Seminar",
+      "description": "Oakes Core Assistants (CA) participate in a pedagogy course while embedded as assistants in Oakes Core classes. They gain an educatorâs perspective on key social justice concepts explored in the Core Course, reflect on this knowledge in seminar assignments, and apply what they have learned in the classroom to their mentorship of students. CAs gain leadership skills, learn strategies to mentor and support first-year students, and create a research project culminating in an essay evaluating and synthesizing their classroom observations, mentorship, and pedagogical research. CAs attend Core classes and plenaries; observe pedagogical practices; write reflective journals documenting their observations; and discuss, develop and explore a pedagogical lens of their choosing for their research. Enrollment is restricted to sophomore, junior, and senior Oakes students by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS75",
+      "name": "OAKS 75 — Oakes Student Development and Leadership Theory",
+      "description": "Overview of theories, methods, applications, skills, and special topics focusing on college student development and leadership. Uses a variety of learning modes including lecture, discussion, case studies, small group interaction, and presentations. Interview only: see Oakes coordinator for residential education during spring enrollment period. Enrollment restricted to Oakes College members.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS76",
+      "name": "OAKS 76 — Social Geography and Justice in Santa Cruz",
+      "description": "Explores how social identities, life practices, and power are reflected and shaped by the spaces and places we live in. Combines local history and contemporary research with placements in the community focusing on justice for children, youth, and families; topics vary by year and seek to build on the understanding and community relationships advanced through winter quarter research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Oakes core course. Restricted to Oakes College members; others by permission of instructor.",
+      "prereqGroups": [
+        [
+          "OAKESCORECOURSE"
+        ]
+      ]
+    },
+    {
+      "id": "OAKS93",
+      "name": "OAKS 93 — Field Study",
+      "description": "Supervised off-campus study conducted under the immediate and direct guidance of a faculty supervisor. To be used primarily by lower-division students doing part-time off-campus study. Prerequisite(s): approval of student's adviser, certification of adequate preparation, approval of provost.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS94F",
+      "name": "OAKS 94F — Group Tutorial",
+      "description": "A program of independent study arranged between a group of students and a faculty instructor. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS95",
+      "name": "OAKS 95 — Directed Reading",
+      "description": "Directed reading on selected topics in literature. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS99",
+      "name": "OAKS 99 — Tutorial",
+      "description": "Individual study for lower-division students directed by a fellow of Oakes. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS99F",
+      "name": "OAKS 99F — Independent Study",
+      "description": "Independent study on various topics to be arranged between student and instructor. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS133",
+      "name": "OAKS 133 — Writing Resistance: Creative Writing Workshop",
+      "description": "Engages diasporic and people of color (POC) writers whose work inspires social justice. Through course materials and creative exercises, students examine and break down the roadblocks that create silence. Focuses on the craft of writing, and revision and performance to create socially relevant and powerful words through community engagement. (Formerly OAKS 130.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS134",
+      "name": "OAKS 134 — Diasporic Central Americans",
+      "description": "Engages literature and culture from multiple generations of diasporic Central Americans in the U.S. whose work inspires conversations on politics and identity. Through course materials and oral history projects, examines the (in)visibility of this emergent Latinx group. Focus on oral history, aesthetics, poetics, and projects of representation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS150",
+      "name": "OAKS 150 — Queer History and Theory in the United States",
+      "description": "Gives students a broad overview of the historical and social construction of queer identities in the United States. Through assigned readings and archival research, students contribute to the project of documenting queer history in the present. Students also examine how queer theory addresses the meanings that U.S. politics and culture have placed on sexual orientation over time.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior Oakes College members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS151A",
+      "name": "OAKS 151A — Corre la Voz: Community Literacies and Power Seminar",
+      "description": "Required seminar for first-quarter students in the Corre la Voz program. Examines theories, curriculum design, and teaching methods that emphasize social connection, leadership, verbal enrichment, multi-modal literacies, and community empowerment. Taken concurrently with field study. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Co-requisite(s): course 151B. Enrollment is by interview only and successful application to the Corre la Voz program.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS151B",
+      "name": "OAKS 151B — Community Literacies Field Study",
+      "description": "Field study for Corre la Voz interns. Intensive on-site training and participation in team teaching of dual-language (Spanish English) students (4th-5th grade). Literacies include social-emotional, expressive (artistic/dramatic), collaborative problem-solving, academic, and use of digital tools as well as traditional tools. Enrollment by interview only, and successful application to the Corre la Voz program. Concurrent enrollment in OAKS 151A is required during the first quarter after which OAKS 151B may be repeated by itself.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS152",
+      "name": "OAKS 152 — Transformative Literacies",
+      "description": "Combines a seminar on critical inquiry into different theories and practices of transformative literacy work with community-service placement or a creative project to assist a local organization in its mission communicating internally and externally.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to Oakes College members. Other students may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS153",
+      "name": "OAKS 153 — Community Mapping",
+      "description": "Students study the theories and methods of community mapping, and work in research teams to design and conduct social-research projects. Emphasizes research questions that focus on assets and capacities, as well as on participatory-action research for justice.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS155",
+      "name": "OAKS 155 — Research for Social Justice: Special Topics",
+      "description": "Examines how social science research informs advocacy and advances social justice issues. Students analyze quantitative and qualitative data and use evidence-based findings to create a final advocacy project. Students will strengthen skills for developing research questions, interpreting qualitative and quantitative data, articulating research findings, and effectively communicating research for advocacy and public outreach. Relevant for students interested in careers in advocacy, policy, and nonprofit work.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS160",
+      "name": "OAKS 160 — Cuir Américas",
+      "description": "Advanced seminar on the politics of knowledge production and translation in queer theory across the AmÃ©ricas, considering the meaning and construction of queer/cuir in three languages. Students develop bibliographies of academic and activist work addressing the lives of queer/trans people throughout the Spanish- and Portuguese-speaking AmÃ©ricas, including U.S. Latinx communities. Examines gaps in translation in this field, and students practice translation of work specific to sexual minority communities based on their language training and proficiency. Class works from the language and community expertise of students in the course inspired by bilingual poetics. Final projects produce a translation of a significant article or chapter-length work in queer theory from Spanish, Portuguese, or English to another one of these languages.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: SPAN 6 , SPHS 6 , or PORT 65B; or placement by assessment, or submission of a writing sample in either Spanish or Portuguese for instructor approval. Course requires language and composition proficiency in Spanish or Portuguese.",
+      "prereqGroups": [
+        [
+          "SPAN6",
+          "SPHS6",
+          "PORT65B"
+        ]
+      ]
+    },
+    {
+      "id": "OAKS167",
+      "name": "OAKS 167 — Food Systems: Culture, Social Justice, Sustainability",
+      "description": "Examines the complexities of food systems with special attention to labor practices, food access, and food production. Students consider the nature of culture in advancing problematic notions of food options and sustainability. A service-learning project is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior Oakes students. Non-Oakes affiliated students may email instructor for a permission code.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS185",
+      "name": "OAKS 185 — Tracing Health",
+      "description": "Firsthand experience with the global pandemic of COVID-19. Students train as certified contact tracers in partnership with the Public Health Institute's Tracing Health Program and work as bilingual contact tracers as part of the field study. Teaches essential skills in helping members of marginalized communities stay safe and prevent further spread of SARS-COV-2. Trainings emphasize public health protocols and cultural/linguistic competency in promoting positive health behaviors related to COVID-19. Introduces students to theories of public health, health disparities, and effective strategies for community-based health interventions. Students must be bilingual and culturally competent in English and Spanish, Mandarin, Cantonese, Tagalog, or an indigenous language of Mexico or Central America. Interview required for acceptance in the class. Contact oakscara@ucsc.edu for instructions on applying.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS188B",
+      "name": "OAKS 188B — Legal Field Practice: Professional Skills and Ethics",
+      "description": "Offers placement, standards, and support during on-site experiential training in professional skills and ethics for students working in the legal field or with legal information to empower under-served communities.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS189",
+      "name": "OAKS 189 — Websites for Social Movements",
+      "description": "In this fast-paced course, students learn a full framework for building digital campaigns and robust website designs for social movement organizations. The first half focuses on learning the framework, including communication strategy, working with stakeholders, and developing a proposal, In the second half, students apply the framework to a project with a community partner associated with the course. Final projects deliver a website, social media campaign, or email strategy to support the partnerâs goals. Lab-based, hands-on course with minimal homework requirements. (Formerly Building Websites for Social Change.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS192",
+      "name": "OAKS 192 — Directed Student Teaching",
+      "description": "Teaching a lower-division seminar under faculty supervision. (See course 42.) Prerequisite(s): upper-division standing in Oakes; a proposal supported by a faculty member willing to supervise.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS193",
+      "name": "OAKS 193 — Field Study",
+      "description": "Supervised off-campus study conducted under the immediate and direct guidance of a faculty supervisor. To be used primarily by upper-division students doing part-time off-campus study. Prerequisite(s): approval of student's adviser, certification of adequate preparation, approval of provost. If taking two or more such courses in any one quarter, must obtain approval of academic adviser.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS195",
+      "name": "OAKS 195 — Senior Thesis",
+      "description": "Senior thesis related to college-sponsored individual majors. Students submit petition to sponsoring agency. Sponsoring faculty must be member of individual major committee.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS198",
+      "name": "OAKS 198 — Independent Field Study",
+      "description": "College-sponsored individual study programs off campus for which faculty supervision is not in person (e.g., supervision is by correspondence). Up to three such courses may be taken for credit in any one quarter. Prerequisite(s): approval of the student's adviser, certification of adequate preparation, and approval by provost.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS199",
+      "name": "OAKS 199 — Tutorial",
+      "description": "Individual study for junior and senior members of Oakes College directed by a fellow of Oakes. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OAKS199F",
+      "name": "OAKS 199F — Tutorial",
+      "description": "Independent study on various topics to be arranged between student and instructor. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LALS128",
+      "name": "LALS 128 — Latino Media in the U.S",
+      "description": "Explores the history and practice of Latino media in the U.S. with an emphasis on work created by, for, with, and about Latino constituencies. Course highlights the role that media plays in struggles for social change, political enfranchisement, creative self-expression, and cultural development. Course content varies with instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LALS80D",
+      "name": "LALS 80D — Political Change in Mexico",
+      "description": "Reviews broad trends in contemporary Mexican politics against the backdrop of long-term historical, social, and economic change throughout the 20th century, analyzing how power is both wielded from above and created from below. The course covers national politics, grassroots movements for social change and democratization, environmental challenges, indigenous movements, the media, and the politics of immigration and North American integration.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "THEA56D",
+      "name": "THEA 56D — Rainbow Theater Cultural Studies",
+      "description": "Introduction to multicultural theater and multicultural plays that aims to bring cultural awareness to all students interested in theater discipline. Students are required to read and critically analyze contemporary plays of color with emphasis on race and culture in contemporary American society. (Formerly OAKS 80H.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

@@ -1,0 +1,1892 @@
+{
+  "department": "MUSC - Music",
+  "slug": "musc-music",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/musc-music",
+  "generated_at": "2025-11-28T07:51:42.552770+00:00",
+  "courses": [
+    {
+      "id": "MUSC1C",
+      "name": "MUSC 1C — University Concert Choir",
+      "description": "A study of selected works for mixed chorus, with emphasis on masterworks for chorus and orchestra, culminating in one or more public concerts. Familiarity with basic music notation recommended. Admission by audition with conductor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC2",
+      "name": "MUSC 2 — University Orchestra",
+      "description": "A study of selected works for orchestra, culminating in one or more public concerts. Admission by audition with conductor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC3",
+      "name": "MUSC 3 — Large Jazz Ensemble",
+      "description": "Instruction in performance in large jazz ensembles with written arrangements. Prepares a specific repertory for public performance. Admission by audition with conductor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC5A",
+      "name": "MUSC 5A — Beginning Sundanese Gamelan",
+      "description": "Instruction in practice and performance of gamelan music from Java or Sunda. Preparation of several works for public presentation. (Formerly West Javanese Gamelan Ensemble: Beginning.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC5B",
+      "name": "MUSC 5B — Intermediate Sundanese Gamelan",
+      "description": "Instruction in practice and performance of gamelan music from Java or Sunda. Preparation of several works for public presentation. Attend first class meeting. (Formerly West Javanese Gamelan Ensemble: Intermediate.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC5C",
+      "name": "MUSC 5C — Advanced Sundanese Gamelan",
+      "description": "Instruction in practice and performance of gamelan music from Java or Sunda. Preparation of several works for public presentation. Attend first class meeting. (Formerly West Javanese Gamelan Ensemble: Advanced.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC6",
+      "name": "MUSC 6 — Classical Guitar Ensemble",
+      "description": "Study of selected repertoire and instruction in performance for classical guitar ensemble. Ensembles for guitar and other instruments will prepare works for public performances both on and off campus. All students enrolled in individual guitar lessons are expected to enroll. Students of other instruments or voice may also audition. Some additional rehearsal time, individually and with the group, is required. Admission by audition with instructor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC8A",
+      "name": "MUSC 8A — Beginning Balinese Gamelan",
+      "description": "Instruction in Balinese gamelan. Utilizes pitched percussion instruments to learn highly ornate and complex pieces through rote learning. Focuses on traditional repertoire and basic gamelan techniques for public performance. Students are not required to read music, but some music and/or performance experience is recommended.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC8B",
+      "name": "MUSC 8B — Advanced Balinese Gamelan",
+      "description": "Instruction in Balinese gamelan. Utilizes pitched percussion instruments to learn highly ornate and complex pieces through rote learning; students are not required to read music. Focuses on advanced traditional and contemporary repertoire for public performance.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC9",
+      "name": "MUSC 9 — Wind Ensemble",
+      "description": "A study of selected advanced-level works for wind ensemble, culminating in one or more public concerts. Admission by audition with conductor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC10",
+      "name": "MUSC 10 — Central Asian Ensemble",
+      "description": "Performing ensemble focusing on the vernacular and art musics of the Eurasian continent, with emphasis on Central Asia. (Formerly Eurasian Ensemble.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC11A",
+      "name": "MUSC 11A — Introduction to Western Classical Music",
+      "description": "A study of significant works of classical music from Gregorian chant to the present day in relation to the historical periods they represent. Emphasizes the listening experience and awareness of musical style and structure. Illustrated lectures and directed listening.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC11B",
+      "name": "MUSC 11B — Introduction to Jazz",
+      "description": "Designed to provide students with thorough and comprehensive background in history and roots of jazz as a musical style from its African roots to the present. Essential jazz styles and traditions are discussed through lectures, required listening, readings, lecture demonstrations, and film presentations.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC11C",
+      "name": "MUSC 11C — Popular Music in the United States",
+      "description": "Introduces music and cultural studies, surveys popular music in the United States from 18th-century minstrelsy to 21st-century social media consumer-producers. Emphasizes narratives of race, complicated by ethnicity, gender, and class, informing ways of valuing music, and its capacity for social representation. (Formerly MUSC 80P.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC11D",
+      "name": "MUSC 11D — Introduction to World Music",
+      "description": "Covers topics reflecting distinctive features of selected world music cultures. Introduces content, scope, and method of ethnomusicology. Focuses on understanding the musical styles, performance practices, and cultural functions of these musical traditions. Incorporates live class performance of selected music.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC11E",
+      "name": "MUSC 11E — Global Popular Music",
+      "description": "This cultural study of global popular musics explores musical sounds, practices, and discourse via an examination of the development of the category world music. It explores how music and mass media engage broader issues around globalization, ethnic, national, and transnational identities; popular resistance; censorship; and cultural hegemony. Formerly MUSC 81C.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC12",
+      "name": "MUSC 12 — Mariachi Ensemble",
+      "description": "Focuses on the stylistic practice of mariachi music of Mexico. Centralizes efforts learning dance music as the son jalisciense, as well as popular singing genres that include the huapango, canciÃ³n ranchera, corridos, and boleros. Students must have previous experience with music performance and applicable instruments.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC12B",
+      "name": "MUSC 12B — Mexican Folklorico Music and Dance",
+      "description": "Instruction in the aesthetic, cultural, and historical dimensions of Mexican Folklorico dance and music. Brings together a dance ensemble and a music ensemble. Enrollment is by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC14",
+      "name": "MUSC 14 — Beginning Western Theory and Musicianship",
+      "description": "Students learn basic elements of musical language: rhythms, meters, scales, intervals, and chords. All of these elements are studied both singly and in their interrelationships within musical compositions. The study of structural elements of music incorporates both theoretical and practical aspects of learning, including written, keyboard, singing, and aural exercises. Prerequisite(s): placement via the Theory Placement Exam. Enrollment is by permission of the instructor. (Formerly Beginning Theory & Musicianship II.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC15",
+      "name": "MUSC 15 — Preparatory Musicianship",
+      "description": "Basic studies in musicianship related to Western European notation and literature. Students with prior training in music notation develop literacy in basic tonal melody and harmony. Skills include dictation and sight-reading. Simple composition and analysis exercises accompany the training. Enrollment by placement examination and permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC20A",
+      "name": "MUSC 20A — Global Music Theory and Musicianship",
+      "description": "Fundamentals of sound production notation in music. Emphasis on the development of the ear and rhythmic skills. Course involves significant participation through in-class performance. (Formerly MUSC 13, Beginning Theory & Musicianship I.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC20B",
+      "name": "MUSC 20B — Theoretical Foundations of Music",
+      "description": "Explores the physics and socio-historical foundations of music so that students are effectively equipped to undertake further culturally informed study in music theory. No prior formal music education is required for this class, though students should have some experience singing or playing an instrument. (Formerly MUSC 16.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC20C",
+      "name": "MUSC 20C — Beginning Jazz Theory",
+      "description": "Studies in the modes, scales, chord alternations and extensions, chord voicings, chord progressions, and forms that underlie jazz improvisation, composition, and arranging in a variety of styles. Enrollment is by instructor consent. Audition required. Students should contact instructor for audition/interview information. (Formerly MUSC 75.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC25",
+      "name": "MUSC 25 — First-Year Seminar in Music Studies",
+      "description": "Introduces music students to various approaches to music studies including ethno/musicology, music theory and analysis, composition, performance, improvisation, popular music studies, field work, and archival work. UCSC music faculty share their scholarly and creative work, exposing students to the many ways they might pursue a career in music.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC30A",
+      "name": "MUSC 30A — Theory, Literature, and Musicianship I",
+      "description": "Integrated musicianship, theory, and analysis. Species counterpoint and fundamentals of tonal harmony. Analysis of literature from the Middle Ages and Renaissance. Prerequisite(s): Student must receive an \"A\" or \"A+\" in MUSC 14 , or test in via the Theory Placement Exam. Concurrent enrollment in MUSC 31 is required. Contact the instructor to receive permission number if you have met the prerequisite conditions. (Formerly Theory, Literature, and Musicianship.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC30B",
+      "name": "MUSC 30B — Theory, Literature, and Musicianship II",
+      "description": "Integrated musicianship, theory, and analysis. Diatonic harmony and fundamentals of chromatic harmony and musical form, with an emphasis on early 18th-century styles. Prerequisite: MUSC 30A . Concurrent enrollment in MUSC 31 is required during all three MUSC 30-series sections ( MUSC 30A , MUSC 30B , and MUSC 30C ). (Formerly Theory, Literature, and Musicianship.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite: MUSC 30A . Concurrent enrollment in MUSC 31 is required.",
+      "prereqGroups": [
+        [
+          "MUSC30A"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC30C",
+      "name": "MUSC 30C — Theory, Literature, and Musicianship III",
+      "description": "Integrated musicianship, theory, and analysis. Chromatic harmony and large forms, with emphasis on late 18th- and early 19th-century styles. Prerequisite: MUSC 30B . Concurrent enrollment in MUSC 31 is required during all three MUSC 30-series sections ( MUSC 30A , MUSC 30B , and MUSC 30C ). (Formerly Theory, Literature, and Musicianship.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite: MUSC 30B . Concurrent enrollment in MUSC 31 is required.",
+      "prereqGroups": [
+        [
+          "MUSC30B"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC31",
+      "name": "MUSC 31 — Ear Training",
+      "description": "Weekly schedule will be coordinated with MUSC 30A , MUSC 30B , or MUSC 30C lecture materials. Emphasizes recognition of triad and dominant-seventh inversions, dictation of diatonic melodies, and aural analysis of simple diatonic interval and chord progressions. Most of the ear-training materials consist of homophonic and polyphonic examples from music literature performed live in class. Concurrent enrollment in MUSC 30A , MUSC 30B , or MUSC 30C is required.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC51",
+      "name": "MUSC 51 — Vocal Repertoire Class",
+      "description": "The study and performance of vocal repertoire from 1400 to the present, including solo song, oratorio, opera, ensemble music. Emphasis is given to the development of effective performance skills, culminating in public performance. Attend first class meeting; concurrent enrollment in individual voice lessons with instructor of this course is required.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC52",
+      "name": "MUSC 52 — Guitar Repertoire and Performance",
+      "description": "Designed to give guitar students who are pursuing the music major and minor, a weekly performance opportunity. Student performers receive feedback and constructive criticism from the instructors and from their peers. The instructors also offer insight and tips on choosing repertoire, performance anxiety and solutions, and historical and cultural context of the composers and music performed in the class. Enrollment by permission of instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC53A",
+      "name": "MUSC 53A — Beginning Ghanaian Ensemble",
+      "description": "Students learn to perform music that originates primarily from Ghana, West Africa as well as be introduced to the variety of different musical styles present in Ghana through guided viewing of multimedia and discussion of culture as a living, evolving entity. Uses a variety of instruments including drums, bells, rattles, clappers, and hands. Classes consist primarily of hands-on instruction and singing. In-class learning supplemented with audio and video clips and articles posted on Canvas. Repertoire each quarter varies at the discretion of the instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC54",
+      "name": "MUSC 54 — North Indian Music Workshop",
+      "description": "A course covering the music of North India taught using the oral traditions of Indian music. For beginners as well as more experienced students, this course is well suited for instrumentalists and vocalists.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC55",
+      "name": "MUSC 55 — Rhythms of North India",
+      "description": "Introduces students to the richness of North Indian rhythms. Includes hands-on exploration of the language of rhythm that is specific to learning the tabla.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC55A",
+      "name": "MUSC 55A — Intermediate Rhythms of North India",
+      "description": "Covers learning to vocalize and play tabla bols. Also works on perfecting the technique of playing the various drum sounds on the tabla, pakhavaj or the dholak. Fundamental rhythmic exercises are focused on learning and improving playing technique and concentrate on compositions, such as a theka, theka prakar, kaida, rela, and tihai. Much of class time is spent on\"hands-on\" performance interspersed with short instructional bursts to improve each student's level of playability. Lab hours allotted as per student's practice needs.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC56",
+      "name": "MUSC 56 — Collaborative Music-Making for Beginners",
+      "description": "An active, hands-on introduction to music where no previous musical experience is needed. Using pitched and non-pitched percussion, students are placed into small groups where they create and perform new pieces. Within this framework, students learn about scales, modes, rhythmic structures and form.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC57",
+      "name": "MUSC 57 — Survey of Jazz Guitar Styles",
+      "description": "Provides a selective historical and technical survey of jazz guitar. In addition to short lectures that provide historical context, students will also learn the basic building blocks of accompaniment and soloing in a variety of styles. Enrollment by permission of instructor.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC58",
+      "name": "MUSC 58 — Songwriting Craft and Practice",
+      "description": "Explores the craft of songwriting through listening, analysis, performance, and songwriting assignments. Students are exposed to a variety of writing styles from diverse musical backgrounds such as pop, rock, folk, jazz, avant-garde, classical, and world music. Students gain the ability to analyze a song's form, its textual rhythmic scheme, mood, and performative aspects. Students also compose, record, and perform song samples demonstrating their understanding and creative approach to the concepts discussed in class.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC59",
+      "name": "MUSC 59 — Introductory Keyboard Skills",
+      "description": "Introductory instruction in piano technique, staff notation, and music theory. Includes group and individual performance experience. A minimum of six hours per week individual practice required. Appropriate for students with little/no piano experience. Students are billed a materials fee of $100. Enrollment is by permission of the instructor. Students audition to determine their skill level.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC60",
+      "name": "MUSC 60 — Fundamental Keyboard Skills",
+      "description": "Elementary instruction in piano technique, including group and individual performance experience. A minimum of four hours per week of individual practice is required. Curriculum is coordinated with keyboard requirements of the MUSC 30 series. Concurrent enrollment in a theory course is strongly recommended. Students are billed a course fee of $150 upon enrollment, but the Music Department provides reimbursement for course fee in the form of a scholarship. Enrollment is by instructor permission. Contact instructor for enrollment instructions.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC61",
+      "name": "MUSC 61 — Individual Lessons: Half Hour",
+      "description": "One-half hour of individual instrumental or vocal instruction. Repertory, technique, and performance practice. A minimum of six hours per week of individual practice is required. Concurrent enrollment in an ensemble in the lesson instrument or voice is required. Students are billed a course fee of $350. Admission by audition with the instructor prior to first class meeting. Enrollment priority given to music majors and minors.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC62",
+      "name": "MUSC 62 — Individual Lessons: One Hour",
+      "description": "One hour of individual instrumental or vocal instruction. Repertory, technique, and performance practice. A minimum of nine hours per week of individual practice is required. Concurrent enrollment in an ensemble in the lesson instrument or voice is required. Students are billed a course fee of $650. Admission by audition with the instructor prior to first class meeting. Enrollment priority given to music majors and minors.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC63",
+      "name": "MUSC 63 — Group Instrumental and Vocal Lessons",
+      "description": "Elementary group instruction in instrumental (excluding piano) or vocal techniques, including group and individual performance experience. A minimum of six hours per week of individual practice is required. Students are billed a course fee of $100. Admission by audition with the instructor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC70",
+      "name": "MUSC 70 — Hip Hop's Global Inclusiveness & African Roots",
+      "description": "Hip Hop is an umbrella term for art, music, dance, literature, identity, style and politics. Course examines the movements and politics that inspired the birth of Hip Hop as a form of art and music, the art and aesthetics of Hip Hop and the musical styles that made Hip Hop music possible. The ways it speaks to youth and speaks about oppression, violence, identity, culture, and power are also considered, and Hip Hop as a form of cultural politics and activism toward social justice is explored. Students create art or music toward Hip Hop-inspired social justice.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC71",
+      "name": "MUSC 71 — Laptop Music",
+      "description": "Basic digital audio editing and mixing; related concepts in the physics of sound, psychoacoustics, and the digital representation and computer control of audio. Musical notation of musical pulse, meter, and rhythm, and sonic realization via MIDI (musical instrument digital interface). Using their own computers, students complete projects involving recording and spectral analysis, creative editing and mixing of existing recordings, composition of polyphonic drum rhythms, and constructing a collaborative sonic environment. (Formerly MUSC 80Z.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC72",
+      "name": "MUSC 72 — Fundamentals of Music Technology",
+      "description": "A practical introduction to the tools and techniques used for live sound reinforcement and studio recording. Hands-on demonstrations of different microphones, speakers, hardware and software processors, analog and digital systems. (Formerly MUSC 81T.)",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC73",
+      "name": "MUSC 73 — Music and the Ocean",
+      "description": "Studio course designed to explore relationships between music, sound, and the ocean. Students learn from a broad selection of music from oceanic and western cultures, deep listening techniques, and scientific research on underwater sound and apply it to their own music making. Students also explore connections between electronic music making and environmental sound research, including an introduction to listening techniques, recording, editing and analysis, composition and installation. Open to performers, composers, and theorists, as well as those from other disciplines, who want to expand their knowledge and practice in an experimental environment. Course ends with an online performance/presentation of new student work.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC74",
+      "name": "MUSC 74 — Beginning Spontaneous Composition and Improvisation",
+      "description": "Introduction to the basics of jazz improvisation, including theory, harmony, rhythm, improvisation techniques, aesthetics and idiomatic devices. Exposure to jazz repertoire through in-class performances of swing, blues, modal and Latin styles. Admission is by audition with instructor at first class meeting. Enrollment is by instructor consent. Audition required; attend first class meeting for interview/audition. (Formerly Spontaneous Composition/Improvisation I.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC77",
+      "name": "MUSC 77 — Raga Jazz: Application of Indian Music to Western Instruments",
+      "description": "North India has some of the most melodic, and rhythmically complex musical forms in the world. Jazz, rock, pop and classical musicians are increasingly studying Indian music to give themselves an edge in today's musical landscape. The purpose of this class is to provide all musicians with a theoretical and practical performance approach using the knowledge of the North Indian music system. The goal is to enhance the melodic and rhythmic sensibilities and to open new doors to boost creativity and give a unique slant to composing and playing music.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC78",
+      "name": "MUSC 78 — Popular and Raga-Based Songs of South Asia",
+      "description": "Songs have long been a tool used by humans to capture the essence of certain life’s experiences. They therefore have aided in forming a belief system within a community, passing along to future generations insights of a system of beliefs and codes of conduct. Course involves studying and learning to sing a select group of songs that have been a staple of the people of South Asia along with trying to understand the context and the sentiments behind their creation and cultural popularity.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80A",
+      "name": "MUSC 80A — Music of the Silk Road",
+      "description": "Exploration of the commonalities between music cultures found along ancient trade routes through Asia.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80B",
+      "name": "MUSC 80B — Music of Asia",
+      "description": "Introduces basic concepts of ethnomusicology; instructs students in the development of listening and analytical skills; and explores selected musical areas of East Asia, Southeast Asia, and South Asia.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80C",
+      "name": "MUSC 80C — History, Literature, and Technology of Electronic Music",
+      "description": "This survey of electronic music from previous centuries to the present studies the works and aesthetics of important composers, acoustics, musical perception, the effects of technological innovation on cultural evolution, and the development of synthesizers and computer music.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80E",
+      "name": "MUSC 80E — Race and American Music",
+      "description": "Survey of American music and its dynamic formation through cultural constructions of racial difference. Students hear music as contentious signals of identity, power, and transgressions, contextualized by wide-ranging testimony on racial difference, ethnicity, gender, sexuality, and musical practice.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80F",
+      "name": "MUSC 80F — Music in Latin American Culture: Regional Traditions",
+      "description": "In-depth study of select music cultures of Mexico, Central America, the Caribbean, Brazil, Chile, Argentina, Colombia, and Peru. Characteristic regional genres, ensembles, instruments, and music rituals. Case studies by ethnomusicologists with expertise in specific regional musics. Also Latin American Nueva CanciÃ³n, women's musics, and overarching themes in Latin American music, as a whole.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80G",
+      "name": "MUSC 80G — American Musical Theater",
+      "description": "Surveys American musicals from operetta through rock musicals with a historical approach focusing on selected examples from the literature. Music reading or musical experience helpful but not required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80H",
+      "name": "MUSC 80H — The Hollywood Musical",
+      "description": "Introductory study of the Hollywood music film, exploring the theory of film sound, the musical genre, and representative works from the 1920s to the present. Students expected to view about two films each week, read assigned section of texts, and contribute to class discussions.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80I",
+      "name": "MUSC 80I — Music of Modern Israel",
+      "description": "Historical, musicological, and anthropological study of the many (and often conflicting) worlds brought together by Israeli popular and art music: Jewish and Arabic traditions, Western ideals, and modern beats.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80J",
+      "name": "MUSC 80J — American Folk Music",
+      "description": "Surveys American folk music, both instrumental and vocal, by region and period. Approach is primarily through listening. Previous musical experience helpful, but not required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80K",
+      "name": "MUSC 80K — Listening to the Environment",
+      "description": "Introduces the transformative potential of sound and listening in times of environmental change. Studies the role of sound in artistic creation and scientific research related to the environment. The course explores sound in a variety of thematic modules, teaches different ways of listening and provides a hands-on introduction to the fundamentals of recording, composing, editing, and analyzing scientific recordings. Weekly online discussion forums engage students in sound studies that include listening as activism; an introduction to environmental sound; and an interdisciplinary lecture series on scientists, sound artists, composers, theorists, and bio-acoustics. (Formerly Sound in Art, Science, and the Environment.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80L",
+      "name": "MUSC 80L — Artificial Intelligence and Music",
+      "description": "An introduction to basic concepts in music and artificial intelligence, and to algorithmic composition (composition by a set of explicit instructions, often using the computer). Other topics include basic introductions to related concepts in linguistics, mathematics, neural nets, pattern matching, genetic algorithms, fuzzy logic, and interactive systems. Previous experience in one or more of these topics is helpful but not required. Students produce a project based on one of the models presented in class.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80M",
+      "name": "MUSC 80M — Film Music",
+      "description": "A survey of film music including a discussion of current trends and film composers. Techniques and styles of film music are explored through lectures, required listenings, readings, and viewing of relevant films. A musical background, including the ability to read music, is helpful but not necessary.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80N",
+      "name": "MUSC 80N — Music of the Grateful Dead",
+      "description": "In-depth exploration of the music of the Grateful Dead. Contextual study of the sociology and history of the late 1960s psychedelic movement supplies background for study of the music as the band evolved through time.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80O",
+      "name": "MUSC 80O — Music, Politics, and Protest",
+      "description": "Examination of relationship between music, politics, and protest in the U.S. in the 20th century, with focus on how music commented upon and reflected different eras in American cultural and political life.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80Q",
+      "name": "MUSC 80Q — A Survey of African Music",
+      "description": "Traces the various stylistic musical areas throughout the African continent and explores the development of traditional African music from antiquity into the 20th century.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80R",
+      "name": "MUSC 80R — Music in the Digital Age",
+      "description": "A survey of how the Internet has influenced how music is made, transmitted, and consumed. Students discuss the history and ethics of file sharing and open source software, telematics and methods of music-making via the Internet, virtual communities, and social media. Students explore these topics through research and creative projects.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80S",
+      "name": "MUSC 80S — Women in Music",
+      "description": "Surveys the role of women as music-makers throughout history in a variety of cultural, social, and musical contexts. The course material consists of musical works (in written and aural form) and primary source writings by composers and performers as well as scholarly writing that places primary source material in context along with critical commentary. The major topics include women in Western Art Music history from the medieval through 20th century; women in popular music; women in electronic and computer music; and selections of women music-makers from around the world.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80T",
+      "name": "MUSC 80T — Mizrach: Jewish Music in the Lands of Islam",
+      "description": "A survey of the musical traditions of the Jews of North Africa and the Middle East. Based on the Maqamat, the Arabic musical modes, Jewish music flourished under Islamic rule, encompassing the fields of sacred, popular, and art music.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80V",
+      "name": "MUSC 80V — The Music of the Beatles",
+      "description": "The most significant group in the history of popular music, the Beatles spanned the gamut of styles from hard-edged R & B to sophisticated art-rock. This course explores their work in detail, in its own terms, and in the historical/cultural/technological contexts. MUSC 11C is recommended, but not required, as preparation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80W",
+      "name": "MUSC 80W — Music Business",
+      "description": "Explores the many facets of the music industry: history, technology, economics, sociology, and legislation. Provides both a broad understanding of the industry and a pragmatic survey of available career paths. Students cannot receive credit for both this course and MUSC 180W in the same quarter.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80X",
+      "name": "MUSC 80X — Musics of South Asia",
+      "description": "A survey course in the musics of South Asia, covering classical, folk, and popular traditions. Consideration is given to the historical development of various musical and socio-musical genres, the social functions of the music throughout history, and instrumental and vocal forms with an emphasis on listening.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC80Y",
+      "name": "MUSC 80Y — Music, Anti-Semitism, and the Holocaust",
+      "description": "The musical legacy of the Holocaust: music and anti-Semitism in the 19th century; morality, collaboration, and composing in the Third Reich; music in the ghettos and concentration camps; impact on post-war music; second-generation composers' trauma; music in Holocaust films.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81A",
+      "name": "MUSC 81A — Survey of Rap and Hip Hop Music",
+      "description": "Involves examination, evaluation, performance, and discussion of rap music and its relationship to hop hop culture. Looks at three primary areas: historical periods of rap, aspects of performance practice, and lyrical content related to issues in contemporary society. Students engage in listening exercises, performances and presentations, and discuss the placement of rap in an academic setting. No prior musical knowledge is required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81D",
+      "name": "MUSC 81D — Music and Empire",
+      "description": "Examines the roles music played in empire building across geographical regions and timeframes. Focuses both on how colonizers employed music to further the colonial project and how local communities used music and cultural practices to preserve their identities and resist colonization.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81E",
+      "name": "MUSC 81E — Music and Resilience in Latin America",
+      "description": "Introduces the role of music and musical practices in social movements, cultural changes, and activism in the 20th and 21st centuries in Latin America and Latina/o communities in the United States and other parts of the world where Latin American cultures are vibrant.Case studies covered in class demonstrate how actions occur within social, political, economical, and environmental spheres that impact the formation of identities, the negotiation around human rights, and the well-being of communities.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81F",
+      "name": "MUSC 81F — Music, Mass Media, and Marketing",
+      "description": "Examines the relationship between music, advertising, and consumer behavior. Music is an integral part of our livesâit accompanies us in many different places and we encounter it quite a bit throughout the day. It can stimulate a wide range of emotions and is a vital factor in the interactive process of consumer behavior. It receives significant consideration in marketing research, which examines its influence on consumer reactions through advertisements. Course surveys examples dating from the rise of commercial radio through current commercials.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81G",
+      "name": "MUSC 81G — A Cultural History of the Guitar",
+      "description": "Surveys the history of the guitar--one of the world's most popular, adaptable, and ubiquitous instruments--by tracing its organological development in the late Renaissance and analyzing representative historical moments of widespread cultural relevance through a technological lens.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81H",
+      "name": "MUSC 81H — The Golden Age of Hip Hop",
+      "description": "During the Golden Age Era of Hip Hop (late 1980s to mid-1990s) there was a creative explosion of musical representation in rap/hip hop music. Beginning after the commercial success of Run DMC in 1986, class focus continues until the deaths of Tupac Shakur (1996) and the Notorious BIG (1997). In between these points some of the most influential and controversial figures in hip hop history emerge.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81I",
+      "name": "MUSC 81I — Music of Indonesia",
+      "description": "Explores the wealth of musical culture from throughout the Indonesian archipelago, including islands such as Bali, Java, Sumatra, and Lombok. Students learn about traditional, popular, and contemporary musics from this these islands and examine their historical, cultural, and religious interconnections. Major themes include global music theory, cultural identity, religious identity, and cultural exchange. This course also features a lab element in which students have the chance to get hands-on experience learning to play the music of Indonesia using the university’s diverse collection of Balinese and Javanese instruments.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81J",
+      "name": "MUSC 81J — Jazz Mirror of Global Interconnection",
+      "description": "Examines global cultural history through the primary lens of jazz music evolution from its traditional African source through the nexus of the primary elements of sound. Students use music to examine and explore the intersections between many global cultural developments.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81K",
+      "name": "MUSC 81K — Scenes and Subcultures",
+      "description": "Introduces students to ethnographic research methods through study and application in a local music scene. Explores issues of music culture and genre; issues of space in terms of communities, scenes, and subcultures; and the cultivation of music values within a scene. These topics are integrally related to ontologies of difference and their relation to dominant power discourses, including but not limited to issues of class, race, sex, orientation, age, and so on. No previous knowledge of music is assumed.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81L",
+      "name": "MUSC 81L — Music in Animated Film",
+      "description": "Introduces a selective survey of music in animated film (Disney, Pixar and DreamWorks), both instrumental and vocal, highlighting the representative works from the 1930s to the present. Through listening and viewing, students explore the use and role of music in animated film.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81M",
+      "name": "MUSC 81M — Chicano/Latino Music in the United States",
+      "description": "Examines the process of music making and how it is tied to the notion of space, place, identity and ethnicity, focusing on musical styles, genres, forms, and repertoires in Chicana/o and Latina/o communities in the United States.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81P",
+      "name": "MUSC 81P — History of Jewish Music",
+      "description": "Survey of the diverse and rich musical traditions of Jewish music in the diaspora from biblical times to the present. Examines the historical, social, and anthropological aspects of the different communities from sacred music through art and popular songs.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81R",
+      "name": "MUSC 81R — The 1970s: A Decade in Rock",
+      "description": "Rock in the 1970s topped music charts while expanding far beyond the radio single. Many 70s artists, such as Elton John, Led Zeppelin, and Pink Floyd, continue to enjoy widespread popularity today. Music 81R engages with key albums and artists from the 1970s and provides students with opportunities to cultivate analytical listening skills and examine this decade in rock, its roots, and its biases. Through weekly discussion assignments culminating in a final album review project, students develop the creative practice of rock music criticism.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC81S",
+      "name": "MUSC 81S — Music and Science Fiction",
+      "description": "Examines the historical and cultural role of music in science fiction literature, film, and television, asking students to question how music is used to convey the strange and unfamiliar and to further think critically about why music is able to do so. Also covers science fiction in opera, symphonic music, and popular music, highlighting the musical elements that comprise the sounds of science fiction.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC94",
+      "name": "MUSC 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Admission requires approval of department.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC99",
+      "name": "MUSC 99 — Tutorial",
+      "description": "A program of directed study arranged with a department faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC99F",
+      "name": "MUSC 99F — Tutorial",
+      "description": "A program of directed study arranged with a department faculty member. Class time is proportionally less than a five-credit course. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC101A",
+      "name": "MUSC 101A — Western Music History (c. 1150 - 1750)",
+      "description": "First quarter of a three-quarter chronological study of Western music. Coordinated lectures, readings, listening, and analysis of representative works.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC101B",
+      "name": "MUSC 101B — Western Music History (1750-1910)",
+      "description": "Surveys major developments in European (and some U.S.-American) composition, performance practice, style and aesthetics, and music business (patronage, institutions, publishing, etc.) between approximately 1750 and 1910. Second quarter of a three-quarter chronological study of Western music. Coordinated lectures, readings, listening, and analysis of representative works.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30A and satisfaction of the Entry Level Writing and Composition requirements; or by instructor permission.",
+      "prereqGroups": [
+        [
+          "MUSC30A"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC101C",
+      "name": "MUSC 101C — Western Music History (1910-present)",
+      "description": "Surveys major stylistic developments in European and American composition during the 20th and 21st centuries. Third quarter of a three-quarter chronological study of Western art music. Coordinated lectures, readings, listening, and analysis of representative works.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30B and satisfaction of the Entry Level Writing and Composition requirements; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30B"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC101E",
+      "name": "MUSC 101E — Musics of South and Southeast Asia",
+      "description": "In-depth ethnomusicological studies of selected music cultures of South and Southeast Asia. Emphasizes comparison of historical, theoretical, contextual, and cultural features. Includes basic ethnomusicological points of reference, as regards organology, music ritual, notation and transcription, and aspects of field research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC101F",
+      "name": "MUSC 101F — Musics of Africa and the Americas",
+      "description": "In-depth ethnomusicological studies of selected music cultures of sub-Saharan Africa and South and North America, including Native America. Emphasizes comparison of historical, theoretical, contextual, and cultural features. Includes basic ethnomusicological points of reference, as regards organology, music ritual, notation and transcription, and aspects of field research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and MUSC 20A or MUSC 20B or MUSC 30A ; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC20A"
+        ],
+        [
+          "MUSC20B"
+        ],
+        [
+          "MUSC30A"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC101G",
+      "name": "MUSC 101G — Musics of Central Asia",
+      "description": "An in-depth, ethnomusicologically oriented course on select music cultures in Central Asia. Comparison of theoretical, historical, and cultural aspects of musical practices from Kyrgyzstan, Uzbekistan, Tajikistan, Afghanistan, Turkmenistan, Kazakhstan, Mongolia, and the Xinjiang region of China, as well as from the Caucasus (Azerbaijan, Georgia, and Armenia). Students are expected to become conversant in both musical and cultural norms of the region, in order to develop their skills in the analysis of non-Western musics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirement, and one of the following courses: MUSC 10 , MUSC 11D , MUSC 20A , MUSC 30A , MUSC 80A , or MUSC 80S ; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC10"
+        ],
+        [
+          "MUSC11D"
+        ],
+        [
+          "MUSC20A"
+        ],
+        [
+          "MUSC30A"
+        ],
+        [
+          "MUSC80A"
+        ],
+        [
+          "MUSC80S"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC101H",
+      "name": "MUSC 101H — Music of Insular Southeast Asia",
+      "description": "Comparative studies of selected music cultures focusing on the cosmology, music rituals, and organology of varied cultures in Malaysia, Indonesia, Papua New Guinea, and the Philippines. Introduction to ethnomusicology field research and transcription, and hands-on ensemble workshops. (Formerly MUSC 180D .)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 5A or MUSC 5B or MUSC 5C or MUSC 8A or MUSC 8B ; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC5A"
+        ],
+        [
+          "MUSC5B"
+        ],
+        [
+          "MUSC5C"
+        ],
+        [
+          "MUSC8A"
+        ],
+        [
+          "MUSC8B"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC102",
+      "name": "MUSC 102 — University Orchestra",
+      "description": "A study of selected works for orchestra, culminating in one or more public concerts. Admission by audition with conductor prior to first class meeting. Enrollment restricted to juniors and seniors.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC103",
+      "name": "MUSC 103 — University Concert Choir",
+      "description": "A study of selected works for orchestra, culminating in one or more public concerts. Prerequisite(s): admission by audition with conductor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC105A",
+      "name": "MUSC 105A — Music of the United States",
+      "description": "Traces major developments in the history of American music since the Revolutionary Era, focusing on what makes music in the United States unique. Material drawn from classical, popular, religious, jazz, and avant-garde traditions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC105C",
+      "name": "MUSC 105C — Folk and Traditional Music in California",
+      "description": "A comparative study of the folk and traditional musical productions of five different cultural communities found in California, through a body of media that intersects history, sociology, anthropology, ethnomusicology, and more.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC105E",
+      "name": "MUSC 105E — Early Keyboard Music",
+      "description": "Survey of four centuries of early keyboard music, including representative genres, instruments, composers, and compositions from the late-Gothic to the Classical period. Harpsichord, virginal, organ and fortepiano works studied through scores, recordings, and live performance. Social context, instrument tuning and representative performance practices will coordinate each unit.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 101A or MUSC 101B or MUSC 101C , or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC101A"
+        ],
+        [
+          "MUSC101B"
+        ],
+        [
+          "MUSC101C"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC105H",
+      "name": "MUSC 105H — Hip Hop Music and Culture in the 20th Century",
+      "description": "Explores the history and global spread of hip hop music and culture. In addition to hip hop history and hip hop studies in the U.S., course also examines the ways that hip hop artists outside of the U.S. have employed African American modes of cultural resistance and commercial engagement. Within that process, continuities between the African American experience of âdouble consciousnessâ and the global discrepancies and asymmetries in the postcolonial world are unveiled.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 81A or MUSC 81H ; or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "MUSC81A"
+        ],
+        [
+          "MUSC81H"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC105I",
+      "name": "MUSC 105I — Improvisation and Collaborative Practices in the 20th Century",
+      "description": "Study of music repertories and performance practices based on improvisation and collaborative approaches to real-time composition in the areas of jazz and other new music.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30A or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30A"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC105L",
+      "name": "MUSC 105L — The Music and Life of Prince",
+      "description": "Prince Rogers Nelson was a complex and sophisticated African-American musician who challenged aesthetic and music genre boundaries. Princeâs political thought fueled his musical commentaries. A shrewd businessman who had an ambivalent relationship with the internet, he was a pioneer in selling music in digital format (e-commerce). Since his death in 2016, the burgeoning critical music studies discourse has blossomed in multidisciplinary directions. Course examines how Princeâs musical practices have become a locus to study composition, performance and production techniques, racial politics, and gender fluidity. This is an interdisciplinary course designed for undergraduate students who want to know more about Princeâs contributions to American popular music while being introduced to a critical music studies discourse.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC105M",
+      "name": "MUSC 105M — Solo Song: from Monophony to Monody",
+      "description": "Traces the changing landscape of the secular solo song from the earliest notated examples of the troubadours through the explosion of monody in print at the beginning of the 17th century. Enrollment is by permission of the instructor. Contact instructor for enrollment details.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC105O",
+      "name": "MUSC 105O — Opera from Peri to Pergolesi",
+      "description": "Traces the development of opera from its origins in the late 16th century through the works of the early 18th century. Explores all aspects of this multimedia genre, with significant research and writing components. Enrollment is by permission of the instructor. Contact instructor for enrollment details.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC105P",
+      "name": "MUSC 105P — The Piano",
+      "description": "Research-based survey of the history of the piano and related keyboard instruments. Topics include instrument mechanics, design, and tuning; important players and innovators in piano technique; repertoire written for piano in classical, jazz, vernacular, and experimental traditions and performance practices, including improvisation; the socioeconomics of the piano industry; the piano's use as a pedagogical tool.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC105Q",
+      "name": "MUSC 105Q — The String Quartet from Haydn to the Present",
+      "description": "Traces the development of the string quartet from its origins in the mid-18th Century through the works of the mid-late 20th Century. Emphasis is on listening and analysis with significant research and writing component.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30A and satisfaction of the Entry Level Writing and Composition requirements, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30A"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC105R",
+      "name": "MUSC 105R — History of Russian Music",
+      "description": "Focuses on Russian music in its historical development from the Middle Ages to the 20th century. Class lectures, as well as listening and reading materials, draw together different musical strata. All musical events viewed in their cultural, historical, and social contexts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30A or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30A"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC105S",
+      "name": "MUSC 105S — The Politics of Aesthetics and Spirituality",
+      "description": "This course examines the relationship between music and the politics of spirituality and aesthetics in classical, folk, functional, and popular musics. Attention will be paid to both pre-modern and modern vernacular and cosmopolitan formations in South and Southeast Asia, China, Europe, and the Americas.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC105T",
+      "name": "MUSC 105T — Tuning and Acoustics Through Monophony, Heterophony, and Polyphony",
+      "description": "Explores tuning and acoustics across various cultures throughout music history. Surveying foundational tuning theories developed in ancient Greece, the course follows tuning developments up to the modern era with a focus on how these theories are manifest in the acoustics of instrument building. Categorizations specific to instruments and instrument building (chordophone, aerophone, idiophone, etc.) are outlined in relationship to their historical acoustic and tuning practices. Additionally, the categorizations of monophony, heterophony, and polyphony are applied to the various cultures of music that is surveyed, informing the ensuing considerations pertaining to tuning, acoustics, and instrument building.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and MUSC 30A , or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30A"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC105V",
+      "name": "MUSC 105V — Mexican Music and Conviviality",
+      "description": "Focuses on the act of gathering in the context of Mexican folk living culture. Discussions are centralized around music-making spaces that call people into action thinking about Christopher Small's characterization of \"musicking\" (1998). Course asks what goes into organizing a gathering, what goes on during a gathering, and positions students to think about what people potentially leave with from an event.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 80F or MUSC 81M , and satisfaction of the Entry Level Writing and Composition requirements; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC80F"
+        ],
+        [
+          "MUSC81M"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC120",
+      "name": "MUSC 120 — Seminar in Music Composition",
+      "description": "Instruction in individual composition offered in the context of a group; composition in traditional large and small forms. Repeatable for credit with different instructors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC121A",
+      "name": "MUSC 121A — Jazz Analysis",
+      "description": "Analytic exploration of the evolution of jazz in America. The process involves independent listening, analysis, transcription, weekly seminar discussions, and oral presentation to students in MUSC 11B lecture (if courses are offered concurrently).",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30A and MUSC 11B ; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30A",
+          "MUSC11B"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC121B",
+      "name": "MUSC 121B — Orchestration",
+      "description": "A study of the nature of each instrument of the orchestra. Scoring for various small instrumental combinations, culminating in a transcription for full orchestra.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30B , or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30B"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC122",
+      "name": "MUSC 122 — Conducting",
+      "description": "The development of basic conducting techniques, including understanding and demonstration of the conductor's posture, best practices of dynamics, left hand usage, mixed meter, and breath.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 130 or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "MUSC130"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC123A",
+      "name": "MUSC 123A — Electronic Music: Synthesis & Composition I",
+      "description": "Introduction to electronic music studio techniques, electronic music composition and relevant electroacoustical studies. Course provides practical exposure to the UCSC electronic music studios. Required application form available on department website during last three weeks of the previous quarter. Preference given to music majors, students in the film and game design programs, and those with substantial musical experience. Prerequisite(s): MUSC 80C or MUSC 30A placement. Enrollment is by permission of the instructor via application.(Formerly MUSC 123, Electronic Sound Synthesis.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC123B",
+      "name": "MUSC 123B — Electronic Music: Synthesis & Composition II",
+      "description": "Continued study of electronic music studio techniques as developed in MUSC 123A , including a deeper look into sound synthesis, audio analysis, and sound processing techniques. Emphasis placed on creating a number of short works that require varied approaches to electronic music composition. Prerequisite(s): MUSC 123A . Enrollment is by placement exam or by permission of the instructor. (Formerly MUSC 124, Intermediate Electronic Sound Synthesis.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 123.",
+      "prereqGroups": [
+        [
+          "MUSC123"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC123C",
+      "name": "MUSC 123C — Electronic Music: Synthesis & Composition III",
+      "description": "The final course in the electronic synthesis & composition sequence continues to develop studio skills and centers around the studentâs own creative practices and interests. Emphasis is placed on building a portfolio of projects and creative work, and on skills in critique and communication surrounding the completed work. Prerequisite(s): MUSC 123A or placement via exam. Enrollment is by permission of the instructor. (Formerly MUSC 125, Advanced Electronic Sound Synthesis.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 124.",
+      "prereqGroups": [
+        [
+          "MUSC124"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC129",
+      "name": "MUSC 129 — Live Electroacoustic Music Ensemble",
+      "description": "Explores the live performance practice of electroacoustic music, including historical repertoire, improvisation, and compositions by participants. All manner of electronic audio resources are applied to real-time performance. Participants need a basic proficiency in electronic audio and computer tools. Enrollments is by permission of the instructor at first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC150A",
+      "name": "MUSC 150A — Music Analysis for Performers",
+      "description": "A study of homophonic forms in tonal music. Architectonic, thematic, harmonic, and hermeneutic analyses of instrumental and vocal compositions in their historical context. Deliberations of various interpretational solutions and comparative analyses of historical and modern performances.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30C or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30C"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150B",
+      "name": "MUSC 150B — Music Analysis and Composition",
+      "description": "A course designed to synthesize the analysis and the composition of musical works. Tonal and post-tonal music compositions analyzed, including harmonic, rhythmic, and formal structure analysis. Works discussed include J.S. Bach (and related music by Johannes Brahms, John Adams, Benjamin Britten, Krzysztof Penderecki); Claude Debussy and Bela Bartok; Arnold Schoenberg (and Anton Webern); Olivier Messiaen (and Karlheinz Stockhausen, Pierre Boulez, Elliot Carter).",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 120 .",
+      "prereqGroups": [
+        [
+          "MUSC120"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150C",
+      "name": "MUSC 150C — Tonal Counterpoint",
+      "description": "Tonal counterpoint modeled on the music of J.S. Bach. Imitative and non-imitative forms including binary dance, invention, canon, and fugue. Discussion and analytical application of generalized intervallic and harmonic models. Development of related keyboard, singing, and aural skills, including dictation in two and three voices. (Formerly Special Topics in Music Theory: Tonal Counterpoint.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 150H , or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC150H"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150D",
+      "name": "MUSC 150D — Theory of Southeast Asia",
+      "description": "What is Southeast Asia (SEA) music? What is music theory, and how does theorization influence how we perceive SEA music? Course discusses SEA music and invites students to relearn and debunk music theory in SEA and global contexts. Students learn various SEA music scenes, understand music theory and various ways of making sense of the music of SEA (and beyond), and apply what they have learned when thinking of any music or scenes encountered.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC150H",
+      "name": "MUSC 150H — Harmony & Form in 19th-century Western Art Music",
+      "description": "Analysis, theory, musicianship, and aural skills associated with advanced tonal music. Study of chromaticism, larger forms, and other features of 19th-Century and early 20th-Century music.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30C and Piano Proficiency Exam.",
+      "prereqGroups": [
+        [
+          "MUSC30C"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150I",
+      "name": "MUSC 150I — Hindustani Music Theory",
+      "description": "In-depth introduction into the music, culture, and theory of Hindustani music.",
+      "credits": "5",
+      "rawRequirements": "Requirements MUSC 54 , MUSC 55 , MUSC 55A , MUSC 78 , or MUSC 80X ; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC54",
+          "MUSC55",
+          "MUSC55A",
+          "MUSC78",
+          "MUSC80X"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150J",
+      "name": "MUSC 150J — Intermediate Spontaneous Composition and Improvisation",
+      "description": "Through performance, composition, analysis, and transcription course gives students an opportunity to expand and enrich their skills in applying musical knowledge to the application of spontaneous composition over a range of jazz styles, including older standards and more contemporary tunes. (Formerly MUSC 174, Intermediate Spontaneous Composition and Improvisation.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC150K",
+      "name": "MUSC 150K — Intermediate Jazz Theory",
+      "description": "Through transcription, analysis, and performance of jazz standards, composition, arranging, improvisation, and spontaneous creation explored. Students write a series of improvisations, short compositions, and arrangements throughout the course. (Formerly MUSC 175, Jazz Theory II.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: MUSC 3 , or MUSC 74 , or MUSC 75, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC3",
+          "MUSC74",
+          "MUSC75"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150N",
+      "name": "MUSC 150N — Noise, Music, Politics",
+      "description": "How has noise become a resource for musicians, artists, and activists? Noise can be negative, disruptive, painful, annoying, or it can be transgressive, liberating, rebellious, and a critical expression of resistance. Noise can take on many forms: metaphorical, silent, visual, dissonant, literary, quiet or loud. Course focuses on modernist and postmodernist techniques and discourses, traversing many practices from how noise and silence have been used as weapons, to experimental art music, punk rock, death metal, Japanoise, improvised music, and electronic glitch amongst others in order to trace how noise has been harnessed as a tool for disruption.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 14 or MUSC 80O ; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC14",
+          "MUSC80O"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150P",
+      "name": "MUSC 150P — 20th-Century Popular Song",
+      "description": "Analysis and composition in two 20th-century popular song genres. Part one (of two) is drawn from 1930s swing or Tin-Pan Alley standards. Part two varies according to instructor and may include genres outside the United States.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 20B , or MUSC 30A , or MUSC 58 ; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC20B",
+          "MUSC30A",
+          "MUSC58"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150R",
+      "name": "MUSC 150R — Field Recording: Mapping and Composing Sound, Identity, and Place",
+      "description": "This practice-based class explores the art of field recording and the aesthetic, social, political, and ethical questions it engages. Through critical reading, listening, discussion, recording, and creative projects, investigates how sound interacts with nature, urban spaces, objects, people, and networks. Uses sound as our lens in order to gain a stronger appreciation of its presence in our environments and how we create, interpret, and interact with them.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC150S",
+      "name": "MUSC 150S — Focus on Spontaneous Composition",
+      "description": "Examines both music and musical composition, and the characteristics they share with science, mathematics, and the natural world. Written for upper-division and graduate courses, the course text shows that music is part of an interdisciplinary collection of artistic modes of expression, and that these modes can be better understood in the context of what students observe in the real world. Thinking about music, through a variety of angles, students aim to understand that creativity is a vehicle through which to explore the evolution and interconnectedness of music as well as other phenomena in our universe.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30A or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30A"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150T",
+      "name": "MUSC 150T — Post Tonal Analysis",
+      "description": "Examines the analytic and compositional techniques associated with selected post tonal styles including the linear, harmonic, rhythmic, and textural elements of music by composers, such as Schoenberg, Stravinsky, Bartok, Debussy, Messiaen, Carter, Cage, and Reich. Students attend weekly keyboard/ear-training laboratories.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 150H ; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC150H"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150X",
+      "name": "MUSC 150X — Theoretical Practices of American Music",
+      "description": "Examines theoretical practices and compositional methods of 20th-Century American composers including Charles Ives, Henry Cowell, Ruth Crawford, Johanna Beyer, Harry Partch, Conlon Nancarrow, John Cage, Cecil Taylor, James Tenney, Kenneth Gaburo, George Russell, and Ornette Coleman.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30B or MUSC 101C ; or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30B",
+          "MUSC101C"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC150Z",
+      "name": "MUSC 150Z — Interdisciplinary Arts Production Lab",
+      "description": "The IAPL is open to musicians, visual artists, programmers, designers, writers, dancers, actors, or artists of any discipline. The course/lab addresses various topics regarding interdisciplinary, cross-cultural, and multimedia practices, including performance practices, collaborative art-making, improvisation and listening, music and video performance software, networked performance, distribution, and online broadcasting. Each Interdisciplinary Arts Production Lab series involves the creation and development of special projects and artworks that are presented either at the end of the term or at the conclusion of the academic year.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC158",
+      "name": "MUSC 158 — South African Music Ensemble",
+      "description": "Introduces music and performance practice from South Africa. Covers a selection of repertoire in many languages and many traditions, with strong emphasis on vocal music. Some performance experience is required; student skill level will be determined during the first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC159A",
+      "name": "MUSC 159A — Opera Workshop",
+      "description": "A workshop for singers, accompanists, and directors, the course develops a wide variety of skills related to opera through scenework. Attention will be given to movement, acting, coaching, and operatic stage-directing technique. Instruction culminates in studio productions of scenes from operas and musicals. Admission by permission of vocal instructor, or by audition with instructor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC160",
+      "name": "MUSC 160 — University Opera Theater",
+      "description": "A production workshop, culminating in one or more staged performances of an entire opera or selected scenes from the operatic repertory. Admission by audition with instructor prior to first class meeting; auditions usually take place in fall quarter.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC161",
+      "name": "MUSC 161 — Individual Lessons: One Hour",
+      "description": "One hour of individual instrumental or vocal instruction. Repertory, technique, and performance practice. A minimum of nine hours per week of individual practice is required. Concurrent enrollment in an ensemble in the lesson instrument or voice is required. Students are billed a course fee of $650. Admission by audition with the instructor prior to first class meeting. Enrollment priority given to music majors and minors.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC161A",
+      "name": "MUSC 161A — Individual Lessons: Half Hour",
+      "description": "One-half hour of individual instrumental or vocal instruction, intended for upper-division students. Repertory, technique, and performance practice. A minimum of six hours per week of individual practice is required. Concurrent enrollment in an ensemble in the lesson instrument or voice is required. Admission by audition with the instructor prior to first class meeting. Enrollment priority given to music majors and minors.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC161B",
+      "name": "MUSC 161B — Group Instrumental & Vocal Lessons",
+      "description": "Group instruction in instrumental or vocal techniques, including group and individual performance experience. A minimum of six hours per week of individual practice is required. Intended for upper-division students. Admission by audition with the instructor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC162",
+      "name": "MUSC 162 — Advanced Individual Lessons: One Hour",
+      "description": "One hour of individual instruction for advanced students. Study of repertory, technique, and performance practice. A minimum of 18 hours per week of individual practice and at least one 30-minute recital are required. May be taken three times for credit. Concurrent enrollment in an ensemble in the lesson instrument or voice is required. Students are billed a course fee of $650. Admission by juried audition.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC163",
+      "name": "MUSC 163 — Early Music Band",
+      "description": "Performance of a variety of early Western traditionsâso-called âbaroque ân rollââculminating in at least one concert. A broad range of instruments for student use available, including lutes, early guitars, viols (bowed strings), early flutes, baroque violins, harpsichord, organ, and incorporation of folk and/or âmodernâ instruments. Admission is by audition with instructor prior to first class meeting. Contact instructor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC164",
+      "name": "MUSC 164 — Jazz Combos",
+      "description": "Instruction in combo performance and techniques of the jazz idiom. The class forms several ensembles that prepare a specific repertory for public performance. Admission is by audition with instructor. Contact instructor prior to first day of classes to audition.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC165",
+      "name": "MUSC 165 — Chamber Music Workshop",
+      "description": "A study of selected works for various small combinations of instruments, culminating in one or more public concerts. Admission by audition with instructor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC166",
+      "name": "MUSC 166 — Chamber Singers",
+      "description": "The study of selected works for small vocal ensemble from the 15th through 20th centuries, with performances on and off campus throughout the academic year. Students must have demonstrated vocal and music reading skills. Admission by audition with instructor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC167",
+      "name": "MUSC 167 — Workshop in Electronic Music",
+      "description": "Continuing studio work in electronic music. Students carry out individual projects, meeting in weekly seminar to share problems and discoveries. Relevant advanced topics are covered, including new developments in the art.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC167R",
+      "name": "MUSC 167R — Recording Workshop",
+      "description": "Seminar in modern studio recording. Students learn aspects of recording from pre-production through mastering and distribution. Weekly recording sessions give students hands-on experience in running recording sessions and working with musicians. Admission by interview with instructor prior to first class meeting. Enrollment is restricted to music majors.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC168",
+      "name": "MUSC 168 — Experimental Music Ensemble",
+      "description": "A study of selected works for various small combinations of instruments and voice, culminating in one or more public concerts. Admission by audition with instructor. Contact instructor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC180D",
+      "name": "MUSC 180D — Music of Insular Southeast Asia",
+      "description": "Comparative studies of selected music cultures focusing on the cosmology, music rituals, and organology of varied cultures in Malaysia, Indonesia, Papua New Guinea, and the Philippines. Introduction to ethnomusicology field research and transcription, and hands-on ensemble workshops.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 30A ; concurrent enrollment in MUSC 5B , MUSC 5C , or MUSC 8. Enrollment is restricted to music majors. Anthropology majors may enroll with permission of instructor.",
+      "prereqGroups": [
+        [
+          "MUSC30A"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC192",
+      "name": "MUSC 192 — Directed Student Teaching",
+      "description": "Teaching of a lower-division seminar under faculty supervision. (See course 42.) Upper-division standing and a proposal supported by a music faculty member willing to supervise required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC195A",
+      "name": "MUSC 195A — Senior Thesis",
+      "description": "Preparation of senior thesis over one or two quarters. If taken as a multiple-term course, the grade and evaluation submitted for the final quarter applies to the previous quarter. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC195B",
+      "name": "MUSC 195B — Senior Thesis",
+      "description": "Preparation of senior thesis over one or two quarters. If taken as a multiple-term course, the grade and evaluation submitted for the final quarter applies to the previous quarter. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC196A",
+      "name": "MUSC 196A — Senior Recital Preparation (without individual lessons)",
+      "description": "Prerequisite(s): juried audition or approved composition portfolio. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC196B",
+      "name": "MUSC 196B — Senior Recital Preparation (with individual lessons)",
+      "description": "Students are billed a course fee of $650. Prerequisite(s): juried audition.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC199",
+      "name": "MUSC 199 — Tutorial",
+      "description": "A program of directed study arranged with a department faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC199F",
+      "name": "MUSC 199F — Tutorial",
+      "description": "A program of directed study arranged with a department faculty member. Class time is proportionally less than a five-credit course. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC200",
+      "name": "MUSC 200 — Introduction to Research Methods",
+      "description": "Practical introduction to graduate study in music focusing on research methods, music sources and bibliography, techniques of scholarly writing, and critical readings in the discipline. Culminates in a public oral presentation on the model of a professional conference paper.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; undergraduate students may enroll with permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC201",
+      "name": "MUSC 201 — History of Music Theory from the Greeks Through Rameau",
+      "description": "Study and analysis of pre-tonal and tonal music from the Greeks through the 18th century. Course combines a history of theory with analyses that utilize contemporaneous theoretical concepts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC202",
+      "name": "MUSC 202 — Tonal and Posttonal Analysis",
+      "description": "Encompasses various forms of linear analysis, set theory, and selected topics in current analytical practice.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC203A",
+      "name": "MUSC 203A — Performance Practice in the Middle Ages",
+      "description": "A study of performance practices in medieval music from Gregorian chant to the 14th century. History of instruments and notation. Rhythmic interpretations of chant and a study of improvised practices in organum. Editing and performance of representative works. Offered on a rotational basis with other courses in the 203 series.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC203B",
+      "name": "MUSC 203B — Performance Practice in the Renaissance",
+      "description": "A study of performance practices in Renaissance music, including concepts of mode, musica ficta, ornamentation, text underlay, tempo, and articulation. Basic principles of white notation and a brief history of instruments. Transcription, editing, and performance of a Renaissance work. Offered on a rotational basis with other courses in the 203 series.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC203C",
+      "name": "MUSC 203C — Performance Practice in the Baroque",
+      "description": "An examination of historically informed performance practice techniques in Baroque music, with attention to aspects of ornamentation, articulation, figured bass realization, dance choreography, rhythm and tempo, and organology. In-class performances and editing of source materials are included. Offered on a rotational basis with other courses in the 203 series.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC203D",
+      "name": "MUSC 203D — Performance Practice in the Classic Period",
+      "description": "Issues in performance practice focusing on selected topics and styles from the time of C.P.E. Bach through Haydn. Development of selected genres and ensembles, sources and editing, and interpretation and improvisation. Offered on a rotational basis with other courses in the 203 series.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC203E",
+      "name": "MUSC 203E — Performance Practice in the Romantic Period",
+      "description": "Interpretation of music from Beethoven to Scriabin through examinations of both the musical texts (form, genre, harmony, texture, orchestration, etc.) and the period performance practices. Topics range from interpretative analyses of selected compositions to critical assessments of modern as well as documented 19th- and early 20th-century performances. Offered on a rotational basis with other courses in the 203 series.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC203F",
+      "name": "MUSC 203F — Performance Practice in the 20th Century",
+      "description": "Projects in analysis, notational studies, extended instrumental techniques, and the aesthetics and performance practices associated with composers from the 20th and 21st centuries. Reading and listening focuses on the writings and performances of the composers and performers themselves, and upon interpretive writings by informed performers of 20th/21st-century music. Specific topics dependent on instructor. Offered on a rotational basis with other courses in the 203 series.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC203G",
+      "name": "MUSC 203G — Concepts, Issues, and the Practice of Ethnomusicology",
+      "description": "Ethnomusicological field methodology; vocal and instrumental performance practices as related to the ethnomusicological endeavor. Specific topics: philosophical paradigms, historical overview, and definitional issues of ethnomusicology; field research concepts and procedures; studies in instrumental and vocal performance practices of diverse cultures; selected writings of Charles Seeger; transcription and analysis issues; studies in micromusics. Offered on a rotational basis with other courses in the 203 series.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC203H",
+      "name": "MUSC 203H — Area Studies in Performance Practice",
+      "description": "Intensive examination of the vocal and instrumental performance practices of living musical traditions of Indonesia, Latin America, or other regions. Topics may incorporate soloistic and ensemble traditions, secular and sacred traditions. Research rubrics include tuning, tone quality, performance posture and rhetoric, and improvisational and fixed patterns, as dictated by regional norms. May be repeated for credit in a different area. Offered on a rotational basis with other courses in the 203 series.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC203I",
+      "name": "MUSC 203I — Musics of Central Asia",
+      "description": "In-depth, ethnomusicologically oriented seminar on select music cultures in Central Asia. Comparison of theoretical, historical, and cultural aspects of musical practices from Kyrgyzstan, Uzbekistan, Tajikistan, Afghanistan, Turkmenistan, Kazakhstan, Mongolia, and the Xinjiang region of China, as well as from the Caucasus (Azerbaijan, Georgia, and Armenia). Students are expected to engage with the textbook and develop and evaluate a bibliography of academic sources on music and related practices from Central Asia. Students also expected to analyze sound and discourse from the region to make effective comparisons and to understand music and sound within their broader socio-cultural frameworks.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC204",
+      "name": "MUSC 204 — Pedagogy of Music",
+      "description": "Provides graduate students with an opportunity to reflect on and practice a wide variety of pedagogical skills necessary to teach post-secondary music in a number of settings, including rehearsals, lectures, sections, and labs. These skills may include lesson planning, inclusive teaching, active learning, assessment, evaluation, teaching with technology, syllabus design, teaching statement writing, and lesson facilitation. Pedagogical skills modeled through a series of facilitated activities.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC204W",
+      "name": "MUSC 204W — Graduate Writing Workshop",
+      "description": "Focuses on the mechanics of academic writing (including grammar and syntax) with a focus on styles specific to writing about music. Topics covered will include writing music criticism, developing ethnographic descriptions of musical events (i.e., \"thick description\"), crafting written descriptions of musical sound, and academic writing for general audiences. Students also utilize the workshop to develop large-scale writing projects specific to their course of study (such as preparatory qualifying exam essays, composition program notes, dissertation and thesis chapters, conference papers, etc.).",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC205A",
+      "name": "MUSC 205A — Conceptual Foundations in Western Music Analysis",
+      "description": "Focused analysis of selected works from the Western classical music repertoire, Emphasis is on aural and analytical skills, the modal and tonal foundations of Western music, and the evolution of form and expression.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC205B",
+      "name": "MUSC 205B — Conceptual Foundations in Global Musics",
+      "description": "A broad survey of traditional and vernacular musical practices from around the world with an emphasis on aural analysis and critical listening skills. (Formerly Conceptual Foundations in World Music.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC206A",
+      "name": "MUSC 206A — Global Music Composition",
+      "description": "Studies in the history, structure, and cultural function of music from cultures as diverse as Global African, central European, Korean, Latin American, Indonesian, and Indian traditions. Examines ways in which composers such as Bartok, Anthony Braxton, Chou Wen-Chung, Lou Harrison, and Takemitsu sought and integrated such influences. Students choose to write critical and analytic essays on musics exhibiting diverse cultural influences, or to compose music that takes a vernacular or non-European music as a model for a compositional/improvisational approach.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC206B",
+      "name": "MUSC 206B — Computer-Assisted Composition",
+      "description": "Study of techniques of algorithmic and computer-assisted composition in a variety of contemporary idioms. Topics may include stochastic methods, generative grammars, search strategies, and the construction of abstract compositional designs and spaces. Final project for course involves students formulating and algorithmically implementing their own theoretical assumptions and compositional strategies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC206C",
+      "name": "MUSC 206C — Composing for Instruments and Live Electronics",
+      "description": "Hands-on music technology composition seminar combining real-time computer music applications with instrumental writing or installation work. Students work closely with an accomplished instrumentalist, learning to compose for the instrument with live electronics technology and developing computer programs that accompany the live performance with computer-generated sound. Students examine significant works in this evolving canon, studying both the score and attendant computer programs as models for new compositions. Students may also engage in the creation of installation works, with or without user interaction, and involving a significant computer sound component. The course is designed for students with any level of familiarity with programming to succeed.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC206D",
+      "name": "MUSC 206D — Music Perception and Cognition",
+      "description": "Investigations in the psychology of musical listening and awareness. Topics include time and rhythm perception, auditory scene analysis, pattern recognition, and theories of linguistics applied to harmony, melody, and form in the music of diverse cultures. Explores applications of the cognitive sciences to music transcription, analysis, composition, interpretation, and performance practice. Students apply existing knowledge in the cognitive sciences to a developing creative or analytical project, or develop and conduct new experiments.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC206E",
+      "name": "MUSC 206E — Experimental Sound Practices",
+      "description": "Examines different sonic practices, challenging culturally pre-formed definitions of music (and how music is experienced). Students familiarize themselves with critical theoretical writings on modern and postmodern theories and sound studies and by studying closely the work of various sound artists and composers. Questions posed include: What were the conditions and attitudes that have sparked and shaped experimental attitudes? How has the development of audio technologies changed how we listen and create sound-based work? What propels someone to experimentation? What are the social and cultural implications of experimental work? How do you experiment in your work?",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC206I",
+      "name": "MUSC 206I — Negotiating the Musical Work",
+      "description": "Explores the ontology of music and relevant topics. Weekly readings in addition to guest speaker(s) and workshops. Everyone is expected to read and digest as much as possible ALL of the assigned readings.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC219",
+      "name": "MUSC 219 — Techniques in Composition",
+      "description": "Short compositional exercises incorporating diverse contemporary techniques with emphasis on problem solving and development of compositional skills. Exercises focus on particular strategies for organizing and coordinating aspects of pitch, rhythm, timbre, and other musical dimensions, depending on interests of instructor and students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC220",
+      "name": "MUSC 220 — Graduate Seminar in Music Composition",
+      "description": "Instruction in individual composition offered in the context of a group; composition in large forms of the 20th century with emphasis on techniques since 1950. May be taken by upper-division undergraduates for credit. Interview with instructor at first class meeting.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC252",
+      "name": "MUSC 252 — Current Issues Colloquium",
+      "description": "An interactive colloquium featuring presentations by faculty, graduate students, and visiting scholars on research projects in composition, musicology / ethnomusicology, and performance practice, followed by focused discussion.",
+      "credits": "0",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC253A",
+      "name": "MUSC 253A — Historical Perspectives in Musicology and Ethnomusicology",
+      "description": "Explores trends in musical scholarship in the 20th and 21st centuries, focusing on broad questions and modes of inquiry within historical musicology and ethnomusicology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC253B",
+      "name": "MUSC 253B — Rhythm, Time, and Form",
+      "description": "Traditional and experimental rhythmic and temporal systems representing diverse cultures, with emphasis on unmeasured, divisive, additive, and multilayer practices in cultural context. Students examine rhythmic composition, improvisation, and rubato performance in selected cultures, including rhythmic notation and transcription systems.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 200 or the equivalent, or consent of instructor. Enrollment is restricted to graduate students; advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": [
+        [
+          "MUSC200"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC253C",
+      "name": "MUSC 253C — Music and Discourse",
+      "description": "Addresses both song and musical performance as modes of discourse. For song: musical and textual phrase and verse structures and their interrelationships. For musical performances: musical performance as rhetoric and emblem.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC253D",
+      "name": "MUSC 253D — Issues in the Ethnography of Music",
+      "description": "Explores ethnographyâthe description of cultureâas it relates to musicology and ethnomusicology, particularly where culture and cultural production are historically dynamic and geographically porous. Examines music with sensitivity to such complexities of context, and the disciplinary points of reference from which cultural difference is calculated. Considers the ideological imprint of methodology on cultural analysis: how to study an unfamiliar music in a way that transcends the measure of difference from the familiar, and, conversely, how to conduct an objective study of a familiar music.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC253S",
+      "name": "MUSC 253S — The Politics of Aesthetics and Spirituality",
+      "description": "Explores the relationship of music and the politics of aesthetics and spirituality of classical, folk, functional, and popular musics in a cross-cultural and cross-historical context. Attention is paid to both pre-modern and modern vernacular and cosmopolitan formations. Enrollment is restricted to juniors, seniors, and graduate students. (Formerly MUSC 228, Techniques of Modernity and Aesthetic Formations.) Students cannot receive credit for this course and MUSC 105S .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to graduate students; upper-division undergraduates may enroll with permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254C",
+      "name": "MUSC 254C — Performativity and Music",
+      "description": "Performance can describe activities in the arts, humanities, and social sciences. Recognizing the mappings of this concept, this course examines selected performances and performative behavior through theoretical and critical lenses. Emphasis is on investigating the act and practice of musical performance in multicultural context, and on analyzing scholarly writing as performative discourse.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254D",
+      "name": "MUSC 254D — Organology and Acoustics",
+      "description": "Comprehensive study of musical instruments including, but not limited to, physical and engineering concepts; theory and methods of description, analysis, systematic, and cultural classifications; physiology and performance techniques; cultural significance; anthropomorphic and zoomorphic symbolism; ritual usage; and more. Previous enrollment in introductory ethnomusicology course (e.g., MUSC 11D) helpful, but not required. Enrollment by interview only, except music M.A. and Ph.D. students. Enrollment restricted to junior and senior music majors, electronic music minors, anthropology majors, or physics majors,and graduate students.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254E",
+      "name": "MUSC 254E — Asian Resonances in 20th-Century American and European Music",
+      "description": "Explores the influence of Asian musics on Western composers from Debussy to Britten to American experimentalists such as Harrison, Cage, Riley, and Rudyard. Questions of cultural appropriation and originality are addressed through specific examples and critical readings.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254F",
+      "name": "MUSC 254F — Beethoven",
+      "description": "Examines the life and work of composer Ludwig van Beethoven (1770-1827). In addition to a close study of his biography and musical compositions, course considers the role of historiography and reception history in the development of his \"heroic\" status and Romantic cultivation of the \"cult of genius.\" Also critically examines issues having to do with canon construction, positivist research vs. \"new musicology,\" and how Beethoven has been used for political purposes and in popular culture.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254G",
+      "name": "MUSC 254G — Queen and British Popular Music of the 1970s and 80s",
+      "description": "Using primary and secondary literature and audiovisual sources, the seminar examines selected issues and topics related to 1970s/80s British popular music, with a specific focus on the rock group Queen. The seminar takes a multi-faceted approach to the groupâs musical oeuvre with topics related to vocality, performativity, hybridity, and masculinity, as well as Queenâs contribution to the rock anthem and their appropriation of âgrandâ opera. Students undertake research relating to British popular music in the 1970s/80s, and present their work in scholarly presentations and research papers.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254J",
+      "name": "MUSC 254J — Jazz Historiography",
+      "description": "Introduces the ways jazz history has been conceptualized, evaluated, and transmitted. Examines the social, intellectual, and cultural formations that have influenced this historiography. Considers the interdisciplinary project of new jazz studies in relation to established and alternative historical narratives.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254K",
+      "name": "MUSC 254K — Music, Gender, and Sexuality",
+      "description": "Seminar focuses on musicological and ethnomusicological work incorporating feminist and queer theories published since the late 1980s. Cross-cultural approach to the examination of music, gender, and sexuality, drawing examples from both Western and non-Western traditions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254L",
+      "name": "MUSC 254L — John Cage: Innovation, Collaboration, and Performance Technologies",
+      "description": "In-depth examination of John Cage's interdisciplinary work, his pioneering activity in live electronic technology, and his influence in current multimedia creativity. Approximately one-half of the seminary is devoted to student research and creative projects and reflect Cage's legacy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Upper-division undergraduates may enroll with permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254M",
+      "name": "MUSC 254M — Music in San Francisco, 1850-1950",
+      "description": "Explores San Francisco's musical life during the city's first century, including opera, symphony, Chinese music, musical theater, and other genres. Considerable emphasis on music and society, including issues of race.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254N",
+      "name": "MUSC 254N — Cruising the Postcolony",
+      "description": "Drawing on Jose Esteban Munoz's suggestion that queer politics is most radical when it is looking to the possibilities of the future rather than the pragmatics of the present, this course interrogates the radical vision of postcolonial and queer music-making.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254O",
+      "name": "MUSC 254O — Historiography of American Music",
+      "description": "Covers the period in United States history between the Revolutionary Era and the Civil War (approximately 1770-1865). Examines historical and contemporary writings about music in the United States, its composers, musicians, musical institutions, economics, and performance practices.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MUSC 200 or equivalent. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "MUSC200"
+        ]
+      ]
+    },
+    {
+      "id": "MUSC254R",
+      "name": "MUSC 254R — Research Design and Grant Writing for Music Scholars",
+      "description": "Dissertation research grant applications and their attenuating dissertation proposals represent the first time most graduate students think through the theoretical issues and strategic planning of a major project and convince others within and outside their field of its academic validity. This seminar (primarily for Ph.D. and D.M.A. students in their 2nd, 3rd, or 4th year who are applying for grants to support doctoral research) provides guidance on topics about dissertation research, professional development, and grant applications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254W",
+      "name": "MUSC 254W — West-Coast Experimentalism in the Mid-20th Century United States",
+      "description": "Explores avant-garde experiments with new musical resources by composers centered on the West Coast around the period from 1920 to 1960. The objective is for students to learn about new compositional practices of the time including alternative tuning systems, interactions between music and dance, new instrumental resources (found and invented instruments as well as expanded techniques on traditional instruments), and new approaches to compositional processes. Composers to be studied include Lou Harrison, Henry Cowell, John Cage, Johanna Beyer, Lucia Dlugoszewski, and others. Weekly assignments include readings, listening, and analysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254X",
+      "name": "MUSC 254X — Minimalism",
+      "description": "Through a close study of both primary sources and secondary literature, this graduate seminar examines characteristics of minimalism in music across a broad range of historical eras, geographical settings, and stylistic contexts, as well as in related arts (visual art/sculpture; theater design and production; poetry and literature; dance, etc.). Students engage in original research, resulting in scholarly presentations and written papers.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC254Z",
+      "name": "MUSC 254Z — Issues in Contemporary and Experimental Music",
+      "description": "Through a close study of both primary sources and secondary literature, this graduate seminar examines a variety of topics and issues characteristic of global contemporary and experimental music across a broad range of historical contexts, geographical settings, and stylistic performance practices, as well as in related arts (visual art/sculpture; theater design and production; poetry and literature; dance, etc.). Students engage in original research, resulting in scholarly presentations and written papers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC261",
+      "name": "MUSC 261 — Graduate Applied Instruction",
+      "description": "One hour of individual instrumental or vocal instruction for graduate students. Repertory, technique, and performance practice. A minimum of nine hours per week of individual practice is required. Students are billed a course fee of $650. Admission by audition with the instructor prior to first class meeting.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC265",
+      "name": "MUSC 265 — Graduate Ensemble Participation",
+      "description": "Participation by graduate students in ensembles. Enrollment limit appropriate to the size of each ensemble. Admission by audition with the instructor prior to first class meeting.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC267",
+      "name": "MUSC 267 — Workshop in Computer Music and Visualization",
+      "description": "Graduate-level techniques and procedures of computer music composition and visualization. Practical experience in the UCSC electronic music studio with computer composition systems and software, including visualization and interactive performance systems. Extensive exploration of music and interactive graphic programs such as Max/MSP/Jitter. Enrollment is by permission of instructor; appropriate graduate experience required. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC295",
+      "name": "MUSC 295 — Directed Reading",
+      "description": "Directed reading, which does not involve a term paper. May be repeated once for credit. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC297",
+      "name": "MUSC 297 — Independent Study",
+      "description": "Independent study, creative work, or research for graduate students who have not yet begun work on their thesis. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC297F",
+      "name": "MUSC 297F — Independent Study",
+      "description": "Independent study or research for graduate students. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC298",
+      "name": "MUSC 298 — Graduate Recital",
+      "description": "A public performance in the student's primary area of interest, related to the thesis or dissertation project, under the supervision of a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MUSC299",
+      "name": "MUSC 299 — Thesis Research",
+      "description": "A thesis consisting of a substantive and original creative or scholarly work, related to the graduate recital, under the supervision of a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "DANM202",
+      "name": "DANM 202 — Dialogues and Questions in Digital Arts and Culture",
+      "description": "Students engage in dialogues at the intersection of theory and practice with the goal of producing a pre-thesis proposal and essay. Readings and seminar discussions inform the development of project proposals and essays, which theoretically contextualize students' work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "DANM254I",
+      "name": "DANM 254I — Empirical Approaches to Art Information",
+      "description": "Reading and practice in empirical methods, as applied to the study of music, visual art, multimedia production, and performance arts. Topics include semiotics, critiques of empiricism, cultural determinants and contingents of perception, the psychophysics of information, sensory perception (visual and auditory), memory, pattern recognition, and awareness. Students apply existing knowledge in the cognitive sciences to a developing creative project, or develop and conduct new experiments.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PHYS80U",
+      "name": "PHYS 80U — Physics and Psychophysics of Music",
+      "description": "Fundamental theory of vibration, sound waves, sound propagation, diffraction, and interference. Free, coupled, and driven oscillations. Resonance phenomena and modes of oscillation. Fourier's theorem. Anatomy and psychophysics of the ear. Musical scales and intervals. Nature of plucked and bowed strings; guitar, violin, piano. Woodwind and brass instruments. Architectural acoustics. High school algebra and basic knowledge of musical notation recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

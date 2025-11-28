@@ -1,0 +1,320 @@
+{
+  "department": "ARTG - Art & Design: Games + Playable Media",
+  "slug": "artg-art-and-design-games-and-playable-media",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/artg-art-and-design-games-and-playable-media",
+  "generated_at": "2025-11-28T07:51:34.039376+00:00",
+  "courses": [
+    {
+      "id": "ARTG10",
+      "name": "ARTG 10 — Aesthetic Designs",
+      "description": "Explores the ways in which aesthetic designs in art and media influence, make, and convey meaning, and presents methods for designing, authoring and implementing aesthetic components into games and interactive artworks. Students investigate these topics from a conceptual starting point that branches into cultural, technological and/or interventionist inquiries, culminating in a series of creative design projects.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG20",
+      "name": "ARTG 20 — Games as Art",
+      "description": "Games are an ancient art form that many people experience everyday. They can be used to bring audiences into imaginary worlds of play, and invite them to engage with the most critical problems facing the world. This course is a core course in the art and design: games and playable media major, and teaches students about the way we conceive of games, as more than products, as a genre of art, and a form of social engagement. Students are introduced to game studies scholars and game design texts, which allow them to start making analog games and interactive artworks.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG25",
+      "name": "ARTG 25 — Games as Art & Activism",
+      "description": "Games are art forms that are widely accessed across a multitude of modern social, cultural, political, and media landscapes. Many gamesâfrom ancient to contemporaryâexpress compelling sociopolitical perspectives and critiques. This course explores games as art with a focus on works that intentionally invite social action and change through performance, play, or participation. Games are discussed from critical, artistic, and aesthetic frameworks. Creative assignments and projects are used to explore methods and approaches for creating expressive games and other forms of radical play.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG30",
+      "name": "ARTG 30 — Games as Activism",
+      "description": "How can art make change? How can changing culture contribute to broader movements for social change? How can artists make games that move culture and society? Course approaches games as a site for political expression and social change. Looks at game makers who identify as feminist, queer, disabled, Black, Indigenous, people of color, workers, radicals, artists, scholars, and/or activists who are using games to drive social commentary, critical play, and political action. By the end of this course, students have a strong understanding of games as a political medium as demonstrated by the design of their own cultural intervention using games and play.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG40",
+      "name": "ARTG 40 — Designing Experiences",
+      "description": "Builds skills in setting experiential goals and in defining and building mechanical and dynamic elements to support those goals. Through an iterative and reflective process, explores how we evaluate success as designers and artists, and the responsibilities we have to ourselves and to our audience. In this class, students will rapidly prototype interactive experiences in a number of forms and practice the presentation/positioning of their work to an audience.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared majors in Art and Design Games and Playable Media BA",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG50",
+      "name": "ARTG 50 — Play as a Radical Endeavor",
+      "description": "Foundational course in game design. Re-introduces students to play as an expressive form that extends across many mediums of cultural expression and communication. Students study, experience, and design playful performance and interactive experiments, culminating in a final Playfaire, where, as a collective, they practice community organizing and reciprocity with the needs of individuals to create space for cross-disciplinary play. Course continues the long tradition of play using figures such as the jester and the clown to call into question social norms and power structures. Students also engage in critiques which may involve difficult conversations, but result in more powerful artworks. (Formerly offered as ARTG 80I, Foundations of Play.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed or declared majors in art and design: games and playable media",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG80G",
+      "name": "ARTG 80G — Visual Communication and Interaction Design",
+      "description": "Survey of the basics of visual communication and interaction design, focusing on communicating designs of interactive systems. Covers techniques from a breadth of visual communication traditions; how to choose, use, and innovate; and how to structure dialogue around them.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG80H",
+      "name": "ARTG 80H — Critical History of Digital Games",
+      "description": "Surveys the history of digital games from open university games through the home console, PC, and contemporary platforms, and on to indie and art games. Throughout, the course locates connections between technology, marketing, and play culture. (Formerly History of Digital Games.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG90",
+      "name": "ARTG 90 — Open Source Contributor Studio",
+      "description": "Introduces students to open-source development. Students explore the aesthetic, cultural, and technical goals of a project, identifying areas for improvement and proposing contributions aligned with their skills and interests. Through research, case studies, and hands-on projects, students develop critical thinking, communication, and design skills while learning to navigate collaborative, open-source ecosystems. The course culminates in a professional presentation emphasizing both process and impact. No programming experience required; students from all disciplines welcome.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared AGPM majors during first-pass enrollment; restrictions lifted after first pass.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG91",
+      "name": "ARTG 91 — Introduction to Game Art Production",
+      "description": "Project-centered studio-lecture hybrid course that introduces the process of world-building and interaction design from the standpoint of the art director. Each project addresses a milestone in the art direction development pipeline, and demonstrates corresponding entry-level technical and conceptual skills and strategies. Utilizing this split methodology, the big-picture game development process is presented in tandem with related fundamental digital art and design skills at an achievable scale for an introductory course.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG92",
+      "name": "ARTG 92 — Digital Presentation and Portfolio Design Across Disciplines",
+      "description": "Explores a range of digital methods and approaches for communicating ideas, presenting research, and documenting academic work across a variety of fields and disciplines. Case studies are examined and discussed in relation to design fundamentals critical for effective communication. Focus is on a quarter-long digital portfolio, presentation, or documentation project. This course-long project is supported by shorter design assignments that introduce digital tools, platforms, technical concepts, and other communication design processes.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG118",
+      "name": "ARTG 118 — Character Creation for Video Games",
+      "description": "This is a hands-on studio course, intended to give students an understanding of the techniques used to create characters for use in video games. Through this course, students will understand and develop the skills necessary to take a video game character design through all of the stages necessary to have a finished character for use in 2D or 3D video games. You will learn industry tools and techniques to be an effective game artist. (Formerly, Digital Drawing/Painting for Game Design.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG120",
+      "name": "ARTG 120 — Game Design Experience",
+      "description": "Teaches the concrete skills associated with making a digital game, from start to finish. Activities include establishing a team, concepting, storyboarding, prototyping, producing, and testing a game for release. Students are organized into groups and work together to create and produce a playable game.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to art and design: games and playable media declared majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG129",
+      "name": "ARTG 129 — Special Topics in Game Design",
+      "description": "Allows students to explore game designs related to their ongoing work within their major in either digital or non-digital formats. Students choose a topic and develop game projects that engage players.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG129A",
+      "name": "ARTG 129A — Special Topics in Game Design",
+      "description": "Gives students an opportunity to explore game designs related to their ongoing work within the AGPM major, in either digital or analog formats. Students develop projects that engage players on a topic of their choosing.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG131",
+      "name": "ARTG 131 — 3D Game Art Production",
+      "description": "Studio course in which students learn the highly technical and fundamental skills in the production of 3D art assets for video games. Covers the essential steps in the 3D art pipeline, starting with basic 3D modeling, UV unwrapping, the creation of texture maps, and finally, game engine implementation. Focuses on developing an understanding of the processes and creative thinking necessary to produce industry-level artwork rather than specific software. Students provided with video lectures and demos, and students can expect to produce weekly assignments to practice basic skills and concepts covered.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG132",
+      "name": "ARTG 132 — 3D Character Rigging and Animation for Video Games",
+      "description": "Gives students an in-depth understanding of the techniques of 3D character rigging and animation for video games. Students understand and develop the skills necessary to be an effective technical artist and animator with a focus on industry standard methods for animating characters to be implemented into a game engine. Course provides students with video and written lectures, video demonstrations, assignments and discussion boards aimed at giving them historical understanding of game animation, the evolution of these techniques, hands-on work to become proficient, as well as the ability to communicate online with other students and the instructor to answer questions and further their knowledge.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG134",
+      "name": "ARTG 134 — Spectacular Play: Performance, Ritual, and Making a Scene IRL",
+      "description": "What do immersion and interactivity look like outside of virtual worlds? How can we activate social dynamics and public space for the purpose of play? How might we evoke feelings of purpose, or even magic, for players and spectators alike? Students will study and create immersive experiences designed to play out in real life. Drawing inspiration from performance studies, activism, art history, and more, we will transform the everyday into the extraordinary.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG136",
+      "name": "ARTG 136 — Digital Sculpting for Video Games",
+      "description": "In this studio course, students learn the basics of digital sculpting in ZBrush with a focus on 3D character art. Through a mix of in-class demos and periodic assignments, students learn how to produce high-fidelity digital sculpts and their practical application in the 3D game art pipeline.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG137",
+      "name": "ARTG 137 — Experimental Tabletop RPG Design",
+      "description": "Explores experimental mechanics, dynamics, themes, and aesthetics within the tabletop RPG form. In groups and individually, students will play, run, design, write, workshop, and print/produce experimental tabletop RPGs, as well as conduct usability tests focused on layout, design cohesion, and accessibility.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG138",
+      "name": "ARTG 138 — Feminist Games",
+      "description": "Feminist games including intersectional feminist games, transfeminist games and queer feminist games, will be created by students in this course. Students will study the existing history and present of these genres of games, including game mods, personal experience games, narrative games, alternate reality, augmented reality and electronic literature. Students will work individually to create games as art and activism building on critical theories of race, gender, sexuality and algorithms.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Art & Design: Games + Playable Media declared majors, and Feminist Studies majors and minors who have taken FMST 1 .",
+      "prereqGroups": [
+        [
+          "ARTG"
+        ],
+        [
+          "FMST1"
+        ]
+      ]
+    },
+    {
+      "id": "ARTG139",
+      "name": "ARTG 139 — Queer and Trans Art and Games",
+      "description": "Students study, and make, queer and trans art and games. Course considers how gender and sexuality are systems of rules often assumed in game design, and how those rules can be subverted to create novel and experimental games. By identifying and resisting cisnormativity and heteronormativity, students create original game concepts, using a critical, intersectional approach that understands that race as a constitutive element of both gender and sexuality. Course also studies with queer and trans ecologies understanding gender and race as inseparable from our idea of nature.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to art and design: games and playable media, and critical race and ethnic studies majors and proposed majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG140",
+      "name": "ARTG 140 — Writing for Interactive Narrative",
+      "description": "Discusses a variety of aspects of writing found in videogames and other interactive forms of media. Using a mix of creative writing projects and in class discussions, students will practice and critique existing work as well as their own.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to art and design: games and playable media declared majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG141",
+      "name": "ARTG 141 — Introduction to Virtual Reality",
+      "description": "Introduction to Virtual Reality is an introductory course with a combination of theory and practice. Students are exposed to the history of Virtual Reality and hands-on experience in making VR and developing their own VR project. By introducing broad topics around VR, such as immersive spectacle, virtual embodiment, sonic immersiveness, students will gain knowledge about cultural, historical, and practical perspectives of VR. Students will also learn technical skills in developing VR in Unity 3D. 3D modeling experience is not required in this class. This class is an integration of the production of 3D and 360 degree VR experience. Photogrammetry, 360 degree video production and editing, and other expressive media will also be introduced for advancing the development of VR.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG142",
+      "name": "ARTG 142 — Black Aesthetics: Interventions in Digital Media",
+      "description": "How do we conceptualize a Black Aesthetic in the realm of digital art and media? How do we re/define Black virtuality when, historically, computer graphics has failed to accurately render Blackness? This course looks at the field of digital media from a technological and cultural perspective, understanding the ways in which anti-Blackness has been embedded in our technology, from photography to video games. Concurrently, course examines the history of the Black Aesthetic as an interventionist art movement, and find ways to intervene in the contemporary digital media landscape.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior art and design: games and playable media, and critical race and ethnic studies majors, and Black studies minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG143",
+      "name": "ARTG 143 — Ecofutures",
+      "description": "Students study the fields of ecofeminist art, climate fiction, virtual environmental art, Afrofuturism, Latinx futurism and Indigenous futurism, and create digital art relevant to these fields. The dual global crises of climate change and COVID-19 have forced a reevaluation of the idea of the human through a confrontation with the realities and histories of global colonialism and white supremacy. In response, social movements and artists have created artistic strategies which can envision futures beyond the horizon of the imagination of capitalism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to senior Art and Design: Games and Playable Media majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG145",
+      "name": "ARTG 145 — Non-Digital Game Design",
+      "description": "Looks specifically at the design of non-digital games. Surveys a variety of game types and designs. Students prototype card or board game, culminating in a final project that engages players on a socially relevant topic.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG170A",
+      "name": "ARTG 170A — Game Design Studio I",
+      "description": "Students create novel, interesting game concepts, and outline and refine game proposals for longer-term projects. Studio projects cover a range of creative practices, including concept ideation and storyboarding, prototyping, and presenting and/or exhibiting the game idea in a more finalized form. This course focuses on team projects and collaboration. It can be taken as a single course, or can be taken as part one of the art and design: games and playable media capstone requirement, which can continue as a team-based project-design series. (Formerly ARTG 170.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior art and design: games and playable media majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG170B",
+      "name": "ARTG 170B — Design Studio I: Individual Track",
+      "description": "Course focuses on individual projects, supported by collaboration within a general working-group. Students create novel, interesting game concepts, and outline and refine game proposals for longer-term projects. Studio projects cover a range of creative practices, including concept ideation and storyboarding, prototyping, and presenting and/or exhibiting the game idea in a more finalized form. Can be taken as a single course or as part one of the art and design: games and playable media capstone requirement. Continuing with the capstone series via ARTG 171 will require team collaboration.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: Satisfaction of the Entry Level Writing and Composition requirements. Enrollment restricted to senior art and design: games and playable media majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG171",
+      "name": "ARTG 171 — Game Design Studio II",
+      "description": "Students craft the core loop of their yearlong game project. Students build the game, examine player feedback, and repeat the process to make the game better. This course places particular emphasis on advanced production techniques for working in teams, as well as software engineering practices for software design, software testing, and build management. This course is part two of the art and design, games and playable media capstone requirement.",
+      "credits": "7",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to senior art and design: games and playable media majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG172",
+      "name": "ARTG 172 — Game Design Studio III",
+      "description": "Students scope and polish their final game designs. Students work towards releasing one specific game platform while coordinating across disciplinary boundaries to create and integrate all the necessary code, art, animation, and sound assets for their game. This course is part III of the art and design: games and playable media capstone requirement.",
+      "credits": "7",
+      "rawRequirements": "Requirements Prerequisite(s): ARTG 171 or by instructor permission. Enrollment is restricted to senior art and design: games and playable media majors.",
+      "prereqGroups": [
+        [
+          "ARTG171"
+        ]
+      ]
+    },
+    {
+      "id": "ARTG176",
+      "name": "ARTG 176 — Game Design Collaborative",
+      "description": "Supports students who are collaborating with the ARTG/ CMPM 170 -series teams on the creation of their capstone game projects. Enrollment is restricted to students who are working with senior game-design project groups, and by permission of the instructor,",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG180",
+      "name": "ARTG 180 — Personal Narrative in Play",
+      "description": "Explores how storytelling techniques can align with game mechanics to examine and provoke questions of identity and personal narrative. Drawing from games that express personal experience through autobiography, to games that question the relationship and separation between player and character, students develop exploratory prototypes in digital and/or nondigital formats around potential mechanics for personal narrative and expression. Course culminates in a final piece of interactive art as well as designing the exhibit and public documentation for this work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to declared majors who have taken one upper-division ARTG course.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG181",
+      "name": "ARTG 181 — Portfolio",
+      "description": "Explores and presents multiple approaches and methods for documenting, describing and demonstrating a creative practice and a collection of creative work. Students will develop artist-centered narratives, curate and design portfolio materials, and investigate tools, media formats, and platforms useful for communicating an individual creative perspective and body of work. Portfolios and other descriptive materials will also be discussed from an interactive and playable framework, with an emphasis on both individual expression as well as viewer/audience experience.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to declared majors who have taken one upper-division ARTG course.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG199",
+      "name": "ARTG 199 — Tutorial",
+      "description": "Individual study in areas approved by sponsoring instructors. Tutorial may not be used to satisfy major requirements. Petition required, approved by instructor and department; petitions available on the program website.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARTG199F",
+      "name": "ARTG 199F — Tutorial",
+      "description": "Individual study in areas approved by sponsoring instructors. Tutorial may not be used to satisfy major requirements. Petition required, approved by instructor and department; petitions available on the program website.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CMPM179",
+      "name": "CMPM 179 — Game Design Practicum",
+      "description": "Provides the opportunity to practice the creation of novel computer games. Students learn a new game-making technology, then create three games using this technology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CMPM 120 and CMPM 80K.",
+      "prereqGroups": [
+        [
+          "CMPM120",
+          "CMPM80K"
+        ]
+      ]
+    }
+  ]
+}

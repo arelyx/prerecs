@@ -1,0 +1,40 @@
+{
+  "department": "ANCS-Ancient Studies",
+  "slug": "ancs-ancient-studies",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/ancs-ancient-studies",
+  "generated_at": "2025-11-28T07:51:33.300428+00:00",
+  "courses": [
+    {
+      "id": "ANCS99",
+      "name": "ANCS 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANCS197F",
+      "name": "ANCS 197F — Senior Comprehensive Examination Preparation",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANCS199",
+      "name": "ANCS 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ANCS199F",
+      "name": "ANCS 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

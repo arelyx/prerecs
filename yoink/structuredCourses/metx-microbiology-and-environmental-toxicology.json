@@ -1,0 +1,579 @@
+{
+  "department": "METX - Microbiology and Environmental Toxicology",
+  "slug": "metx-microbiology-and-environmental-toxicology",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/metx-microbiology-and-environmental-toxicology",
+  "generated_at": "2025-11-28T07:51:42.239306+00:00",
+  "courses": [
+    {
+      "id": "METX41",
+      "name": "METX 41 — Physiology of Disease",
+      "description": "Introduces students to physiological processes governing cells and organs and covers mechanisms of physiological regulation and how their malfunction leads to disease. This course is designed to directly contribute to achieving the program learning outcomes for the B.S. in Global and Community Health and is specifically required for the Public and Community Health concentration. In addition, this course provides the foundation for a number of upper-division classes related to health including: BIOL130; METX 115 ; METX 135 / METX 135L ; METX 138; BIOL 117 ; METX 102 . Prerequisites: METX 41 has no prerequisite but taking BIOL 20A is strongly recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX80E",
+      "name": "METX 80E — Aquatic Toxicology",
+      "description": "An introduction to the sources, cycling, and impacts of toxicants in aquatic systems, including acid rain, ground water, fresh water rivers and lakes, estuaries, and the ocean. Emphasis is on the properties of toxic chemicals that influence their biogeochemical cycles and factors that influence their toxicity to aquatic organisms and humans.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX100",
+      "name": "METX 100 — Introduction to Microbiology",
+      "description": "Introduces the biology of microorganisms (bacteria, archaea, viruses, fungi, and unicellular eukaryotes), with an emphasis on bacteria. Topics include microbial cell structure and function, physiology, metabolism, genetics, and diversity. Also considers the role of microbes in human health, the environment, biotechnology, and food production. Students cannot receive credit for both this course and METX 119 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A or ESCI 30 .",
+      "prereqGroups": [
+        [
+          "BIOL20A"
+        ],
+        [
+          "ESCI30"
+        ]
+      ]
+    },
+    {
+      "id": "METX100L",
+      "name": "METX 100L — Microbiology Laboratory",
+      "description": "An introduction to the principles and practices of laboratory microbiology, with a substantial presentation of optical microscopy. (Formerly METX 119L.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: Satisfaction of Entry Level Writing and Composition requirements; and one course from the following: BIOL 20L , or BIOL 101L , or BIOL 102L ; and previous or concurrent enrollment in METX 100 or METX 119 . First pass enrollment is restricted to declared Microbiology majors. Second pass enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology, and Neuroscience majors; Other majors may enroll by permission of the instructor. Students cannot enroll in METX 119L after receiving credit with a 'C' or better in BIOL 100L , BIOL 103L , BIOL 105L , BIOL 106L , BIOL 108L , BIOL 109L , BIOL 115L , BIOL 120L , BIOL 121L , BIOL 129L , and BIOL 186L .",
+      "prereqGroups": [
+        [
+          "BIOL20L"
+        ],
+        [
+          "BIOL101L"
+        ],
+        [
+          "BIOL102L"
+        ]
+      ]
+    },
+    {
+      "id": "METX101",
+      "name": "METX 101 — Sources and Fates of Pollutants",
+      "description": "Presents in-depth important principles of environmental toxicology related to the introduction, transport, and fate of toxicants in aquatic and terrestrial environments, including environmental chemistry and biogeochemical cycles as well as exposure pathways and uptake by organisms. Additional emphasis placed on susceptibility and effects of toxicants across organ systems, toxicokinetic and biomarkers of exposure, and effects at the ecosystem level. Students cannot receive credit for this course and METX 201 .",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX102",
+      "name": "METX 102 — Cell and Molecular Toxicology",
+      "description": "Emphases of biochemical, cellular, and organ system basis of intoxication, including dose-response relationships, biotransformation of toxicants, biochemical mechanisms underlying toxicity, factors influencing toxic action, and biomarkers of exposure. Emphasizes effects of various classes of toxins, including heavy metals and persistent synthetic organics, with a focus on susceptible biochemical/cellular processes of the central nervous, immune, hepatic, and renal target organ systems. Designed for advanced undergraduates. Students cannot receive credit for this course and METX 202. (Formerly Cellular and Organismal Toxicology.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B or equivalent; BIOL 100 and BIOC 110 recommended. Enrollment restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "BIOL20A",
+          "BIOE20B"
+        ]
+      ]
+    },
+    {
+      "id": "METX108",
+      "name": "METX 108 — Introduction to Research Methods in Global and Community Health",
+      "description": "The health of populations is shaped by an intricate web of political, environmental, economic, and social determinants. To address complex challenges in global and community health, it is crucial to have a multifaceted research strategy that transcends borders and disciplines. This course covers the critical steps of global and community health research, from formulating research questions and selecting study designs to planning implementation and data collection. Students develop a research question from a global and community health topic that they are eager to explore. This course is open to upper-division undergraduate and graduate students and has no prerequisites. Lower-division undergraduate students may enroll with permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX112",
+      "name": "METX 112 — Immunity and Infection",
+      "description": "Introduces students to the field of immunology, emphasizing innate and adaptive immune responses to microbes. Covers molecular mechanisms used by microbes to evade or manipulate immune defenses. Provides conceptual understanding of the experimental methods used in the fields of microbial pathogenesis and immunology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): METX 100 .",
+      "prereqGroups": [
+        [
+          "METX100"
+        ]
+      ]
+    },
+    {
+      "id": "METX115",
+      "name": "METX 115 — Environmental Health Science",
+      "description": "Addresses challenges related to environmental health, their impact on the health of biological structures, and humans as active elements in the process of environmental degradation, and as passive elements as well. Students discuss events as case studies of environmental health that contributed to environmental protection, and disease control and prevention. Course involves collaborative endeavor in which students develop a group assignment throughout the 10 weeks of the course that is evaluated at the end of the course.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A or ENVS 23 or BIOL 89.",
+      "prereqGroups": [
+        [
+          "BIOL20A"
+        ],
+        [
+          "ENVS23"
+        ],
+        [
+          "BIOL89"
+        ]
+      ]
+    },
+    {
+      "id": "METX119",
+      "name": "METX 119 — Microbiology",
+      "description": "Cell and molecular biology of bacteria and their viruses, including applications in medicine, public health, agriculture, and biotechnology. Students cannot receive credit for both this course and METX 100 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOC 100A or BIOL 101 or BIOL 100 or CHEM 103 .",
+      "prereqGroups": [
+        [
+          "BIOC100A"
+        ],
+        [
+          "BIOL101"
+        ],
+        [
+          "BIOL100"
+        ],
+        [
+          "CHEM103"
+        ]
+      ]
+    },
+    {
+      "id": "METX125",
+      "name": "METX 125 — Practicing Safe Science",
+      "description": "Introduces research safety principles and practices. Instructors and guest experts discuss research hazards and control measures. Students explore the safe use of research methods and materials via hands-on and outside exercises. Issues include compliance with hazardous waste and other environmental safety regulations.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX133",
+      "name": "METX 133 — Medical Microbiology",
+      "description": "Covers the biology, experimental characterization, and diseases caused by important microbial pathogens, including bacteria, viruses, fungi, and parasites. Introduces basic microbiological characteristics, and then discusses diseases by organ systems, including pathogenesis, immunity, host response, transmission, treatments, and prevention. Course includes a hands-on laboratory component.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A .",
+      "prereqGroups": [
+        [
+          "BIOL20A"
+        ]
+      ]
+    },
+    {
+      "id": "METX135",
+      "name": "METX 135 — Functional Anatomy",
+      "description": "A rigorous systems-based course in anatomy. Lectures provide an overview of functional anatomy at all levels from the systems to the tissues. Provides a mechanistic understanding of the structures of the body as a foundation for human-health oriented studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B . Concurrent enrollment in METX 135L is required.",
+      "prereqGroups": [
+        [
+          "BIOL20A",
+          "BIOE20B"
+        ]
+      ]
+    },
+    {
+      "id": "METX135C",
+      "name": "METX 135C — Cadaver Dissection Laboratory",
+      "description": "Dissection of a human cadaver under the direction of an anatomy instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX135L",
+      "name": "METX 135L — Functional Anatomy Lab",
+      "description": "Complements lecture course 135. Emphasizes nomenclature and recognition; includes the embryology and histology of bones, muscles, and internal organs, and the interactions between the systems of the body.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B . Concurrent enrollment in METX 135 is required.",
+      "prereqGroups": [
+        [
+          "BIOL20A",
+          "BIOE20B"
+        ]
+      ]
+    },
+    {
+      "id": "METX140",
+      "name": "METX 140 — Molecular Biology and Microbial Genetics",
+      "description": "Introduces students to the field of molecular biology and microbial genetics. Covers the following topics: molecular mechanisms of DNA replication, transcription, translation, regulatory systems controlling replication, transcription, and translation; basic genetic principles with an emphasis on bacterial genetics; molecular biology and microbial genetics approaches used to understand the molecular mechanisms of interaction of microorganisms with their surroundings and other organisms; and experimental methods employing molecular biology and molecular genetics and biotechnology applications which have arisen from discoveries of bacterial mechanisms.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 100 or BIOC 100A .",
+      "prereqGroups": [
+        [
+          "BIOL100"
+        ],
+        [
+          "BIOC100A"
+        ]
+      ]
+    },
+    {
+      "id": "METX141",
+      "name": "METX 141 — Advanced Bacteriology Laboratory",
+      "description": "Involves students in a research project that combines advanced molecular methods with classical microbiological ones to investigate a topic of interest in the field of microbiology. Students learn to formulate hypotheses, identify and follow protocols, and interpret results. This course requires familiarity with basic microbiological concepts and techniques.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): METX 100 or METX 119 or METX 140 , and METX 100L or METX 119L. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "METX100",
+          "METX119",
+          "METX140"
+        ],
+        [
+          "METX100L",
+          "METX119L"
+        ]
+      ]
+    },
+    {
+      "id": "METX150",
+      "name": "METX 150 — Applied and Environmental Microbiology",
+      "description": "Surveys both fundamental and applied topics relevant to understanding how microbes interact with their environments. The goal of the course is to gain a molecular, biological, and ecological understanding of microbial processes and methods relating to microbe-environment interactions. Although not required, completion of METX 100 is recommended to ensure success in this course.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOL 20A .",
+      "prereqGroups": [
+        [
+          "BIOL20A"
+        ]
+      ]
+    },
+    {
+      "id": "METX195",
+      "name": "METX 195 — Senior Thesis",
+      "description": "An individually supervised course, with emphasis on independent research culminating in a senior thesis.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX195F",
+      "name": "METX 195F — Senior Thesis",
+      "description": "An individually supervised course with emphasis on independent research culminating in a senior thesis.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX198",
+      "name": "METX 198 — Independent Study",
+      "description": "Provides for individual programs of study (a) by means other than the usual supervision in person or (b) when the student is doing all or most of the coursework off campus. With permission of the department, two or three courses may be taken concurrently, or the course repeated for credit.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX198F",
+      "name": "METX 198F — Independent Study",
+      "description": "Provides for individual programs of study (a) by means other than the usual supervision in person or (b) when the student is doing all or most of the coursework off campus. With permission of the department, two or three courses may be taken concurrently, or the course repeated for credit.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX199",
+      "name": "METX 199 — Tutorial",
+      "description": "Reading, discussion, written reports, and laboratory research on selected topics.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX199F",
+      "name": "METX 199F — Tutorial",
+      "description": "Reading, discussion, written reports, and laboratory research on selected topics.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX200",
+      "name": "METX 200 — Interdisciplinary Approaches in Environmental Toxicology",
+      "description": "Introduction to interdisciplinary, case-based approaches to problem-solving. Demonstrates how important, current problems in environmental and human health have been addressed and solved. Presents assigned problems that integrate the different organization levels (environmental, molecular/cellular, organismal/public health) inherent to environmental and human health. Students work in collaborative teams to analyze each problem and create a proposal for a research plan/solution. This course must be taken for a letter grade.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Advanced undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX200B",
+      "name": "METX 200B — Graduate Research Project Development",
+      "description": "Presents a framework for scientific writing related to developing a thesis research proposal in a topical area of microbiology and/or environmental toxicology.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX201",
+      "name": "METX 201 — Sources and Fates of Pollutants",
+      "description": "Presents in-depth important principles of environmental toxicology related to the introduction, transport, and fate of toxicants in aquatic and terrestrial environments including environmental chemistry and biogeochemical cycles as well as exposure pathways and uptake by organisms. Additional emphasis will be placed on the susceptibility and effects of toxicants across organ systems, toxicokinetics and biomarkers of exposure, and effects at the ecosystem level. Students cannot receive credit for this course and METX 101.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; qualified undergraduate science majors may enroll with permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX202",
+      "name": "METX 202 — Cell and Molecular Toxicology",
+      "description": "Emphasizes biochemical, cellular, and organ system basis of intoxication, including dose-response relationships, biotransformation of toxicants, biochemical mechanisms underlying toxicity, factors influencing toxic action, and biomarkers of exposure. Emphasizes effects of various classes of toxins, including heavy metals and persistent synthetic organics, with a focus on susceptible biochemical/cellular processes of the central nervous, immune, hepatic, and renal target organ systems. Students cannot receive credit for this course and METX 102 or BIOL 122.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX203",
+      "name": "METX 203 — Cellular and Molecular Toxicology",
+      "description": "Presents in-depth cellular and molecular principles of environmental toxicology. These include modes of action and cellular and molecular targets of toxicants, as well as mechanisms of cellular and molecular responses to toxicants and their detoxification. State-of-the-art biological methodologies and approaches to identify and study cellular targets of toxicants. Designed to provide students with a broad and deep understanding of the biological aspects of toxicology at both cellular and molecular levels, and the skills to approach emerging challenges in the field.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with instructor's permission.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX205",
+      "name": "METX 205 — Scientific Grant Writing",
+      "description": "Provides fundamental training of graduate students in the scientific method; experimental design; ethics in science; grant proposal and scientific writing; and data presentation and scientific speaking. Students are evaluated on class participation, performance, and a written NIH/NSF-style research proposal. (Formerly Scientific Skills, Ethics, and Writing.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students. Advanced undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX206A",
+      "name": "METX 206A — Advanced Microbiology",
+      "description": "Focuses on aspects of bacterial molecular biology. Covers four main areas: (1) metabolism-catabolism, anabolism, building-block precursors; (2) transcription/signal transduction; (3) replication/plasmid biology/division; (4) translation/protein processing/secretion/cell structure. Strong focus on experimental techniques and approaches used in molecular biology, and on model bacteria, such as Escherichia coli and Bacillus subtilis .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Advanced undergraduates may enroll with permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX210",
+      "name": "METX 210 — Molecular and Cellular Basis of Bacterial Pathogenesis",
+      "description": "Focuses on the molecular basis of bacterial pathogenesis with specific emphasis on gene expression, regulation, and ecology and evolution.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.Advanced undergraduates with extensive background in microbiology and biology may enroll with permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX215",
+      "name": "METX 215 — Antibiotics: Actions and Resistance",
+      "description": "Critical review of scientific literature covering genetic and physiological mechanisms conferring resistance to antibiotics and their spread in the population. Format based on structured discussion of selected topics and original research proposal.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): METX 206A or METX 119 , or by permission of the instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "METX206A"
+        ],
+        [
+          "METX119"
+        ]
+      ]
+    },
+    {
+      "id": "METX238",
+      "name": "METX 238 — Pathogenesis: Molecular Mechanisms of Disease",
+      "description": "Provides an overview of the mammalian innate immune response and the role of inflammation in disease. Also, presents how both environmental stressors and microbial pathogens impact inflammation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX240",
+      "name": "METX 240 — Molecular Biology of Prokaryotes",
+      "description": "Focuses on several aspects of prokaryotic molecular biology. Covers transcriptional regulation, translational regulation, DNA replication and segregation, protein secretion, transport of small molecules, control of metabolism, stress response, bacterial differentiation, signal transduction, biofilm formation, and motility. Strong focus on experimental techniques and approaches used in prokaryotic molecular biology. Focus on model bacteria such as Escherichia coli and Bacillus subtilis. Students cannot receive credit for this course and METX 140.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX245A",
+      "name": "METX 245A — Scientific Communication in Microbiology and Environmental Toxicology A",
+      "description": "Introduces multiple forms of scientific presentation and communication to graduate students. Students learn to craft and deliver multiple types of written and visual communications, including formal and informal modes, on a topic developed as part of the class.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): METX 200 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "METX200"
+        ]
+      ]
+    },
+    {
+      "id": "METX245B",
+      "name": "METX 245B — Scientific Communication in Microbiology and Environmental Toxicology B",
+      "description": "Continuation of METX 245A . Students develop and refine a capstone in-depth report in a written form and as an oral presentation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): METX 245A . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "METX245A"
+        ]
+      ]
+    },
+    {
+      "id": "METX250",
+      "name": "METX 250 — Environmental Microbiology",
+      "description": "How microbes interact with their environments. Topics include anaerobic metabolism; biotransformation of toxic metals and organic pollutants; geomicrobiology; life in extreme environments; water quality. Advanced undergraduates with extensive background in microbiology and biology may enroll with permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281A",
+      "name": "METX 281A — Seminar in Global Health",
+      "description": "Required for all members of the Lin Lab and is open to undergraduate (by permission) and graduate students. Course meets once a week for a research seminar, journal club, and/or discussion. Each week, a member of the Lin Lab will present their current research project and other lab members will provide feedback and suggestions. Students may opt to present a journal club, a presentation on a published scientific article, in lieu of a presentation on their research project. (Formerly offered as Topics in Environmental Toxicology.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281C",
+      "name": "METX 281C — Topics in Environmental Microbiology",
+      "description": "Seminar and discussion focusing on mechanism of microbial transformation of metals. Participants present results from their research projects in a seminar format. Relevant journal articles presented and discussed.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; qualified undergraduates may enroll with instructor's permission.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281J",
+      "name": "METX 281J — Mechanisms of Virulence and Resistance to Infectious Disease",
+      "description": "Research seminar focusing on the mechanisms underlying host resistance or susceptibility to infectious diseases, and virulence strategies utilized by bacterial pathogens. Participants are required to present results from their own research and relevant journal articles.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281M",
+      "name": "METX 281M — Topics in Molecular Toxicology",
+      "description": "Seminar and discussion on the mechanisms of toxicity in DNA alkylating agents. Participants present results from their research, and relevant journal articles are discussed.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281O",
+      "name": "METX 281O — Topics in Bacterial Pathogenesis",
+      "description": "Intensive seminar focusing on mechanisms of bacterial pathogenesis of the ulcer-causing bacterium Helicobacter pylori. Participants are required to present results from their own research and relevant journal articles.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281P",
+      "name": "METX 281P — Origins and Applications of Human Gut Microbial Symbiosis",
+      "description": "Research seminar focusing on how beneficial and harmful bacterial species living in the human intestine compete with one another for nutrients in food, and how our immune systems influence the outcomes of these competitions. Emphasis is placed on the evolution of relationships between organisms. Discussion will include genetic, biochemical, bioinformatic, and immunological methods for advancing knowledge about the impacts of microbes on host health. Participants are required to present results from their own research, analyze current literature, and develop future aims for their studies. All lab members of the Patnode Lab are required to take this course.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281R",
+      "name": "METX 281R — Topics in Genome-Environment Interactions",
+      "description": "Intensive research seminar focusing on the effects of exposure to environmental agents and multigenerational epigenetic inheritance of disease. Participants are required to present results from their own research and relevant journal articles.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281S",
+      "name": "METX 281S — Cellular and Organismal Responses to Toxicants",
+      "description": "Intensive research seminar on the concepts, theory, and techniques in deriving physiologically based pharmacokinetic models of toxin exposure, metabolism, and efficacy of therapeutic treatment in mammalian models of human metal toxicity.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281V",
+      "name": "METX 281V — Topics in Bacterial Pathogenesis and Innate Immunity",
+      "description": "Focuses on the interplay between the human gut bacterial pathogen Yersinia pseudotuberculosis and the innate immune system of the host. Participants are required to present the goals, results, and conclusions from their own research. Participation in the general discussion during others' presentations is also required.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX281Y",
+      "name": "METX 281Y — Biofilms: Processes and Regulation",
+      "description": "Intensive seminar series focusing on the most current work on genes and the processes that regulate biofilm development dynamics as well as on the recent developments on visualization of biofilms. Presentation and discussion based.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX282",
+      "name": "METX 282 — Current Approaches to Molecular Pathogenesis",
+      "description": "Graduate level seminar focusing on the mechanisms by which bacterial pathogens cause disease. Specific topics include basic concepts of virulence and virulence factors, virulence factor regulation, toxins, and interactions of pathogens with mammalian cells and organs. Discussions focus on several key pathogens, including Helicobacter pylori, Vibrio cholerae, Salmonella typhimuruim, and Listeria monocytogenes.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX290",
+      "name": "METX 290 — Proseminar",
+      "description": "Special topics offered from time to time by faculty, visiting professors, or staff members.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX290A",
+      "name": "METX 290A — Epidemiology and Risk Assessment",
+      "description": "Approaches different techniques of biological monitoring and the exposure and effect of biomarkers related to occupational and environmental exposure to chemicals. Available methods for risk assessment and identification of protective exposure limits also considered.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX292",
+      "name": "METX 292 — Introductory Graduate Seminar",
+      "description": "Weekly seminars by academic and research faculty on their areas of special interest. Students write weekly abstracts on articles covered by the seminars. This course can be taken for Satisfactory/Unsatisfactory credit only.",
+      "credits": "0",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX297A",
+      "name": "METX 297A — Independent Study",
+      "description": "Independent study for graduate students who have not yet settled on a research area for the thesis. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX297B",
+      "name": "METX 297B — Independent Study",
+      "description": "Independent study for graduate students who have not yet settled on a research area for the thesis. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX297C",
+      "name": "METX 297C — Independent Study",
+      "description": "Independent study for graduate students who have not yet settled on a research area for the thesis. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX299A",
+      "name": "METX 299A — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX299B",
+      "name": "METX 299B — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX299C",
+      "name": "METX 299C — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "METX299Z",
+      "name": "METX 299Z — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

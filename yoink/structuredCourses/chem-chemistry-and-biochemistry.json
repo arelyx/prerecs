@@ -1,0 +1,1216 @@
+{
+  "department": "CHEM - Chemistry and Biochemistry",
+  "slug": "chem-chemistry-and-biochemistry",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/chem-chemistry-and-biochemistry",
+  "generated_at": "2025-11-28T07:51:35.019907+00:00",
+  "courses": [
+    {
+      "id": "CHEM1A",
+      "name": "CHEM 1A — General Chemistry",
+      "description": "An integrated study of general chemistry. Covers a range of topics including the atomic structure of matter; molecules; chemical reactions; acids and bases; gases; and equilibria in the gas and liquid phase. Students are expected to use algebra to solve problems. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in MATH 3 , AM 3 , or equivalent, or a mathematics placement score of 300 or higher. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "MATH3",
+          "AM3"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM1C",
+      "name": "CHEM 1C — General Chemistry",
+      "description": "An integrated study of general chemistry. Coverage includes thermodynamics; oxidation-reduction and electrochemistry; liquids and solids; intermolecular forces and solutions, including colligative properties; and nuclear chemistry. General Chemistry is articulated in a full-year series. Partial transfer credit is not allowed for the A,B,C series.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1A . Concurrent enrollment in course 1N is recommended. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "CHEM1A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM1M",
+      "name": "CHEM 1M — General Chemistry Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in CHEM 1B and CHEM 1C and important experimental techniques.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in CHEM 1B or CHEM 4A is required. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "CHEM1B",
+          "CHEM4A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM1N",
+      "name": "CHEM 1N — General Chemistry Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in CHEM 1B and CHEM 1C , respectively, and important experimental techniques.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in CHEM 1C or CHEM 4B is required. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "CHEM1C",
+          "CHEM4B"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM3A",
+      "name": "CHEM 3A — General Chemistry",
+      "description": "The first course in UCSC's three-quarter introductory chemistry series. Topics in this quarter include atomic theory and structure, the periodic table, chemical bonding, molecules and their structure, intramolecular forces, and chemical reactions and stoichiometry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in MATH 2 or higher, or a math placement (MP) score of 200 or higher. Students cannot enroll in CHEM 3A after receiving a 'C' or better in CHEM 1B.",
+      "prereqGroups": [
+        [
+          "MATH2"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM3B",
+      "name": "CHEM 3B — General Chemistry",
+      "description": "The second course in UCSC's three-quarter introductory chemistry series. Topics in this quarter include chemical equilibrium, acids and bases, solution pH, buffers and chemical kinetics. Course consists of in-person lecture and a secondary active learning discussion section. In addition to the lecture, students are required to enroll and attend one discussion section.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 3A with a grade of C or better, and previous or concurrent enrollment in CHEM 3BL (or CHEM 1M ). Previous or concurrent enrollment in MATH 3 (or equivalent) or a mathematics placement score of 300 or higher is required. Students cannot enroll in CHEM 3B after receiving a 'C' or better in CHEM 1A .",
+      "prereqGroups": [
+        [
+          "CHEM3A"
+        ],
+        [
+          "CHEM3BL",
+          "CHEM1M"
+        ],
+        [
+          "MATH3"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM3BL",
+      "name": "CHEM 3BL — General Chemistry Lab",
+      "description": "Focusing on science skills building with an emphasis on the general chemistry lab setting, course provides an introduction to important concepts and practices related to lab safety, fundamental experimental techniques, chemical handling, waste disposal, data collection/analysis, scientific writing/communication, and small-group collaboration. Coursework includes in-person experiments/lab time as well asynchronous work to be completed in Canvas and WebAssign.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 3A and previous or concurrent enrollment of CHEM 3B or CHEM 1A .",
+      "prereqGroups": [
+        [
+          "CHEM3A"
+        ],
+        [
+          "CHEM3B",
+          "CHEM1A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM3C",
+      "name": "CHEM 3C — General Chemistry",
+      "description": "The third course in UCSC’s three-quarter introductory chemistry series. Topics in this quarter include the first and second laws of thermodynamics, redox reactions, electrochemistry, phase changes, and physical properties of solutions. Course consists of in-person lecture and a secondary active learning discussion section. In addition to the lecture, students are required to enroll and attend one discussion section.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 3B , and previous or concurrent enrollment in CHEM 3CL (or CHEM 1M ).",
+      "prereqGroups": [
+        [
+          "CHEM3B"
+        ],
+        [
+          "CHEM3CL",
+          "CHEM1M"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM3CL",
+      "name": "CHEM 3CL — General Chemistry Lab",
+      "description": "The second in the general chemistry series, course focuses on science skills building with an emphasis on the general chemistry lab setting. Provides an introduction to important concepts and practices related to lab safety, fundamental experimental techniques, chemical handling, waste disposal, data collection/analysis, scientific writing/communication, and small-group collaboration. Coursework includes in-person lab experiments/work as well as asynchronous assignments to be completed in Canvas and Webassign.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): completion of CHEM 3A and CHEM 3B ; prior or concurrent enrollment in CHEM 3C or CHEM 1C .",
+      "prereqGroups": [
+        [
+          "CHEM3A",
+          "CHEM3B"
+        ],
+        [
+          "CHEM3C",
+          "CHEM1C"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM4A",
+      "name": "CHEM 4A — Advanced General Chemistry: Molecular Structure and Reactivity",
+      "description": "The first course of the two-quarter accelerated general chemistry series intended for students with a strong high school chemistry background. Coverage includes atomic structure and periodicity, general concepts of chemical bonding, covalent bonding, chemical equilibria and acid-base equilibria. To enroll in CHEM 4A , students must complete an ALEKS prep module. To access this module, find a link in the \"Class Notes\" section of CHEM 4A in the schedule of classes. Students cannot enroll in CHEM 4A after receiving credit with a 'C' or better in CHEM 3A .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Completion of CHEM 4 Prep ALEKS module (find module link in lass Notes section of CHEM 4A in the schedule of classes). Previous or concurrent enrollment in MATH 3 (or equivalent/higher) or a math placement score of 300 or higher. Concurrent enrollment in CHEM 4AL . Strong high-school-level chemistry is highly recommended. Students who have a C or better in CHEM 3A are not allowed to enroll in CHEM 4A .",
+      "prereqGroups": [
+        [
+          "MATH3"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM4AL",
+      "name": "CHEM 4AL — Advanced General Chemistry Lab",
+      "description": "Focuses on science skills building with an emphasis on the general chemistry lab setting. Provides an introduction to important concepts and practices related to lab safety, fundamental experimental techniques, chemical handling, waste disposal, data collection/analysis, scientific writing/communication, and small-group collaboration. Course work includes in-person lab experiments/work as well as asynchronous work completed in Canvas and Webassign. This course taken with CHEM 4BL provides an advanced alternative to the CHEM 3BL / CHEM 3CL series.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): prior or current enrollment in CHEM 4A .",
+      "prereqGroups": [
+        [
+          "CHEM4A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM4B",
+      "name": "CHEM 4B — Advanced General Chemistry: Molecular Structure and Reactivity",
+      "description": "The second course of the two-quarter accelerated general chemistry series. Coverage includes thermodynamics; kinetics, oxidation-reduction, and electrochemistry; liquids and solids; intermolecular forces and solutions, including colligative properties; and nuclear chemistry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite: CHEM 4A . Concurrent enrollment in CHEM 4BL is required.",
+      "prereqGroups": [
+        [
+          "CHEM4A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM4BL",
+      "name": "CHEM 4BL — Advanced General Chemistry Lab",
+      "description": "Focuses on science skills building with an emphasis on the general chemistry lab setting,. Provides an introduction to important concepts and practices related to lab safety, fundamental experimental techniques, chemical handling, waste disposal, data collection/analysis, scientific writing/communication, and small-group collaboration. Coursework includes in-person lab experiments/work as well as asynchronous work completed in Canvas and Webassign. This course taken with CHEM 4AL provides an advanced alternative to the CHEM 3BL / CHEM 3CL series.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Prior or concurrent enrollment in CHEM 4B .",
+      "prereqGroups": [
+        [
+          "CHEM4B"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM8A",
+      "name": "CHEM 8A — Organic Chemistry",
+      "description": "Introduces organic chemistry, with an emphasis on bonding and reactivity of organic compounds.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 3C , or CHEM 4B , or CHEM 1C and either CHEM 1B, CHEM 3A , or CHEM 4A",
+      "prereqGroups": [
+        [
+          "CHEM3C",
+          "CHEM4B",
+          "CHEM1C"
+        ],
+        [
+          "CHEM1B",
+          "CHEM3A",
+          "CHEM4A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM8B",
+      "name": "CHEM 8B — Organic Chemistry",
+      "description": "Introduction to organic chemistry, with an emphasis on reactivity and synthesis of organic compounds.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8A .",
+      "prereqGroups": [
+        [
+          "CHEM8A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM8L",
+      "name": "CHEM 8L — Organic Chemistry Laboratory",
+      "description": "Laboratory experience in organic chemistry associated with CHEM 8A . Designed to introduce the student to the many techniques associated with organic chemistry while affording an opportunity to explore the concepts discussed in the lecture material. Laboratory: 4 hours, lecture: 1-1/4 hours.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1C , CHEM 3C , or CHEM 4B ; and either CHEM 1N , CHEM 3CL , or CHEM 4BL . Previous or concurrent enrollment in CHEM 8A is required.",
+      "prereqGroups": [
+        [
+          "CHEM1C",
+          "CHEM3C",
+          "CHEM4B"
+        ],
+        [
+          "CHEM1N",
+          "CHEM3CL",
+          "CHEM4BL"
+        ],
+        [
+          "CHEM8A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM8M",
+      "name": "CHEM 8M — Organic Chemistry Laboratory",
+      "description": "Laboratory experience in organic chemistry associated with course 8B. Designed to introduce the student to the many techniques associated with organic chemistry while affording an opportunity to explore the concepts discussed in the lecture material. Laboratory: 4 hours, lecture: 1-1/4 hours.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8A and CHEM 8L and previous or concurrent enrollment in CHEM 8B is required.",
+      "prereqGroups": [
+        [
+          "CHEM8A",
+          "CHEM8L",
+          "CHEM8B"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM8N",
+      "name": "CHEM 8N — Honors Organic Chemistry Lab",
+      "description": "Honors laboratory experience in organic chemistry associated with course CHEM 8B . Designed to introduce the exceptional student to many of the techniques associated with organic chemistry while taking part in an active organic chemistry research experience. Laboratory: 6 hours per week minimum. Prerequisite(s): CHEM 8A and CHEM 8L ; concurrent enrollment in CHEM 8B is required. Enrollment is by permission of the instructor. Students must pass safety training to begin research. Students may only receive credit for one of the following: CHEM 8M or CHEM 8N. This class may only be taken as Pass/No Pass, which cannot be converted to a letter grade.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM80H",
+      "name": "CHEM 80H — Introduction to Wine Science and Chemistry",
+      "description": "A glimpse of the science and technology of wines through critical analysis. Students gain an appreciation of the scientific method and are be exposed to data from chemistry, biology, viticulture, and enology. This analysis is extended to examine commonly accepted practices used by scientists vs. non-scientist to assess and describe wine quality. (Formerly Introduction to Wines and Wine Chemistry.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM99",
+      "name": "CHEM 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM99F",
+      "name": "CHEM 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM103",
+      "name": "CHEM 103 — Biochemistry",
+      "description": "Introduction to biochemistry including biochemical molecules, protein structure and function, membranes, bioenergetics, and regulation of biosynthesis. Provides students with basic essentials of modern biochemistry. Students who plan to do advanced work in biochemistry and molecular biology should take the Biochemistry and Molecular Biology (BIOC) 100 series. Students cannot receive credit for this course after they have completed any two courses from the BIOC 100A , BIOC 100B , and BIOC 100C sequence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8B .",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM109",
+      "name": "CHEM 109 — Intermediate Organic Chemistry and Applications to Biology",
+      "description": "Integrated study of fundamental organic chemistry, with emphasis on materials especially relevant to biological sciences.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8B or equivalent.",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM110",
+      "name": "CHEM 110 — Intermediate Organic Chemistry with Emphasis on Synthesis and Analytical Methods",
+      "description": "An intermediate study of organic chemistry, including synthetic methods, reaction mechanisms, and application of synthetic chemistry techniques.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8B . Enrollment is restricted to chemistry majors, minors and proposed majors.",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM110L",
+      "name": "CHEM 110L — Intermediate Organic Chemistry Laboratory",
+      "description": "Laboratory experience in organic chemistry and associated principles. Experiments involve the preparation, purification, characterization, and identification of organic compounds, and make use of modern as well as classical techniques.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8M and previous or concurrent enrollment in CHEM 110 .",
+      "prereqGroups": [
+        [
+          "CHEM8M",
+          "CHEM110"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM110N",
+      "name": "CHEM 110N — Honors Organic Chemistry Lab",
+      "description": "Honors laboratory experience in organic chemistry associated with CHEM 109 or CHEM 110 . Designed to introduce the exceptional student to many of the techniques associated with organic chemistry while taking part in an active organic chemistry research experience. Laboratory: 6 hours per week minimum. Prerequisite(s): CHEM 8A , CHEM 8B and CHEM 8L and either CHEM 8M or CHEM 8N and and previous or concurrent enrollment in CHEM 109 or CHEM 110 is required. Enrollment is by permission of the instructor. Students must pass safety training to begin research. Students may only receive credit for one of the following: CHEM 110L , or CHEM 110N . This class may only be taken as Pass/No Pass, which cannot be converted to a letter grade.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM122",
+      "name": "CHEM 122 — Principles of Instrumental Analysis",
+      "description": "A laboratory course designed to develop familiarity with techniques and instrumentation used in analytical chemistry, emphasizing determination of trace inorganic species. Primary emphasis on applications utilizing the absorption or emission of electromagnetic radiation and on voltammetry. Topics include molecular UV-visible absorption and fluorescence spectrometry; atomic absorption, emission and fluorescence spectrometry; and various forms of voltammetry. Lecture: 2 hours; laboratory: 8 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 110 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior chemistry (B.S.) majors.",
+      "prereqGroups": [
+        [
+          "CHEM110"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM124",
+      "name": "CHEM 124 — Bioanalytical Chemistry",
+      "description": "Introduces modern measurement science for biomolecules. DNA, proteins, and specialized metabolites and the methodologies for measuring them, both qualitative and quantitative, are covered. Techniques are presented with the basic framework and concepts, and modern applications are covered in lecture followed by a hands-on lab component. Provides students with the necessary framework to design and execute their own research-based bioanalytical experiments. Group lab reports are prepared as a \"Letter\" to Analytical Chemistry to report the findings from the laboratory-based experiments. Tests cover the material from the lecture prior to the test day and are not cumulative in nature, however, concepts may build on one another.",
+      "credits": "4",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8B , and satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM139",
+      "name": "CHEM 139 — Chemical Problem Solving: Learning to Think Like a Scientist",
+      "description": "Students actively develop the skills and strategies required to become proficient problem solvers in both upper-division science classes and in scientific research. The focus is on systematic problem solving and scientific creativity. (Formerly CHEM 139A, Chemical Problem Solving I: Learning to Think Like a Scientist.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1C , CHEM 3C , or CHEM 4B ; and MATH 11A or MATH 19A .",
+      "prereqGroups": [
+        [
+          "CHEM1C",
+          "CHEM3C",
+          "CHEM4B"
+        ],
+        [
+          "MATH11A",
+          "MATH19A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM143",
+      "name": "CHEM 143 — Organic Chemical Structure and Reactions",
+      "description": "Advanced topics such as the chemistry of terpenes, steroids, synthetic polymers, alkaloids, reactive intermediates, and reaction mechanisms are treated. Lecture: 4 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 110 .",
+      "prereqGroups": [
+        [
+          "CHEM110"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM144",
+      "name": "CHEM 144 — Catalysis In Organic Synthesis Using Metals and Metalloids Based Reagents",
+      "description": "Designed to introduce Junior/Senior undergraduates to the field of catalysis in organic synthesis. Course acquaints students with the chemistry, with relevant techniques of metals and metalloid chemistry, and focuses on new advancements in organoborane field. Also provides knowledge of the methods to use chemistry to address synthetic challenges in organic chemistry. Students become familiar with the concepts and approaches in the current field of chemical biology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 110",
+      "prereqGroups": [
+        [
+          "CHEM110"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM146A",
+      "name": "CHEM 146A — Advanced Laboratory in Organic Chemistry",
+      "description": "Exposes students to advanced laboratory techniques in organic chemistry. Designed for students without previous research background in organic chemistry. Experiments carry a research-like format and cover the areas of natural products and reaction chemistry. Modern methods of organic analysis are emphasized including chromatographic methods and organic structure determination by spectroscopy. Laboratory: 8 hours.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 110 and CHEM 110L ; satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to chemistry majors. Minors by permission of instructor.",
+      "prereqGroups": [
+        [
+          "CHEM110"
+        ],
+        [
+          "CHEM110L"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM146B",
+      "name": "CHEM 146B — Advanced Laboratory in Inorganic Chemistry",
+      "description": "Designed to expose students to advanced synthetic and spectroscopic techniques in inorganic chemistry. Examples include anaerobic manipulations, characterization of inorganic materials through spectral assignments and synthesis of coordination and organometallic complexes. Lecture: 1-1/4 hours; laboratory: 8 hours. Students billed a materials fee of $240.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 151A and CHEM 151L ; CHEM 163A ; satisfaction of Entry Level Writing and Composition requirements. Enrollment restricted to chemistry majors. Minors by permission of instructor.",
+      "prereqGroups": [
+        [
+          "CHEM151A"
+        ],
+        [
+          "CHEM151L"
+        ],
+        [
+          "CHEM163A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM146C",
+      "name": "CHEM 146C — Advanced Laboratory in Physical Chemistry",
+      "description": "Provides advanced laboratory experience in the areas of nanomaterial synthesis and characterization; spectroscopy; fabrication and measurements energy-conversion devices; and soft lithography techniques and instrumentation. Lecture: 1-1/4 hours; laboratory: 4 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 163B and CHEM 164 ; satisfaction of Entry Level Writing and Composition requirements. Enrollment restricted to chemistry majors. Minors by permission of instructor.",
+      "prereqGroups": [
+        [
+          "CHEM163B"
+        ],
+        [
+          "CHEM164"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM151A",
+      "name": "CHEM 151A — Chemistry of Metals",
+      "description": "Fundamental topics of inorganic chemistry are presented at the level of the standard texts of field. Special emphasis is given to maintain breadth in the areas of metallic, nonmetallic, and biological aspects of inorganic chemistry. Lecture: 3-1/2 hours; discussion: 1-1/4 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8B and CHEM 8M and CHEM 163A . Concurrent enrollment in CHEM 151L is required.",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ],
+        [
+          "CHEM8M"
+        ],
+        [
+          "CHEM163A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM151B",
+      "name": "CHEM 151B — Chemistry of the Main Group Elements",
+      "description": "Fundamental aspects of inorganic chemistry of main group elements are discussed. The emphasis is placed on the chemistry of nontransition elements including noble gases and halogens. In addition, students are exposed to the concepts of extended structures, new materials, and solid-state chemistry. Lecture: 3-3/4 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8B and CHEM 8M and CHEM 163A . Recommended for chemistry majors.",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ],
+        [
+          "CHEM8M"
+        ],
+        [
+          "CHEM163A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM151L",
+      "name": "CHEM 151L — Inorganic Chemistry Laboratory",
+      "description": "Laboratory experience in inorganic chemistry. Experiments involve the preparation, purification, and characterization of inorganic compounds. In addition, experiments are designed to illustrate fundamental principles in inorganic chemistry and are coordinated with lectures in CHEM 151A. Laboratory: 4 hours per week. Laboratory lecture: 1 1/4 hours per week.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8B and CHEM 8M and CHEM 163A . Concurrent enrollment in CHEM 151A is required.",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ],
+        [
+          "CHEM8M"
+        ],
+        [
+          "CHEM163A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM156C",
+      "name": "CHEM 156C — Materials Chemistry",
+      "description": "Advanced topics in inorganic chemistry and an introduction to solid-state chemistry. Synthesis and structure of materials discussed as well as their influence on properties for modern devices and applications. Recent developments in area of material science also explored. Taught in conjunction with CHEM 256C.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in CHEM 151A . Enrollment is restricted to seniors.",
+      "prereqGroups": [
+        [
+          "CHEM151A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM160J",
+      "name": "CHEM 160J — Biochemistry Research Laboratory",
+      "description": "Introduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8L and completion of or enrollment in BIOC 100A , BIOL 100 , or CHEM 103 .",
+      "prereqGroups": [
+        [
+          "CHEM8L"
+        ],
+        [
+          "BIOC100A"
+        ],
+        [
+          "BIOL100"
+        ],
+        [
+          "CHEM103"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM160K",
+      "name": "CHEM 160K — Biochemistry Research Laboratory",
+      "description": "Introduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM160J.",
+      "prereqGroups": [
+        [
+          "CHEM160J"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM160L",
+      "name": "CHEM 160L — Biochemistry Research Laboratory",
+      "description": "Introduction to hypothesis-driven laboratory research. Students collectively design and execute a novel research project that addresses a question about macromolecular structure, function, or regulation. Working individually and in small groups, students learn aspects of experimental design, literature and public data base research, data analysis and interpretation, and scientific collaboration. Learned laboratory techniques include molecular cloning, recombinant protein expression and purification, and biochemical assay implementation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 160K , satisfaction the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "CHEM160K"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM161J",
+      "name": "CHEM 161J — Chemical Biology Research Laboratory",
+      "description": "The first of a three-course research-based series for students in chemistry or biochemistry and molecular biology degree programs. This lab series introduces undergraduates to the emerging field of chemical biology. There is no laboratory guide with pre-designed experiments and results; instead, students develop a hypothesis and work toward understanding a novel system at the interface of multiple biological and chemical subdisciplines. Students gain technical skills related to these areas by designing experiments, researching primary literature, using public databases, and applying various software programs to aid in data analysis and interpretation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: successful completion of CHEM 8B and CHEM 8M ; and previous or concurrent enrollment in BIOL 100 , BIOC 100A , or CHEM 103 . Enrollment is by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ],
+        [
+          "CHEM8M"
+        ],
+        [
+          "BIOL100"
+        ],
+        [
+          "BIOC100A"
+        ],
+        [
+          "CHEM103"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM161K",
+      "name": "CHEM 161K — Chemical Biology Research Laboratory",
+      "description": "The second of a three-course research-based series for students in chemistry or biochemistry and molecular biology degree programs. Introduces undergraduates to the emerging field of chemical biology. There is no laboratory guide with pre-designed experiments and results; instead, students develop a hypothesis and work toward understanding a novel system at the interface of multiple biological and chemical subdisciplines. Students gain technical skills related to these areas by designing experiments, researching primary literature, using public databases, and applying various software programs to aid in data analysis and interpretation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 161J .",
+      "prereqGroups": [
+        [
+          "CHEM161J"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM161L",
+      "name": "CHEM 161L — Chemical Biology Research Laboratory",
+      "description": "The third of a three-course research-based series for students in chemistry or biochemistry and molecular biology degree programs. Introduces undergraduates to the emerging field of chemical biology. There is no laboratory guide with pre-designed experiments and results; instead, students develop a hypothesis and work toward understanding a novel system at the interface of multiple biological and chemical subdisciplines. Students gain technical skills related to these areas by designing experiments, researching primary literature, using public databases, and applying various software programs to aid in data analysis and interpretation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 161K , and Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "CHEM161K"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM163A",
+      "name": "CHEM 163A — Quantum Mechanics and Basic Spectroscopy",
+      "description": "A detailed introduction to quantum theory and the application of wave mechanics to problems of atomic structure, bonding in molecules, and fundamentals of spectroscopy. Students cannot receive credit for this course and BIOC 163A .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 3C or CHEM 4B or CHEM 1C ; and PHYS 5B or PHYS 6B ; and previous or concurrent enrollment in PHYS 5C or PHYS 6C ; and MATH 22 or MATH 23. MATH 22 or MATH 23B is waived for declared Biochemistry & Molecular Biology students.",
+      "prereqGroups": [
+        [
+          "CHEM3C"
+        ],
+        [
+          "CHEM4B"
+        ],
+        [
+          "CHEM1C"
+        ],
+        [
+          "PHYS5B"
+        ],
+        [
+          "PHYS6B"
+        ],
+        [
+          "PHYS5C"
+        ],
+        [
+          "PHYS6C"
+        ],
+        [
+          "MATH22"
+        ],
+        [
+          "MATH23"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM163B",
+      "name": "CHEM 163B — Chemical Thermodynamics",
+      "description": "Fundamentals of thermodynamics and applications to chemical and biochemical equilibria. Students cannot receive credit for this course and BIOC 163B .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1C , CHEM 3C , or CHEM 4B ; and PHYS 6A or PHYS 5A ; and either MATH 22 , MATH 23B , or AM 30 .",
+      "prereqGroups": [
+        [
+          "CHEM1C"
+        ],
+        [
+          "CHEM3C"
+        ],
+        [
+          "CHEM4B"
+        ],
+        [
+          "PHYS6A"
+        ],
+        [
+          "PHYS5A"
+        ],
+        [
+          "MATH22"
+        ],
+        [
+          "MATH23B"
+        ],
+        [
+          "AM30"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM163C",
+      "name": "CHEM 163C — Statistical Thermodynamics and Kinetics",
+      "description": "Statistical mechanics, kinetic theory, and reaction kinetics and topics in spectroscopy. (Formerly Kinetic Theory and Reaction Kinetics, Statistical Mechanics, Spectroscopic Applications.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 163A and CHEM 163B , or BIOC 163A and BIOC 163B .",
+      "prereqGroups": [
+        [
+          "CHEM163A"
+        ],
+        [
+          "CHEM163B"
+        ],
+        [
+          "BIOC163A"
+        ],
+        [
+          "BIOC163B"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM164",
+      "name": "CHEM 164 — Physical Chemistry Laboratory",
+      "description": "Provides laboratory experience and data analysis in the areas of thermodynamics, kinetics, and spectroscopy. Lecture: 1.75 hours; experimental laboratory: 4 hours; computer laboratory: 2 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1C , CHEM 3C , or CHEM 4B ; and PHYS 5A and PHYS 5B and PHYS 5C , or PHYS 6A and PHYS 6B and PHYS 6C ; and MATH 22 or MATH 23B or AM 30 . CHEM 163A is recommended.",
+      "prereqGroups": [
+        [
+          "CHEM1C"
+        ],
+        [
+          "CHEM3C"
+        ],
+        [
+          "CHEM4B"
+        ],
+        [
+          "PHYS5A"
+        ],
+        [
+          "PHYS5B"
+        ],
+        [
+          "PHYS5C"
+        ],
+        [
+          "PHYS6A"
+        ],
+        [
+          "PHYS6B"
+        ],
+        [
+          "PHYS6C"
+        ],
+        [
+          "MATH22"
+        ],
+        [
+          "MATH23B"
+        ],
+        [
+          "AM30"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM169",
+      "name": "CHEM 169 — Chemistry and Biology of Drug Design and Discovery",
+      "description": "An overview of the central elements of drug discovery, including target selection and validation; computational or virtual screening; high-throughput screening; fragment-based methods; and pharmacokinetics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 103 or BIOC 100A .",
+      "prereqGroups": [
+        [
+          "CHEM103"
+        ],
+        [
+          "BIOC100A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM171",
+      "name": "CHEM 171 — Chemical Biology",
+      "description": "Covers methods and techniques for the field of chemical biology. Brings together methods in chemistry, biochemistry, and genetics to study the interaction of small molecules with biological systems. Students cannot receive credit for this course and course CHEM 271 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: CHEM 8B , and CHEM 103 or BIOC 100A or BIOL 100 . Enrollment is restricted to senior chemistry, biochemistry or related life science majors and minors. BIOL 101 and CHEM 110 recommended but not required.",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ],
+        [
+          "CHEM103"
+        ],
+        [
+          "BIOC100A"
+        ],
+        [
+          "BIOL100"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM186L",
+      "name": "CHEM 186L — Research Communication and Practice",
+      "description": "Complements undergraduate research experience in chemistry and biochemistry with skill development in communicating science and discussion of the responsible practice of science. Students complete written summaries and presentations describing their original research. Additional topics include record keeping, research funding and grant writing, scientific publishing, and ethics and misconduct. Students must be sponsored by a research mentor. Prerequisite(s): CHEM 8M . Students must have active mentorship from department faculty. Enrollment is by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM192",
+      "name": "CHEM 192 — Dir Stu Teach",
+      "description": "Dir Stu Teach",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM194",
+      "name": "CHEM 194 — Senior Essay",
+      "description": "An individually supervised course with emphasis on reviewing the current scientific literature. Students are required to submit a summary and a critique of a scientific paper in the form of a senior essay. Students submit a petition to the sponsoring agency. This course may not be repeated for credit.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM195A",
+      "name": "CHEM 195A — Thesis Research",
+      "description": "An individually supervised course with emphasis on independent research. Multiple-term course extending over two or three quarters; the grade and evaluation submitted for the final quarter apply to all previous quarters. Students submit petition to sponsoring agency; may not be repeated for credit. (Formerly offered as Senior Research.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM195B",
+      "name": "CHEM 195B — Thesis Research",
+      "description": "An individually supervised course with emphasis on independent research. Multiple-term course extending over two or three quarters; the grade and evaluation submitted for the final quarter apply to all previous quarters. Students submit petition to sponsoring agency; may not be repeated for credit. (Formerly offered as Senior Research.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM195C",
+      "name": "CHEM 195C — Thesis Research",
+      "description": "An individually supervised course with emphasis on independent research. Multiple-term course extending over two or three quarters; the grade and evaluation submitted for the final quarter apply to all previous quarters. Students submit petition to sponsoring agency; may not be repeated for credit. (Formerly offered as Senior Thesis.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM199",
+      "name": "CHEM 199 — Independent Research",
+      "description": "Students submit petition to sponsoring agency. (Formerly offered as Tutorial.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM199F",
+      "name": "CHEM 199F — Independent Research",
+      "description": "Students submit petition to sponsoring agency. (Formerly offered as Tutorial.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM200A",
+      "name": "CHEM 200A — Advanced Biochemistry: Biophysical Methods",
+      "description": "An introduction to the theory, principles, and practical application of biophysical methods to the study of biomolecules, especially proteins and nucleic acids. Emphasis on spectroscopic techniques. Topics include magnetic resonance, optical spectroscopy, fast reaction techniques, crystallography, and mass spectrometry.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM200B",
+      "name": "CHEM 200B — Advanced Biochemistry: Macromolecular Structure and Function",
+      "description": "A detailed discussion of nucleic acid and protein chemistry, ranging from the structure, thermodynamics, and folding to the relationship between structure and function, and encompassing the methods used to determine such information.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM200C",
+      "name": "CHEM 200C — Advanced Biochemistry: Enzyme Mechanisms and Kinetics",
+      "description": "A study of enzyme kinetics, mechanisms, and factors involved in enzymic catalysis. Lecture: 3-1/2 hours.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM222",
+      "name": "CHEM 222 — Career Success in Industrial Science/ Engineering",
+      "description": "Provides skills for the transition from academia into industrial research careers, addressing presentation skills, project prioritization, teamwork, salary-benefit expectations, intellectual property, performance reviews, Myers-Briggs profiles, and career planning. Participant teams will analyze the commercialization of a technical innovation.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to Physical and Biological Sciences and School of Engineering graduate students who have completed one consecutive year. Undergraduates may enroll on a space available basis by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM230",
+      "name": "CHEM 230 — Grant Writing in Biomedical Research",
+      "description": "Introduces the fundamentals of grant writing in biomedical research, including best practices for presentation of data and communication of research findings. Students write and peer-edit most components of the NIH Ruth L. Kirschstein F31 predoctoral fellowship. Course is designed for students in their second year or later of graduate study.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM234",
+      "name": "CHEM 234 — Bioinorganic Chemistry",
+      "description": "The role played by transition metals in biological systems is discussed through application of the principles of coordination chemistry and inorganic spectroscopy. Topics include metalloproteins involved in oxygen binding, iron storage, biological redox reactions, and nitrogen fixation, as well as metal complexes of nucleic acids. Lecture: 4 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 151A , CHEM 151L , CHEM 163A , and BIOC 100A ; or graduate students.",
+      "prereqGroups": [
+        [
+          "CHEM151A",
+          "CHEM151L",
+          "CHEM163A",
+          "BIOC100A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM238",
+      "name": "CHEM 238 — Topics in Biophysical Chemistry",
+      "description": "A discussion of the application of selected topics in biophysical chemistry to contemporary problems in biochemistry and molecular biology. Lecture: 3-1/2 hours.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM242A",
+      "name": "CHEM 242A — Modern Physical Organic Chemistry",
+      "description": "Covers molecular structure and bonding, strain, and non-covalent binding forces. Other topics include acid-base chemistry, kinetics, thermodynamics, catalysis, organic reactions and mechanism, and quantum mechanical approaches to the analysis of organic molecules.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to seniors who have taken CHEM 143 , and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM242B",
+      "name": "CHEM 242B — Modern Synthetic Methods in Organic Chemistry",
+      "description": "Presents concepts in bond formation, conformation, selectivity, and stereocontrol in modern organic synthesis. Focuses on understanding reaction mechanisms. Culminates with strategy in designing multi-step synthesis of complex targets.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to seniors who have taken CHEM 143 , and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM242C",
+      "name": "CHEM 242C — Spectroscopy and Applied Analytical Methods",
+      "description": "Presents strategies in organic structure elucidation, including nuclear magnetic resonance (NMR) and mass spectrometry. Provides theory and practical elements of structure elucidation and modern analytical methods for organic molecules.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to seniors who have taken CHEM 143 , and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM244",
+      "name": "CHEM 244 — Organic Free Radical Chemistry",
+      "description": "Explores organic free radicals. Fundamental principles in physical chemistry provide an understanding of free-radical transformations in organic synthesis, polymerization, and some examples of free radicals in biology. For students who have a firm grounding in organic chemistry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM247",
+      "name": "CHEM 247 — Using DFT Computational Methods to Study Molecular Structure and Reactivity",
+      "description": "This course is fully hands-on, highly interactive, and project-based. Students receive extensive training on the DFT program Gaussian and are then offered the opportunity to deepen their knowledge, tailored to their specific research projects. Students have the option to bring in their own molecules of interest from their research laboratories.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM256A",
+      "name": "CHEM 256A — Advanced Topics in Inorganic Chemistry",
+      "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A , CHEM 151L , and CHEM 146B .",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM256B",
+      "name": "CHEM 256B — Advanced Topics in Inorganic Chemistry",
+      "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A , CHEM 151L , and CHEM 146B .",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM256C",
+      "name": "CHEM 256C — Advanced Topics in Inorganic Chemistry",
+      "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A , CHEM 151L , and CHEM 146B .",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM256D",
+      "name": "CHEM 256D — X-ray Crystallography",
+      "description": "Course in chemical crystallography focuses on the needs of small-molecule, single-crystal diffraction studies. Includes diffraction theory, space-group analysis, data collection, structure solution, and refinement. Practical component: use of diffraction equipment and solution/refinement software.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students and seniors who have taken CHEM 151A , CHEM 151L , and CHEM 163A .",
+      "prereqGroups": [
+        [
+          "CHEM151A",
+          "CHEM151L",
+          "CHEM163A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM261",
+      "name": "CHEM 261 — Foundations of Spectroscopy",
+      "description": "The basic theory of time-dependent processes is covered at an advanced level. The interaction of electromagnetic radiation and matter is described using both semiclassical and quantum field formulations. A variety of modern spectroscopic techniques are discussed both in terms of the basic processes and their use in the elucidation of chemical structure and dynamics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A .",
+      "prereqGroups": [
+        [
+          "CHEM163A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM262",
+      "name": "CHEM 262 — Statistical Mechanics",
+      "description": "Theory and concepts of statistical mechanics with applications to ideal gases, condensed systems, phase transition, and non-equilibrium thermodynamics. Lecture: 3-1/2 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A .",
+      "prereqGroups": [
+        [
+          "CHEM163A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM263",
+      "name": "CHEM 263 — Quantum Mechanics",
+      "description": "A rigorous introductory course: the SchrÃ¶dinger equation, operator formalism, matrix mechanics, angular momentum, and spin. Perturbation and other approximate methods. Applications to atomic and molecular problems. Lecture: 3-1/2 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A , PHYS 116A , and PHYS 116C .",
+      "prereqGroups": [
+        [
+          "CHEM163A",
+          "PHYS116A",
+          "PHYS116C"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM264",
+      "name": "CHEM 264 — Computational Materials",
+      "description": "Introduction of quantum mechanical simulations of materials at the atomistic level. This includes introduction of solid-state electronic structure formulated with density functional theory and plane-wave basis, calculations of spectroscopic and transport properties for solids and condensed phases from first-principles. Basic calculations of electronic structure, lattice dynamics with phonon dispersion and dielectric properties, treatment of electron correlation for open-shell systems with linear and non-linear magnetism. Advanced topics include calculations of excited-state spectroscopy with many-body interaction, ab-initio molecular dynamics, Wannier function and topological properties, and electron-phonon coupling for superconductivity and carrier transport.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students; undergraduates who have completed PHYS 102 or CHEM 163A may enroll.",
+      "prereqGroups": [
+        [
+          "PHYS102",
+          "CHEM163A"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM265",
+      "name": "CHEM 265 — Computer Simulation in Statistical Mechanics",
+      "description": "A detailed introduction of the use of computer simulation methods in physical and biophysical chemistry. Includes review of thermodynamics and statistical mechanics, molecular mechanics, molecular dynamics, and Monte-Carlo methods. Applications to liquid structure, reaction dynamics, and protein dynamics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM268",
+      "name": "CHEM 268 — Solid State and Materials Chemistry",
+      "description": "Topics include synthesis of solid-state materials and their characterization using experimental techniques: XRD, TEM spectroscopy, NMR, and their applications in technologies. Emphasis on new materials, e.g., polymer, biopolymers, nanomaterials, organic/inorganic composites, ceramics, superconductors, electronic, magnetic, and opto-electronic materials.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to chemistry graduate students or students previously enrolled in CHEM 163A and CHEM 163B .",
+      "prereqGroups": [
+        [
+          "CHEM163A",
+          "CHEM163B"
+        ]
+      ]
+    },
+    {
+      "id": "CHEM269",
+      "name": "CHEM 269 — Electrochemistry",
+      "description": "Designed to introduce basic principles and applications of electrochemistry to students at upper undergraduate and lower graduate levels in various fields including analytical, physical, and materials chemistry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to seniors and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM271",
+      "name": "CHEM 271 — Chemical Biology",
+      "description": "Methods and techniques for the field of chemical biology. Brings together methods in chemistry, biochemistry, and genetics to study the interaction of small molecules with biological systems. Students cannot receive credit for this course and CHEM 171 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to chemistry graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM272",
+      "name": "CHEM 272 — Mass Spectrometry: Fundamentals and Applications",
+      "description": "Lecture and lab course introducing graduate students to mass spectrometry. Begins with the basic framework and concepts in mass spectrometry to break down modern instrumentation to build toward utilizing modern biomedical applications of the technology. Course focuses on biological molecules (amino acids to proteins). Interpretation of organic mass spectra is only be briefly covered. Provides students with the necessary framework to design and execute their own research-based mass spectrometry experiments. Two weeks are dedicated to hands-on experiments using modern mass spectrometers and preparing short technical notes based on the Journal of the American Society for Mass Spectrometry (JASMS) to report findings from laboratory base experiments.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM274",
+      "name": "CHEM 274 — Proseminar in Synthetic and Polymer Chemistry",
+      "description": "Weekly meetings devoted to study of synthetic organic chemistry and controlled polymer design for applications in nanotechnology. Topics drawn from current literature and research interests of participants.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM275",
+      "name": "CHEM 275 — Proseminar in Biological Inorganic Chemistry",
+      "description": "Weekly meetings devoted to biological inorganic chemistry and biochemistry. Topics are drawn from current literature. Papers and reviews are discussed, and participants give short seminars on their research interests.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM280",
+      "name": "CHEM 280 — Proseminar in Materials Chemistry",
+      "description": "Weekly meetings devoted to materials and inorganic research. Topics are drawn from current literature. Papers and reviews are discussed. Participants also give short seminars on topics of their research interests.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM282",
+      "name": "CHEM 282 — Proseminar: Synthetic Methods",
+      "description": "Weekly meetings devoted to the study of asymmetric and/or enantio-selective synthesis of optically active organic compounds of biological and medicinal significance. Topics drawn from the current literature and the research interests of the participants.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM284",
+      "name": "CHEM 284 — Proseminar in Synthetic Organic Chemistry",
+      "description": "Weekly meetings devoted to the study of synthetic organic chemistry. Topics drawn from the current literature and the research interests of the participants.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM285",
+      "name": "CHEM 285 — Proseminar: Photobiochemistry and Photobiology",
+      "description": "A detailed study of molecular mechanisms of light energy conversion and light-signal transduction processes in biological systems. Student participation in critical discussion of current literature examples are emphasized. Two-hour lecture and two-hour seminar weekly.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM286",
+      "name": "CHEM 286 — Proseminar in Natural Products Chemistry",
+      "description": "Weekly meetings devoted to the study of natural products. Topics drawn from the current literature and research interests of the participants.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM288",
+      "name": "CHEM 288 — Proseminar in Bioinorganic Chemistry",
+      "description": "Weekly meetings devoted to inorganic and bioinorganic research. Topics are drawn from current literature. Papers and reviews are discussed. Participants also give short seminars on topics of their research interests.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM291",
+      "name": "CHEM 291 — Chemistry and Biochemistry Research Seminar",
+      "description": "A weekly chemistry and biochemistry seminar series covering recent developments and current research, led by experts from other institutions, as well as local speakers. Open to chemistry and biochemistry graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM292",
+      "name": "CHEM 292 — Seminar",
+      "description": "No description provided.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or approval of the graduate adviser.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM296",
+      "name": "CHEM 296 — Teaching Chemistry",
+      "description": "University-level pedagogy in chemistry; examines the role of preparation, assessment, and feedback in teaching chemistry discussion and laboratory sections. Effective classroom techniques and organizational strategies discussed; oral presentations analyzed critically. Required of entering chemistry graduate students.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to chemistry graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM297A",
+      "name": "CHEM 297A — Independent Study",
+      "description": "A topic will be studied with faculty tutorial assistance to satisfy a need for the student when a regular course is not available. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM297B",
+      "name": "CHEM 297B — Independent Study",
+      "description": "A topic will be studied with faculty tutorial assistance to satisfy a need for the student when a regular course is not available. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM299A",
+      "name": "CHEM 299A — Thesis Research",
+      "description": "Thesis Research",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM299B",
+      "name": "CHEM 299B — Thesis Research",
+      "description": "Thesis Research",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CHEM299C",
+      "name": "CHEM 299C — Thesis Research",
+      "description": "Thesis Research",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

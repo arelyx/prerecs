@@ -1,0 +1,149 @@
+{
+  "department": "SCIC - Science Communication",
+  "slug": "scic-science-communication",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/scic-science-communication",
+  "generated_at": "2025-11-28T07:51:44.590727+00:00",
+  "courses": [
+    {
+      "id": "SCIC100",
+      "name": "SCIC 100 — Science Communication for Scientists",
+      "description": "Teaches students to communicate effectively about science with the public. Students formulate research questions, identify and interview appropriate expert sources, integrate material into engaging works of creative nonfiction using techniques such as structure, description and voice, and work with peers and the instructor to analyze and improve their work. Focuses on writing as the primary vehicle for creative nonfiction expression about science across mediums. Taught in conjunction with SCIC 200 . Students cannot receive credit for this course and SCIC 200 . Enrollment is restricted to sophomores, juniors, and seniors and subject to interview with the instructor to confirm level of scientific training and writing experience. Contact the instructor to arrange the interview.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC104B",
+      "name": "SCIC 104B — Field Sketching in Color",
+      "description": "Covers field-adapted color illustration techniques including watercolor, colored pencil, inkwash, and mixed media. Field trips to various natural environments provide opportunities to sketch plants, mammals, birds, insects, landscapes, and other subject matter. In addition to in-class assignments, students produce a field sketchbook and a final project. Appropriate for students with demonstrated interest in science illustration through previous course work in science and art or through extracurricular activity in the field or a strong desire to learn the skills of the field. Enrollment process differs for Summer Session.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC106A",
+      "name": "SCIC 106A — Introduction to Natural Science Illustration",
+      "description": "Introduction to graphite, pen and ink, coquille, and scratchboard, along with training in essential skills for creating accurate and dynamic scientific illustrations. Attention to the demands of the printing process along with basics of proportion, perspective, and composition. Appropriate for students with a demonstrated interest in science illustration through previous course work in science and art, or through extracurricular activity in the field, or a strong desire to learn the skills of the field.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC110",
+      "name": "SCIC 110 — Data-Driven Animation for Science Communication",
+      "description": "Effective data visualizations have grown into global movements, such as the \"warming stripes\"; climate change visualization by Ed Hawkins, and have been used to guide policy, for instance, in the COVID-19 pandemic response. This course trains students in data-based storytelling that promotes research and science communication for the benefit of communities and policymakers on local and global scales. Students draft a science writing script, create custom raster and vector graphics, program data visualizations, learn to model and animate 3D models, and create animated compositions. For their final project, students assemble these data-driven assets into an animated video abstract for their own research or that of a collaborating researcher. Taught in conjunction with SCIC 210 .",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC160",
+      "name": "SCIC 160 — Introduction to Science Writing",
+      "description": "A rigorous examination and practice of the skills involved in writing articles about science, health, technology, and the environment for the general public. Covers the essential elements of news writing and explanatory journalism, including developing a story idea, interviewing scientists, fact checking, composition, and editing of multiple drafts about scientific research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and C1, C2 requirements. Enrollment is restricted to junior and senior physical and biological sciences majors.",
+      "prereqGroups": [
+        [
+          "C1",
+          "C2"
+        ]
+      ]
+    },
+    {
+      "id": "SCIC199",
+      "name": "SCIC 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC199F",
+      "name": "SCIC 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC200",
+      "name": "SCIC 200 — Introduction to Science Communication for Scientists",
+      "description": "Instructs science students in communicating about their work with the non-scientist public, including written, visual, and audio forms of communication. Enrollment is restricted to graduate students in science and engineering studies. Enrollment is by interview with the instructor to confirm level of scientific training and writing experience. Taught in conjunction with SCIC 100 . Students cannot receive credit for this course and SCIC 100 .",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC201A",
+      "name": "SCIC 201A — Reporting and Writing Science News",
+      "description": "A survey of the conventions of newspaper journalism and the special application of those conventions to scientific and technological subjects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students formally accepted into the writing track of the Science Communication Program.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC201B",
+      "name": "SCIC 201B — The Science Feature",
+      "description": "A survey of selected feature articles in the current national science magazines, with attention to strategy, level of complexity, explanation technique, and style. Writing assignments include a publishable feature article.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students formally accepted into the writing track of the Science Communication Program.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC201C",
+      "name": "SCIC 201C — Profile and Essay Writing",
+      "description": "A survey of science and nature profiles and essays. Purpose, content, form, and style are considered. Writing assignments include original profiles and essays on current issues in science, technology, and society.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students formally accepted into the writing track of the Science Communication Program.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC201D",
+      "name": "SCIC 201D — Policy and Investigative Reporting",
+      "description": "Rigorous examination of techniques for reporting topics where science and technology meet public policy and society. Covers essential skills of investigative reporting, including obtaining documents through Public Records Act requests, using online reporting resources, and writing about ethical and legal issues.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students formally accepted into the writing track of the Science Communication Program.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC201E",
+      "name": "SCIC 201E — Multimedia Science News",
+      "description": "Introduces web-media tools for reporting science stories and enhancing coverage for broad audiences, including video packages, narrated slideshows, podcasts, blogs, and still photography. Laboratory sections address skills for handling equipment and online editing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students formally accepted into the writing track of the Science Communication Program.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC202",
+      "name": "SCIC 202 — Writing and Editing Workshop",
+      "description": "Theory and practice of writing and editing articles on scientific, medical, environmental, and technological subjects for newspapers, magazines, and special publications directed at non-technical readers.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC210",
+      "name": "SCIC 210 — Data-Driven Animation for Science Communication",
+      "description": "Effective data visualizations have grown into global movements, such as the \"warming stripes,\" climate change visualization by Ed Hawkins, and have been used to guide policy, for instance, in the COVID-19 pandemic response. This course trains students in data-based storytelling that promotes research and science communication for the benefit of communities and policymakers on local and global scales. Students draft a science writing script, create custom raster and vector graphics, program data visualizations, learn to model and animate 3D models, and create animated compositions. For their final project, students assemble these data-driven assets into an animated video abstract for their own research or that of a collaborating researcher. Taught in conjunction with SCIC 110 .",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC297",
+      "name": "SCIC 297 — Independent Study",
+      "description": "A media internship is completed with faculty tutorial assistance, to satisfy a need for the student when a regular course is not available. Enrollment restricted to graduate students formally accepted into the writing track of the Science Communication Program.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SCIC297B",
+      "name": "SCIC 297B — Independent Study",
+      "description": "Independent Study",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

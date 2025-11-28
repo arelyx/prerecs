@@ -1,0 +1,577 @@
+{
+  "department": "OCEA - Ocean Sciences",
+  "slug": "ocea-ocean-sciences",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/ocea-ocean-sciences",
+  "generated_at": "2025-11-28T07:51:42.943407+00:00",
+  "courses": [
+    {
+      "id": "OCEA1",
+      "name": "OCEA 1 — The Oceans",
+      "description": "An interdisciplinary introduction to oceanography focusing on biological, chemical, geological, and physical processes. Covers topics such as origins and structure of planet Earth and its oceans, co-evolution of Earth and life, plate tectonics, liquid water and the hydrologic and hydrothermal cycles, salinity and elemental cycles, ocean circulation, primary production and nutrient cycles, plankton and nekton, life on the sea floor, near shore and estuarine communities, future environmental problems our oceans face. Students may also enroll in and receive credit for EART 1 .",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA80A",
+      "name": "OCEA 80A — Life in the Sea",
+      "description": "The ecology of plants and animals in oceans and coastal areas. Consideration of life in various marine habitats, including the open ocean, rocky shores, estuaries, and the sea. Includes field trips. High school biology and chemistry courses are recommended prior to taking this course.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA80B",
+      "name": "OCEA 80B — Our Changing Planet",
+      "description": "Interdisciplinary scientific perspective on Earth system, focusing on human impacts on global environment. Introduces concepts of Earth system science and explores topics such as global warming, ozone depletion, pollution, deforestation, and future climate change. Prerequisite(s): high school chemistry course recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA90",
+      "name": "OCEA 90 — Fundamentals of Climate",
+      "description": "Quantitative introduction to climate comprising five modules: atmosphere-ocean circulation, atmospheric teleconnections, El-Nino Southern Oscillation, the Pacific Decadal Oscillation, and global warming. Hands-on statistical methods are applied to real-world observations to develop a quantitative understanding of climate.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA100",
+      "name": "OCEA 100 — Physical Oceanography",
+      "description": "Introduces physical aspects of the ocean including both descriptive representations of ocean properties and dynamical processes that govern ocean circulation. Topics include measurement methods, the equation of state, the equations of motion, geostrophy, atmospheric forcing, Ekman transport, gyre circulation, western boundary currents, the global circulation, and surface gravity waves.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 11B or equivalent; and PHYS 6B ; and ESCI 100A or EART 110A .",
+      "prereqGroups": [
+        [
+          "MATH11B",
+          "PHYS6B",
+          "ESCI100A",
+          "EART110A"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA101",
+      "name": "OCEA 101 — The Marine Environment",
+      "description": "An introduction to the marine environment stressing the interaction of physical, chemical, geological, and biological factors in the ocean. Provides the oceanographic background needed for studies in marine biology. Students taking the prerequisite math courses concurrently may enroll in the course with permission from instructor.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 3C , or CHEM 4B , or CHEM 1C ; and MATH 11B or MATH 19B . Students taking the prerequisite math courses concurrently may enroll in the course with permission from instructor.",
+      "prereqGroups": [
+        [
+          "CHEM3C",
+          "CHEM4B",
+          "CHEM1C"
+        ],
+        [
+          "MATH11B",
+          "MATH19B"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA102",
+      "name": "OCEA 102 — Oceans and Climate: Past, Present, and Future",
+      "description": "An introduction to Earth's environment, particularly its oceanic and climatic components. Emphasizes interactions between chemical, physical, biological, and geological processes, and fundamentals of past, present, and future global environmental change. Provides backgrounds for specialized courses in oceanic or climatic change.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 3C , or CHEM 4B , or CHEM 1C .",
+      "prereqGroups": [
+        [
+          "CHEM3C",
+          "CHEM4B",
+          "CHEM1C"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA111",
+      "name": "OCEA 111 — Climate Dynamics",
+      "description": "Applies fundamental physical principles to the atmosphere, cryosphere, and land surface to interpret their observed properties. Interactions between the different components of the climate system, and their role in shaping Earth's climate, are also examined.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 11B or equivalent; PHYS 6B ; and ESCI 100A or EART 110A .",
+      "prereqGroups": [
+        [
+          "MATH11B",
+          "PHYS6B",
+          "ESCI100A",
+          "EART110A"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA115",
+      "name": "OCEA 115 — Antarctic Ecology, Geology, History, and Policy",
+      "description": "Introduces Antarctica and the Southern Ocean. During the quarter students examine the natural, scientific, and anthropogenic complexities of these icy environments. Covers topics related to the geologic origins, fossil record, and climate, ecosystem, and anthropogenic dynamics of the frozen continent and its surrounding ocean. Students learn about Antarcticaâs unique terrestrial and marine ecology, endemic wildlife, discovery and human history, anthropogenic impacts, and the continentâs international agreements on fisheries and environmental protection.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA118",
+      "name": "OCEA 118 — Marine Microbial Ecology",
+      "description": "The study of marine bacteria and their role in the marine ecosystem. Emphasis on biochemistry and physiology in relation to metabolic activity and elemental cycles, trophic interactions, and flows of material and energy in marine food webs. Students cannot receive credit for this course and Ocean Sciences 218.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOE 20C or BIOE 21C, and CHEM 3C , or CHEM 4B , or CHEM 1C .",
+      "prereqGroups": [
+        [
+          "BIOE20C",
+          "BIOE21C"
+        ],
+        [
+          "CHEM3C",
+          "CHEM4B",
+          "CHEM1C"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA120",
+      "name": "OCEA 120 — Aquatic Chemistry: Principles and Applications",
+      "description": "An integrated study of the chemical behavior of natural waters with an emphasis on both principles and applications. Topics include chemical equilibrium, kinetics, acids/bases, oxidation/reduction, complexation, solid dissolution and precipitation, and reactions on solid surfaces.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1C or CHEM 3C or CHEM 4B ; CHEM 8A recommended.",
+      "prereqGroups": [
+        [
+          "CHEM1C",
+          "CHEM3C",
+          "CHEM4B"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA121",
+      "name": "OCEA 121 — Aqueous Geochemistry",
+      "description": "Explores the geochemistry of the water-solid interface in the environment. Topics include: the composition of natural particles in the environment; the use of chemical equilibria and kinetics to assess the reactivity at the particle-water interface; and applications to environmental and oceanographic problems.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 3C , or CHEM 4B , or CHEM 1C , or previous or concurrent enrollment in EART 110A . Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "CHEM3C",
+          "CHEM4B",
+          "CHEM1C",
+          "EART110A"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA122",
+      "name": "OCEA 122 — Chemical Oceanography",
+      "description": "Provides a chemical description of the sea. Emphasizes the chemical interactions of the ocean with the biosphere, atmosphere, and lithosphere. Topics include biochemical cycles and the use of chemical tracers to study oceanic and coastal processes. Students may not receive credit for this course and OCEA 220 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1C ; a previous course in ocean sciences is also recommended. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "CHEM1C"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA124",
+      "name": "OCEA 124 — Aquatic Organic Geochemistry",
+      "description": "Introduction to organic geochemistry with emphasis on aquatic environments. Explores how non-living organic matter shapes biogeochemical cycles by carrying and sequestering reduced carbon and major nutrients and examines influence of chemical structure and environmental factors on transport and fate of organic molecules. Provides an introduction to organic biomarkers. Students cannot receive credit for this course and course 224.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 3C , or CHEM 4B , or CHEM 1C , and at least one quarter of CHEM 8A or CHEM 8B .",
+      "prereqGroups": [
+        [
+          "CHEM3C",
+          "CHEM4B",
+          "CHEM1C"
+        ],
+        [
+          "CHEM8A",
+          "CHEM8B"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA130",
+      "name": "OCEA 130 — Biological Oceanography",
+      "description": "Biological description of the sea, with emphasis on processes and patterns. Topics include microbial dynamics, phytoplankton and zooplankton production, and ecology of marine food webs. Emphasis placed on understanding how physical, chemical, and geological environment shapes biology and ecology of oceans, including such topics as harmful algal blooms, global estimates of productivity, and effects of humans on environment. Students cannot receive credit for this course and Ocean Sciences 230.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): previous course in ocean sciences recommended. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA141",
+      "name": "OCEA 141 — Dynamics of Marine Ecosystems",
+      "description": "Overview of physical-biogeochemical interactions in the ocean and their impact on marine ecosystems, with a special focus on the California Current and other important marine biomes. Lectures introduce the fundamental processes occurring at regional (e.g., upwelling dynamics) and basin (e.g., El NiÃ±o events) scales, and describe how their interplay shapes the seasonal, interannual, and long-term response of marine ecosystems worldwide.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ESCI 100A .",
+      "prereqGroups": [
+        [
+          "ESCI100A"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA158",
+      "name": "OCEA 158 — The Ecology and Conservation of Marine Megafauna",
+      "description": "The systematics, physiology, ecology, behavior, and conservation of marine birds and mammals, with emphasis on the fauna and issues of the Monterey Bay area. Field trips enable students to observe unique local species in their native habitats and learn current research techniques. Formerly offered as The Ecology and Conservation of Marine Birds and Mammals.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): OCEA 80A , BIOE 20C , or permission of instructor.",
+      "prereqGroups": [
+        [
+          "OCEA80A",
+          "BIOE20C"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA165",
+      "name": "OCEA 165 — Marine Population Dynamics",
+      "description": "Examines classic ecological models of population dynamics and growth with case studies from the marine environment. Topics include exponential and logistic growth, density dependence, age and stage structure, discrete vs. continuous time, metapopulation models, coexistence, and the dynamics of interacting populations. Case studies are drawn from biological oceanography, fisheries stock assessments, endangered species management, and more. This course focuses on theory and mathematical underpinnings of these dynamical models; it does not go into detail on how to fit them to data.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 11A and MATH 11B , or MATH 19A and MATH 19B , or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "MATH11A",
+          "MATH11B"
+        ],
+        [
+          "MATH19A",
+          "MATH19B"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA199",
+      "name": "OCEA 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA199F",
+      "name": "OCEA 199F — Tutorial",
+      "description": "Introduction to research in laboratory, field, or theoretical subjects as an independent study. May not be counted toward upper-division major requirements. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA200",
+      "name": "OCEA 200 — Physical Oceanography",
+      "description": "Introduces the physics of the ocean. Topics include physical properties of seawater, atmospheric forcing, Ekman dynamics, Sverdrup dynamics, the wind-driven ocean circulation, ocean mixing, water masses, the meridional overturning circulation, surface gravity waves, Rossby waves, Kelvin waves, and ocean tides. Designed for beginning graduate students in ocean sciences and upper-division science majors. Calculus and physics recommended as preparation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA201",
+      "name": "OCEA 201 — Advanced Physical Oceanography",
+      "description": "Covers advanced topics and physical principles as they relate to the ocean circulation. Designed as a follow-on class for OCEA 200 , Physical Oceanography, and topics covered include: the dynamics of the subtropical gyres; potential vorticity dynamics; ventilated thermocline theory; the abyssal circulation; barotropic and baroclinic instability; and ocean eddies. Students use simple computer models to explore these important topics further, and review seminal papers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): OCEA 200 , or a graduate geophysical fluid dynamics course or equivalent (e.g. EART 272 /OCEA 272, AM 217 , AM 227 ), or by instructor consent. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "OCEA200",
+          "EART272",
+          "OCEA272",
+          "AM217",
+          "AM227"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA211",
+      "name": "OCEA 211 — Climate Dynamics",
+      "description": "Introduction to the dynamics of the Earth climate system. Topics: climate system components, the global energy balance, radiative transfer, the hydrological cycle, general circulations of the atmosphere and ocean, El Nino, the North Atlantic Oscillation, and the Pacific Decadal Oscillation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll by permission of instructor. Previous courses in calculus and ocean sciences or earth sciences are recommended.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA213",
+      "name": "OCEA 213 — Biogeochemical Cycles",
+      "description": "Overview of biogeochemical cycles, present and past, and geochemical models. Topics include: marine, terrestrial, and global views of the carbon, nitrogen, phosphorus, silicon, sulfur, and oxygen cycles, and the evolution of these cycles and Earth's redox balance through geologic time.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Upper-division undergraduates may enroll with instructor approval. College-level chemistry and an upper-division course in at least one relevant discipline are recommended.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA215",
+      "name": "OCEA 215 — Predicting the Atmosphere, Ocean, and Climate",
+      "description": "Introduction to the theory and practice of operational prediction in meteorology, oceanography, and climate. Topics: observations and estimation theory, dynamic adjustment and initialization, estimation theory, data assimilation, forecast verification, predictability, ocean state estimation, seasonal forecasting.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with instructor approval. OCEA 200 , OCEA 260 , EART 272 , or equivalents are recommended.",
+      "prereqGroups": [
+        [
+          "OCEA200",
+          "OCEA260",
+          "EART272"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA218",
+      "name": "OCEA 218 — Marine Microbial Ecology",
+      "description": "Recent developments in the study of marine bacteria and their role in the marine ecosystem. Emphasis on biochemistry and physiology in relation to metabolic activity and elemental cycles, trophic interactions and flows of material and energy in marine food webs. Exams and research paper required. Students cannot receive credit for this course and OCEA 118 and BIOL 171. BIOL 20C and CHEM 1C recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA220",
+      "name": "OCEA 220 — Chemical Oceanography",
+      "description": "A chemical description of the sea; emphasis on the chemical interactions of the oceans with the biosphere, atmosphere, and lithosphere. Topics include biogeochemical cycles and the use of chemical tracers to study oceanic and coastal processes. Course designed for graduate students. Students may not receive credit for this course and OCEA 122 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; upper-division undergraduates may enroll with instructor approval.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA224",
+      "name": "OCEA 224 — Aquatic Organic Geochemistry",
+      "description": "Introduction to organic geochemistry with emphasis on aquatic environments. Explores how non-living organic matter shapes biogeochemical cycles by carrying and sequestering reduced carbon and major nutrients and examines influence of chemical structure and environmental factors on transport and fate of organic molecules. Provides an introduction to organic biomarkers. Students cannot receive credit for this course and OCEA 124.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA230",
+      "name": "OCEA 230 — Biological Oceanography",
+      "description": "Biological description of the sea, with emphasis on processes and patterns. Topics include microbial dynamics, phytoplankton and zooplankton production, and ecology of marine food webs. Emphasis placed on understanding how physical, chemical, and geological environment shapes biology and ecology of oceans, including such topics as harmful algal blooms, global estimates of productivity, and effects of humans on environment. Students cannot receive credit for this course and OCEA 130.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): previous course in ocean sciences recommended. Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA241",
+      "name": "OCEA 241 — Dynamics of Marine Ecosystems",
+      "description": "Covers physical-biogeochemical interactions in the ocean on marine ecosystems, with a special focus on the California Current region. Lectures introduce fundamental processes occurring at local, regional, and basin scales, and describe their complex interplay.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA250",
+      "name": "OCEA 250 — Field and Laboratory Methods in Coastal and Aquatic Science",
+      "description": "Students become familiar with core measurement and sampling techniques and multi-disciplinary nature of aquatic sciences routinely employed by working aquatic scientists in the fields of biology, geology, chemistry and physics. Overarching goal of class is having students become deeply familiar with a field site and observing it over an extended period of time while working collaboratively to accomplish all the measurements. The field component of the work is conducted at UCSC's Younger Lagoon Research Reserve, located adjacent to the Long Marine Lab on the coastal campus. Taught in conjunction with ESCI 150 . Students cannot receive credit for this course and ESCI 150 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA255",
+      "name": "OCEA 255 — Visualizing Ocean Data",
+      "description": "Ocean data collection has increased dramatically with much of this information available publicly for consumption and analysis by the scientific and broader community. Yet the format of available information differs often by platform, and useful visualization techniques depend on the type of data being considered. Class introduces different types of publicly available data, develops tools needed to access this information locally, and discusses broad methods for visualization appropriate for time-series, maps, sections, vector fields, and animations. Students develop their own capabilities through assignments using a scientific programming language of their choice (e.g., julia, python, matlab, or R), and lectures introduce necessary programming ideas and examples to support student-based tool development.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA260",
+      "name": "OCEA 260 — Introductory Data Analysis in the Ocean and Earth Sciences",
+      "description": "Introduces data analysis methods regularly encountered within the ocean and earth sciences. Topics include: error propagation, least squares analysis, data interpolation methods, empirical orthogonal functions, and Monte Carlo methods applied to problems drawn from oceanographic and earth sciences datasets. Introduces and uses a high-level computing and visualization package of their choice (e.g., Matlab, python, R, Julia). Student project consists of analysis of the student's own dataset.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): previous course in ocean or earth sciences is recommended. Enrollment is restricted to graduate students; undergraduates with permission of instructor.",
+      "prereqGroups": [
+        [
+          "OCEAN"
+        ],
+        [
+          "EARTH"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA265",
+      "name": "OCEA 265 — Marine Population Dynamics",
+      "description": "Examines classic ecological models of population dynamics and growth with case studies from the marine environment. Topics include exponential and logistic growth, density dependence, age and stage structure, discrete vs. continuous time, metapopulation models, coexistence, and the dynamics of interacting populations. Case studies are drawn from biological oceanography, fisheries stock assessments, endangered species management, and more. This course focuses on theory and mathematical underpinnings of these dynamical models; it does not go into detail on how to fit them to data.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA267",
+      "name": "OCEA 267 — Applied Environmental Time Series Analysis",
+      "description": "Course takes an empirical approach to quantify and explain changes in the Earth system over time. Students learn how to analyze time-series data and answer questions about environmental change and variability. Students acquire the theoretical basis of the statistical approaches, gain experience interpreting and discussing the results, and debate the methods chosen resulting in a critical understanding of the underlying assumptions and limitations of the methods discussed. This is a hands-on class and utilizes a suite of observational datasets and outputs from Earth system models. Students cannot receive credit for this course and ESCI 167 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Students are expected to know R, Matlab or Python and have statistics background. Please contact the instructor before enrolling if you are unsure.Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA280",
+      "name": "OCEA 280 — Marine Geology",
+      "description": "Geology of the marine environment. Topics include controls on the types, origin, and distribution of marine sediments; geology of oceanic crust; evolution of continental margins and plate boundaries; and introduction to paleoceanography. Students cannot receive credit for this course and EART102.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA285",
+      "name": "OCEA 285 — Past Climate Change",
+      "description": "Reviews the fundamentals of climate dynamics and explores how Earth's environment is a product of the interaction of its components. Uses examples of climate change from historical and geologic records, and from predictions of the future. Recommended for junior, senior, and graduate students in the sciences.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA286",
+      "name": "OCEA 286 — Introduction to Ocean Modeling",
+      "description": "Fundamental concepts and ideas that underpin numerical modeling of the ocean. Topics include numerical methods and solutions of partial differential equations (PDEs), ocean circulation, wave dynamics, ocean ecosystem model, and MATLAB programming.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students, or seniors by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA290A",
+      "name": "OCEA 290A — Topics in Chemical Oceanography",
+      "description": "A weekly seminar series covering recent developments in chemical oceanography. Different topics and approaches will be stressed from year to year.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA290B",
+      "name": "OCEA 290B — Topics in Biological Oceanography",
+      "description": "Explores different problems of special interest in biological oceanography. Different topics and approaches will be stressed from year to year.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA290C",
+      "name": "OCEA 290C — Topics in Marine Geochemistry",
+      "description": "Selected topics in geochemistry. Discussion of theoretical models, different approaches, and recent research. Topics vary from year to year.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA290D",
+      "name": "OCEA 290D — Topics in Marine Microbiology",
+      "description": "A weekly seminar series covering topics in environmental microbiology. Topics vary from year to year, and will include research in ecology, methodology, biochemistry and physiology of bacteria. Emphasis on the role of bacteria in biogeochemical cycling from microzone to global scales, with particular focus in marine systems.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA290E",
+      "name": "OCEA 290E — Topics in Climatic and Oceanic Change",
+      "description": "Weekly seminar series covering recent developments in climatic and oceanic change. Different topics and approaches stressed from year to year. Prerequisite(s): interview with instructor prior to first class meeting.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA290G",
+      "name": "OCEA 290G — Topics in Physical Oceanography",
+      "description": "Weekly seminar series covering topics in physical oceanography as well as biological-physical interactions in the oceans. Different topics and approaches stressed from year to year.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA290H",
+      "name": "OCEA 290H — Topics in Ocean Optics",
+      "description": "Examines recent developments and application of bio-optics to the marine environment, including theory, instrumentation, and remote sensing. Different topics and approaches emphasized from year to year.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA290J",
+      "name": "OCEA 290J — Topics in Marine Organic Geochemistry",
+      "description": "Examines recent developments in uses of organic geochemistry to trace oceanographic and biogeochemical processes. Focuses on introduction to organic biomarkers, current literature, and evolving applications. Different topics and approaches emphasized from year to year.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA292",
+      "name": "OCEA 292 — Seminar",
+      "description": "Weekly seminar on various topics attended by faculty, graduate, and upper-division undergraduate students.",
+      "credits": "0",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA295",
+      "name": "OCEA 295 — How to Write a Scientific Article",
+      "description": "Designed as a project-oriented writing-intensive course, focused on Earth, ocean, and environmental sciences. Intended for advanced graduate students who have completed some research and are ready to write an article for submission to a journal or other venue. The student is expected to have a dataset in hand, to have already mapped out most of their interpretation, and to be ready to spend most of the quarter preparing a manuscript for submission. The course consists of writing assignments, lectures, class discussions, in-class exercises and peer-review. Enrollment is restricted to graduate students and is by permission of the instructor. Instructor will get information from prospective students to assess whether they are ready to take this class.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA296",
+      "name": "OCEA 296 — Teaching in Ocean Sciences",
+      "description": "For new and/or relatively inexperienced graduate students in pedagogy of ocean sciences. Role and responsibilities of teaching in ocean sciences described and developed. Includes discussions about effective teaching methods; hands-on issues for work in the laboratory; university expectations; and regulations regarding teaching, organizational strategies, time management, and working with instructors and staff.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): graduate standing or permission of instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA297A",
+      "name": "OCEA 297A — Independent Study",
+      "description": "Independent reading, research, and written reports not related to thesis research. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA297B",
+      "name": "OCEA 297B — Independent Study",
+      "description": "Independent reading, research, and written reports not related to thesis research. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA297C",
+      "name": "OCEA 297C — Independent Study",
+      "description": "Independent reading, research, and written reports not related to thesis research. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA299A",
+      "name": "OCEA 299A — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA299B",
+      "name": "OCEA 299B — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "OCEA299C",
+      "name": "OCEA 299C — Thesis Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART172",
+      "name": "EART 172 — Geophysical Fluid Dynamics",
+      "description": "Introduces fluid motion influenced by rotation. Topics include the Coriolis force, geostrophic flow, potential vorticity, the shallow water model, quasigeostrophic approximation, planetary waves, Ekman theory, thermal wind, models of the large-scale oceanic and atmospheric circulation, and equatorial dynamics. Taught in conjunction with EART 272. Students cannot receive credit for this course and EART 272.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 107 or AM 107; MATH 22 or MATH 23B recommended.",
+      "prereqGroups": [
+        [
+          "PHYS107"
+        ],
+        [
+          "AM107"
+        ]
+      ]
+    },
+    {
+      "id": "EART272",
+      "name": "EART 272 — Geophysical Fluid Dynamics",
+      "description": "Introduces fluid motion influenced by rotation. Topics include the Coriolis force, geostrophic flow, potential vorticity, the shallow water model, quasigeostrophic approximation, planetary waves, Ekman theory, thermal wind, models of the large-scale oceanic and atmospheric circulation, and equatorial dynamics. Students cannot receive credit for this course and EART 172.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    }
+  ]
+}

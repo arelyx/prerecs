@@ -1,0 +1,600 @@
+{
+  "department": "STAT - Statistics",
+  "slug": "stat-statistics",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/stat-statistics",
+  "generated_at": "2025-11-28T07:51:45.242034+00:00",
+  "courses": [
+    {
+      "id": "STAT5",
+      "name": "STAT 5 — Statistics",
+      "description": "Introduction to statistical methods/reasoning, including descriptive methods, data-gathering (experimental design and sample surveys), probability, interval estimation, significance tests, one- and two-sample problems, categorical data analysis, correlation and regression. Emphasis on applications to the natural and social sciences. Students cannot receive credit for this course if they have already received credit for STAT 7 or STAT 17 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Students cannot enroll in STAT 5 after receiving a C or better in STAT 7 or STAT 17 .",
+      "prereqGroups": [
+        [
+          "STAT7"
+        ],
+        [
+          "STAT17"
+        ]
+      ]
+    },
+    {
+      "id": "STAT7",
+      "name": "STAT 7 — Statistical Methods for the Biological, Environmental, and Health Sciences",
+      "description": "Case-study-based introduction to statistical methods as practiced in the biological, environmental, and health sciences. Descriptive methods, experimental design, probability, interval estimation, hypothesis testing, one- and two-sample problems, power and sample size calculations, simple correlation and simple linear regression, one-way analysis of variance, categorical data analysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Mathematics placement (MP) score of 300 or higher or AM 3 or AM 11A or AM 15A or MATH 3 or MATH 11A or MATH 16A or MATH 19A or MATH 20A . Concurrent enrollment in STAT 7L is required.",
+      "prereqGroups": [
+        [
+          "AM3",
+          "AM11A",
+          "AM15A",
+          "MATH3",
+          "MATH11A",
+          "MATH16A",
+          "MATH19A",
+          "MATH20A"
+        ]
+      ]
+    },
+    {
+      "id": "STAT7L",
+      "name": "STAT 7L — Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory",
+      "description": "Computer-based laboratory course in which students gain hands-on experience in analysis of data sets arising from statistical problem-solving in the biological, environmental, and health sciences. Descriptive methods, interval estimation, hypothesis testing, one-and two-sample problems, correlation and regression, one-way analysis of variance, categorical data analysis. (Formerly AMS 7L.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), AM 3 or AM 11A or AM 15A or MATH 3 or MATH 11A or MATH 16A or MATH 19A or MATH 20A . Concurrent enrollment in STAT 7 is required.",
+      "prereqGroups": [
+        [
+          "AM3",
+          "AM11A",
+          "AM15A",
+          "MATH3",
+          "MATH11A",
+          "MATH16A",
+          "MATH19A",
+          "MATH20A"
+        ]
+      ]
+    },
+    {
+      "id": "STAT17",
+      "name": "STAT 17 — Statistical Methods for Business and Economics",
+      "description": "Introduction to statistical methods as practiced in business and economics. Topics include descriptive methods, probability, random variables, expected values, sampling, estimation, confidence intervals, hypothesis testing, one- and two-sample problems, power and sample size calculations, correlation, and simple linear regression.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Mathematics placement (MP) score of 300 or higher or completion of AM 3 or AM 11A or ECON 11A or MATH 3 or MATH 11A or MATH 16A or MATH 19A or MATH 20A . Concurrent enrollment in STAT 17L is required.",
+      "prereqGroups": [
+        [
+          "AM3",
+          "AM11A",
+          "ECON11A",
+          "MATH3",
+          "MATH11A",
+          "MATH16A",
+          "MATH19A",
+          "MATH20A"
+        ]
+      ]
+    },
+    {
+      "id": "STAT17L",
+      "name": "STAT 17L — Statistical Methods for Business and Economics Laboratory",
+      "description": "Overview and basic training in statistical programs used in the economics major. Introduces students to basic data analysis workflow. A workflow of data analysis is a process for managing all aspects of data analysis. Planning, documenting, and organizing work; cleaning the data; creating, renaming, and verifying variables; creating summary statistics; and archiving what has been done are all integral parts of students' data analysis. This is an online asynchronous lab, with synchronous office hours/question and answer sessions.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisites: Mathematics placement (MP) score of 300 or higher, or completion of AM 3 or AM 11A or ECON 11A or MATH 3 or MATH 11A or MATH 16A or MATH 19A or MATH 20A . Concurrent enrollment in STAT 17 is required. Declared and proposed majors in one of the economics programs who are transferring in a course equivalent to STAT 17 , should contact the Economics Department to petition for an exception to the concurrent enrollment requirement.",
+      "prereqGroups": [
+        [
+          "AM3",
+          "AM11A",
+          "ECON11A",
+          "MATH3",
+          "MATH11A",
+          "MATH16A",
+          "MATH19A",
+          "MATH20A"
+        ]
+      ]
+    },
+    {
+      "id": "STAT80A",
+      "name": "STAT 80A — Gambling and Gaming",
+      "description": "Games of chance and strategy motivated early developments in probability, statistics, and decision theory. Course uses popular games to introduce students to these concepts, which underpin recent scientific developments in economics, genetics, ecology, and physics. (Formerly AMS 80A.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT80B",
+      "name": "STAT 80B — Data Visualization",
+      "description": "Introduces the use of complex-data graphical representations to extract information from data. Topics include: summary statistics, boxplots, histograms, dotplots, scatterplots, bubble plots, and map-creation, as well as visualization of trees and hierarchies, networks and graphs, and text. (Formerly AMS 80B.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT108",
+      "name": "STAT 108 — Linear Regression",
+      "description": "Covers simple linear regression, multiple regression, and analysis of variance models. Students learn to use the software package R to perform the analysis, and to construct a clear technical report on their analysis, readable by either scientists or nontechnical audiences. (Formerly AMS 156.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 132 and satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "STAT132"
+        ]
+      ]
+    },
+    {
+      "id": "STAT131",
+      "name": "STAT 131 — Introduction to Probability Theory",
+      "description": "Introduction to probability theory and its applications. Combinatorial analysis, axioms of probability and independence, random variables (discrete and continuous), joint probability distributions, properties of expectation, Central Limit Theorem, Law of Large Numbers, Markov chains. Students cannot receive credit for this course and STAT 203 and CMPE 107 . (Formerly AMS 131.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 11B or ECON 11B or MATH 11B or MATH 19B or MATH 20B .",
+      "prereqGroups": [
+        [
+          "AM11B",
+          "ECON11B",
+          "MATH11B",
+          "MATH19B",
+          "MATH20B"
+        ]
+      ]
+    },
+    {
+      "id": "STAT132",
+      "name": "STAT 132 — Classical and Bayesian Inference",
+      "description": "Introduction to statistical inference at a calculus-based level: maximum likelihood estimation, sufficient statistics, distributions of estimators, confidence intervals, hypothesis testing, and Bayesian inference. (Formerly AMS 132.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 131 or CSE 107 .",
+      "prereqGroups": [
+        [
+          "STAT131"
+        ],
+        [
+          "CSE107"
+        ]
+      ]
+    },
+    {
+      "id": "STAT198",
+      "name": "STAT 198 — Independent Study or Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT198F",
+      "name": "STAT 198F — Independent Study or Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT200",
+      "name": "STAT 200 — Research and Teaching in Statistics",
+      "description": "Focuses on basic teaching techniques for teaching assistants, including responsibilities and rights, leading discussion or lab sessions, presentation techniques, maintaining class records, and grading. Examines research and professional training, including use of library, technical writing, giving seminar and conference talks, and ethical issues in science and engineering.",
+      "credits": "3",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT202",
+      "name": "STAT 202 — Linear Models in SAS",
+      "description": "Case study-based course teaches statistical linear modeling using the SAS software package. Teaches generalized linear models; linear regression; analysis of variance/covariance; analysis of data with random effects and repeated measures. (Formerly AMS 202.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 108 or STAT 208 , or permission of instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT108"
+        ],
+        [
+          "STAT208"
+        ]
+      ]
+    },
+    {
+      "id": "STAT203",
+      "name": "STAT 203 — Introduction to Probability Theory",
+      "description": "Introduces probability theory and its applications. Requires a multivariate calculus background, but has no measure theoretic content. Topics include: combinatorial analysis; axioms of probability; random variables (discrete and continuous); joint probability distributions; expectation and higher moments; central limit theorem; law of large numbers; and Markov chains. Students cannot receive credit for this course and STAT 131 or CMPE 107 . (Formerly AMS 203.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students, or by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT204",
+      "name": "STAT 204 — Introduction to Statistical Data Analysis",
+      "description": "Presents tools for exploratory data analysis (EDA) and statistical modeling in R. Topics include numerical and graphical tools for EDA, linear and logistic regression, ANOVA, PCA, and tools for acquiring and storing large data. No R knowledge is required. Enrollment is restricted to graduate students and by permission of instructor. (Formerly AMS 204.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT205",
+      "name": "STAT 205 — Introduction to Classical Statistical Learning",
+      "description": "Introduction to classical statistical inference. Topic include: random variables and distributions; types of convergence; central limit theorems; maximum likelihood estimation; Newton-Raphson, Fisher scoring, Expectation-Maximization, and stochastic gradient algorithms; confidence intervals; hypothesis testing; ridge regression, lasso, and elastic net.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 203 ; or STAT 131 and STAT 132 . Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor if they've completed STAT 131 and STAT 132 (subject to instructor verification).",
+      "prereqGroups": [
+        [
+          "STAT203"
+        ],
+        [
+          "STAT131",
+          "STAT132"
+        ]
+      ]
+    },
+    {
+      "id": "STAT205B",
+      "name": "STAT 205B — Intermediate Classical Inference",
+      "description": "Statistical inference from a frequentist point of view. Properties of random samples; convergence concepts applied to point estimators; principles of statistical inference; obtaining and evaluating point estimators with particular attention to maximum likelihood estimates and their properties; obtaining and evaluating interval estimators; and hypothesis testing methods and their properties. (Formerly AMS 205B.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 203 . Enrollment is restricted to graduate students. Undergraduates may enroll by permission ( STAT 131 and 132 have to be verified by the instructor directly with the student).",
+      "prereqGroups": [
+        [
+          "STAT203"
+        ]
+      ]
+    },
+    {
+      "id": "STAT206",
+      "name": "STAT 206 — Applied Bayesian Statistics",
+      "description": "Introduces Bayesian statistical modeling from a practitioner's perspective. Covers basic concepts (e.g., prior-posterior updating, Bayes factors, conjugacy, hierarchical modeling, shrinkage, etc.), computational tools (Markov chain Monte Carlo, Laplace approximations), and Bayesian inference for some specific models widely used in the literature (linear and generalized linear mixed models). (Formerly AMS 206.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 131 or STAT 203 , or by permission of the instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT131"
+        ],
+        [
+          "STAT203"
+        ]
+      ]
+    },
+    {
+      "id": "STAT206B",
+      "name": "STAT 206B — Intermediate Bayesian Inference",
+      "description": "Bayesian statistical methods for inference and prediction including: estimation; model selection and prediction; exchangeability; prior, likelihood, posterior, and predictive distributions; coherence and calibration; conjugate analysis; Markov Chain Monte Carlo methods for simulation-based computation; hierarchical modeling; Bayesian model diagnostics, model selection, and sensitivity analysis. (Formerly AMS 206B.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 203 . Enrollment is restricted to graduate students. Undergraduates may enroll by permission ( STAT 131 and 132 have to be verified by the instructor directly with the student).",
+      "prereqGroups": [
+        [
+          "STAT203"
+        ]
+      ]
+    },
+    {
+      "id": "STAT207",
+      "name": "STAT 207 — Intermediate Bayesian Statistical Modeling",
+      "description": "Hierarchical modeling, linear models (regression and analysis of variance) from the Bayesian point of view, intermediate Markov chain Monte Carlo methods, generalized linear models, multivariate models, mixture models, hidden Markov models. (Formerly AMS 207.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 206B . Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "STAT206B"
+        ]
+      ]
+    },
+    {
+      "id": "STAT208",
+      "name": "STAT 208 — Linear Statistical Models",
+      "description": "Theory, methods, and applications of linear statistical models. Review of simple correlation and simple linear regression. Multiple and partial correlation and multiple linear regression. Analysis of variance and covariance. Linear model diagnostics and model selection. Case studies drawn from natural, social, and medical sciences. STAT 205 strongly recommended as a prerequisite. Undergraduates are encouraged to take this class with permission of instructor. (Formerly AMS 256.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 205 or STAT 205B . Enrollment is restricted to graduate students. Undergraduate students may enroll by permission of the instructor if they've completed STAT 205 or STAT 205B (needs to be verified by instructor).",
+      "prereqGroups": [
+        [
+          "STAT205"
+        ],
+        [
+          "STAT205B"
+        ]
+      ]
+    },
+    {
+      "id": "STAT209",
+      "name": "STAT 209 — Generalized Linear Models",
+      "description": "Theory, methods, and applications of generalized linear statistical models; review of linear models; binomial models for binary responses (including logistical regression and probit models); log-linear models for categorical data analysis; and Poisson models for count data. Case studies drawn from social, engineering, and life sciences. (Formerly AMS 274.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 205 or STAT 205B ; and STAT 206B . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT205",
+          "STAT206B"
+        ],
+        [
+          "STAT205B",
+          "STAT206B"
+        ]
+      ]
+    },
+    {
+      "id": "STAT221",
+      "name": "STAT 221 — Statistical Machine Learning",
+      "description": "Explores statistical methods in machine learning. Discusses the methodology and algorithms behind modern supervised and unsupervised learning techniques that are commonly applied to complex, high dimensional problems. Course topics include linear and logistic regression, classification, clustering, resampling methods, model selection and regularization, and non-linear regression. Students also gain exposure to popular statistical machine learning algorithms implemented in R. One focus is on understanding the formulation of statistical models and their implementation, and the practical application of learning methods to real-world datasets.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 205 or STAT 208 or by permission of instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT205"
+        ],
+        [
+          "STAT208"
+        ]
+      ]
+    },
+    {
+      "id": "STAT222",
+      "name": "STAT 222 — Bayesian Nonparametric Methods",
+      "description": "Theory, methods, and applications of Bayesian nonparametric modeling. Prior probability models for spaces of functions. Dirichlet processes. Polya trees. Nonparametric mixtures. Models for regression, survival analysis, categorical data analysis, and spatial statistics. Examples drawn from social, engineering, and life sciences. (Formerly AMS 241.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 207 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT207"
+        ]
+      ]
+    },
+    {
+      "id": "STAT223",
+      "name": "STAT 223 — Time Series Analysis",
+      "description": "Graduate level introductory course on time series data and models in the time and frequency domains: descriptive time series methods; the periodogram; basic theory of stationary processes; linear filters; spectral analysis; time series analysis for repeated measurements; ARIMA models; introduction to Bayesian spectral analysis; Bayesian learning, forecasting, and smoothing; introduction to Bayesian Dynamic Linear Models (DLMs); DLM mathematical structure; DLMs for trends and seasonal patterns; and autoregression and time series regression models. (Formerly AMS 223.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 206B , or by permission of instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT206B"
+        ]
+      ]
+    },
+    {
+      "id": "STAT224",
+      "name": "STAT 224 — Bayesian Survival Analysis and Clinical Design",
+      "description": "Introduction to Bayesian statistical methods for survival analysis and clinical trial design: parametric and semiparametric models for survival data, frailty models, cure rate models, the design of clinical studies in phase I/II/III. (Formerly AMS 276.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 206B or STAT 207 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT206B"
+        ],
+        [
+          "STAT207"
+        ]
+      ]
+    },
+    {
+      "id": "STAT225",
+      "name": "STAT 225 — Multivariate Statistical Methods",
+      "description": "Introduction to statistical methods for analyzing data sets in which two or more variables play the role of outcome or response. Descriptive methods for multivariate data. Matrix algebra and random vectors. The multivariate normal distribution. Likelihood and Bayesian inferences about multivariate mean vectors. Analysis of covariance structure: principle components, factor analysis. Discriminant, classification and cluster analysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 205 or STAT 205B or STAT 208 . Enrollment is restricted to graduate students. Undergraduates may enroll by permission of the instructor if they've completed STAT 205 or STAT 205B or STAT 208 (needs to be verified by the instructor).",
+      "prereqGroups": [
+        [
+          "STAT205",
+          "STAT208"
+        ],
+        [
+          "STAT205B",
+          "STAT208"
+        ],
+        [
+          "STAT205",
+          "STAT205B"
+        ]
+      ]
+    },
+    {
+      "id": "STAT226",
+      "name": "STAT 226 — Spatial Statistics",
+      "description": "Introduction to the analysis of spatial data: theory of correlation structures and variograms; kriging and Gaussian processes; Markov random fields; fitting models to data; computational techniques; frequentist and Bayesian approaches. (Formerly AMS 245.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 207 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT207"
+        ]
+      ]
+    },
+    {
+      "id": "STAT227",
+      "name": "STAT 227 — Statistical Learning and High Dimensional Data Analysis",
+      "description": "Introductions to statistical learning, modeling, and inference with complex, large, and high-dimensional data. Topics include supervised and unsupervised learning, model selection, dimension reduction, matrix factorization, latent variable models, graphical models, interpretability and causality. Applications in health, social sciences, and engineering.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 205 and STAT 206B ; or STAT 205B . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT205",
+          "STAT206B"
+        ],
+        [
+          "STAT205B"
+        ]
+      ]
+    },
+    {
+      "id": "STAT229",
+      "name": "STAT 229 — Advanced Bayesian Computation",
+      "description": "Teaches some advanced techniques in Bayesian Computation. Topics include Hamiltonian Monte Carlo; slice sampling; sequential Monte Carlo; assumed density filtering; expectation propagation; stochastic gradient descent; approximate Markov chain Monte Carlo; variational inference; and stochastic variational inference. (Formerly AMS 268.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 207 , or by permission of the instructor. Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "STAT207"
+        ]
+      ]
+    },
+    {
+      "id": "STAT243",
+      "name": "STAT 243 — Stochastic Processes",
+      "description": "Includes probabilistic and statistical analysis of random processes, continuous-time Markov chains, hidden Markov models, point processes, Markov random fields, spatial and spatio-temporal processes, and statistical modeling and inference in stochastic processes. Applications to a variety of fields. (Formerly AMS 263.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 205 ; or STAT 131 and STAT 132 . Enrollment is restricted to graduate students, undergraduates may enroll by permission of the instructor if they've completed STAT 131 and STAT 132 (subject to instructor verification).",
+      "prereqGroups": [
+        [
+          "STAT131",
+          "STAT132"
+        ]
+      ]
+    },
+    {
+      "id": "STAT244",
+      "name": "STAT 244 — Bayesian Decision Theory",
+      "description": "Explores conceptual and theoretical bases of statistical decision making under uncertainty. Focuses on axiomatic foundations of expected utility, elicitation of subjective probabilities and utilities, and the value of information and modern computational methods for decision problems. (Formerly AMS 221.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 203 or equivalent; and STAT 206 or STAT 206B ; or permission of the instructor. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT206B"
+        ]
+      ]
+    },
+    {
+      "id": "STAT246",
+      "name": "STAT 246 — Probability Theory with Markov Chains",
+      "description": "Introduction to probability theory: probability spaces, expectation as Lebesgue integral, characteristic functions, modes of convergence, conditional probability and expectation, discrete-state Markov chains, stationary distributions, limit theorems, ergodic theorem, continuous-state Markov chains, applications to Markov chain Monte Carlo methods. (Formerly AMS 261.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 203 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT203"
+        ]
+      ]
+    },
+    {
+      "id": "STAT266A",
+      "name": "STAT 266A — Data Visualization and Statistical Programming in R",
+      "description": "Introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression. Enrollment is by permission of the instructor. (Formerly Applied Math and Statistics 266A and Computer Science 266A.)",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT266B",
+      "name": "STAT 266B — Advanced Statistical Programming in R",
+      "description": "Teaches students already familiar with the R language advanced tools such as interactive graphics, interfacing with low-level languages, package construction, debugging, profiling, and parallel computation. (Formerly Applied Math and Statistics 266B and Computer Science 266B.)",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 266A or CSE 266A.",
+      "prereqGroups": [
+        [
+          "CSE266A"
+        ]
+      ]
+    },
+    {
+      "id": "STAT266C",
+      "name": "STAT 266C — Introduction to Data Wrangling",
+      "description": "Introduces students to concepts and tools associated with data collection, curation, manipulation, and cleaning including an introduction to relational databases and SQL, regular expressions, API usage, and web scraping using Python. (Formerly Applied Math and Statistics 266C and Computer Science 266C.)",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 266A or CSE 266A.",
+      "prereqGroups": [
+        [
+          "CSE266A"
+        ]
+      ]
+    },
+    {
+      "id": "STAT280B",
+      "name": "STAT 280B — Seminars in Statistics",
+      "description": "Weekly seminar series covering topics of current research in statistics.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT280D",
+      "name": "STAT 280D — Seminar in Bayesian Statistical Methodology",
+      "description": "Weekly seminar/discussion group on Bayesian statistical methods, covering both analytical and computational approaches. Participants present research progress and finding in semiformal discussions. Students must present their own research on a regular basis. (Formerly AMS 280D.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT285",
+      "name": "STAT 285 — Seminar in Career Skills",
+      "description": "Seminar in career skills for applied mathematicians and statisticians. Learn about professional activities such as the publication process, grant proposals, and the job market.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students, typically within two years of their expected Ph.D. completion date.",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT291",
+      "name": "STAT 291 — Advanced Topics in Bayesian Statistics",
+      "description": "Advanced study of research topics in the theory, methods, or applications of Bayesian statistics. The specific subject depends on the instructor. Enrollment is restricted to graduate students and by permission of instructor. (Formerly AMS 291.)",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT292",
+      "name": "STAT 292 — Advanced Topics in Statistics",
+      "description": "Advanced study of research topics in the theory, methods, or applications of statistics. The specific subject depends on the instructor. Enrollment is restricted to graduate students and by permission of the instructor.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT296",
+      "name": "STAT 296 — Masters Project",
+      "description": "Independent completion of a masters project under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT297A",
+      "name": "STAT 297A — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT297B",
+      "name": "STAT 297B — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT297C",
+      "name": "STAT 297C — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT297F",
+      "name": "STAT 297F — Independent Study",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT299A",
+      "name": "STAT 299A — Thesis Research",
+      "description": "Thesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT299B",
+      "name": "STAT 299B — Thesis Research",
+      "description": "Thesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "STAT299C",
+      "name": "STAT 299C — Thesis Research",
+      "description": "Thesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

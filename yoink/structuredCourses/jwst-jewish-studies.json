@@ -1,0 +1,48 @@
+{
+  "department": "JWST - Jewish Studies",
+  "slug": "jwst-jewish-studies",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/jwst-jewish-studies",
+  "generated_at": "2025-11-28T07:51:40.702914+00:00",
+  "courses": [
+    {
+      "id": "JWST99",
+      "name": "JWST 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JWST195A",
+      "name": "JWST 195A — Thesis Research",
+      "description": "Devoted to independent research under the guidance of a primary thesis adviser. Students are expected to meet with their thesis adviser every two weeks to report on research progress and receive advice and criticism. Enrollment restricted to junior and senior Jewish studies majors. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JWST195B",
+      "name": "JWST 195B — Thesis Writing",
+      "description": "Devoted to independent writing under the guidance of the primary and secondary thesis faculty advisers. Completed theses must be a minimum of 40 pages in length. Student are required to meet regular with their faculty advisers and to submit at least two drafts for detailed criticism. Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirement. Enrollment restricted to junior and senior Jewish studies majors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JWST199",
+      "name": "JWST 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JWST199F",
+      "name": "JWST 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

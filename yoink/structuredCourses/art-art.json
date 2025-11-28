@@ -1,0 +1,933 @@
+{
+  "department": "ART - Art",
+  "slug": "art-art",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/art-art",
+  "generated_at": "2025-11-28T07:51:33.906108+00:00",
+  "courses": [
+    {
+      "id": "ART10D",
+      "name": "ART 10D — 2D Foundation",
+      "description": "Introduces students to the fundamental principles of two-dimensional art and design. This is a large lecture-based course with smaller art studio-based sections (60% lecture/40% studio). Lectures, discussions and studio sections explore fundamental 2D drawing concepts of line, color shape, value, space, form, unity, balance, scale, proportion and texture. Through lectures, discussion and studio projects students learn to create and understand complex concepts in two dimensions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to art majors and proposed art majors during first-pass enrollment; restrictions lifted after first pass.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART10E",
+      "name": "ART 10E — 3D Foundation",
+      "description": "Introduces students to the fundamental principles of three-dimensional art and design. This is a large lecture-based course with smaller art studio-based sections (60% lecture/40% studio). Lecture, discussion, and studio sections explore fundamental 3D concepts, techniques, and technical practices in sculpture, public art, architecture, process, and design. Through lectures, discussion, and studio projects students learn to create and understand complex concepts in 3D.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to art majors during first-pass enrollment; restrictions lifted after first pass.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART10F",
+      "name": "ART 10F — 4D Foundation",
+      "description": "Introduces students to the fundamental principles of four-dimensional art and design. This is a large lecture-based course with smaller art studio-based sections (60% lecture/40% studio). Lecture, discussion, and studio sections explore fundamental principles of 4D/time-based art and design concepts, techniques, and technical practices. Computers and video, photo, sound, and lighting equipment are used to create short-form, time-based work. Through lectures, discussion, and studio projects students learn complex concepts in 4D.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared ART majors during first-pass enrollment; restrictions lifted after first pass.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART15",
+      "name": "ART 15 — Introduction to Drawing for the Major",
+      "description": "Introduction to the methods, materials, and purposes of drawing to develop perceptual and conceptual skills through a series of assignments, providing various approaches to drawing as a tool for creative exploration. Discussions and critiques facilitate the development of critical skills. Designed for students considering the art major.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART20G",
+      "name": "ART 20G — Introduction to Print Media and Drawing",
+      "description": "Introduces the methods, materials, and history of printmaking and drawing as a tool for creative exploration. Understanding and development of concepts and skills are achieved through a series of lectures, studio demonstrations and practice, assignments, and critiques.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
+      "prereqGroups": [
+        [
+          "ART10D",
+          "ART10E",
+          "ART10F"
+        ]
+      ]
+    },
+    {
+      "id": "ART20H",
+      "name": "ART 20H — Introduction to Sculpture and Public Art",
+      "description": "Introduces sculpture and art in public space. The course is composed of lectures, readings, discussions, studio assignments, and demonstrations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
+      "prereqGroups": [
+        [
+          "ART10D",
+          "ART10E",
+          "ART10F"
+        ]
+      ]
+    },
+    {
+      "id": "ART20I",
+      "name": "ART 20I — Introduction to Photography",
+      "description": "Introduces basic skills and conceptual development in photography and related digital media through image-making in the field, on the web, and in laboratories, through readings, discussions, and critiques.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
+      "prereqGroups": [
+        [
+          "ART10D",
+          "ART10E",
+          "ART10F"
+        ]
+      ]
+    },
+    {
+      "id": "ART20J",
+      "name": "ART 20J — Introduction to Drawing and Painting",
+      "description": "Introduces the practices of drawing and painting in combination with the formal vocabulary of the visual arts. A discussion of values, form, color, and figure/ground relationships enters into each class.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
+      "prereqGroups": [
+        [
+          "ART10D",
+          "ART10E",
+          "ART10F"
+        ]
+      ]
+    },
+    {
+      "id": "ART20K",
+      "name": "ART 20K — Introduction to New Media and Digital Artmaking",
+      "description": "Introduces digital and new media art practice. Explores the use of the computer as tool and medium. Provides a hands-on introduction to the fundamentals of graphics; digital-image acquisition and manipulation; video; web design; and computer programming. Lectures, readings, and discussions examine the history of technology artwork and technology's relationship to contemporary culture.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
+      "prereqGroups": [
+        [
+          "ART10D",
+          "ART10E",
+          "ART10F"
+        ]
+      ]
+    },
+    {
+      "id": "ART20L",
+      "name": "ART 20L — Introduction to Drawing",
+      "description": "Drawing course using traditional media taught online through demonstration videos, digital submissions, and small-group critiques. Introduces the basics of observational drawing in a progression designed to develop and build skills in sighting, measuring, value, and rendering. Familiarity with Canvas, access to a digital camera, and purchase of art supplies are required. Assumes 30 hours per week of coursework.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART80D",
+      "name": "ART 80D — Fundamentals of Photography",
+      "description": "Introductory course for beginners. Various techniques examined and assigned in specific exercises. Work on projects using color film; this is a non-darkroom course. Examples given of photography from 1826 to the present. Balances historical study and practice through assigned homework exercises. Students must provide their own camera, preferably one with a manual setting. No phone cameras allowed.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART80E",
+      "name": "ART 80E — Environmental Art in the Expanded Field",
+      "description": "Examines the ways artists engage, interact, and comment upon ecology and nature in their artworks by examining environmental art from the 1960s through the present. Offers students a foundational introduction to art and artists working in the field of environmental and ecological art/activism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART80F",
+      "name": "ART 80F — Introduction to Issues in Digital Media",
+      "description": "Digital media was positioned as a radical new social and creative medium in the 1980s and 1990s. The ensuing decades have seen this area become ubiquitous mass media with structural inequalities, centralized ownership, environmental damage, and precarious labor conditions. At the same time, it has become the language of our time and remains a site of creativity and intervention and offers opportunities for social changes. This course provides an introduction to key issues in this area through the lens of race and ethnicity.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART80Q",
+      "name": "ART 80Q — Queer Art",
+      "description": "Explores the stateâs vital queer art communities as a cultural phenomena, primarily through one-on-one interviews with contemporary queer artists in California. In the face of rising homophobia and transphobia in many parts of the country, this course centers and makes visible the work of BIPOC LGBTQIE+ artists, including those with disabilities, and many others. Develops literacy and comprehension of queer artists and their artworks, utilizes critical thinking while encouraging engagement in and understanding of the art itself. Through a combination of lectures, visual presentations, films, readings, short quizzes and discussion boards, students gain the skills and knowledge to become conversant in queer art.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART80T",
+      "name": "ART 80T — Digital Tools for Contemporary Art Practice",
+      "description": "Introduction to the digital tools and mediums available to contemporary art practices. Tools are explored from a historical and theoretical context and from a technical perspective through hands-on tutorials. A variety of artworks that utilize digital mediums are also examined. Weekly projects centered around these tools are completed and are the focus of peer discussions and reviews. The course covers photo and vector editors, sound and video editing, and basic 3D modeling and animation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART80X",
+      "name": "ART 80X — Ars Erotica: Sexual Imagery in Culture and Art",
+      "description": "What is sexually explicit imagery all about? Is it art, porn, trash, political hot potato, or hot commodity? This course enables students to critically explore these questions and more in an academic setting.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART99",
+      "name": "ART 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART101",
+      "name": "ART 101 — Introduction to Computer Programming for the Arts",
+      "description": "Combines an introduction to computer programming for beginners with special topics that are essential for the digital arts. Basic concepts of programming are developed in the JavaScript language and applied to digital arts media, such as algorithmically generated still images and animations in two and three dimensions, sound art, and music composition. Presentation of digital artwork in the theater and via the web are covered in detail.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART104",
+      "name": "ART 104 — Digital Video",
+      "description": "An exploration of the video medium including production using the digital video format. Digital video cameras will be used to produce digital source material to be manipulated in a non-linear digital editing system. Image manipulation, effects, and editing will be explored. A variety of video structures, theories, concepts, and forms will be examined through production, discussions, and viewing students' and artists' work.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART106A",
+      "name": "ART 106A — 2D Animation",
+      "description": "Introduces animation techniques, practices, history, and theories. Students learn techniques and process in 2D, stop-motion, and digital animation. Projects teach students the workflow of animating including script development, storyboarding, frame-by-frame animation, animatic, digital, and post-production. Students are required to research artists, both historical and contemporary, working in the field of animation and to be able to discuss the work. The course teaches theoretical and historical perspectives on animation and requires students to develop a critical analysis and vocabulary. (Formerly Introduction to 2D Animation).",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART106C",
+      "name": "ART 106C — Stop Motion Animation",
+      "description": "Introduction to imagining, producing, and creating stop motion animations. Includes hands-on work in storyboarding, drawing and paper-based animation, pixalization, animation of everyday objects, and Claymation with basic characters and sets. Historical and contemporary animations will be viewed in class to inspire animation ideas, aesthetics, and practices. (Formerly Introduction to Stop Motion Animation.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART106E",
+      "name": "ART 106E — 3D Modeling and Animation",
+      "description": "Independent and collaborative creative projects using advanced computer methods. May include networking projects, virtual representations, interactive multimedia, installation, performance, 3D modeling and animation, or robotics. Emphasis on advanced critical and experimental approaches to computers as a unique art medium, and contemporary research issues. Students are required to enroll in scheduled lab section.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART106G",
+      "name": "ART 106G — Immersive Nonfiction",
+      "description": "Focuses on nonfiction creative storytelling using animation and new immersive media technology: augmented reality (AR), mixed reality (MR), locative media, and other technologies. Studio class teaches artmaking tools, skills, production and practices using immersive technologies. Students learn the process of developing nonfiction creative stories and documentaries through collaboration, personal narrative, community experiences, historical narrative and location-based storytelling.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART106O",
+      "name": "ART 106O — 2D Animation",
+      "description": "This project-centered studio course introduces 2D animation concepts, history, techniques and contemporary practices, production strategies, processes, and tools from a practical approach rooted in a historical/theoretical context. During each project's development, students research artists working within relevant categories and/or topics of animation, presenting findings to assist in their creative process.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART108",
+      "name": "ART 108 — Art, Design, and Social Practice",
+      "description": "Studio-based course teaching strategies for social change, activism, and organizing using social design tools. Students gain experience developing design pieces and artworks to communicate their position on issues affecting their lived experiences and community struggles. Students develop artworks and content using social design practices, tools, systems, and strategies. The final design piece/artwork can utilize graphic design, digital platforms and publications, maps and spatial representation, exhibition design, 3D models for physical spaces, public interventions, video, and digital media, among other possibilities, including analogical forms of gathering people and manifesting social positions. (Formerly Activate Media! New Media Art Activism and Organizing.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART109",
+      "name": "ART 109 — Special Topics in Media Art",
+      "description": "Focuses on a wide range of media and time-based artmaking, which can include video art, interactive media, animation, VR/XR/AR, video installation, design and other 4D production and research. Special topics as announced.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART110",
+      "name": "ART 110 — Intermediate/Advanced Drawing",
+      "description": "Work moves toward individual directions in drawing. A variety of media are explored. Each student is expected to do 150 hours of drawing over the quarter.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART111",
+      "name": "ART 111 — Figure Drawing",
+      "description": "Focuses on drawing from the human figure and exploring the figure for the purpose of personal expression and social communication. Intended for the intermediate/advanced drawing student.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART112",
+      "name": "ART 112 — Mixed Media Works on Paper",
+      "description": "This course stresses alternative drawing processes, techniques, and materials. Intended for the intermediate or advanced student.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART113",
+      "name": "ART 113 — Illustrating Stories: Fantasy and Documentary Narratives",
+      "description": "This drawing/painting class is taught using New Yorker magazine covers as examples of illustration at a level of excellence that is accessible and which are examined for content and formal qualities. Work is done in drawing and painting media; some digital and mixed media may be incorporated. Painting will be water-based. Wit, humor, restraint, and sophistication are discussed, as well as inclusivity, exclusivity, and explicit and implicit social issues.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART114",
+      "name": "ART 114 — Landscape Drawing",
+      "description": "Explores the complexities of contemporary drawing, using UC Santa Cruz's diverse landscapes as a point of departure. Beginning with an observational drawing approach, students gain confidence in perceptual drawing practices that lead to more personal, thematic, and conceptual directions. Topics such as linear perspective, notan, and decolonizationare scrutinized while exploring a range of drawing materials from charcoal to ink wash. A lightweight field easel is required to facilitate working at full scale.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ART 20L or ART 15 or ART 20J and two courses from ART 20G , 20H, 20I, 20K. Enrollment is restricted to proposed and declared art majors.",
+      "prereqGroups": [
+        [
+          "ART20L"
+        ],
+        [
+          "ART15"
+        ],
+        [
+          "ART20J"
+        ]
+      ]
+    },
+    {
+      "id": "ART119",
+      "name": "ART 119 — Special Topics in Drawing",
+      "description": "Special topics in drawing as announced.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART125",
+      "name": "ART 125 — Environmental Art Studio",
+      "description": "Introduces students to environmental art and design through basic concepts, techniques, and studio practice.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART130",
+      "name": "ART 130 — Intermediate/Advanced Painting",
+      "description": "Continuation of the development of a basic foundation in painting with emphasis on the development of individual, experimental procedures. A foundation in drawing is recommended.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART132",
+      "name": "ART 132 — Figure Painting",
+      "description": "Students learn the classical practice of painting the nude figure from life using traditional oil painting techniques. Students study short poses, limited color, and graduate to long pose, full color.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART133",
+      "name": "ART 133 — Abstract Painting",
+      "description": "Exploration of abstract painting through studio work, lectures, and critiques with emphasis on progressive abstraction, minimalism, op art, and abstract expressionism as well as other 20th-century and 21st-century forms. A foundation in drawing is recommended.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART135",
+      "name": "ART 135 — Digital Painting",
+      "description": "Gives students a comprehensive understanding of the digital painting, from basic techniques, to new media art and industry application, to how these programs operate. Studies and assignments develop and expand skills of digital paint application. Students build a cumulative digital portfolio of all of the studies and assignments completed throughout the course.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART137",
+      "name": "ART 137 — Outdoor Painter's Project",
+      "description": "Explores contemporary landscape through the practice of plein air painting. Observational plein air painting will provides the foundation for the class. Instruction includes technical instruction in materials and technique as well as conceptual material. Student may work with oils, alkyds, or acrylic on panels, paper, or canvas.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART138",
+      "name": "ART 138 — Facture and Meaning",
+      "description": "No description provided.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART139",
+      "name": "ART 139 — Special Topics in Painting",
+      "description": "Special studies in painting as announced. A foundation in drawing is recommended.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART145",
+      "name": "ART 145 — Vector Art and Illustration",
+      "description": "Introduces students to the fundamentals and creation techniques for vector art and illustration using industry standard software. Explores the fundamentals and application of vector art and illustration with the projects, demos, and text-based lectures that walk you step by step though the processes. With feedback through weekly discussions, students build upon their existing knowledge and produce a skilled portfolio of digital work by the end of the quarter. Prerequisites for the summer course are waived. The summer offering is also open to non-art majors. The asynchronous online format allows students to watch video lectures and tutorials at their own pace as they complete the projects for the course and engage in critique with peers in written discussion forums.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART150",
+      "name": "ART 150 — Darkroom Practices",
+      "description": "Students concentrate on darkroom practices and explore visual ideas, directing their work toward individualized goals. Required work includes making photographic prints, reading historical and theoretical works, and examination of photographs.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART152A",
+      "name": "ART 152A — Photographic Book",
+      "description": "This studio-based course engages with the traditions and practices of the photographic book to examine and explore both narrative and non-narrative strategies. Students create a coherent photographic photo-book. Course examines the contemporary status of the photobook as well as the rich history of the medium. Editing, sequencing, and the production of photobooks is the centerpiece of this class.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART152C",
+      "name": "ART 152C — View Camera Photography",
+      "description": "Explores the processes, materials, and techniques of large-format photography. Students learn the concepts and theories related to the view camera. Emphasizes advanced understanding of negative exposure, sheet-film processing, tonal-range manipulation, digital scanning, and large-format output. Contemporary issues and concepts explored.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART153",
+      "name": "ART 153 — Still to Moving: Topics in Cinematography for Artists",
+      "description": "The natural evolution from still image making to moving image making is at the heart of this course as students look at this evolution from a historical, social, conceptual, and technical perspective. Artists who have been primarily working in still photography will learn to transition to creating with moving images by addressing time, structure, sound, and installation. Advanced discussions on film and digital formats, quality of image, camera support systems, and post-production will be explored through a combination of screenings, assignments, and readings.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART154A",
+      "name": "ART 154A — Being Social: Photography and Engagement",
+      "description": "Explores historical and contemporary ways in which photography has been used to examine social issues and invites students to produce work that responds to issues that are important to them. Students learn about photograph's historical significance in raising social awareness, analyzing the aesthetic and methodological strategies of modern and contemporary photographers seeking to catalyze economic, political and cultural change through the production of images.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART154B",
+      "name": "ART 154B — Photography, Place, Environment",
+      "description": "The impact of our industrialized culture on nature is one of the most crucial and urgent issues of our times. Discussions on environmental photography, place, and landscape, set out to investigate environmental change and to explore our relation to nature. Throughout the quarter students develop an environmental photography art project that follows in the photographic tradition of raising awareness and supporting policymakers, politicians, researchers, environmentalists, and activists.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART154C",
+      "name": "ART 154C — After Archives: Photographers & Research",
+      "description": "The role of archives, photographers, and research in contemporary photographic practice is addressed by examining the special archives at the UCSC library and the Prelinger Library in San Francisco and by curating a group exhibition. Students make a project in multiple media, such as photography, video, text, installation, and drawing prompted by UCSC Special Collections' vast archives and collections. Through studio projects, readings, discussions, and case studies, students engage the immediate context of the university as source material for their artworks as a means to explore the effect that research and knowledge production might have on contemporary artistic practice.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART155",
+      "name": "ART 155 — Photo Field Research Quarter (PFRQ): California Road Trip",
+      "description": "Offers students the unique opportunity to live and learn and photograph outside the classroom, actively engaging locations across the state of California. Students will cover 2400 miles from Northern Mendocino County to the Salton Sea, Eastern Sierra, Death Valley, and Big Sur. Class exposes students to cultural, historical, and environmental issues facing California. Due to the rigor of the course, students must submit an application demonstrating the commitment and photo preparation necessary for successful completion of the class. Students are billed a materials fee of $550.",
+      "credits": "10",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART156",
+      "name": "ART 156 — Project Development in Photography",
+      "description": "Concentrates on photographic project development, developing analytical skills designed to help direct students' own photographic ideas. Helps students create a conceptual theoretical framework through image-making in the field and studio, through critique and discussion, through readings, and by studying the work of artists.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART157",
+      "name": "ART 157 — Immersive Arts Field Research",
+      "description": "Students are immersed in site specific field research over the span of a four-day in-the-field trip utilizing the public land of California, via the UC Natural Reserve System. Students are educated about research related to a specific place while exploring concepts of site-specificity and develop their own new inquiries about a place by experiencing it physically and by engaging with contemporary art concepts and art project development. Prerequisite(s): two lower-division studio art courses. Enrollment is restricted to junior and senior art majors. Enrollment is by permission of instructor. Due to the rigor of the course, students must submit an application demonstrating the commitment and photo preparation necessary for successful completion of the class.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART158",
+      "name": "ART 158 — Advanced Photography",
+      "description": "Students produce a portfolio of photographs, read historical and theoretical works, and study photographs and other art works.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART159",
+      "name": "ART 159 — Special Topics in Photography",
+      "description": "Special studies in photography, concentrating on specific subject matter or media. Topics may include documentary photography, landscape, alternative processes, or mixed media.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART161B",
+      "name": "ART 161B — Relief/Mixed Media Printmaking",
+      "description": "Explores traditional, contemporary, and experimental processes, issues, and concepts of relief and mono/mixed media printmaking. Students gain in-depth information and working knowledge to specialize individual ideas and build artistic development through varieties of class activities.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART161C",
+      "name": "ART 161C — Tradition and Innovation: Relief Printmaking in Korea",
+      "description": "Explores the history of printing from the world's oldest printed text developed in Korea to the latest cutting-edge technology, including laser cutting. Students study many aspects of both traditional and contemporary relief (woodblock) printmaking, both materials, tools, and techniques and the issues, concepts and history of the field. Through various class activities, field trips and cultural visits (to UNESCO World Heritage Sites) in Korea, students will be exposed to diverse and multi-regional art practices that will broaden their perspectives and increase their understanding not only in the fields of print media but in the larger contemporary visual culture.",
+      "credits": "6",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART161J",
+      "name": "ART 161J — Mokuhanga: UCSC Printmaking in Japan",
+      "description": "Course taught both at UCSC and at the host university in Tokyo. At UCSC, oil-based woodblock printmaking covers techniques, application of tools, materials, history, issues and concepts. In Japan, the class studies Mokuhanga, resulting in a great understanding and appreciation of this traditional process. Via class activities, field trips, excursions, and cultural visits, students encounter diverse multi-regional art practices, thus broadening perspectives and increasing understanding not only of print media but of contemporary visual culture.",
+      "credits": "6",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART162A",
+      "name": "ART 162A — Intaglio I",
+      "description": "Introduces students to various methods used in making intaglio prints. Encourages individual artistic growth of imagery and technique through assignments designed to explore the medium. Includes discussion and critique of work with equal emphasis on technique and concept.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART163A",
+      "name": "ART 163A — Lithography I",
+      "description": "Introduction to drawing, processing, and printing of lithographs from stone. Emphasis on discovery of tonal, textural, and expressive potential from the surface of the stone, while establishing individual directions in imagery. Condensed history of the medium, technical theory, and critique in lecture and demonstrations.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART163C",
+      "name": "ART 163C — Magnified Imagination: A Printmaking Approach",
+      "description": "Examines the wonders of visual magnification of the natural world by using enlargement lenses, scanner, and microscopes to create photo-based and autographic prints that enhance strange and unperceived realities. Visits to the UCSC Norris Center for Natural History, Thimann's Roof Garden and Greenhouse will provide opportunities to explore natural world specimens for projects.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART164A",
+      "name": "ART 164A — Screenprinting",
+      "description": "Introduces water-based screen printing. Students are introduced to processes including basic equipment, printing techniques, printing papers, stenciling processes, and photographic and digital techniques. Emphasis is on continued development of content and aesthetic awareness through the possibilities of screen printing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: ART 20G or ART 26 and two non-print lower-division media studios from ART 15 , ART 20H , ART 20I , ART 20J , ART 20K , ART 20L . Enrollment is restricted to art majors.",
+      "prereqGroups": [
+        [
+          "ART20G"
+        ],
+        [
+          "ART26"
+        ]
+      ]
+    },
+    {
+      "id": "ART165",
+      "name": "ART 165 — Print Media in Visual Communication",
+      "description": "Explores a unique approach reviewing the printed images in visual communications. A wide blend of traditional and cutting-edge print media processes with an interdisciplinary focus will be taught for conceptualizing, producing, and presenting the printed image.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART166",
+      "name": "ART 166 — Art of Bookmaking",
+      "description": "Introduction to production of small edition books and multiples utilizing sequential visual imaging, narrative content, and mixed media in bookmaking. Provides instruction in conceptualizing, producing, and distributing printed artists' multiples. Ideas encouraged within a broad range of possibilities via the format of artists' books.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART168",
+      "name": "ART 168 — Photo-Based Printmaking",
+      "description": "Intermediate/advanced studio course exploring the processes, history, and the recent developments in contemporary photomechanical printmaking. Through experimentation and research students learn how to utilize photographic imagery, blending them in multiple layers and colors, thereby facilitating articulation of their conceptual foundations.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART169",
+      "name": "ART 169 — Special Topics in Printmaking",
+      "description": "Special studies in printmaking, as announced.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART170",
+      "name": "ART 170 — Playgrounds: Forms of Gathering and Playing",
+      "description": "Confronted with significant global challenges, artists and a diverse array of world-makers have embraced forms of playing to reimagine and confront brutal realities, and engage in struggles for liberation. In this course, art and pedagogy are grounded in the concept and practice of playgrounds. This course invites students to design or assemble objects to transform spatial and sensory perceptions, exploring sociability, forms of gathering, playing and reconnection with the environment. Sculptures, objects, drawings and furniture require human interaction to reach their full potential.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART172",
+      "name": "ART 172 — Public Art: Memory, Landscape, and Artist as Activist",
+      "description": "In-depth exploration of art in the public sphere. Students build an understanding of public art sparked by practical experience designing and developing projects. Theoretical aspects of contemporary public art, and an introduction to the range of current public art practices will be introduced through readings, lectures, and artist's talks. The combination of practical hands-on technique and theoretical ideology will enable students to fully develop their own project within the class.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART175",
+      "name": "ART 175 — Taking Art to the Streets",
+      "description": "Expands traditional definitions of art making taking art beyond the museum. Students take art making to the streets. We explore art making in the public sphere from murals to graffiti, street art to shop dropping, protests to public commissioned projects and community engaged interventions.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART177",
+      "name": "ART 177 — Careers in the Creative Economy",
+      "description": "Provides students with information, tools, and strategies to embark on arts career exploration and preparation, including strategies for addressing challenges and opportunities related to diversity, equity, and inclusion. Students explore their career values; network with guest speakers in creative fields (alumni, faculty, graduate students, professional artists); and prepare and create career-related documents (update resumes, cover letters, project proposals) as well as learn about a variety of arts careers through guest speakers, readings, and podcasts. Enrollment is by permission of the instructor and is restricted to juniors, seniors, and graduate students. Please contact the art advisor at artadvisor@ucsc.edu for the application.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART180B",
+      "name": "ART 180B — Intermediate/Advanced Sculpture",
+      "description": "More advanced fabrication techniques in sculpture using wood, metal, industrial, and other materials. Techniques include carpentry and woodshop skills, and an introduction to sculptural forms, processes, and ideas. Demonstrations, slide lectures, and critical discussion of work help develop technical and conceptual skills. (Formerly ART 180B , Sculpture II.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART181",
+      "name": "ART 181 — Art, Power & Politics",
+      "description": "Explores strategies artists use to engage political subject matter in the 21st century. Students create their own projects, research and test approaches, techniques and strategies learning from the ways national and international artists encode and convey information in creating political work. Methods range from community collaboration; to tactical culture jamming, participatory collaborative projects, activism and intervention, symbolic and gestural work, artist-led projects, performances and community projects.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART182",
+      "name": "ART 182 — Materiality of Color",
+      "description": "A research-based, studio art class in which students experiment with ideas and processes, and pursue projects exploring the materiality of color, including social and cultural effects and environmental implications. Following a sequence of short assignments paired with class critiques, students design and complete their own research-based art projects (in any media) that investigate color as a material phenomenon. Class discussions address physical, perceptual, psychological, geological, biological, cultural, social, political, philosophical and aesthetic aspects of color in concert with readings, guest lectures, field trips, technical demonstrations and visual presentations. Students harvest, make, and use dyes from plant materials grown at the UCSC Farm, and contribute to the ongoing development of a dye garden on campus.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART183",
+      "name": "ART 183 — Metal Fabrication",
+      "description": "Focus on teaching intermediate to advanced students the processes and techniques of direct metal fabrication for contemporary sculpture and design. Explores a range of welding, cutting, and forming techniques and processes through demonstrations, slide lectures, field trips, and studio time. Demonstrations, slide lectures, and critical discussion of work help develop technical and conceptual skills.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART184",
+      "name": "ART 184 — 3D Art and Design I",
+      "description": "Emphasizes the conceptual aspects of 3D art and design using the laser cutter to prototype and experiment with construction methods and materials to create, represent, respond to, and reflect on 3D forms in space. Students learn about mixed-media fabrication techniques, materials, and processes that include using a woodshop and metal-fabrication shop. The course is structured around assignments that develop individual expressiveness, research skills, creative industry, and class participation. Students are billed a materials fee of $120. (Formerly 3D Art and Design: Laser Cutting and CNC Routing.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART185",
+      "name": "ART 185 — 3D Art and Design II",
+      "description": "Expands 3D art and design principles, methodologies, process, and skills via structured projects using 3D printers and modeling. The metal-fabrication shop and the woodshop allow students to prototype and experiment with construction methods and materials used to develop assignments. The course is structured around assignments that develop critical thinking, individual industry, research skills, creative expressiveness, and class participation. Students are billed a materials fee of $120. (Formerly 3D Art and Design: Printing and Prototyping.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART186",
+      "name": "ART 186 — Art and Globalization",
+      "description": "In this immersive studio art class students create site-responsive artworks that explore art in a global context. We visit contemporary art museums, galleries and cultural spaces in London and Brighton England, enriching and deepening our understanding of art in a global context. Students create drawings, zines, graphic works, animation, photographs, installations and performances in response to visits to museums, galleries and exhibitions. Students create studio work in the new media studios at the University of Sussex in Brightonâs School of Media, Arts and Humanities and live on campus during the trip. This class includes artist lectures, docent tours, studio, museum, and gallery visits. Prerequisite(s): Three courses from: ART 15 , ART 20G , ART 20H , ART 20I , ART 20J , ART 20K , ART 20L , ART 26. Enrollment is restricted to art majors. Enrollment is by permission of the instructor.",
+      "credits": "6",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART188",
+      "name": "ART 188 — Bronze Casting: Foundry",
+      "description": "Intermediate/advanced course in bronze casting sculpture. This is the only foundry-specific class in the UC system. Create sculptural objects using the lost wax method--the oldest and still most used sculpture technique in monumental and small scale casting. Lectures and demonstrations are combined with work time in class. Students generate sculptural forms in wax then gate, invest, weld, chase, patina, and present at least one finished piece. Students are billed a materials fee of $175. May be repeated for credit. (Formerly Foundry: Metal Casting.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART189",
+      "name": "ART 189 — Special Topics in Sculpture",
+      "description": "Special topics in sculpture as announced, concentrating on specific aspects of subject matter and media.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART190A",
+      "name": "ART 190A — Writing for Artists",
+      "description": "Provides practice in using writing as a tool to support creative work--to generate ideas, to critically analyze and interpret artworks, and to communicate clearly with others about one's own work. Lectures, discussions, and visiting artist talks introduce and explore contemporary art contexts, ideas, discourses, artworks, artists, and practices to build students' capacities to place their work in the world. Readings introduce and unfold ideas for discussion, and provide examples of writing formats and purposes as they relate to art practice.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to junior and senior art majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART190B",
+      "name": "ART 190B — Senior Project",
+      "description": "Advanced senior art majors create and complete a senior project to fulfill their comprehensive graduation requirement. Focuses on a weekly lecture, studio work, peer critique, and professional practices such as the documentation and exhibition of work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to senior art majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART191",
+      "name": "ART 191 — Teaching Apprenticeship",
+      "description": "Designed for art majors at the upper-division level. Each student assists in a lower-division art course under the direct supervision of a faculty member. Students assist in technical instruction, critiques, and class discussions. May not be repeated for credit. Does not count toward upper-division major requirements. Enrollment restricted to art majors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART192",
+      "name": "ART 192 — Directed Student Teaching",
+      "description": "Teaching of a lower-division seminar under faculty supervision. (See course 42.) Students should have upper-division standing with a proposal supported by a faculty member willing to supervise. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART193",
+      "name": "ART 193 — Field Study",
+      "description": "Supervised off-campus study conducted under the immediate and direct guidance of a faculty supervisor. To be used primarily by upper-division students doing part-time off-campus study. Students submit petition to sponsoring agency. Petitions may be obtained in the Art Department Office.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART194",
+      "name": "ART 194 — Forms and Ideas",
+      "description": "A non-media specific class introducing a range of contemporary visual practices, contexts, issues, forms, and UCSC resources of use to artists, emphasizing relationships between material, form, meaning and between private expression, public communication, and systems of exchange.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior art majors. Strongly recommended for junior transfer art majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART196",
+      "name": "ART 196 — Independent Senior Project",
+      "description": "Student will concentrate on completing work for comprehensive exhibition under the direction of his or her art adviser, with help from other faculty as needed. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART197",
+      "name": "ART 197 — Individual Study",
+      "description": "Individual study in areas approved by sponsoring instructors. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART198",
+      "name": "ART 198 — Independent Field Study",
+      "description": "Provides for department-sponsored independent study programs off campus for which faculty supervision is not in person (e.g., supervision is by correspondence). Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART199",
+      "name": "ART 199 — Tutorial",
+      "description": "Individual study in areas approved by sponsoring instructors. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART199F",
+      "name": "ART 199F — Tutorial",
+      "description": "Tutorial",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART210A",
+      "name": "ART 210A — Practice-Based Research Group: Sites",
+      "description": "The first in the required core course sequence taken by students in the first year of the environmental art and social practice M.F.A. The sequence offers students a graduated learning opportunity to engage in practice-based research in the field. The concept of practice-based research involves \"an original investigation undertaken in order to gain new knowledge partly by means of practice and the outcomes of that practice.\" (Sydney) In this site-specific course, students apply research to site work and art practice.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART210B",
+      "name": "ART 210B — Practice-Based Research Group: Systems",
+      "description": "The second in the required core course sequence taken by students in the first year of the environmental art and social practice M.F.A. The sequence offers students a graduated learning opportunity to engage in practice-based research in the field. The concept of practice-based research involves \"an original investigation undertaken in order to gain new knowledge partly by means of practice and the outcomes of that practice.\" (Sydney) Students develop their research through the lens of systems and relationships.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ART 210A . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ART210A"
+        ]
+      ]
+    },
+    {
+      "id": "ART210C",
+      "name": "ART 210C — Practice-Based Research Group: Contexts",
+      "description": "Third in the required core course sequence taken by students in the first year of the environmental art and social practice M.F.A. The sequence offers students a graduated learning opportunity to engage in practice-based research in the field. The concept of practice-based research involves \"an original investigation undertaken in order to gain new knowledge partly by means of practice and the outcomes of that practice.\" (Sydney) Students engage with questions of context and community.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART220",
+      "name": "ART 220 — Methods and Histories",
+      "description": "First-year seminar on methods of the field. Topics include: strategies for artists working in the field, social and environmental art research methods, histories and case studies (artists, projects, and issues).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART230",
+      "name": "ART 230 — Theory and Practice",
+      "description": "First- or second-year graduate seminar focusing on contemporary theory as it relates to social and environmental art practice.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ART 220 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ART220"
+        ]
+      ]
+    },
+    {
+      "id": "ART240",
+      "name": "ART 240 — Art Pedagogies",
+      "description": "First-year seminar course introducing and exploring pedagogical methods and approaches in art education and in art practice. The teachings of Paolo Freire and others serve as working models to construct open and respectful learning environments both in and outside the classroom.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART250",
+      "name": "ART 250 — Writing Matters",
+      "description": "First-year seminar course focusing on research and writing skills as a dimension of project-based art practice and as support for planning a thesis. This course can be taken for Satisfactory/Unsatisfactory grading only.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART257",
+      "name": "ART 257 — Immersive Arts Field Research",
+      "description": "Immersive site-specific field research over the span of a four-day (24 hours/overnight) field trip utilizing public lands of California, via the UC Natural Reserve System. Students engage and relate to a specific place while exploring concepts of site-specificity and develop their own new inquiries about a place by experiencing it physically and by learning about contemporary art concepts through topics of land use. Students also reflect upon the multiple factors that constitute a \"site\" and how they present possibilities for creative engagement, learn research method skills and approaches that are unique to each site historically, politically, culturally, and environmentally. Due to the rigor of the course, students must submit an application demonstrating the commitment and preparation necessary for successful completion of the class. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART260",
+      "name": "ART 260 — Curatorial Collective",
+      "description": "Second-year seminar course focusing on exhibition, curatorial questions, and practices as they relate to presenting final thesis work for public reception. Covers practical, theoretical, and historical considerations for artists and researchers in the process of preparing for presenting the outcome of MFA research. Students examine multiple modalities for presentation and exhibition and address issues of diversity and access in exhibition and curatorial practices. This course can be taken for Satisfactory/Unsatisfactory grading only.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART270A",
+      "name": "ART 270A — Project Development and Critique I",
+      "description": "First in a sequence of two second-year courses, continuing the focus on students' production and critique. Through peer discussions students continue to deepen their ability to engage in conceptual, scholarly, and interdisciplinary dialogue about their projects and the work of fellow students.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ART 210A , ART 210B , ART 210C , and ART 220 .",
+      "prereqGroups": [
+        [
+          "ART210A",
+          "ART210B",
+          "ART210C",
+          "ART220"
+        ]
+      ]
+    },
+    {
+      "id": "ART270B",
+      "name": "ART 270B — Project Development and Critique II",
+      "description": "Second in a sequence of two second-year courses, continuing the focus on students' production and critique. Through peer discussions students continue to deepen their ability to engage in conceptual, scholarly and interdisciplinary dialogue about their projects and the work of fellow students.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ART 270A .",
+      "prereqGroups": [
+        [
+          "ART270A"
+        ]
+      ]
+    },
+    {
+      "id": "ART280",
+      "name": "ART 280 — MFA Project Production",
+      "description": "Students produce their final project in conjunction with refining and completing their written thesis. Critique, tutorials, and directed study in writing and studio production leads to the presentation of their project.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ART 270A and ART 270B . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ART270A",
+          "ART270B"
+        ]
+      ]
+    },
+    {
+      "id": "ART297",
+      "name": "ART 297 — Independent Study",
+      "description": "Independent study or research for graduate students. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ART299F",
+      "name": "ART 299F — Thesis Research",
+      "description": "Students complete work toward their final thesis project production with the guidance and supervision of a faculty member. Students obtain permission from the faculty member and submit petition to the sponsoring agency. Enrollment is restricted to graduate students in environmental art and social practice.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CT100",
+      "name": "CT 100 — Digital Platforms: Observations and Practices",
+      "description": "Explore media technologies by directly engaging digital platforms, transmission, and storage, as direct rather than indirect practices. Topics covered, through lenses of both theory and practice, include global circulation of mediaâemphasizing the contemporary digital image, relations between sound and mobile-technology media and the environment, and the technical infrastructure of digital interfaces and data visualization. Critiquing data collection, representation, and curation, student projects build a vocabulary for critical engagement with cultural production and conditions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: CT 10, CT 11, and CT 20. Enrollment is restricted to junior and senior creative technologies majors.",
+      "prereqGroups": [
+        [
+          "CT10",
+          "CT11",
+          "CT20"
+        ]
+      ]
+    },
+    {
+      "id": "DANM140",
+      "name": "DANM 140 — Introduction to 3D Printing, Laser Cutting, and More",
+      "description": "Learn to design functional objects, sculpture, and other digitally inspired forms in a variety of 3-D applications (Cinema 4-D, Maya, AutoCad, Rhino, SketchUp), then produce those models as physical objects with a variety of rapid prototyping methods including additive 3-D printing, CNC milling, vacuum forming, and laser cutting.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "THEA103",
+      "name": "THEA 103 — Design Concept Development",
+      "description": "Students develop an advanced design project related to theatrical production, apparel or housewares, marketing collateral, packaging or product development, or any related fields. Students address research and development, materials sourcing, budgeting, fabrication, and portfolio-quality presentation materials. Prerequisite(s): THEA 10 ; or two courses from ART 10D , ART 10E , and ART 10F . Enrollment is by permission of the instructor. THEA 106 is recommended as preparation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "THEA117",
+      "name": "THEA 117 — Design Studio: Costume",
+      "description": "Explores different aspects of the costume design process. Through projects and exercises, students develop a general view of various aspects of costume designers' work and gain a broader and more informed understanding of the costume designer's methods, techniques, and tools.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

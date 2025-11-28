@@ -1,0 +1,196 @@
+{
+  "department": "JAPN - Japanese",
+  "slug": "japn-japanese",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/japn-japanese",
+  "generated_at": "2025-11-28T07:51:40.452070+00:00",
+  "courses": [
+    {
+      "id": "JAPN1",
+      "name": "JAPN 1 — First-Year Japanese",
+      "description": "Students carry out beginning-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write Japanese scripts (hiragana, katakana, and about 14 kanji).",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JAPN2",
+      "name": "JAPN 2 — First-Year Japanese",
+      "description": "Students carry out beginning-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 71 additional kanji.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 1 , placement by assessment, or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "JAPN1"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN3",
+      "name": "JAPN 3 — First-Year Japanese",
+      "description": "Students carry out beginning-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 53 additional kanji.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 2 , placement by assessment, or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "JAPN2"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN4",
+      "name": "JAPN 4 — Second-Year Japanese",
+      "description": "Students carry out intermediate-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 57 additional kanji.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 3 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "JAPN3"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN5",
+      "name": "JAPN 5 — Second-Year Japanese",
+      "description": "Students develop intermediate-level competence in listening, speaking, reading, and writing in diverse social contexts; acquire a deeper and broader understanding of Japanese society and culture; and learn how to read and write 74 additional kanji characters.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 4 , placement by assessment, or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "JAPN4"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN6",
+      "name": "JAPN 6 — Second-Year Japanese",
+      "description": "Students carry out intermediate-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 57 additional kanji. Emphasis is placed on developing the student's cultural knowledge relevant to inter-cultural communication.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 5 , placement by assessment, or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "JAPN5"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN94",
+      "name": "JAPN 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JAPN99",
+      "name": "JAPN 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JAPN99F",
+      "name": "JAPN 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JAPN103",
+      "name": "JAPN 103 — Advanced Japanese",
+      "description": "Students carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Emphasis placed on developing the student's cultural knowledge about Japan as well as knowledge relevant to inter-cultural communication.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 6 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "JAPN6"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN104",
+      "name": "JAPN 104 — Advanced Japanese",
+      "description": "Students carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Emphasis placed on developing the student's cultural knowledge about Japan as well as knowledge relevant to inter-cultural communication.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 103 or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "JAPN103"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN105",
+      "name": "JAPN 105 — Advanced Japanese",
+      "description": "Students carry out advanced-level tasks that involve listening, speaking, reading, and/or writing, and learn how to read and write 100 additional kanji. Further development of cultural knowledge and understanding through critical examination of authentic Japanese materials in a variety of genres, including literary work, expository writing, and films. May be repeated for credit with consent of instructor.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 104 or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "JAPN104"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN106",
+      "name": "JAPN 106 — Advanced Japanese",
+      "description": "Students carry out advance-level tasks that involve listening, speaking, reading, and writing. Emphasis is placed on increasing the student's in-depth cultural knowledge about Japan and knowledge relevant to intercultural communication as well as developing the student's ability to critically read a variety of texts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 104 or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "JAPN104"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN109",
+      "name": "JAPN 109 — Japanese Language, Culture, and Society",
+      "description": "Critical reading of Japanese texts, such as essays, film scripts, and novels in regard to linguistic diversity related to cultural and social diversity. Topics include standard Japanese and regional variation, politeness and honorifics, age-related stylistic variation, and gendered language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 104 or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "JAPN104"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN111",
+      "name": "JAPN 111 — Japanese Arts and Beyond",
+      "description": "Students develop critical literacies through critiquing visual and performing arts by Japanese, Zainichi Korean, and Indigenous Ainu artists. Course enhances studentsâ linguistic skills and critical literacy in understanding and contextualizing content and promotes interactive and experiential learning by engaging with a different range of sources (texts and art forms) in and outside the classroom. Students learn about artists and their artwork through reading texts and visual materials including artistsâ own writings, articles, and audio-visual media in Japanese and English. Students also learn to develop criticality in discussing and analyzing aesthetic, cultural, sociopolitical aspects of artwork related to social engagements, self and other, (im)mortality, feminism, gender, sexuality, colonialism, and indigeneity in their target language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JAPN 104 or equivalent.",
+      "prereqGroups": [
+        [
+          "JAPN104"
+        ]
+      ]
+    },
+    {
+      "id": "JAPN194",
+      "name": "JAPN 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JAPN199",
+      "name": "JAPN 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JAPN199F",
+      "name": "JAPN 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

@@ -1,0 +1,1595 @@
+{
+  "department": "EART - Earth Sciences",
+  "slug": "eart-earth-sciences",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/eart-earth-sciences",
+  "generated_at": "2025-11-28T07:51:37.291602+00:00",
+  "courses": [
+    {
+      "id": "EART1",
+      "name": "EART 1 — Oceanography",
+      "description": "An introduction to the physical environment of the ocean. Origin and evolution of ocean basins; sea-floor morphology; origin, distribution, historical record, and economic significance of marine sediments; ocean currents, waves, tides, and changing sea level; beaches, shorelines, and coastal processes; marine resources, pollution, and human impacts on the oceans. Students may also enroll in and receive credit for OCEA 1 .",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART2",
+      "name": "EART 2 — Earth Catastrophes",
+      "description": "The role of catastrophic processes in shaping Earth and the environment in which we live. The physical processes causing earthquakes, volcanic eruptions, tsunamis, floods, windstorms, landslides, and meteorite impacts will be described, along with the role played by these rapid processes in the geological and biological evolution of the planet. Interdisciplinary approaches to understanding these phenomena will be discussed. The entire time scale from formation of the universe to the present Earth system will be considered.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART3",
+      "name": "EART 3 — Geology of National Parks",
+      "description": "Geologic concepts and processes responsible for shaping our national parks including mountain building, volcanic and earthquake activity, sedimentation, weathering, erosion, and glaciation. An understanding of how geology impacts our lives is emphasized. Appropriate for both science and non-science majors who wish to enhance their knowledge, enjoyment, and appreciation of our national parks.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART5",
+      "name": "EART 5 — California Geology",
+      "description": "An introduction to physical geology emphasizing the minerals, rocks, volcanoes, mountains, faults, and earthquakes of California. In-class field trips to study the caves, rocks, and landforms of the campus and the Monterey Bay area. Discussion-1 hour. Concurrent enrollment in EART 5L is required for majors and minors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART5L",
+      "name": "EART 5L — California Geology Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in course 5 with particular emphasis on rock and mineral identification and map interpretation. Field trip. Laboratory three hours.",
+      "credits": "1",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART7",
+      "name": "EART 7 — The History of Life",
+      "description": "An examination of the major events in the history of life, from the origin of life approximately four billion years ago, to the wave of extinctions that has decimated plants and animals around the globe over the past 30,000 years.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART8",
+      "name": "EART 8 — Planetary Discovery",
+      "description": "A sweeping tour of planets, satellites, and small bodies in and out of the solar system. Focuses on major scientific results from telescopes and spacecraft missions. Topics include planetary system architecture, planetary atmosphere, surface and interior, planetary formation and evolution, astrobiology, extra-solar planets. Open to all students.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART10",
+      "name": "EART 10 — How the Earth Works",
+      "description": "Introduction to the scientific study of Earth, the materials composing it, and the processes shaping it. Topics include minerals and rocks, Earth's internal structure, plate tectonics, earthquakes and volcanoes, oceans and the atmosphere, the formation of landscapes and global change. A one-day, optional field trip is included. Concurrent enrollment in EART 10L is required for majors and minors. (Formerly Geologic Principles.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART10L",
+      "name": "EART 10L — Geologic Principles Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in course 10, with particular emphasis on rock and mineral identification and map interpretation. Laboratory 3 hours. In-lab field trips.",
+      "credits": "1",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART11",
+      "name": "EART 11 — Earthquakes",
+      "description": "Causes and effects of earthquakes. How do we measure, mitigate, and try to predict earthquakes? Plate motion, frictional faulting, earthquake triggering, wave propagation, earthquake damage, related hazards, and other social effects. Hazard reduction through earthquake forecasting and earthquake-resistant design. Class includes one full day weekend field trip to local faults. Advanced algebra and high school geometry recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART12",
+      "name": "EART 12 — Introduction to Weather and Climate",
+      "description": "Many meteorological phenomena are familiar to us: clouds, fog, rain, snow, wind, lightning, and severe storms. Climate is the sum of weather over long periods and is changing (e.g., greenhouse warming, ozone depletion, urban smog) due to mankind's activities. Conceptual understanding of how and why the present-day atmosphere behaves as it does and how this may change in the future is the primary goal of this course.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART15",
+      "name": "EART 15 — Science and Colonialism",
+      "description": "Critical examination of the relationship between colonialism and science from the 19th century to today. Reexamines stories on the history of science through a critical feminist and postcolonial framework. In particular, students focus on the role of science in creating ideas of racial categories and hierarchies; ideas that were used to justify colonialist and imperialist endeavors. Ultimately, course turns to decolonizing methods in science, exploring modes of resistance to dominant scientific narratives. (Formerly Science as a Colonial Practice.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART20",
+      "name": "EART 20 — Environmental Geology",
+      "description": "Introduction to aspects of geology which affect and are affected by humans. Addresses a broad range of topics including resource management, geologic hazards, air and water issues, population and land use, energy costs and effectiveness, and global change, all from a unique geological/environmental perspective. Lectures include strategies for mitigating these issues. Includes a one-day field trip. Concurrent enrollment in 20L required for majors and minors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART20L",
+      "name": "EART 20L — Environmental Geology Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in course 20, with emphasis on rock and mineral identification, geologic hazard assessment, geologic resource management, and land use planning. In-lab field trip. Laboratory 3 hours.",
+      "credits": "1",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART30",
+      "name": "EART 30 — Water in the Environment",
+      "description": "Broadly explores how components of the water cycle (precipitation, evapotranspiration, streamflow, groundwater) influence the structure of different environments as well as the communities, cultures, and people within these environments.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART32",
+      "name": "EART 32 — The Science of Cooking",
+      "description": "Investigates principles of physics and chemistry as they apply to cooking. Students cook different dishes weekly to both illustrate these principles and to understand how ingredients, technique, and science intersect to make the food that is eaten all around the world. By the end of the course, students will have made recipes that represent a diversity of global cooking traditions. Access to a kitchen and basic cooking equipment is required, and rudimentary cooking skills and kitchen safety knowledge are assumed.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART66",
+      "name": "EART 66 — Natural History of Dinosaurs",
+      "description": "Explores the origin, evolution, and extinction of dinosaurs with emphasis on paleobiology and paleoecology. Covers fundamental paleontological and evolutionary principles, dinosaur anatomy and behavior, the hot-blooded/cold-blooded debate, dinosaur-bird relationships, diversity, and exploits of the great dinosaur hunters. One and a half hour of discussion each week. (Formerly EART 65.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART96",
+      "name": "EART 96 — Earth Sciences Orientation",
+      "description": "Practical, evidence-based strategies for maximizing learning, developing a sense of belonging, and building your identity in Earth and planetary sciences studies. This course can be taken for Pass/No Pass grading only. (Formerly Academic Success Skills.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to first-year proposed Earth sciences majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART98",
+      "name": "EART 98 — Earth Sciences Internship",
+      "description": "A supervised learning experience involving practical application of lower division Earth sciences knowledge while working with approved companies, governmental agencies, or research organizations. Students consult weekly with supervising faculty and prepare a final report of their work, to be evaluated both by the sponsoring agency and the faculty supervisor. Consult sponsoring agency for enrollment criteria; after instruction on resume preparation and interview skills, student must interview and be selected for internship by approved sponsoring organizations.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART99",
+      "name": "EART 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART100",
+      "name": "EART 100 — Vertebrate Paleontology",
+      "description": "Introduction to vertebrate history, with an emphasis on vertebrate relationships and the co-evolution of organisms and environments. Specific topics include vertebrate origins, systematics and classification, adaptive revolutions, mass extinctions, and the rise and fall of dinosaurs.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 5 or EART 10 or EART 20 or BIOE 20C , or ANTH 1 . Concurrent enrollment in EART 100L is required.",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20",
+          "BIOE20C",
+          "ANTH1"
+        ]
+      ]
+    },
+    {
+      "id": "EART100L",
+      "name": "EART 100L — Vertebrate Paleontology Laboratory",
+      "description": "Comparative anatomy and functional morphology of vertebrates, and preservation of vertebrate hard parts, using modern and fossil specimens. Laboratory three hours and one 1-day field trip.",
+      "credits": "2",
+      "rawRequirements": "Requirements Concurrent enrollment in EART 100 is required.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART101",
+      "name": "EART 101 — Invertebrate Paleobiology",
+      "description": "An introduction to paleobiology; the use of fossil evidence to pose and solve evolutionary and geologic questions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 5 or EART 10 or EART 20 or BIOE 20C or ANTH 1 . Concurrent enrollment in EART 101L is required.",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20",
+          "BIOE20C",
+          "ANTH1"
+        ]
+      ]
+    },
+    {
+      "id": "EART101L",
+      "name": "EART 101L — Invertebrate Paleobiology Laboratory",
+      "description": "Systematics, ecology, and evolutionary history of the major groups of fossil-forming animals. Laboratory 3 hours and one 1-day field trip.",
+      "credits": "1",
+      "rawRequirements": "Requirements Concurrent enrollment in EART 101 is required.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART102",
+      "name": "EART 102 — Marine Geology",
+      "description": "Geology of the marine environment. Topics include controls on the types, origin, and distribution of marine sediments; geology of oceanic crust; evolution of continental margins and plate boundaries; introduction to paleoceanography. Discussion: 1 hour. Students cannot receive credit for this course and OCEA 280 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements,and EART 5 or EART 10 or EART 20 or BIOE 20C .",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20",
+          "BIOE20C"
+        ]
+      ]
+    },
+    {
+      "id": "EART104",
+      "name": "EART 104 — Geologic Hazards",
+      "description": "The recognition, evaluation, and mitigation of geologic hazards: earthquakes and faulting, tsunamis, volcanism, landslides and mass movements, and flooding.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and EART 10 and EART 10L ; or EART 5 and 5L; or EART 20 and EART 20L .",
+      "prereqGroups": [
+        [
+          "EART10",
+          "EART5",
+          "EART20"
+        ],
+        [
+          "EART10L",
+          "EART5L",
+          "EART20L"
+        ]
+      ]
+    },
+    {
+      "id": "EART105",
+      "name": "EART 105 — Coasts and Beaches",
+      "description": "An investigation of the evolution, morphology, and processes in the coastal zone including the terrestrial (marine terraces, dunes, estuaries, sea cliffs) and marine (beaches, continental shelves, sea level changes, shoreline erosion and protection, waves, tides) components and their interaction. Laboratory: 3 hours. (Formerly EART 105 , Coastal Geology.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 .",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ]
+      ]
+    },
+    {
+      "id": "EART106",
+      "name": "EART 106 — Coasts in Crisis",
+      "description": "Comprehensive assessment of the impacts that the human population is having on the coastal zone globally and the diverse ways in which geologic processes and coastal hazards impact human settlement and development in the coastal zone.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART107",
+      "name": "EART 107 — Remote Sensing of the Environment",
+      "description": "Introduction to geographic information systems (GIS) and remote sensing (RS) as valuable tools in the study of geology. Covers application of GIS/RS to study of surface processes, including landslides, hydrologic basins, coastal erosion, modern floods, volcanic activity and surface deformation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 .",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ]
+      ]
+    },
+    {
+      "id": "EART109",
+      "name": "EART 109 — Elements of Field Geology",
+      "description": "Basic tools and techniques used in geologic fieldwork. Preparation, analysis, and interpretation of geologic maps. Nine to 10 days of weekend field trips required, including a six-day geologic mapping exercise. Laboratory: 3 hours. Recommended for courses EART 120 , EART 130 , EART 150 , and required for EART188A-EART 188B. May not be taken concurrently with EART 120, EART 150 , or EART 188.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements, and EART 5 or EART 10 or EART 20 ; and EART 5L or EART 10L or EART 20L ; or by permission of instructor. Concurrent enrollment in EART 109L is required. Enrollment is restricted to majors and minors in Earth and planetary sciences and the combined majors with anthropology and environmental studies.",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ]
+      ]
+    },
+    {
+      "id": "EART109L",
+      "name": "EART 109L — Field Geology Laboratory",
+      "description": "Laboratory exercises essential to the successful completion of fieldwork required in course 109. Topics include topographic maps, Brunton compass, rock identification and description, geologic map analysis, structure section construction, and landslide recognition.",
+      "credits": "2",
+      "rawRequirements": "Requirements Concurrent enrollment in EART 109 is required. Enrollment is restricted to Earth sciences majors and minors and the combined majors with anthropology and environmental studies or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "EART109"
+        ]
+      ]
+    },
+    {
+      "id": "EART110A",
+      "name": "EART 110A — Evolution of the Earth",
+      "description": "Investigation of the processes and mechanisms that have produced the present Earth system, with an emphasis on the temporal evolution of the earth from the Archean to the present. Specific topics covered include cyclicity in Earth processes and the evolution of, and interplay between the planet's crust, atmosphere, hydrosphere, and biosphere.",
+      "credits": "7",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 , and EART 5L or EART 10L or EART 20L , and MATH 11A or MATH 19A or AM 15A.",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "EART5L",
+          "EART10L",
+          "EART20L"
+        ],
+        [
+          "MATH11A",
+          "MATH19A",
+          "AM15A"
+        ]
+      ]
+    },
+    {
+      "id": "EART110B",
+      "name": "EART 110B — Earth as a Chemical System",
+      "description": "The chemical properties of Earth materials and the chemical processes by which the planet has evolved to its present state. Specific topics covered include properties of minerals; the genesis of igneous, metamorphic, and sedimentary rocks; and the linkage between the solid Earth and the hydrosphere. Enrollment is permitted by permission code with equivalent or exceptional background, or if enrolled concurrently in CHEM 1B.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 ; and EART 5L or EART 10L or EART 20L ; and CHEM 1B or CHEM 3A or CHEM 4A .",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "EART5L",
+          "EART10L",
+          "EART20L"
+        ],
+        [
+          "CHEM1B",
+          "CHEM3A",
+          "CHEM4A"
+        ]
+      ]
+    },
+    {
+      "id": "EART110C",
+      "name": "EART 110C — The Dynamic Earth",
+      "description": "Physical processes occurring in the interior of the earth, at its surface and in the oceans and atmospheres including plate tectonics, structural deformation of rocks, and material and heat transport.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 , and EART 5L or EART 10L or EART 20L ; and MATH 11B or MATH 19B ; and PHYS 6A or PHYS 5A .",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "EART5L",
+          "EART10L",
+          "EART20L"
+        ],
+        [
+          "MATH11B",
+          "MATH19B"
+        ],
+        [
+          "PHYS6A",
+          "PHYS5A"
+        ]
+      ]
+    },
+    {
+      "id": "EART110M",
+      "name": "EART 110M — Earth as a Chemical System Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in course 110B. Emphasizes identification of the major rock-forming minerals and common rock types; principles of basic crystallography.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in EART 110B .",
+      "prereqGroups": [
+        [
+          "EART110B"
+        ]
+      ]
+    },
+    {
+      "id": "EART110N",
+      "name": "EART 110N — The Dynamic Earth Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in course 110C.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in EART 110C .",
+      "prereqGroups": [
+        [
+          "EART110C"
+        ]
+      ]
+    },
+    {
+      "id": "EART111",
+      "name": "EART 111 — Mathematics in the Earth Sciences",
+      "description": "Series and sequences, vectors, 3D analytic geometry, partial differentiation, matrix algebra, and differential equations with applications in the Earth sciences. Topics include matrix manipulation, systems of linear equations, least-squares, Taylor series, gradients, optimization, analytic and numerical solutions to differential equations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 , and MATH 11B or MATH 19B or AM 15B.",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "MATH11B",
+          "MATH19B",
+          "AM15B"
+        ]
+      ]
+    },
+    {
+      "id": "EART112",
+      "name": "EART 112 — Geophysical Data Science",
+      "description": "Introduction to coding through fitting and modelling data. General linear models and spectral analysis introduced with applications to environmental and geophysical data. Introduction to MATLAB included.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 21 or AM 10 ; plus one of the following series: MATH 19A and MATH 19B (strongly preferred); or MATH 11A and MATH 11B ; or AM 15A and AM 15B.",
+      "prereqGroups": [
+        [
+          "MATH21",
+          "AM10"
+        ],
+        [
+          "MATH19A",
+          "MATH19B"
+        ],
+        [
+          "MATH11A",
+          "MATH11B"
+        ],
+        [
+          "AM15A",
+          "AM15B"
+        ]
+      ]
+    },
+    {
+      "id": "EART116",
+      "name": "EART 116 — Hydrology",
+      "description": "Introduces processes involving water on and near Earth's surface, including meteorology, water properties, surface flows in steams and runoff, flood analysis, ground water, water budgets, sediment transport, erosion, and water quality. Problem set and laboratory each week. Laboratory/field: 3 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 ; and MATH 11A or MATH 19A or AM 15A; and PHYS 6A and PHYS 6L , or PHYS 5A and PHYS 5L , or by permission of the instructor. EART 5L or EART 10L or EART 20L and PHYS 6B and PHYS 6M are recommended. Enrollment is restricted to majors and minors in Earth sciences and the combined majors with anthropology and environmental studies, and to majors in environmental sciences.",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "MATH11A",
+          "MATH19A",
+          "AM15A"
+        ],
+        [
+          "PHYS6A",
+          "PHYS6L"
+        ],
+        [
+          "PHYS5A",
+          "PHYS5L"
+        ]
+      ]
+    },
+    {
+      "id": "EART118",
+      "name": "EART 118 — Seismotectonics",
+      "description": "Earthquakes and their relationship to plate tectonics. Topics include seismological analysis of earthquake faulting, types of seismic waves, seismicity distributions, thermal and rheological structure of plates, and seismic investigation of plate dynamics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 ; and MATH 11B or MATH 19B ; and PHYS 5A or PHYS 6A .",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "MATH11B",
+          "MATH19B"
+        ],
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ]
+      ]
+    },
+    {
+      "id": "EART119A",
+      "name": "EART 119A — Introduction to Scientific Programming",
+      "description": "Introduction to programming for Earth and environmental scientists. Course assumes no prior programming experience. Develops useful Python skills for prospective scientists, rather than cover all aspects of the computer language. (Formerly EART 119.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 19A or MATH 11A or MATH 20A and EART 5 or EART 10 or EART 20 .",
+      "prereqGroups": [
+        [
+          "MATH19A",
+          "MATH11A",
+          "MATH20A"
+        ],
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ]
+      ]
+    },
+    {
+      "id": "EART119B",
+      "name": "EART 119B — Advanced Scientific Programing",
+      "description": "Advanced programming course designed to cover the basic software design workflow in the context of scientific computing, including specific topics such as using Linux, cloud computing, version control, numerical simulation, computer vision, and machine learning. Learners should bring basic Python experience (e.g., prerequisite EART119A) or significant programming experience in another language. The final project has learners collaborate on developing a scientific computing project, collaboratively implement the project with git version control and then deploy the repository for computation on the UCSC Hummingbird cluster or in the cloud. Taught in conjunction with EART 219 . Students cannot receive credit for this course and EART 219 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART119A or other programming experience by instructor permission. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "EART119A"
+        ]
+      ]
+    },
+    {
+      "id": "EART120",
+      "name": "EART 120 — Sedimentology and Stratigraphy",
+      "description": "Stratigraphic principles used in classifying sedimentary rocks. Fundamentals of sedimentary mechanics. Analysis and interpretation of facies and depositional systems. Introduction to seismic facies and basin analysis. Course includes three Sunday field exercises.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and EART 110A . Concurrent enrollment in EART 120L is required. EART 110B is recommended as preparation. May not be taken concurrently with EART 109 .",
+      "prereqGroups": [
+        [
+          "EART110A"
+        ]
+      ]
+    },
+    {
+      "id": "EART120L",
+      "name": "EART 120L — Sedimentology and Stratigraphy Laboratory",
+      "description": "Laboratory sequence illustrating topics in course 120, including sedimentary petrology, sedimentary structures, sequence stratigraphy, and geohistory analysis.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in EART 120 .",
+      "prereqGroups": [
+        [
+          "EART120"
+        ]
+      ]
+    },
+    {
+      "id": "EART121",
+      "name": "EART 121 — The Atmosphere",
+      "description": "Course focuses on understanding basic atmospheric weather and climate phenomena starting from the fundamentals of physics and chemistry. Using this approach, covers topics such as atmospheric circulation, precipitation, clouds, storms, urban and regional air quality, atmospheric aerosols, and climate and global change.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 11B or MATH 19B or AM 15B; and CHEM 1A or CHEM 3B or CHEM 4B ; and PHYS 5B or PHYS 6B .",
+      "prereqGroups": [
+        [
+          "MATH11B",
+          "MATH19B",
+          "AM15B"
+        ],
+        [
+          "CHEM1A",
+          "CHEM3B",
+          "CHEM4B"
+        ],
+        [
+          "PHYS5B",
+          "PHYS6B"
+        ]
+      ]
+    },
+    {
+      "id": "EART124",
+      "name": "EART 124 — Modeling Earth's Climate",
+      "description": "A hands-on course in climate modeling with emphasis on computer programming (Python) exercises. Topics include the physical laws governing climate, the hierarchy of model complexity, parameterizations, using models for prediction versus understanding, and application to past and future Earth climates.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 11B or MATH 19B and PHYS 6B or PHYS 5B .",
+      "prereqGroups": [
+        [
+          "MATH11B",
+          "MATH19B"
+        ],
+        [
+          "PHYS6B",
+          "PHYS5B"
+        ]
+      ]
+    },
+    {
+      "id": "EART125",
+      "name": "EART 125 — Statistics and Data Analysis in the Geosciences",
+      "description": "Project-based introduction to analytical methods, such as univariate and multivariate statistics, cluster analysis and ordination, and maximum likelihood estimation, using a conceptual approach. Introduction to analysis and programming using the R software package. Students cannot receive credit for this course and EART 225.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART126",
+      "name": "EART 126 — Geomechanics",
+      "description": "An integration of rock mechanics, geophysics, fluid flow, and geology to quantify stress state in the subsurface. Covers a range of topics including: basic constitutive laws for stress and strain, tectonic stress fields, the effects of fluids on rock and fault strength, natural and human-induced hydrofracture, human-induced seismicity, fault, drilling techniques for determining subsurface physical rock properties, and fault zones drilling.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A or PHYS 6A , and EART 110B .",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ],
+        [
+          "EART110B"
+        ]
+      ]
+    },
+    {
+      "id": "EART127",
+      "name": "EART 127 — Measuring Earth's 4.5 Billion-Year History",
+      "description": "Introduces the methodology for measuring the timing of events in Earth's past. Topics include: radiogenic and stable isotopes, chemostratigraphy and paleomagnetism. Case studies focus on reconstructing the timing of major extinction and climatic events in Earth's history. Students cannot receive credit for this course and EART 127.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 110B .",
+      "prereqGroups": [
+        [
+          "EART110B"
+        ]
+      ]
+    },
+    {
+      "id": "EART128",
+      "name": "EART 128 — Isotopes: Fundamentals and Applications in Earth and Marine Sciences",
+      "description": "Explores the fundamentals and concepts of stable, radiogenic, and cosmogenic isotope chemistry with applications relevant to Earth, marine, and biological sciences.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 110B or permission of instructor.",
+      "prereqGroups": [
+        [
+          "EART110B"
+        ]
+      ]
+    },
+    {
+      "id": "EART129",
+      "name": "EART 129 — Global Change",
+      "description": "Covers the science of past and future climate change. Topics include: drivers of radiative forcing; carbon cycle; climate history of Earth; climate feedbacks; detection and attribution of climate change; climate change responses, impacts, adaptation, and mitigation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 11B and CHEM 1C . Enrollment is restricted to environmental sciences majors and Earth sciences majors.",
+      "prereqGroups": [
+        [
+          "MATH11B"
+        ],
+        [
+          "CHEM1C"
+        ]
+      ]
+    },
+    {
+      "id": "EART130",
+      "name": "EART 130 — Igneous and Metamorphic Petrology",
+      "description": "Introduction to the relationship between tectonic environments and the genesis of rock assemblages, primarily igneous and metamorphic. Examples from California and elsewhere are used to illustrate petrogenetic processes and characteristic petrologic features of rocks from all major tectonic settings.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 110B . Concurrent enrollment in EART 130L is required.",
+      "prereqGroups": [
+        [
+          "EART110B"
+        ]
+      ]
+    },
+    {
+      "id": "EART130L",
+      "name": "EART 130L — Igneous and Metamorphic Petrology Laboratory",
+      "description": "An introduction to optical mineralogy and the petrography of igneous rocks.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): EART 110B . Concurrent enrollment in EART 130 is required.",
+      "prereqGroups": [
+        [
+          "EART110B"
+        ],
+        [
+          "EART130"
+        ]
+      ]
+    },
+    {
+      "id": "EART131",
+      "name": "EART 131 — Sea Level Change",
+      "description": "From the origin of the oceans to the modern climate crisis, this course aims to explore sea-level change over a wide range of timescales. The course links a series of solid Earth processes, such as mantle convection, viscoelastic deformation, and plate tectonics, to the past climate record. Students investigate how these processes contribute to our understanding of past, present, and future changes in sea level and climate.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 , and MATH 11A or MATH 19A or MATH 20A , and PHYS 5A or PHYS 6A .",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "MATH11A",
+          "MATH19A",
+          "MATH20A"
+        ],
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ]
+      ]
+    },
+    {
+      "id": "EART134",
+      "name": "EART 134 — Thermochemistry of Geologic Systems",
+      "description": "Introduction to the thermodynamic and kinetic principles with a strong emphasis on applications to Earth materials. Implications for phase equilibria, geothermometry/geobarometry, element partitioning, and physical properties of minerals, magmas, and solutions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 110B .",
+      "prereqGroups": [
+        [
+          "EART110B"
+        ]
+      ]
+    },
+    {
+      "id": "EART140",
+      "name": "EART 140 — Geomorphology",
+      "description": "An introduction to the evolution of the Earth's landscape, with emphasis on the processes responsible. Review of climatic and tectonic forcing followed by detailed discussion of weathering, glaciers, hillslopes, wind, rivers, and coastal processes with emphasis on their geographic distribution. One single day and one three-day field trip.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 110A . Concurrent enrollment in EART 140L is required.",
+      "prereqGroups": [
+        [
+          "EART110A"
+        ]
+      ]
+    },
+    {
+      "id": "EART140L",
+      "name": "EART 140L — Geomorphology Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in course 140. These extensive laboratory exercises emphasize the quantification of the geomorphic processes and forms, and on the writing of concise summaries of the science in the form of abstracts.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in EART 140 is required.",
+      "prereqGroups": [
+        [
+          "EART140"
+        ]
+      ]
+    },
+    {
+      "id": "EART142",
+      "name": "EART 142 — Engineering Geology for Environmental Scientists",
+      "description": "Introduction to the formation, composition, and classification of soils; the chemical interaction of soil and groundwater; and basic soil mechanics: stress-strain behavior, effective stress concept, consolidation, soil testing methods. Applications to problems including slope stability, landslides, liquefaction, subsidence, soil creep, debris flows. Laboratory: 3 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 5 or EART 10 or EART 20 ; and MATH 11A or MATH 19A or AM 15A.",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "MATH11A",
+          "MATH19A",
+          "AM15A"
+        ]
+      ]
+    },
+    {
+      "id": "EART146",
+      "name": "EART 146 — Groundwater",
+      "description": "Explores saturated and unsaturated fluid flow below Earth's surface, well hydraulics, and resource evaluation and development, flow simulation, field techniques, geochemistry, and contaminant transport and remediation. Weekly reading and problem sets, midterm and final exams, and a final paper.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prereq(s): ELWR; and EART 5 , 10 or 20; and MATH 11A , 19A or 20A; and PHYS 6A /6L or PHYS 5A /5L; and CHEM 1A or CHEM 3B or CHEM 4B . Enrollment restricted to majors/minors in EART, EART/ANTH and EART/ENVS combined majors, and ESCI. Coreq: EART 146L .",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "MATH11A",
+          "MATH19A",
+          "MATH20A"
+        ],
+        [
+          "PHYS6A",
+          "PHYS6L"
+        ],
+        [
+          "PHYS5A",
+          "PHYS5L"
+        ],
+        [
+          "CHEM1A",
+          "CHEM3B",
+          "CHEM4B"
+        ]
+      ]
+    },
+    {
+      "id": "EART146L",
+      "name": "EART 146L — Groundwater Laboratory",
+      "description": "A sequence of exercises that provide hands-on learning and exploration of topics covered in course EART 146 , including laboratory experiments, analytical and numerical simulation, and field methods. Two field trips: one during a normal lab time (three hours); one all-day trip on a weekend.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in EART146 is required.",
+      "prereqGroups": [
+        [
+          "EART146"
+        ]
+      ]
+    },
+    {
+      "id": "EART148",
+      "name": "EART 148 — Glaciology",
+      "description": "Introduction to the role of snow and ice in the dynamics of the earth surface system. Snow deposition and metamorphosis. Heat and mass balance at snow and ice surfaces. Flow of glaciers, ice sheets, and sea ice. Methods of climate reconstruction. Ice age theories.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and EART 5 or EART 10 or EART 20 ; and MATH 11A or MATH 19A or AM 15A.",
+      "prereqGroups": [
+        [
+          "EART5",
+          "EART10",
+          "EART20"
+        ],
+        [
+          "MATH11A",
+          "MATH19A",
+          "AM15A"
+        ]
+      ]
+    },
+    {
+      "id": "EART150",
+      "name": "EART 150 — Structural Geology",
+      "description": "Principles and methods of analysis of brittly and ductily deformed rocks. Includes descriptions of structures, field analysis of structures, and mechanics of deformation. Three day-long field trips on weekends.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and EART 110A or EART 110B ; EART 109 recommended; concurrent enrollment in EART 150L is required.",
+      "prereqGroups": [
+        [
+          "EART110A",
+          "EART110B"
+        ]
+      ]
+    },
+    {
+      "id": "EART150L",
+      "name": "EART 150L — Structural Geology Laboratory",
+      "description": "Structural analysis of faults, folds, and maps. Use of stereographic projections. Cross section construction and balancing from field data.",
+      "credits": "2",
+      "rawRequirements": "Requirements Concurrent enrollment in EART 150 is required.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART152",
+      "name": "EART 152 — Tectonics",
+      "description": "The processes, techniques, and interpretations involved in the study of active crustal movements; constraints from plate tectonics; horizontal and vertical motions and rates; geodesy, including GPS; stress measurement; image interpretation; fault system analysis; paleoseismicity; fluid effects. Examples from the circum-Pacific. Laboratory-3 hours. Students cannot receive credit for this course and course 207. Students are billed a materials fee.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 10 or EART 5 or EART 20 ; and EART 10L or EART 5L or EART 20L ; and PHYS 5A or PHYS 6A or equivalent per instructor permission.",
+      "prereqGroups": [
+        [
+          "EART10",
+          "EART5",
+          "EART20"
+        ],
+        [
+          "EART10L",
+          "EART5L",
+          "EART20L"
+        ],
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ]
+      ]
+    },
+    {
+      "id": "EART160",
+      "name": "EART 160 — Planetary Science",
+      "description": "Broad introduction to planetary science. Topics include the fundamental characteristics of solar system bodies; space exploration of these bodies; formation and evolution of surfaces, atmospheres and interiors of planets, satellites and small bodies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and MATH 11B or MATH 19B or AM 15B; and PHYS 5A or PHYS 6A .",
+      "prereqGroups": [
+        [
+          "MATH11B",
+          "MATH19B",
+          "AM15B"
+        ],
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ]
+      ]
+    },
+    {
+      "id": "EART162",
+      "name": "EART 162 — Planetary Interiors",
+      "description": "The chemical and thermal structure and evolution of silicate planet interiors. Topics include equation of state of mantle and core materials, thermal history of the mantle and core, dynamics of mantle convection, geophysical determination of interior structure. Students cannot receive credit for this course and EART 262 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 160 or PHYS 116A , and either MATH 22 , or MATH 23A , or EART 111 .",
+      "prereqGroups": [
+        [
+          "EART160",
+          "PHYS116A"
+        ],
+        [
+          "MATH22",
+          "MATH23A",
+          "EART111"
+        ]
+      ]
+    },
+    {
+      "id": "EART163",
+      "name": "EART 163 — Planetary Surfaces",
+      "description": "Comparative study of surfaces and atmospheres of planetary bodies in solar system, focusing on comparative planetology and geophysical processes at work, including differentiation, impact cratering, tectonics, volcanism, and geomorphic evolution. Explores terrestrial planets, giant planets and their moons. Students cannot receive credit for this course and EART 263.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 160 or PHYS 116A .",
+      "prereqGroups": [
+        [
+          "EART160",
+          "PHYS116A"
+        ]
+      ]
+    },
+    {
+      "id": "EART164",
+      "name": "EART 164 — Planetary Atmospheres",
+      "description": "A quantitative study of the origin, chemistry, dynamics, and observations of the atmospheres of terrestrial and gas-giant planets. Students cannot receive credit for this course and EART 264 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 160 or PHYS 116A .",
+      "prereqGroups": [
+        [
+          "EART160",
+          "PHYS116A"
+        ]
+      ]
+    },
+    {
+      "id": "EART165",
+      "name": "EART 165 — History and Geochemistry of the Solar System",
+      "description": "Introduces solar system history and geochemistry. Observation methods and tools discussed include major and trace element geochemistry, geothermometry, radiogenic and stable isotopes. Solar system reconstructed through the examination of meteorites from different parent bodies. Taught in conjunction with EART 268 . Students cannot receive credit for this course and EART 268 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 110B .",
+      "prereqGroups": [
+        [
+          "EART110B"
+        ]
+      ]
+    },
+    {
+      "id": "EART172",
+      "name": "EART 172 — Geophysical Fluid Dynamics",
+      "description": "Introduces fluid motion influenced by rotation. Topics include the Coriolis force, geostrophic flow, potential vorticity, the shallow water model, quasigeostrophic approximation, planetary waves, Ekman theory, thermal wind, models of the large-scale oceanic and atmospheric circulation, and equatorial dynamics. Taught in conjunction with EART 272. Students cannot receive credit for this course and EART 272.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 107 or AM 107 ; MATH 22 or MATH 23B recommended.",
+      "prereqGroups": [
+        [
+          "PHYS107",
+          "AM107"
+        ]
+      ]
+    },
+    {
+      "id": "EART189A",
+      "name": "EART 189A — Geographic Information Systems with Applications in Earth Sciences",
+      "description": "Introduces Geographic Information Systems (GIS) for geologic mapping and interpretation. Students gain experience with satellite, air photo, and digital elevation model (DEM) interpretation, and research the geology, tectonics, paleontology, and stratigraphy for field sites in eastern California. Prerequisite(s): EART 109 , EART 109L , EART 110A , and EART 110. Enrollment is restricted to Earth sciences majors, and combined Earth sciences/environmental studies majors. Enrollment via an application.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART189B",
+      "name": "EART 189B — Summer Field Study",
+      "description": "Students spend three weeks in this field course on advanced geologic mapping acquiring and analyzing original data and then another 11 days refining their interpretations. Emphasis is on geologic mapping, stratigraphy, structure and tectonic analysis, and petrology. Students are billed a fee of $1,000. Prerequisite(s): EART 109 , EART 109L , EART 110A , EART 110L, EART 110B , EART 110M , and EART 189A and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to Earth sciences and combined Earth sciences/environmental studies majors. Enrollment via an application.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART190",
+      "name": "EART 190 — Earth Sciences Mentorship",
+      "description": "Faculty research activity, analytic facilities, and career counseling in three separate Earth sciences laboratories are offered with varied formats including field trips, discussions, and equipment demonstrations. Three different faculty participate in each offering.",
+      "credits": "1",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART191",
+      "name": "EART 191 — Earth Sciences Capstone Seminar",
+      "description": "In-depth exploration of a topic within the Earth sciences. Involves at least one research paper. Topics vary quarterly; consult the current course listings. (Formerly EART 191A, Climate Change Science and Policy.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior majors in Earth sciences and the combined major with anthropology. Enrollment is by application with selection based on appropriate background and academic performance and by consent of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART191B",
+      "name": "EART 191B — Planetary Capstone",
+      "description": "Examines a crosscutting topic in planetary sciences (e.g., volcanism) to satisfy the senior capstone requirement. Students are assessed on the basis of an oral presentation and a written report in which a synthetic review is present.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 160 , and EART 111 or MATH 22 . Enrollment is restricted to seniors and graduate students.",
+      "prereqGroups": [
+        [
+          "EART160"
+        ],
+        [
+          "EART111",
+          "MATH22"
+        ]
+      ]
+    },
+    {
+      "id": "EART191C",
+      "name": "EART 191C — Practical Geophysics",
+      "description": "Hands-on practice analyzing real-life observational data including earthquake catalogs, seismograms, gravity, and GPS data. Emphasis on data collection, and access and manipulation skills. Introduction to MATLAB programming included. Prerequisite(s): EART 112 (preferred) or EART 119; and EART 110C and EART 110N , plus satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior majors in Earth sciences. Enrollment is by application with selection based on appropriate background and academic performance and by consent of the instructor. Students cannot receive credit for this course and EART 266 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): EART 112 or EART 119; and EART 110C , and satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "EART112",
+          "EART119"
+        ],
+        [
+          "EART110C"
+        ]
+      ]
+    },
+    {
+      "id": "EART191D",
+      "name": "EART 191D — Practical Geochemistry",
+      "description": "Provides hands-on experience to geochemical instrumentation with focus on data collection. Practical labs apply sample imaging, isotopic major- and trace-element measurements to natural samples. Lab sessions are supported by instruction, geochemistry, and Earth science. Students investigate a new Earth science problem using new samples “unknowns.” Scientific literature relevant to this new topic is also explored. Prerequisite(s): EART 5 and EART 5L , or EART 10 and EART 10L , or EART 20 and EART 20L ; and EART 110B and EART 110M ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is by application with selection based on appropriate background and academic performance and by consent of the instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART194F",
+      "name": "EART 194F — Education Capstone",
+      "description": "Students write a paper on a lesson plan developed after their CalTeach internship courses. This independent study is supervised by Earth and planetary sciences faculty or ocean sciences faculty, as well as a member of the CalTeach staff or Education Department.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): EDUC 185C and EDUC 185L . Enrollment is restricted to Earth and planetary sciences majors with a concentration in science education.",
+      "prereqGroups": [
+        [
+          "EDUC185C",
+          "EDUC185L"
+        ]
+      ]
+    },
+    {
+      "id": "EART195",
+      "name": "EART 195 — Senior Thesis",
+      "description": "Students submit petition to sponsoring agency. Enrollment is restricted to seniors. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART196B",
+      "name": "EART 196B — Tutoring Earth Sciences in the University",
+      "description": "Students facilitate laboratory and field exercises in conjunction with faculty and teaching assistants in various Earth sciences courses. May not count toward upper-division major requirements. Approval of sponsoring agency; interview, and selection by primary instructor of specific courses required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART196C",
+      "name": "EART 196C — Tutoring Earth Sciences in the University",
+      "description": "Students facilitate laboratory and field exercises in conjunction with faculty and teaching assistants in various Earth sciences courses. May not count toward upper-division major requirements. Approval of sponsoring agency; interview. and selection by primary instructor of specific courses required. Enrollment restricted to Earth sciences, Earth sciences/anthropology, and environmental studies/Earth sciences majors.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART198",
+      "name": "EART 198 — Earth Sciences Internship",
+      "description": "A supervised learning experience involving practical application of Earth sciences through working with approved companies, governmental agencies, or research organizations. Students consult weekly with supervising faculty and prepare a final report of their work. Consult sponsoring agency for enrollment criteria. After instruction on resume preparation and interview skills, students must interview and be selected for internship by approved sponsoring organizations. Enrollment is restricted to Earth sciences, Earth sciences/anthropology, and environmental studies/Earth sciences majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART198F",
+      "name": "EART 198F — Earth Sciences Internship",
+      "description": "A supervised learning experience involving practical application of Earth sciences through working with approved companies, governmental agencies, or research organizations. Students consult weekly with supervising faculty and prepare a final report of their work. May not be counted toward upper-division major requirements. Consult sponsoring agency for enrollment criteria. After instruction on resume preparation and interview skills, student must interview and be selected for internship by approved sponsoring organizations. Enrollment is restricted to Earth sciences, Earth sciences/anthropology, and environmental studies/Earth sciences majors.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART199",
+      "name": "EART 199 — Tutorial",
+      "description": "Introduction to research in laboratory, field, or theoretical subjects as an independent study. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART199F",
+      "name": "EART 199F — Tutorial",
+      "description": "Introduction to research in laboratory, field, or theoretical subjects as an independent study. May not be counted toward upper-division major requirements. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART203",
+      "name": "EART 203 — Introductory Teaching Seminar",
+      "description": "Intended for new Earth sciences graduate students. Focus on preparation, assessment, and feedback. Classroom techniques, organizational and time management strategies, practice teaching sessions specific to laboratory and/or science instruction. Required follow-up meetings to discuss practical teaching experience.",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART204",
+      "name": "EART 204 — Earth and Planetary Sciences Foundations",
+      "description": "Provides a comprehensive overview of key concepts, dominant paradigms, and research frontiers in Earth and planetary sciences in plenary talks by multiple faculty. Provides a required foundation course for all incoming students pursuing graduate degrees in Earth and planetary sciences.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Earth sciences graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART206",
+      "name": "EART 206 — Great Papers in the Earth Sciences",
+      "description": "Exposure to the most important ideas in the Earth sciences through exploration of the primary literature. Seminal papers in different subdisciplines of the Earth sciences are read and analyzed to provide breadth and improve students' ability to think critically.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Earth sciences graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART207",
+      "name": "EART 207 — Tectonics",
+      "description": "An overview of tectonic theory and processes for application to the Earth sciences. The course explores the primary tools of tectonic interpretation including plate kinematics, rheology, plate boundary dynamics, and the behavior of active fault systems. Taught in conjunction with EART 152. Students cannot receive credit for this course and EART 152.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): graduate standing or permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART208",
+      "name": "EART 208 — Methods in Paleoclimatology",
+      "description": "Addresses methods used to reconstruct aspects of paleoclimates and paleoenvironments from the geologic record, focusing primarily on terrestrial records. Topics to be covered include dendrochronology and dendroclimatology, paleopalynology, paleobotany, ice cores, and paleosol studies. Lectures, discussions, and laboratory work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART219",
+      "name": "EART 219 — Advanced Scientific Programing",
+      "description": "Advanced programming course designed to cover the basic software design workflow in the context of scientific computing, including specific topics such as using Linux, cloud computing, version control, numerical simulation, computer vision, and machine learning. Learners should bring basic Python experience (e.g., prerequisite EART 119A ) or significant programming experience in another language. The final project has learners collaborate on developing a scientific computing project, collaboratively implement the project with git version control and then deploy the repository for computation on the UCSC Hummingbird cluster or in the cloud. Taught in conjunction with EART 119B . Students cannot receive credit for this course and EART 119B .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.EART219",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART220",
+      "name": "EART 220 — Ground Water Modeling",
+      "description": "Introduction to building and using models to solve hydrogeologic problems. Modeling methods include mainly analytical and finite-difference. Emphasis on using models rather than the details of their functioning, although some coding is required. Comfort with mathematical methods and computers expected. Course designed for graduate students, but available to qualified Earth science majors.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): graduate standing or permission of instructor required. One year of calculus and courses in differential equations and basic hydrologic principles are recommended as preparation.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART225",
+      "name": "EART 225 — Statistics and Data Analysis in the Geosciences",
+      "description": "Using a conceptual approach, this course is a project-based introduction to analytical methods, such as univariate and multivariate statistics, cluster analysis and ordination, and maximum likelihood estimation. Introduces analysis and programming using the R software package. Students cannot receive credit for this course and EART 125.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART227",
+      "name": "EART 227 — Measuring Earth's 4.5 Billion Year History",
+      "description": "Introduces the methodology for measuring the timing of events in Earth's past. Topics include: radiogenic and stable isotopes chemostratigraphy and paleomagentism. Case studies focus on reconstructing the timing of major extinction and climatic events in Earth's history. Students cannot receive credit for this course and EART 127.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART229",
+      "name": "EART 229 — Isotopic Methods in Environmental Science",
+      "description": "Explores how natural variations in stable isotope ratios answer questions in ecology, paleobiology, and other environmental sciences. Format includes lectures by the instructor and student presentations on applications following literature-based research on each topic.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART230",
+      "name": "EART 230 — Applications of Isotopes in Earth and Environmental Sciences",
+      "description": "Exploration of various applications of different isotope systems in geological, oceanographic, and environmental studies at low temperature. The use of isotopes as tracers for weathering rate, biogeochemical cycling, food-web structure, ecology, paleo-chemistry, provenance, circulation, archeology, anthropogenic and extraterrestrial inputs and more. Participants experience giving presentations, reviewing a paper, and submitting a proposal as part of the class.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART240",
+      "name": "EART 240 — Communicating Science",
+      "description": "Introduces inquiry-based instructional strategies for communicating a passion for science. These strategies, combined with content knowledge and enthusiasm for sharing it, equips college students to introduce science to K-8 students and teachers in local schools.",
+      "credits": "3",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART252",
+      "name": "EART 252 — Hydroclimatology",
+      "description": "An interdisciplinary investigation of the interaction between terrestrial systems and climate, with a focus on the cycling of water between atmosphere, land, and biosphere. Lecture topics include the global energy budget, atmospheric general circulation and climate, water balance, surface energy fluxes, watershed hydrology, modeling of terrestrial ecosystems, and climate-vegetation dynamics. Complementary discussions of the scientific literature provide perspective on how these systems affect and are affected by climate change.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART254",
+      "name": "EART 254 — The Climate System",
+      "description": "Focuses on atmospheric and oceanic processes that are important within the Earth's climate system, especially those that operate on annual to centennial time scales. Format includes lectures by the instructors, paper readings, and discussion.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART258",
+      "name": "EART 258 — Deep Time Paleoclimates",
+      "description": "Weekly lectures/readings/presentations focused on the key events in the long-term evolution of Earth's climate (i.e., before the Pliocene), including early Archean, faint, young-sun period; Proterozoic snowballs; Paleozoic glaciations and greenhouse events; the mid-Cretaceous oceanic anoxic events (OAEs); and Paleogene thermal maxima and glacial intervals. Considerable emphasis on evaluating the proxies of climate and mechanisms of climate change (e.g., greenhouse gasses, paleogeography).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART262",
+      "name": "EART 262 — Planetary Interiors",
+      "description": "The chemical and thermal structure and evolution of silicate planet interiors. Topics include equation of state of mantle and core materials, thermal history of the mantle and core, dynamics of mantle convention, geophysical determination of interior structure. Students cannot receive credit for this course and EART 162.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART263",
+      "name": "EART 263 — Planetary Surfaces",
+      "description": "Comparative study of surfaces of planetary bodies in our solar system, focusing on comparative planetology and geophysical processes at work, including differentiation; on-impact cratering; tectonics; volcanism and geomorphic evolution; and exobiology. Explores terrestrial planets, giant planets and their moons, and trans-Neptunian objects, focusing on modern exploration. Students cannot receive credit for this course and EART 163.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART264",
+      "name": "EART 264 — Planetary Atmospheres",
+      "description": "Quantitative study of the origin, chemistry, dynamics, and observations of the atmospheres of terrestrial and gas giant planets. Students cannot receive credit for this course and EART 164.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART265",
+      "name": "EART 265 — Order of Magnitude Estimation",
+      "description": "Practice in making rough estimates and leading-order approximations in physical and chemical processes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART266",
+      "name": "EART 266 — Geologic Signal Processing and Inverse Theory",
+      "description": "Theoretical and practical aspects of digital signal analysis including data sampling, spectral estimation, digital filtering, statistical estimation, correlation tools, and principle-component analysis. Emphasis on practical examples of geophysical time series. Multivariable calculus and linear algebra are required and used extensively in the course. Taught in conjunction with EART 191C. Students cannot receive credit for this course and EART 191C.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART268",
+      "name": "EART 268 — History and Geochemistry of the Solar System",
+      "description": "Introduction of solar system history and geochemistry. Observation methods and tools discussed include major and trace element geochemistry, geothermometry, radiogenic and stable isotopes. Course reconstructs solar system history through the examination of meteorites from different parent bodies. Students cannot receive credit for this course and EART 165 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART270",
+      "name": "EART 270 — Global Seismology",
+      "description": "Introduction to quantitative earthquake and global Earth structure seismology. Topics include basic elasticity, wave characteristics, seismic ray theory, wave reflection, surface waves, normal modes, seismic instrumentation, application of seismic waves to reveal Earth structure and resulting models, representation of earthquake sources such as explosions and faulting, earthquake rupture scaling, modern methods of modeling seismic recordings to study source complexity, and an introduction to seismotectonics. Laboratory: 3 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART271",
+      "name": "EART 271 — Current Research Topics in Deep Earth Processes",
+      "description": "Students and instructor lead discussions of recent and significant publications in geophysics and chemistry of deep Earth. Articles structured around current theme of interest are selected by participants and approved by instructor. Emphasis on defining multidisciplinary significance of each article and its relationship to fundamental processes in deep Earth, including core and mantle. Designed for graduate students but available to qualified Earth sciences majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART272",
+      "name": "EART 272 — Geophysical Fluid Dynamics",
+      "description": "Introduces fluid motion influenced by rotation. Topics include the Coriolis force, geostrophic flow, potential vorticity, the shallow water model, quasigeostrophic approximation, planetary waves, Ekman theory, thermal wind, models of the large-scale oceanic and atmospheric circulation, and equatorial dynamics. Students cannot receive credit for this course and EART 172.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART273",
+      "name": "EART 273 — Earthquake Physics",
+      "description": "Why do earthquakes happen? Topics include friction, fracture, earthquake triggering, stress in the crust, observed source scalings, and seismicity statistics. Emphasis on observations and current research topics. (Formerly course 290J, Topics in Earthquake Physics.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students and advanced undergraduates.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART274",
+      "name": "EART 274 — Crustal Deformation",
+      "description": "Advanced study of the deformation processes in the Earth's crust and upper mantle. Covers fundamental theories of stress and strain, brittle fracture, friction, ductile deformation and flow laws, earthquake processes, faults and shear zones, scaling lab-derived measurements to tectonic plate scale.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART278A",
+      "name": "EART 278A — Advanced Seismology",
+      "description": "Elastic wave propagation. Advanced topics in ray theory, WKBJ solutions in seismology, singularities and nonlinearities, surface wave theory, propagating matrices, normal modes, and inversion theory. Selected topics in time series analysis and seismic signal processing, seismic wave dispersion.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART280D",
+      "name": "EART 280D — Short Course in Atmospheric/Climate Science",
+      "description": "Addresses specialized topics in atmospheric and/or climate science that are too narrow for a full (5-credit) format. Examples include: cloud physics; atmospheric boundary layer; aerosol physics and chemistry; atmospheric radiation; atmospheric thermodynamics.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290A",
+      "name": "EART 290A — Hidden Curriculum",
+      "description": "Much of graduate education is focused on tangible and formal skill development surrounding research and teaching. This course focuses on the informal \"hidden curriculum\" in graduate school that can complement formal student learning to help individuals lead successful research careers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290B",
+      "name": "EART 290B — Topics in Glaciology",
+      "description": "Advanced review of the physics and chemistry of ice and snow. Mass and heat balance of ice masses. Motion of glaciers and ice sheets. Subglacial and englacial hydrology. Thermodynamics of ice masses and the linkage to climate.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290C",
+      "name": "EART 290C — Topics in Geophysics",
+      "description": "Different problems and approaches will be stressed from year to year such as geotectonics, paleomagnetism, or properties and processes in the mantle and core.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290D",
+      "name": "EART 290D — Petrology and Plate Tectonics",
+      "description": "Selected topics illustrating relationships between igneous and metamorphic rocks and plate tectonics are explored in detail. Designed for graduate students but available to qualified Earth sciences majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290E",
+      "name": "EART 290E — Topics in Planetary Science",
+      "description": "We examine one well-defined topic in planetary science, beginning with a summary of current knowledge and concluding with the latest research literature. Topics will vary from year to year and may include planetary collisions, terrestrial planets, origin of planetary systems, small bodies, the New Mars, and satellites of Jupiter. Achievement will be evaluated based on class participation, exams, and a research project.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290F",
+      "name": "EART 290F — Topics in Coastal Processes",
+      "description": "Instructor and students lead discussions and make presentations on current research, problems, and publications in coastal processes. These topics include littoral drift, sediment transport and storage on the inner shelf, shoreline erosion/change and its documentation, and related issues.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290G",
+      "name": "EART 290G — Topics in Global Tectonics",
+      "description": "Explores different problems of special interest in global tectonics with the approach of integrating marine and terrestrial geologic and geophysical information. Course designed for graduate students but available to qualified Earth sciences majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290H",
+      "name": "EART 290H — Topics in Hydrogeology",
+      "description": "Selected topics in groundwater, hydrothermal systems, and related subjects. Discussion of theoretical models, field and laboratory approaches, and recent research. Topics vary from year to year. Course designed for graduate students but available to qualified Earth sciences majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290I",
+      "name": "EART 290I — Topics in Geomorphology",
+      "description": "Discussion of journal articles focused on a theme in contemporary geomorphology. Topics include: coupling of climate; tectonics and landscape evolution; mechanics of bedrock river channels; fundamentals of fluvial gravel transport; and inference of tectonic rates and processes from analysis of topography.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290J",
+      "name": "EART 290J — Intersections of Geodynamics and Climate",
+      "description": "Reading seminar that focuses on current research aimed at understanding interactions between solid Earth geodynamics and components of the Earth's climate system. Focuses on three main solid Earth processes: (1) mantle convection and dynamic topography; (2) glacial isostatic adjustment; and (3) tectonics processes. Considers the ways that Earth's landscape, atmosphere, and cryosphere respond to these geodynamic processes and vice versa. Possible topics include past sea-level and ice sheet inferences, passive margin earthquakes and submarine landslides, river and landscape evolution, and marine-terminating glacier dynamics.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290K",
+      "name": "EART 290K — Paleontology Seminar",
+      "description": "Seminar discussion based on current readings in the literature around some topic in the history and evolution of life.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290L",
+      "name": "EART 290L — Topics in Climate Change",
+      "description": "Explores current issues and recent developments in the field of past, present, and future climate change. Topic is different each year, but focuses on the interaction between different components of Earth's environment and the effect of that interaction on climate change. Designed for graduate students but open to qualified undergraduates.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290M",
+      "name": "EART 290M — Topics in Atmospheric Science",
+      "description": "Selected topics encompassing atmospheric physics and chemistry. Topics vary from year to year. Sample topics include: atmospheric physics, atmospheric chemistry, boundary layer meteorology, aerosol science, and atmospheric thermodynamics.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290N",
+      "name": "EART 290N — Topics in Mineral Physics",
+      "description": "Selected topics encompassing the physics and chemistry of Earth's interior, planetary physics, high-pressure experimental geophysics and material properties at high pressure and temperature. Topics vary from year to year.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290O",
+      "name": "EART 290O — Topics in Hydrology",
+      "description": "Selected topics in watershed hydrology and related subjects. Discussion journal articles focused on fundamental concepts, scientific breakthroughs, and innovative methods. Topics include: water storage, runoff generation and thresholds, hydrologic connectivity, and ecohydrology.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290P",
+      "name": "EART 290P — Interdisciplinary Topics in the Earth Sciences",
+      "description": "An understanding of the chemical and physical properties and processes in the earth is sought by integrating information from several subdisciplines in the Earth sciences. Topics vary from year to year, focusing on areas of active research. Course designed for graduate student but available to qualified Earth sciences majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290Q",
+      "name": "EART 290Q — Topics in Outer Solar System",
+      "description": "Exploration of the planets and satellites beyond the asteroid belt, with an emphasis on the underlying physical processes at work. Course includes lectures, computer practicals, and student presentations.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290R",
+      "name": "EART 290R — Topics in the Chemistry and Physics of the Earth",
+      "description": "Explores problems and current research developments in the application of physics and chemistry to planetary interiors. Topics differ from year to year and include, but are not limited to, research related to the accretion, differentiation, evolution, and structure of the terrestrial planets. Course is designed for graduate students but available to qualified Earth sciences majors.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290T",
+      "name": "EART 290T — Current Research Topics in Paleoceanography and Paleoclimatology",
+      "description": "Students and instructor lead discussions of recent and significant problems in paleoceanography and paleoclimatology. Articles structured around current themes of interest are selected by the instructor. Emphasis on major climatic transitions or events which noticeably influenced evolution of biota. Course is designed for graduate students but available to qualified Earth sciences majors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290U",
+      "name": "EART 290U — Topics in Thermochronology",
+      "description": "Surveys the use of thermochronometry to quantify the rates of tectonic processes. Topics include heat conduction and diffusion; radioactive decay; analytical methods; and modeling of thermochronologic data. Seminars review seminal papers from the literature.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART290X",
+      "name": "EART 290X — Topics in Modeling Planetary Interiors",
+      "description": "Introduces computer modeling of thermal convection in planetary interiors. Students learn to write and run a basic computer code using spectral and finite-difference methods, then are shown how to improve the numerical method and physics. Basic computer programming experience is required (for example, in Fortran, C, IDL, or MATLAB).",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART292",
+      "name": "EART 292 — Seminar",
+      "description": "Weekly seminar attended by faculty, graduate students, and upper-division undergraduate students.",
+      "credits": "0",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART293",
+      "name": "EART 293 — Graduate Research Seminar",
+      "description": "Weekly seminar series covering a broad spectrum of topics in the Earth sciences. Graduate students give 15- to 20-minute oral presentations on current or anticipated research.",
+      "credits": "1",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART296",
+      "name": "EART 296 — Special Student Seminar",
+      "description": "Permission of instructor required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART297A",
+      "name": "EART 297A — Independent Study",
+      "description": "Permission of instructor required.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART297B",
+      "name": "EART 297B — Independent Study",
+      "description": "Permission of instructor required.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART297C",
+      "name": "EART 297C — Independent Study",
+      "description": "Permission of instructor required.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART298",
+      "name": "EART 298 — Earth Sciences Internship",
+      "description": "A supervised learning experience involving practical, graduate-level application of Earth sciences through working with approved companies, governmental agencies, or research organizations. Students consult weekly with supervising faculty and prepare a final report of their work. Consult sponsoring agency for enrollment criteria. After instruction on resume preparation and interview skills, students must interview and be selected for internship by approved sponsoring organizations.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART299A",
+      "name": "EART 299A — Thesis Research",
+      "description": "Permission of instructor required.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART299B",
+      "name": "EART 299B — Thesis Research",
+      "description": "Permission of instructor required.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EART299C",
+      "name": "EART 299C — Thesis Research",
+      "description": "Permission of instructor required.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM275",
+      "name": "AM 275 — Magnetohydrodynamics",
+      "description": "Studies the interaction of fluid motion and magnetic fields in electrically conducting fluids, with applications in many natural and man-made flows ranging from, for example, planetary physics and astrophysics to industrial metallurgic engineering. (Formerly AMS 275.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 107 or AM 217. AM 227 suggested. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "AM107",
+          "AM217"
+        ]
+      ]
+    },
+    {
+      "id": "OCEA213",
+      "name": "OCEA 213 — Biogeochemical Cycles",
+      "description": "Overview of biogeochemical cycles, present and past, and geochemical models. Topics include: marine, terrestrial, and global views of the carbon, nitrogen, phosphorus, silicon, sulfur, and oxygen cycles, and the evolution of these cycles and Earth's redox balance through geologic time.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Upper-division undergraduates may enroll with instructor approval. College-level chemistry and an upper-division course in at least one relevant discipline are recommended.",
+      "prereqGroups": []
+    }
+  ]
+}

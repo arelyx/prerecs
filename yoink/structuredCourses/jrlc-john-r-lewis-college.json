@@ -1,0 +1,212 @@
+{
+  "department": "JRLC-John R Lewis College",
+  "slug": "jrlc-john-r-lewis-college",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/jrlc-john-r-lewis-college",
+  "generated_at": "2025-11-28T07:51:40.572661+00:00",
+  "courses": [
+    {
+      "id": "JRLC1",
+      "name": "JRLC 1 — Academic Literacy and Ethos: Social Justice and Community",
+      "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Reflects our college theme of Social Justice and Community, addressing topics such as identity formation, inequality, and environmental injustice.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC1A",
+      "name": "JRLC 1A — Introduction to University Life and Learning",
+      "description": "Orientation to and exploration of the nature of the liberal arts, and of learning at research universities. Topics include: academic planning for upper-division coursework; enrollment processes; and understanding pathways to degree completion; UCSC resources that support health and well-being strategies for academic success; the cultivation of just communities; the prevention of sexual harassment and violence; campus conduct policies; awareness of risks associated with drug and/or alcohol use; and an introduction to traditions of community-engaged learning, ground-breaking research, and interdisciplinary thinking that define a UC Santa Cruz degree. This course can be taken for Pass/No Pass grading only.",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to entering first-year John R. Lewis College students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC20",
+      "name": "JRLC 20 — Understanding Popular Music",
+      "description": "Introduces students to the academic study of popular music. Covers the blues, rock ânâ roll, soul, funk, disco, punk, and hip-hop. People often understand music genres exclusively in terms of their sonic characteristics. But this course takes a different tack, looking as much at a genre's social context as to the sounds themselves. Indeed, the path toward knowledge leads in both directions. What can history tell us about music? How can popular music tell us about our history?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC60",
+      "name": "JRLC 60 — Understanding Sustainability: Researching Environmental Justice at UCSC",
+      "description": "Through readings, discussions, and primary research on campus, course explores the following questions: What is sustainability at UCSC and what assumptions about the relationships between humans and nature are privileged in these definitions? (Formerly, I Couldn't Imagine Myself Anywhere Else: Understanding UCSC Undergraduate Narratives.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to College Scholars students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC66",
+      "name": "JRLC 66 — Extinction and Justice",
+      "description": "Examines histories of extinction, with particular attention to how human activity has contributed to species loss. Using the concept of âmultispecies justiceâ as a guide, students consider a variety of historical extinction events, explore how certain endangered species were brought back from the brink, discuss responsibilities to nonhuman beings, and debate the ethics of ongoing de-extinction projects.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC85",
+      "name": "JRLC 85 — Social Justice Issues Workshop",
+      "description": "Series of presentations, films, and workshops that address personal and cultural identity and examine social, cultural, political, environmental, and other justice concerns.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to John R. Lewis College members during priority enrollment only.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC86",
+      "name": "JRLC 86 — College Leadership Development",
+      "description": "Students newly appointed into leadership positions at John R. Lewis College explore the concept of leadership relating to the college's theme of Social Justice and Community. Prerequisite(s): current John R. Lewis College student leader; permission of instructor.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC92",
+      "name": "JRLC 92 — Social Justice Issues Colloquium",
+      "description": "Weekly colloquium on social justice issues with a different topical focus each quarter. Presentations by UCSC faculty and invited speakers. Students must attend class, read an assigned article or book chapter(s) on the week's topic, and write a one-page synopsis.",
+      "credits": "1",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC95",
+      "name": "JRLC 95 — Social Justice and Nonviolent Communication (Rumi's Field)",
+      "description": "Nonviolent Communication provides tools for the work needed to bring our reality closer to the ideal of a world with dignity and equity for all its members. Explores righteous anger, grief, empathy, diplomacy, and making requests others want to say \"yes\" to. The course nickname is \"Rumi's Field,\" which comes from a Rumi poem: \"out beyond ideas of wrongdoing and rightdoing/there is a field/I'll meet you there.\" Formerly Social Justice and Nonviolent Communication (Rumi's Field Living-Learning Community).",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC98",
+      "name": "JRLC 98 — Alternative Spring Break",
+      "description": "Provides students with the opportunity to conduct service-learning work in a local Santa Cruz community over spring break. There are four preliminary class meetings in the winter quarter. Winter meeting attendance is required. Enrollment is by interview only. Enrollment is restricted to College Nine and John R. Lewis College members.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC105",
+      "name": "JRLC 105 — The Making and Influencing of Environmental Policy",
+      "description": "Explores how environmental policy is made and influenced. Students learn about key contemporary environmental issues and the forces at play in determining environmental policy outcomes. Focuses on skills that enable citizens to impact environmental policy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC106",
+      "name": "JRLC 106 — Expressive Arts for Social Justice",
+      "description": "Students explore their own creative output in order to inspire community dialogue around social justice issues. Open to those who identify as artists as well as those who do not. Interested students must attend an information session and commit to expectations. Preference is given to College Nine and John R. Lewis College members.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC111",
+      "name": "JRLC 111 — Joy In Social Movements",
+      "description": "Focuses on radical joy, the feelings, and practices of freedom in social justice movements. Examines social and psychological effects of joy on social movement participants in terms of growth of movements, well-being and creativity of participants, and evolution of ideas. The articulation of radical joy is traced in movements against white supremacy, patriarchy, ableism, queer/trans-phobia, and other intersections of liberation movements. The course has a primary focus on art, music, and artivism, and will develop studentsâ art praxis.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC115",
+      "name": "JRLC 115 — Research Methods for Social Justice",
+      "description": "Fosters a deeper intellectual engagement with the theme of John R. Lewis College through the design and implementation of community-based research projects developed in close consultation with community partners. Students gain methodological, teamwork, and critical-thinking skills while furthering social justice. Prerequisite(s): CLNI 85 , or JRLC 85 , or equivalent. Enrollment is restricted to College Nine and John R. Lewis College members and by permission of instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC120",
+      "name": "JRLC 120 — Practical Activism Conference Planning and Development",
+      "description": "Offers an applied experience of collaborative planning, production, and leadership. Students plan workshops and other event components; conduct outreach and publicity; and address all aspects of educational event planning. Enrollment is restricted to members of the spring volunteer Practical Activism planning group. Enrollment is by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC125A",
+      "name": "JRLC 125A — Transcommunal Peace Making",
+      "description": "Explores the theoretical tenets and applications of Transcommunality, an outgrowth of the principles of Kingian non-violence, which works toward peace, tolerance, and mutual respect across difference and diversity. UCSC students connect with the Cemanahuac Cultural group, a multi-ethnic and multi-racial gathering of incarcerated men who are warriors for peace within and outside the prison community. Three meetings will be held at the Correctional Training Facility (CTF) in Soledad, California. Enrollment is restricted to junior and senior John R. Lewis College members and by interview.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC125B",
+      "name": "JRLC 125B — Transcommunal Peace Making",
+      "description": "Explores the principles of community, guided by established texts, for inmates at the Correctional Training Facility (CTF) in Soledad, California. Covers the theoretical tenets and applications of Transcommunality, an outgrowth of the principles of Kingian non-violence. Three joint meetings will be held with UCSC students enrolled in the parallel JRLC 125A . Enrollment by permission of instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC135",
+      "name": "JRLC 135 — Apprenticeship in Community Engaged Research",
+      "description": "Course takes a holistic approach in familiarizing students about how to effectively and ethically conduct community engaged research, from contextualized understandings of power and knowledge to hands-on training in various methodologies through a class project. The topical focus of the course varies (e.g., sustainability, water justice, educational equity etc.).",
+      "credits": "5",
+      "rawRequirements": "American History and Institutions Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC136",
+      "name": "JRLC 136 — Methodologies of Critical Praxis",
+      "description": "Considers an ethic of engaging with communities that honors existing knowledges and integrates them into community-engaged action plans and research strategies. Explores a list of questions critical scholars must consider when building socially just community partnerships. Interrogates notions of help and volunteerism and explores theories and practices of popular education as a praxis engagement. Includes practice interviews, oral histories, field notes, and other research methods. Interacts with community partners through forums, blogs, and other multimedia.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): JRLC 135 or an equivalent course.",
+      "prereqGroups": [
+        [
+          "JRLC135"
+        ]
+      ]
+    },
+    {
+      "id": "JRLC140",
+      "name": "JRLC 140 — Secrecy, Knowledge, and Politics",
+      "description": "Overview of definitions, history, theory, law, and policy underlying secrecy. Through scholarly and popular readings, podcasts, video/film, guest speakers, and primary materials, course explores how secrecyâas the intentional and unintentional concealment of information and knowledgeâpermeates the social fabric, impacting social relationships as well as hampering public knowledge of historical and contemporary government policies and actions.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC191",
+      "name": "JRLC 191 — Teaching Social Justice",
+      "description": "Undergraduates at upper-division level participate in teaching discussion groups for JRLC 85 (W). Prerequisite(s): permission of instructor: essay describing interest in becoming course assistant, copies of evaluations, and letter of recommendation from faculty member and/or college staff member. Enrollment is restricted to John R. Lewis College juniors and seniors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC194",
+      "name": "JRLC 194 — Group Tutorial",
+      "description": "Independent study through which a group of students explores a particular topic in consultation with an instructor. Prerequisite(s): JRLC 91 or JRLC 105 recommended. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC194F",
+      "name": "JRLC 194F — Group Tutorial",
+      "description": "Independent study through which a group of students explores a particular topic in consultation with an instructor. Prerequisite(s): JRLC 91 or JRLC 105 recommended. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC199",
+      "name": "JRLC 199 — Tutorial",
+      "description": "Individual directed study for upper-division college members with college-affiliated faculty. Students must submit petition with one of the college academic advisers with accompanying letter from faculty adviser. Approval of provost required. Enrollment is restricted to upper-division John R. Lewis College members.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC199F",
+      "name": "JRLC 199F — Tutorial",
+      "description": "Individual directed study for upper-division college members with college-affiliated faculty. Students must submit petition with one of the college academic advisers with accompanying letter from faculty adviser. Approval of provost required. Enrollment is restricted to upper-division John R. Lewis College members.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

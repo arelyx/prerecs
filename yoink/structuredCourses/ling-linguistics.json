@@ -1,0 +1,1245 @@
+{
+  "department": "LING - Linguistics",
+  "slug": "ling-linguistics",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/ling-linguistics",
+  "generated_at": "2025-11-28T07:51:41.515431+00:00",
+  "courses": [
+    {
+      "id": "LING50",
+      "name": "LING 50 — Introduction to Linguistics",
+      "description": "An introduction to the major areas, problems, and techniques of modern linguistics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING53",
+      "name": "LING 53 — Semantics I",
+      "description": "Introduction to the logical foundations of natural language semantics. Logical and semantic relations, simple set theory, logical representations (propositional and predicate calculi, modal and tense logics) and their interpretations. A basic literacy course in the language of logical representation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING80C",
+      "name": "LING 80C — Language, Society, and Culture",
+      "description": "The study of language from a sociological perspective. Multilingualism, language change and variation, pidgins and creoles, the origin and diversification of dialects.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING80D",
+      "name": "LING 80D — Language and Mind",
+      "description": "Examines how the properties of human languages can be used to understand how the mind works and to what extent language use and experience can affect how we think. Topics covered include: human language vs. other forms of animal communication, language deficits and impairments, how language experience shapes perception, the nature of language acquisition, and the extent to which cross-linguistic variation affects other kinds of cognition. The course also provides historical context of the development of modern language science, with a critical overview of Noam Chomsky's linguistics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING80H",
+      "name": "LING 80H — The Human Voice",
+      "description": "Comprehensive overview of the human voice, concentrating on its paralinguistic and sociolinguistic functions. Topics include: laryngeal anatomy, voice acoustics, emotional expression, singing, and vocal pathologies. A major theme is the interaction of race, ethnicity, and gender in vocal expression, racial and ethnic profiling of voices, and how all of this relates to current issues in human-computer interaction and social media.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING80K",
+      "name": "LING 80K — Invented Languages, from Elvish to Esperanto",
+      "description": "Considers invented languages, including Elvish and Klingon, as well as lesser-known ones that tackle ethical, social, or cognitive concerns. Students learn tools from contemporary linguistics to analyze language structures and understand how they relate to creator intentions.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING80L",
+      "name": "LING 80L — Predicting Words with Numbers: From Code-Breaking to Spell-Check, and Large Language Models",
+      "description": "Investigates the ways quantitive methods are used, including probability and statistics, to make predictions about language and to model central aspects of language, including form, meaning, and use. Course explores the thousands of years of these approaches, covering topics including code-breaking, modeling word meaning, neural network models, and large language models (LLMs), among many others. Also explores how these approaches can be used to help model how people process language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: LING 50 , LING 53 , LING 80K , or LING 80M .",
+      "prereqGroups": [
+        [
+          "LING50"
+        ],
+        [
+          "LING53"
+        ],
+        [
+          "LING80K"
+        ],
+        [
+          "LING80M"
+        ]
+      ]
+    },
+    {
+      "id": "LING80M",
+      "name": "LING 80M — Language and Indigeneity in Mesoamerica",
+      "description": "Explores indigenous experiences in Mesoamerica, focusing on the role of language in the formation of indigenous identities, both historically and in contemporary society. Also considers the linguistic correlates of inequalities experienced by indigenous communities since European contact. Students learn about some of the unique features of Mesoamerican indigenous languages, but no prior experience with linguistics is presumed.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING80S",
+      "name": "LING 80S — The Science of Language: An Introduction to Linguistics for Non-Majors",
+      "description": "A general overview of the major areas, problems, and techniques of modern linguistics. This course is not suitable for majors in the Linguistics Department.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING80V",
+      "name": "LING 80V — Structure of the English Vocabulary",
+      "description": "A systematic study of the elements of English words: besides the practical goal of vocabulary consolidation and expansion, explores the historical origin and development of word elements, as well as their sound, meaning, and function in the contemporary language.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING99",
+      "name": "LING 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING100",
+      "name": "LING 100 — Sounds of the World's Languages: Phonetics I",
+      "description": "Provides a comprehensive introduction to the sounds of human language. Involves a detailed examination of the human vocal tract, the mechanics of phonetic transcription within the system of the International Phonetic Alphabet (IPA), and the essentials of phonology, particularly how to do phonemic analysis of any language. (Formerly Phonetics I.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING101",
+      "name": "LING 101 — Phonology I",
+      "description": "Introduction to how sounds pattern in grammars-why they vary, how they combine, etc. Emphasis is on developing theories to explain the patterns. Topics include distinctive feature theory, phonemic analysis, autosegmental phonology, and principles of syllabification and stress.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and GE Composition requirements and LING 100 .",
+      "prereqGroups": [
+        [
+          "LING100"
+        ]
+      ]
+    },
+    {
+      "id": "LING102",
+      "name": "LING 102 — Phonology II",
+      "description": "Advanced phonological theory. Topics include markedness; underspecification theories; advanced topics in feature geometry, syllable theory, and stress theory; and optimality theory. Readings include published articles. Emphasis on theory construction and argumentation based on data.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111"
+        ],
+        [
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING103",
+      "name": "LING 103 — Phonology III",
+      "description": "Advanced topics in phonology, with an emphasis on reading both classic and contemporary research articles and book chapters. Prerequisite(s): LING 102 and enrollment by interview.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING105",
+      "name": "LING 105 — Morphology",
+      "description": "Study of the principles of word formation: derivation, inflection, and compounding; cross-linguistic study of morphological processes, morphological investigation and analysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111"
+        ],
+        [
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING108",
+      "name": "LING 108 — Poetry and Language",
+      "description": "An introduction to the linguistic aspects of poetry, e.g., rhyme, meter, and larger-scale organization of poetic form. The emphasis is on English poetry, complemented by brief sketches of other poetic traditions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111"
+        ],
+        [
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING111",
+      "name": "LING 111 — Syntactic Structures",
+      "description": "Provides a basic introduction to the methods and results of generative grammar. It simultaneously provides an overview of the major syntactic constructions of English.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING112",
+      "name": "LING 112 — Syntax I",
+      "description": "An introduction to syntactic investigation, developed through the study of central aspects of English syntax. A major purpose is to introduce students to the study of language as an empirical science.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING113",
+      "name": "LING 113 — Syntax II",
+      "description": "Further aspects of English syntax; universal and language-particular constraints on syntactic structures and rules. Further developments and extensions of generative theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 53 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING53"
+        ],
+        [
+          "LING111"
+        ],
+        [
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING114A",
+      "name": "LING 114A — Syntax III",
+      "description": "Advanced topics in syntax. Prerequisite(s): LING 113, satisfaction of the Entry Level Writing and Composition requirements and permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING114B",
+      "name": "LING 114B — Readings in Linguistics",
+      "description": "Introduces reading the primary literature in a sub-discipline of linguistics. Topics vary by instructor interest and readings will vary as a result. Emphasis is on how to read technically difficult works, evaluate arguments, and appreciate competing views. Coursework includes readings, presentations, and short response papers. Enrollment is by permission of the instructor. Students should have completed appropriate upper-division courses in the relevant sub-disciplines; see instructor for recommendations. (Formerly offered as Readings in Syntax.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING114C",
+      "name": "LING 114C — Topics in Linguistics",
+      "description": "Advanced undergraduate course devoted to a topic in linguistics. Topics and linguistics sub-disciplines covered vary with instructor interest. Coursework includes problem sets, readings, presentations, and a term paper. Enrollment by permission of instructor. Students should have completed appropriate upper-division courses in the relevant sub-disciplines; see instructor for recommendations. (Formerly offered as Topics in Syntax.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING116",
+      "name": "LING 116 — Semantics II",
+      "description": "Major issues in natural language semantics: nature of lexical entries, thematic relations, propositional representation or logical form; relation between semantic interpretation and syntactic representations, quantification and scope relations, reference and presupposition, coreference and anaphoric relations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 53 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING53"
+        ],
+        [
+          "LING111"
+        ],
+        [
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING117",
+      "name": "LING 117 — Pragmatics",
+      "description": "Covers topics central in the study of pragmatics, the interpretation of language use. Topics include conversational implicature, speech acts and discourse understanding, and social deixis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 53 and LING 101 ; and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING53"
+        ],
+        [
+          "LING101"
+        ],
+        [
+          "LING111"
+        ],
+        [
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING118",
+      "name": "LING 118 — Semantics III",
+      "description": "Uses the tools learned in LING 53 and LING 116 (Semantics I and Semantics II), giving students the opportunity to explore important topics with heavy emphasis placed on reading primary-source literature. Readings form the basis for weekly lectures and the discussion section. Prerequisite(s): LING 116. Enrollment is by permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING119",
+      "name": "LING 119 — Narrative Structure: The linguistics of storytelling",
+      "description": "Course about narratives, the complex stories that people build and tell each other. Examines these linguistically: What is a story from a linguistic point of view? What are its components? How can we understand traditional concepts like perspective-taking, chronology, transport, and the narrator within modern linguistic frameworks? Topics may include quotation, tense and aspect, textual cohesion, and discourse relations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 53 .",
+      "prereqGroups": [
+        [
+          "LING53"
+        ]
+      ]
+    },
+    {
+      "id": "LING120",
+      "name": "LING 120 — Structure of English",
+      "description": "Survey of grammatical structure of English and terminology of grammatical description. Covers phonological, morphological, and syntactic structure of English and contrasts it with other languages.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111"
+        ],
+        [
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING124",
+      "name": "LING 124 — Language Typology",
+      "description": "Introduces the branch of linguistics whose goal is to describe and explain the structural diversity of the world's languages. Focuses on what is known about variation in particular domains (e.g., syllable structure, word order, evidentiality), and how it might be explained.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 111 or LING 112 , and LING 101 .",
+      "prereqGroups": [
+        [
+          "LING111"
+        ],
+        [
+          "LING112"
+        ],
+        [
+          "LING101"
+        ]
+      ]
+    },
+    {
+      "id": "LING125",
+      "name": "LING 125 — Foundations of Linguistic Theory",
+      "description": "Survey of some of the history and foundational assumptions of generative grammar; also looks at some of the influence of generative linguistic theorizing on disciplines outside linguistics, notably psychology and philosophy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 113 or LING 116 .",
+      "prereqGroups": [
+        [
+          "LING113"
+        ],
+        [
+          "LING116"
+        ]
+      ]
+    },
+    {
+      "id": "LING127",
+      "name": "LING 127 — History of Linguistics",
+      "description": "Topics in the history of linguistics, with a special focus on the 20th century.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING131",
+      "name": "LING 131 — Spanglish: Language and Identities through Contact",
+      "description": "Students investigate Spanglish as a linguistic and cultural phenomenon. Students learn linguistic tools to describe, analyze, and destigmatize Spanglish, and explore the ways that it is used to establish identity. Additionally, students compare Spanglish to ways of communicating in other bilingual contexts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING132",
+      "name": "LING 132 — California Englishes",
+      "description": "Examines varieties of California Englishes and the features that compose these varieties. Through this examination, course also tries to better understand how social categories such as race, gender, sexuality, age, and class relate to the linguistic variation found in California English varieties. Course also seeks to explain how linguistic features acquire social meaning, and how these features are adopted in the construction of identity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 50 , Introduction to Linguistics.",
+      "prereqGroups": [
+        [
+          "LING50"
+        ],
+        [
+          "INTRODUCTIONTOLINGUISTICS"
+        ]
+      ]
+    },
+    {
+      "id": "LING133",
+      "name": "LING 133 — Language OnLine (LOL): Communication in the Digital Era",
+      "description": "In the age of social media, much of communication happens online. Despite claims to the contrary, the internet has not destroyed language; rather, language is thriving in new and vibrant ways online. This course uses the tools of linguistics to explore how the internet (with acronyms, emojis, and memes) has affected language use and how properties of language continue to shape online communication technologies. Topics covered include: whether emojis are language, what makes a spicy meme, how communities form online, and how online linguistic behaviors aid in the spread of misinformation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING135",
+      "name": "LING 135 — Language and Racialization",
+      "description": "Many of us are probably aware that people of different ethnic or racial backgrounds may speak differently, but most of us probably do not know that all varieties of English are equally \"grammatical.\" And while some of us are probably aware of the fact that racial and ethnic categories are \"constructed,\" most of us have probably not considered the ways in which language use figures in the construction of ethnic and/or racial identity. Course introduces a number of racialized linguistic varieties and their intersections with other identity categories (gender, sexuality, socio-economic class), as well as emergent new scholarship on language and racialization.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Ling 50.",
+      "prereqGroups": [
+        [
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "LING137",
+      "name": "LING 137 — Queer Linguistics",
+      "description": "The study of queer linguistics is deeply multi-disciplinary, informed by linguistics, sociolinguistics, anthropology, womenâs studies, post-colonialism, and queer theory. It has been insightful regarding the contribution of language to the construction of all identities: for our understanding of what identity categories are; their intersectional natures; and our agency, as speakers, when using language in non-standard ways. This course touches upon these issues; class format includes lectures, video-viewing, small group discussions, and class discussion. Focuses on language use across genders and sexualities, and on connections between groups of speakers and the theoretical developments which work on these communities set in motion.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 50 or LING 80C or LING 101 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING50",
+          "LING80C",
+          "LING101",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING140",
+      "name": "LING 140 — Language Change",
+      "description": "Methods and problems in the study of change in linguistic systems. Reconstruction of proto-languages; the comparative method. Theories of change and implications for the theory of grammar.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING141",
+      "name": "LING 141 — Ellipsis",
+      "description": "Introduction to and survey of the ellipsis in natural language, including the typology of ellipsis processes, cross-linguistic uniformity and variation in ellipsis, and theoretical approaches and issues.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 53 and LING 101 ; and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING53"
+        ],
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING144",
+      "name": "LING 144 — Computational Methods for Linguists",
+      "description": "Introduction to computational methods for linguists with little background in computer programming. Possible topics include: regular expressions, annotation, databases, and search. Students learn contemporary techniques in team-based programming and annotation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 50 , and either LING 53 , LING 101 , LING 111 , LING 112 or LING 171 .",
+      "prereqGroups": [
+        [
+          "LING50"
+        ],
+        [
+          "LING53",
+          "LING101",
+          "LING111",
+          "LING112",
+          "LING171"
+        ]
+      ]
+    },
+    {
+      "id": "LING145",
+      "name": "LING 145 — Native Languages of North America",
+      "description": "Selective survey of the indigenous languages of North America, including a formal/structural component and an historical/social component. Topics include typological properties of these languages, current status, and revitalization efforts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and either LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING147",
+      "name": "LING 147 — Quantitative Methods in Linguistics",
+      "description": "Introduces quantitative methods for linguistics. Focuses on categorical data and continuous data, and using R. Students learn the basics of probability, statistics, and experimental design, and use R to apply them to linguistic data sets.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 53 ; and LING 100 or LING 112 or LING 171 .",
+      "prereqGroups": [
+        [
+          "LING53"
+        ],
+        [
+          "LING100",
+          "LING112",
+          "LING171"
+        ]
+      ]
+    },
+    {
+      "id": "LING149",
+      "name": "LING 149 — Research Skills in Linguistics",
+      "description": "Designed to give students practical experience with contemporary research topics, methods and skills in linguistics and the broader language sciences. Students engage directly with local researchers and conduct targeted in-class skills activities. Students complete a portfolio of assignments which allow them to broaden their understanding of potential research areas in linguistics and language sciences and also to develop a particular topic of interest, culminating in a literature review and project proposal. Enrollment is by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING151",
+      "name": "LING 151 — Phonetics II",
+      "description": "Hands-on introduction to instrumental phonetic analysis, phonetic analysis using experimental methods. Emphasis is on the acoustics and perception of speech. (Formerly Phonetic Analysis.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 100 .",
+      "prereqGroups": [
+        [
+          "LING100"
+        ]
+      ]
+    },
+    {
+      "id": "LING152",
+      "name": "LING 152 — Applied Phonetics",
+      "description": "Examines areas in which phonetic analysis and experimentation are used in practice. Emphasizes problem-solving, experiments, and analytical tasks.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 151 .",
+      "prereqGroups": [
+        [
+          "LING151"
+        ]
+      ]
+    },
+    {
+      "id": "LING154",
+      "name": "LING 154 — Language and Social Identity",
+      "description": "Introduction to sociolinguistics exploring the relationship between language and such social parameters as social status, ethnicity, race, gender, etc., including the role of language differences in the creation of social stereotypes. Emphasis on gathering, examining, and reporting data.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and either LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING155",
+      "name": "LING 155 — Language and Cognition",
+      "description": "Introduces and examines some of the foundational assumptions, practices, and methods of generative grammar in comparison to those of other areas of cognitive science, notably psychology and philosophy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 111 or LING 112 ; and LING 53 and LING 101 .",
+      "prereqGroups": [
+        [
+          "LING111",
+          "LING112"
+        ],
+        [
+          "LING53"
+        ],
+        [
+          "LING101"
+        ]
+      ]
+    },
+    {
+      "id": "LING160",
+      "name": "LING 160 — Language Engineering",
+      "description": "Addresses a particular problem in language engineering, chosen for its practical and theoretical interest and its tractability. The entire course focuses on a team project to design a solution to the problem. Permission of instructor required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING164",
+      "name": "LING 164 — Linguistics for Engineers",
+      "description": "Introduction to computational linguistics for engineers with a focus on providing background and skills in linguistics. Students are expected to already have programming skills and basic computer science. Knowledge of shell scripting or a scripting language suggested.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 10 and CSE 14, or permission of instructor.",
+      "prereqGroups": [
+        [
+          "CSE10",
+          "CSE14"
+        ]
+      ]
+    },
+    {
+      "id": "LING171",
+      "name": "LING 171 — Psycholinguistics I",
+      "description": "Theory and methods in psycholinguistics, covering perception, production, and acquisition of language and linguistic structure. A hands-on, laboratory-style introduction to the topic, focusing on the relation between experimental findings and linguistic theory. (Formerly LING 157, Psycholinguistics and Linguistic Theory.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 50 .",
+      "prereqGroups": [
+        [
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "LING172",
+      "name": "LING 172 — Psycholinguistics II",
+      "description": "Advanced topics in psycholinguistics and experimental linguistics, contemporary memory models, computational models of comprehension and production, and neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students learn to apply advanced analytical techniques. (Formerly LING 158, Advanced Psycholinguistics.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 171 .",
+      "prereqGroups": [
+        [
+          "LING171"
+        ]
+      ]
+    },
+    {
+      "id": "LING174",
+      "name": "LING 174 — Neurolinguistics",
+      "description": "Discusses groundbreaking findings in neurolinguistics that illustrate fundamental principles of how language is represented and processed in the brain. Additionally, provides basic understanding of how the brain works, the tools that we use to study the brain, and the statistical and analytic methods of processing and analyzing neuroscientific data. Also considers the relations between linguistic theory, psycholinguistics, and the brain.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 171 , or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "LING171"
+        ]
+      ]
+    },
+    {
+      "id": "LING176",
+      "name": "LING 176 — Variation in Language Processing",
+      "description": "Variation is an inseparable and natural part of being human. This course focuses on variation in language, a unique part of the human experience. How do differences in language background, cognition, and modality contribute to variation in language processing? Course approaches these questions guided by the premise that there are many ways to use language. Students critically examine scientific findings relating to individual and cross-population differences in language processing, with the intention of reframing deficit-based views of language use.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 50 .",
+      "prereqGroups": [
+        [
+          "LING50"
+        ]
+      ]
+    },
+    {
+      "id": "LING180",
+      "name": "LING 180 — Structure of a Particular Language",
+      "description": "Topics in the phonology, morphology, syntax, or semantics of a language that is the research interest of the instructor. The language investigated changes with each offering of the course.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING181",
+      "name": "LING 181 — Structure of Romance Languages",
+      "description": "Discusses topics in the phonology, syntax, and semantics of Romance languages, with emphasis left to the discretion of the instructor. Students read original research articles and pursue empirical investigation of Romance languages by collecting data from scholarly publications, fieldwork, and/or corpus analysis. Some knowledge of Italian, French, or Spanish is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING182",
+      "name": "LING 182 — Structure of Spanish",
+      "description": "The phonology and syntax of Spanish, studied from a modern linguistic perspective. Some knowledge of Spanish is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING183",
+      "name": "LING 183 — Structure of French",
+      "description": "The phonology, morphology, and syntax aspects of French. Some knowledge of French is helpful.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING185",
+      "name": "LING 185 — Structure of Russian",
+      "description": "The phonology, morphology, and syntax of Russian. Some knowledge of Russian is helpful.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING186",
+      "name": "LING 186 — Structure of German",
+      "description": "Phonological, morphological, and syntactic aspects of the structure of the German language. Some knowledge of German is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING187",
+      "name": "LING 187 — Structure of Japanese",
+      "description": "The phonology, morphology, and syntax of Japanese.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING188",
+      "name": "LING 188 — Structure of Chinese Languages",
+      "description": "Introduces the syntax and semantics of Chinese Languages (particularly Cantonese and Mandarin), especially those aspects that are typologically different from Indo-European languages like English. Students learn to appreciate typological differences in natural languages and develop skills to analyze them. Course involves a global classroom component: throughout the quarter students meet and work with students from another institute in an international location to explore language differences.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 ; and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101"
+        ],
+        [
+          "LING111",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING189",
+      "name": "LING 189 — Structure of Arabic",
+      "description": "The phonology, morphology, and syntax of Arabic. (Mainly modern standard, but also some regional dialects.) No knowledge of Arabic is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
+      "prereqGroups": [
+        [
+          "LING101",
+          "LING111"
+        ],
+        [
+          "LING101",
+          "LING112"
+        ]
+      ]
+    },
+    {
+      "id": "LING190",
+      "name": "LING 190 — Senior Research",
+      "description": "Students produce a research paper or other significant project to satisfy the capstone requirement. Prerequisite(s): LING 101 , and either LING 111 or LING 112 . Concurrent enrollment in a specified upper-division course is required. Enrollment is by permission of the instructor and is restricted to senior linguistics and language studies majors.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING193",
+      "name": "LING 193 — Field Study",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING195",
+      "name": "LING 195 — Senior Thesis",
+      "description": "Deadline for submission of thesis proposal is one year in advance of proposed completion. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING198",
+      "name": "LING 198 — Independent Field Study",
+      "description": "Provides for department-sponsored individual study programs off campus for which faculty supervision is not in person (e.g., supervision by correspondence). Preparation and approval must be completed by the fifth day of instruction of any given quarter. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING199",
+      "name": "LING 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING199F",
+      "name": "LING 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING211",
+      "name": "LING 211 — Phonology A",
+      "description": "First part of a three quarter introduction to phonology. Topics of the sequence include fundamentals of acoustic phonetics; introduction to optimality theory; theories of syllabification, stress, and prosodic organization; prosodic morphology; advanced issues in faithfulness and correspondence; segmental and suprasegmental processes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING212",
+      "name": "LING 212 — Phonology B",
+      "description": "Second part of a three quarter introduction to phonology. Topics of the sequence include fundamentals of acoustic phonetics; introduction to optimality theory; theories of syllabification, stress, and prosodic organization; prosodic morphology; advanced issues in faithfulness and correspondence; segmental and suprasegmental processes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 211 . Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "LING211"
+        ]
+      ]
+    },
+    {
+      "id": "LING214",
+      "name": "LING 214 — Phonetics",
+      "description": "Introduction to phonetic theory concentrating on acoustic phonetics and speech perception along with common experimental methods, the role of phonetic principles in explaining phonological patterns and markedness.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING215",
+      "name": "LING 215 — Phonetics B",
+      "description": "The second class in the graduate sequence on phonetics. Covers topics in speech perception, such as auditory physiology, psychophysics, categorization, learning and acquisition, cross-linguistic perception, and word recognition. Students learn a variety of experimental methods, their strengths and weaknesses, and how to appropriately construct stimuli, analyze data, and report results from these experimental designs.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 214 . Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "LING214"
+        ]
+      ]
+    },
+    {
+      "id": "LING216",
+      "name": "LING 216 — Phonology Proseminar",
+      "description": "One or more topics in phonological theory. Topics vary from year to year, covering literature and current research in phonology.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING219",
+      "name": "LING 219 — Phonology Seminar",
+      "description": "Advanced topics in phonology drawn from the current research interests of the instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING219G",
+      "name": "LING 219G — Phonology Seminar",
+      "description": "Advanced topics in phonology drawn from the current research interests of the instructor. Three-credit version of LING 219. Does not require a final paper.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING221",
+      "name": "LING 221 — Syntax A",
+      "description": "Introduction to syntactic theory. Phrase structure; subcategorization; lexical entries; passive; infinitival constructions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING222",
+      "name": "LING 222 — Syntax B",
+      "description": "Continuation of Syntax A. The syntax of unbounded dependencies, including constituent questions, relative clauses, clefts, topicalization. Constraints on extraction; unbounded versus successive cyclic movement; the licensing of gaps.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 221 . Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "LING221"
+        ]
+      ]
+    },
+    {
+      "id": "LING226",
+      "name": "LING 226 — Proseminar in Syntax",
+      "description": "In-depth investigation of some topic in syntactic theory. Topics vary from year to year, covering literature and current research in grammatical structure from varying theoretical perspectives.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 222 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "LING222"
+        ]
+      ]
+    },
+    {
+      "id": "LING226G",
+      "name": "LING 226G — Proseminar in Syntax",
+      "description": "In-depth investigation of some topic in syntactic theory. Topics vary from year to year, covering literature and current research in grammatical structure from varying theoretical perspectives. Three-credit version of LING 226. Does not require a final paper.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING229",
+      "name": "LING 229 — Syntax Seminar",
+      "description": "Advanced topics in syntax drawn from the current research interests of the instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING229G",
+      "name": "LING 229G — Syntax Seminar",
+      "description": "Advanced topics in syntax drawn from the current research interests of the instructor. Three-credit version of LING 229 . Does not require a final paper.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING231",
+      "name": "LING 231 — Semantics A",
+      "description": "Introduction to linguistic semantics: nature of lexical entries, thematic relations, representation of logical form; relation between semantic interpretation and syntactic representation, quantification and scope relations, reference and presupposition.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING232",
+      "name": "LING 232 — Semantics B",
+      "description": "Model-theoretic semantics for natural language. Truth-conditional, compositional semantics. Various logical ontologies and their application to natural language categories. Dynamic interpretation of discourse and anaphoric relations. Treatment of illocutionary force.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 231 . Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "LING231"
+        ]
+      ]
+    },
+    {
+      "id": "LING236",
+      "name": "LING 236 — Proseminar in Semantics",
+      "description": "In-depth investigation of some topic in semantics and pragmatics. Topics vary from year to year, covering literature and current research in linguistic semantics and pragmatics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 231 . Enrollment is restricted to graduate students or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "LING231"
+        ]
+      ]
+    },
+    {
+      "id": "LING236G",
+      "name": "LING 236G — Semantics Proseminar",
+      "description": "In-depth investigation of some topic in semantics and pragmatics. Topics vary from year to year, covering literature and current research in linguistic semantics and pragmatics. Three-credit version of LING 236. Does not require a final paper.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING239",
+      "name": "LING 239 — Semantics Seminar",
+      "description": "Advanced topics in semantics drawn from the current research interests of the instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING239G",
+      "name": "LING 239G — Semantics Seminar",
+      "description": "Advanced topics insemantics drawn from the current research interests of the instructor. Three-credit version of LING 239. Does not require a final paper.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING240",
+      "name": "LING 240 — The Pedagogy of Linguistics",
+      "description": "Provides training for graduate students in university-level pedagogy in general and in the pedagogy of linguistics specifically. Under the supervision of a faculty member, coordinated by a graduate student with substantial experience as a teaching assistant.",
+      "credits": "1",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING244",
+      "name": "LING 244 — Computational Methods for Linguists",
+      "description": "Practical introduction to computational methods for linguists. Topics covered: database development; indexation and search; morphological and syntactic parsing; and modern annotation methodologies. Students concurrently learn Python and JavaScript. No background in programming is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students, or by consent of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING248",
+      "name": "LING 248 — Topics in Computational Methods and Models",
+      "description": "Seminar in computational approaches in linguistics and the language sciences with topics drawn from the current interests of the instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING249",
+      "name": "LING 249 — Morphology Seminar",
+      "description": "Presents theoretical and descriptive issues, particularly those raised by the framework of distributed morphology and its current competitors. Course work consists of readings, squibs, and a term paper.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING249G",
+      "name": "LING 249G — Morphology Seminar",
+      "description": "Presents theoretical and descriptive issues, particularly those raised by the framework of distributed morphology and its current competitors. Coursework consists of readings and squibs. Three-credit version of LING 249. Does not require a final paper.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING257",
+      "name": "LING 257 — Psycholinguistics and Linguistic Theory",
+      "description": "Theory and methods in psycholinguistics, covering perception, production, and acquisition of language and linguistic structure. A hands-on, laboratory-style introduction to the topic, focusing on the relation between experimental findings and linguistic theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING258",
+      "name": "LING 258 — Advanced Psycholinguistics",
+      "description": "Advanced topics in psycholinguistics and experimental linguistics. Contemporary memory models. Computational models of comprehension and production. Neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students learn to apply advanced analytical techniques. Graduate students have separate evaluation criteria. Students cannot receive credit for this course and LING 258G.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 257 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "LING257"
+        ]
+      ]
+    },
+    {
+      "id": "LING258G",
+      "name": "LING 258G — Advanced Psycholinguistics",
+      "description": "Advanced topics in psycholinguistics and experimental linguistics. Contemporary memory models. Computational models of comprehension and production. Neurolinguistic findings and methodologies. Student work revolves around an extended research project in which students apply advanced analytical techniques. Graduate students have separate evaluation criteria. Three-credit version of LING 258. Does not require a final paper. Students cannot receive credit for this course and LING 258.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): LING 257 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "LING257"
+        ]
+      ]
+    },
+    {
+      "id": "LING259",
+      "name": "LING 259 — Phonetics Seminar",
+      "description": "Advanced topics in acoustic and articulatory phonetics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): LING 214 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "LING214"
+        ]
+      ]
+    },
+    {
+      "id": "LING259G",
+      "name": "LING 259G — Phonetics Seminar",
+      "description": "Advanced topics in acoustic and articulatory phonetics. Three-credit version of LING 259. Does not require a final paper.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING279",
+      "name": "LING 279 — Research Seminar in Psycholinguistics",
+      "description": "Contemporary research in psycholinguistic theory models, and methods. Topics vary with research interests of faculty and graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING280",
+      "name": "LING 280 — Proseminar in Experimental Linguistics",
+      "description": "Examines experimental design and analysis for gathering linguistic data; the advantages and disadvantages of major response measures, including reaction times; interaction with extra-grammatical factors; and statistics on categorical and continuous measures. Students present results in research papers. Students cannot receive credit for this course and course 280G.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING280A",
+      "name": "LING 280A — Linguistic Investigation",
+      "description": "Methods of primary linguistic investigation. Close study of one language typologically different from English. Data analysis and elicitation techniques.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING280B",
+      "name": "LING 280B — Linguis Investigati",
+      "description": "Linguis Investigati",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING280G",
+      "name": "LING 280G — Proseminar in Experimental Linguistics",
+      "description": "Examines experimental design and analysis for gathering linguistic data: the advantages and disadvantages of major response measures, including reaction times; interaction with extra-grammatical factors; and statistics on categorical and continuous measures. Three-credit version of LING 280. Does not require a final paper.",
+      "credits": "3",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING282",
+      "name": "LING 282 — Field Methods",
+      "description": "Exploration of a language previously unfamiliar to students through elicitation from a native speaker. Discussion of elicitation techniques. Students investigate selected aspects of the language in depth. Enrollment is restricted to graduate students; enrollment is by instructor permission only.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING290",
+      "name": "LING 290 — Research Seminar",
+      "description": "A research seminar for undergraduate and graduate students to develop the skills of the profession. Critical reading, reviewing, teaching, presentation, and writing. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students or by permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING295",
+      "name": "LING 295 — Directed Reading",
+      "description": "Directed reading which does not involve a term paper. Enrollment is restricted to graduate students or by permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING296",
+      "name": "LING 296 — Linguistics Colloquium",
+      "description": "Independent graduate-level activities and assignments relating to professionalism; organizing and attending colloquium and conferences; participation in discussion at such events; and preparation of commentaries on academic papers. Students submit petition to sponsoring agency. Enrollment is restricted to linguistics graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING297A",
+      "name": "LING 297A — Independent Study",
+      "description": "Enrollment restricted to graduate standing or consent of instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING297B",
+      "name": "LING 297B — Independent Study",
+      "description": "Enrollment restricted to graduate standing or consent of instructor.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING297C",
+      "name": "LING 297C — Independent Study",
+      "description": "Enrollment restricted to graduate standing or consent of instructor.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING297F",
+      "name": "LING 297F — Independent Study",
+      "description": "Two-credit independent study. Enrollment restricted to graduate students, or by consent of instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING299A",
+      "name": "LING 299A — Thesis Research",
+      "description": "No description provided.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING299B",
+      "name": "LING 299B — Thesis Research",
+      "description": "No description provided.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LING299C",
+      "name": "LING 299C — Thesis Research",
+      "description": "No description provided.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CSE245",
+      "name": "CSE 245 — Computational Models of Discourse and Dialogue",
+      "description": "Focuses on classic and current theories and research topics in the computational modeling of discourse and dialogue, with applications to human-computer dialogue interactions; dialogue interaction in computer games and interactive story systems; and processing of human-to-human conversational and dialogue-like language such as e-mails. Topics vary depending on the current research of the instructor(s) and the interests of the students. Students read theoretical and technical papers from journals and conference proceedings and present class lectures. A research project is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with permission of instructor.",
+      "prereqGroups": []
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+{
+  "department": "AM - Applied Mathematics",
+  "slug": "am-applied-mathematics",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/am-applied-mathematics",
+  "generated_at": "2025-11-28T07:51:33.184929+00:00",
+  "courses": [
+    {
+      "id": "AM3",
+      "name": "AM 3 — Precalculus for the Social Sciences",
+      "description": "Introduces mathematical functions and their uses for modeling real-life problems in the social sciences. Includes inequalities, linear and quadratic equations, functions (linear, quadratic, polynomial, rational, power, exponential, logarithmic, trigonometric), inverses, and the composition of functions. Students cannot receive credit for both this course and MATH 3 . STEM majors who are taking a precalculus to get into MATH 19A need to take MATH 3 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): score of 200 or higher on the mathematics placement examination (MPE), or MATH 2 .",
+      "prereqGroups": [
+        [
+          "MATH2"
+        ]
+      ]
+    },
+    {
+      "id": "AM6",
+      "name": "AM 6 — Precalculus for Statistics",
+      "description": "Reviews and introduces mathematical methods useful in the elementary study of statistics, including logic, real numbers, inequalities, linear and quadratic equations, functions, graphs, exponential and logarithmic functions, and summation notation. (Formerly AMS 6.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 2 or mathematics placement examination (MPE) score of 200 or higher or higher.",
+      "prereqGroups": [
+        [
+          "MATH2"
+        ]
+      ]
+    },
+    {
+      "id": "AM10",
+      "name": "AM 10 — Linear Algebra for Engineers",
+      "description": "Applications-oriented course on complex numbers and linear algebra integrating Matlab as a computational support tool. Introduction to complex algebra. Vectors, bases and transformations, matrix algebra, solutions of linear systems, inverses and determinants, eigenvalues and eigenvectors, and geometric transformations. Students cannot receive credit for this course and MATH 21 . (Formerly Mathematical Methods for Engineers I.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): score of 400 or higher on the mathematics placement examination (MPE) or MATH 3 or AM 11A or MATH 11A or MATH 19A or MATH 20A .",
+      "prereqGroups": [
+        [
+          "MATH3",
+          "AM11A",
+          "MATH11A",
+          "MATH19A",
+          "MATH20A"
+        ]
+      ]
+    },
+    {
+      "id": "AM11A",
+      "name": "AM 11A — Mathematical Methods for Economists I",
+      "description": "Introduction to mathematical tools and reasoning, with applications to economics. Topics are drawn from differential calculus in one variable and include limits, continuity, differentiation, elasticity, Taylor polynomials, and optimization. Students cannot receive credit for both this course and MATH 11A or MATH 19A or AM 15A or ECON 11A. ( AM 11A formerly AMS 11A.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Students who have already taken MATH 11A or MATH 19A should not take this course. Prerequisite(s): score of 300 or higher on the mathematics placement examination (MPE), AM 3 or AM 6 , or MATH 3 .",
+      "prereqGroups": [
+        [
+          "AM3",
+          "AM6",
+          "MATH3"
+        ]
+      ]
+    },
+    {
+      "id": "AM11B",
+      "name": "AM 11B — Mathematical Methods for Economists II",
+      "description": "Mathematical tools and reasoning, with applications to economics. Topics are drawn from multivariable differential calculus and single variable integral calculus, and include partial derivatives, linear and quadratic approximation, optimization with and without constraints, Lagrange multipliers, definite and indefinite integrals, and elementary differential equations. Students cannot receive credit for both this course and MATH 11B or MATH 19B or ECON 11B ( AM 11B formerly AMS 11B.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 11A , or ECON 11A, or MATH 11A , or MATH 19A , or MATH 20A .",
+      "prereqGroups": [
+        [
+          "AM11A",
+          "ECON11A",
+          "MATH11A",
+          "MATH19A",
+          "MATH20A"
+        ]
+      ]
+    },
+    {
+      "id": "AM20",
+      "name": "AM 20 — Ordinary Differential Equations for Engineers",
+      "description": "Applications-oriented class on ordinary differential equations (ODEs) and systems of ODEs using Matlab as a computational support tool. Covers linear ODEs and systems of linear ODEs; nonlinear ODEs using substitution and Laplace transforms; phase-plane analysis; introduction to numerical methods. Students cannot receive credit for this course and MATH 24 . (Formerly Mathematical Methods for Engineers II.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 19B or MATH 20B , and AM 10 or MATH 21 .",
+      "prereqGroups": [
+        [
+          "MATH19B",
+          "MATH20B"
+        ],
+        [
+          "AM10",
+          "MATH21"
+        ]
+      ]
+    },
+    {
+      "id": "AM30",
+      "name": "AM 30 — Multivariate Calculus for Engineers",
+      "description": "Advanced multivariate calculus for engineering majors. Coordinate systems, parametric curves, and surfaces; partial derivatives, gradient, Taylor expansion, stationary points, constrained optimization; integrals in multiple dimensions; integrals over curves and surfaces. Applications to engineering form an integral part of the course. Students cannot receive credit for this course and for MATH 22 or MATH 23A .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 10 or MATH 21 ; MATH 19B or MATH 20B .",
+      "prereqGroups": [
+        [
+          "AM10",
+          "MATH21"
+        ],
+        [
+          "MATH19B",
+          "MATH20B"
+        ]
+      ]
+    },
+    {
+      "id": "AM100",
+      "name": "AM 100 — Mathematical Methods for Engineers",
+      "description": "Covers important concepts in applied mathematics, including complex analysis, vector calculus, Fourier Series, and integral transforms. Applications of the methods to various problems in science and engineering are discussed.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 20 or MATH 24 , and AM 30 or MATH 23B , or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "AM20",
+          "MATH24"
+        ],
+        [
+          "AM30",
+          "MATH23B"
+        ]
+      ]
+    },
+    {
+      "id": "AM107",
+      "name": "AM 107 — Introduction to Fluid Dynamics",
+      "description": "Covers fundamental topics in fluid dynamics: Euler and Lagrange descriptions of continuum dynamics; conservation laws for inviscid and viscous flows; potential flows; exact solutions of the Navier-Stokes equation; boundary layer theory; gravity waves. Students cannot receive credit for this course and AM 217 . ( AM 107 formerly AMS 107.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 112 or MATH 107 or PHYS 116C or EART 111 .",
+      "prereqGroups": [
+        [
+          "AM112",
+          "MATH107",
+          "PHYS116C",
+          "EART111"
+        ]
+      ]
+    },
+    {
+      "id": "AM112",
+      "name": "AM 112 — Introduction to Partial Differential Equations",
+      "description": "Teaches analytical methods for the solution of first- and second-order PDEs of two variables, including: the method of characteristics for first-order PDEs; separation of variables for the heat, wave, and Laplaceâs equations in a finite or periodic Cartesian domain; homogeneous vs. forced problem; Sturm-Liouville theory; polar and spherical coordinate systems. Each method is illustrated by solving PDEs originating from real-life applications. Students cannot receive credit for this course and AM 212A .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 100 or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "AM100"
+        ]
+      ]
+    },
+    {
+      "id": "AM114",
+      "name": "AM 114 — Introduction to Dynamical Systems",
+      "description": "Introduces continuous and discrete dynamical systems. Topics include: fixed points; stability; bifurcations; limit cycles; introduction to chaos. Examples are drawn from sciences and engineering. Familiarity with Matlab is preferred. Students cannot receive credit for this course and AM 214. (Formerly AMS 214.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 10 or MATH 21 ; and AM 20 or MATH 24 ; and AM 30 or MATH 23A or MATH 22 ; or PHYS 116A . Enrollment is restricted to sophomores, juniors and seniors. Students are also expected to have some familiarity with Matlab (or alternatively Python), through AM 10 and 20. Students who are not familiar with Matlab will be provided with the opportunity to learn it in the first few weeks of class.",
+      "prereqGroups": [
+        [
+          "AM10",
+          "MATH21"
+        ],
+        [
+          "AM20",
+          "MATH24"
+        ],
+        [
+          "AM30",
+          "MATH23A",
+          "MATH22"
+        ],
+        [
+          "PHYS116A"
+        ]
+      ]
+    },
+    {
+      "id": "AM115",
+      "name": "AM 115 — Stochastic Modeling in Biology",
+      "description": "Application of differential equations, probability, and stochastic processes to problems in cell, organismal, and population biology. Topics include systems biology, cellular processes, gene-regulation, and population biology. Students may not receive credit for this course and AM 215 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 131 and AM 20 ; a university-level course in biology, and operational knowledge of a programming language; or consent of instructor.",
+      "prereqGroups": [
+        [
+          "STAT131",
+          "AM20"
+        ]
+      ]
+    },
+    {
+      "id": "AM129",
+      "name": "AM 129 — Foundations of Scientific Computing for Scientists and Engineers",
+      "description": "Covers fundamental aspects of scientific computing for research. Students are introduced to algorithmic development, programming (including the use of compilers, libraries, debugging, optimization, code publication), computational infrastructure, and data analysis tools, gaining hands-on experience through practical assignments. Basic programming experience is assumed.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 10 and MATH 11A ; or AM 10 and MATH 19A ; or AM 10 and MATH 20A ; or MATH 21 and MATH 11A ; or MATH 21 and MATH 19A ; or MATH 21 and MATH 20A .",
+      "prereqGroups": [
+        [
+          "AM10",
+          "MATH11A"
+        ],
+        [
+          "AM10",
+          "MATH19A"
+        ],
+        [
+          "AM10",
+          "MATH20A"
+        ],
+        [
+          "MATH21",
+          "MATH11A"
+        ],
+        [
+          "MATH21",
+          "MATH19A"
+        ],
+        [
+          "MATH21",
+          "MATH20A"
+        ]
+      ]
+    },
+    {
+      "id": "AM147",
+      "name": "AM 147 — Computational Methods and Applications",
+      "description": "Applications of computational methods to solving mathematical problems using Matlab. Topics include solution of nonlinear equations, linear systems, differential equations, sparse matrix solver, and eigenvalue problems.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 10 or MATH 21 . Knowledge of differential equations ( AM 20 or MATH 24 ) is recommended.",
+      "prereqGroups": [
+        [
+          "AM10",
+          "MATH21"
+        ]
+      ]
+    },
+    {
+      "id": "AM148",
+      "name": "AM 148 — GPU Programming for Scientific Computations",
+      "description": "This second course in scientific computing focuses on the use of parallel processing on GPUs with CUDA. Basic topics covered include the idea of parallelism and parallel architectures. The course then presents key parallel algorithms on GPUs such as scan, reduce, histogram and stencil, and compound algorithms. Applications to scientific computing are drawn from problems in linear algebra, curve fitting, FFTs, systems of ODEs and PDEs, and image processing. Finally, the course presents optimization strategies specific to GPUs. Basic knowledge of Unix, and C is assumed. (Formerly AMS 148.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 147 or MATH 148 or PHYS 115 . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "AM147",
+          "MATH148",
+          "PHYS115"
+        ]
+      ]
+    },
+    {
+      "id": "AM160",
+      "name": "AM 160 — Introduction to Scientific Machine Learning",
+      "description": "Introduction to scientific machine learning covering dimension reduction techniques for scientific data, modern methods in sparse regression and compressed sensing, deep neural networks for modeling real-life systems, and neural ordinary differential equations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 20 and AM 30 , or MATH 24 , or PHYS 116A , and AM 129 or CSE 30 . Enrollment is restricted to junior and senior students, and graduate students in applied mathematics. Prerequisite courses waived for graduate students.",
+      "prereqGroups": [
+        [
+          "AM20",
+          "AM30"
+        ],
+        [
+          "MATH24"
+        ],
+        [
+          "PHYS116A"
+        ],
+        [
+          "AM129",
+          "CSE30"
+        ]
+      ]
+    },
+    {
+      "id": "AM170A",
+      "name": "AM 170A — Mathematical Modeling 1",
+      "description": "Introduction to mathematical modeling emphasizing model construction, tool selection, methods of solution, critical analysis of the results, and professional-level presentation of the results (written and oral). Focuses on problems that can be solved using only analytical tools, and simple Matlab routines. Applications are drawn from a variety of fields such as physics, biology, engineering, and economics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. AM 30 , and AM 114 , and STAT 131 or CSE 107 , or by instructor permission. Enrollment is restricted to juniors and seniors majoring in applied mathematics and proposed applied mathematics majors.",
+      "prereqGroups": [
+        [
+          "AM30",
+          "AM114",
+          "STAT131",
+          "CSE107"
+        ]
+      ]
+    },
+    {
+      "id": "AM170B",
+      "name": "AM 170B — Mathematical Modeling 2",
+      "description": "Second course in mathematical modeling emphasizing the general process of scientific inquiry: model construction, tool selection, numerical methods of solution, critical analysis of the results, and professional-level presentation of the results (written and oral). Focuses on problems that must be solved using numerical tools. Applications are drawn from a variety of fields.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: AM 129 , AM 112 , and AM 147 , and AM 170A . Enrollment is restricted to seniors with a declared or proposed major in Applied Mathematics, or by instructor permission.",
+      "prereqGroups": [
+        [
+          "AM129",
+          "AM112",
+          "AM147",
+          "AM170A"
+        ]
+      ]
+    },
+    {
+      "id": "AM178A",
+      "name": "AM 178A — Learning Assistant Training for AM 10",
+      "description": "Prepares undergraduate learning assistants (tutors) to become successful learning assistants in AM 10 . Topics include roles and responsibilities of tutors; AM 10 learning objectives; effective ways to address particular AM 10 topics that students struggle with; introduction to teaching and learning strategies to utilize in AM10 tutoring sessions; and peer and self observation.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): AM 20 ; and AM 30 ; and previous or concurrent enrollment in STEV 96 . Enrollment by permission of the instructor and restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "AM20",
+          "AM30",
+          "STEV96"
+        ]
+      ]
+    },
+    {
+      "id": "AM195",
+      "name": "AM 195 — Senior Thesis Research",
+      "description": "Research project arranged individually between student and faculty member. Students submit a petition to the sponsoring agency. The project must involve significant mathematical and/or computational analysis of an application problem. The project should address a clear objective and have some novelty in method or in parameter exploration or in application area. A written thesis is required for completion of the capstone requirement. Prerequisite(s): AM 129 or AM 209, and AM 112 , and AM 147 , and AM 170A . Enrollment is restricted to seniors and is by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM198",
+      "name": "AM 198 — Independent Study or Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM198F",
+      "name": "AM 198F — Independent Study or Research",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM200",
+      "name": "AM 200 — Teaching in Applied Mathematics",
+      "description": "Basic teaching techniques for teaching assistants, including responsibilities and rights; resource materials; computer skills; leading discussions or lab sessions; presentation techniques; maintaining class records; and grading. (Formerly Research and Teaching in Applied Mathematics.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM211",
+      "name": "AM 211 — Foundations of Applied Mathematics",
+      "description": "Accelerated class reviewing fundamental applied mathematical methods for all sciences. Topics include: multivariate calculus, linear algebra, Fourier series and integral transform methods, complex analysis, and ordinary differential equations. (Formerly AMS 211.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM212",
+      "name": "AM 212 — Advanced Methods of Applied Mathematics",
+      "description": "Overview of advanced methods for the analytical solution of ODEs and PDEs, including asymptotic analysis (method of strained coordinates; method of multiple scales; matched asymptotics; WKB theory), dimensional analysis, self-similar solutions and Greenâs function solutions of PDEs. Introduces students to variational calculus for the optimization of functionals. Students cannot receive credit for this course and AM 212B .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor. Students taking this course need at least one prior undergraduate or M.S.-level course in partial differential equations, similar to AM 112 , MATH 107 or PHYS 116C .",
+      "prereqGroups": [
+        [
+          "AM112",
+          "MATH107",
+          "PHYS116C"
+        ]
+      ]
+    },
+    {
+      "id": "AM212A",
+      "name": "AM 212A — Applied Partial Differential Equations",
+      "description": "Focuses on analytical methods for partial differential equations (PDEs), including: the method of characteristics for first-order PDEs; canonical forms of linear second-order PDEs; separation of variables; Sturm-Liouville theory; Green's functions. Illustrates each method using applications taken from examples in physics. AM 211 or equivalent is strongly recommended as preparation. Students cannot receive credit for this course and AM 112 . (Formerly AMS 211, Applied Mathematical Methods I.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; undergraduates are encouraged to take this class with permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM212B",
+      "name": "AM 212B — Applied Mathematical Methods II",
+      "description": "Covers perturbation methods: asymptotic series, stationary phase and expansion of integrals, matched asymptotic expansions, multiple scales and the WKB method, Pad approximants and improvements of series. (Formerly AMS 212B.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students. Undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM213A",
+      "name": "AM 213A — Numerical Linear Algebra",
+      "description": "Focuses on numerical solutions to classic problems of linear algebra. Topics include: LU, Cholesky, and QR factorizations; iterative methods for linear equations; least square, power methods, and QR algorithms for eigenvalue problems; and conditioning and stability of numerical algorithms. Provides hands-on experience in implementing numerical algorithms for solving engineering and scientific problems. Basic knowledge of mathematical linear algebra is assumed. (Formerly AMS 213A.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduate students may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM213B",
+      "name": "AM 213B — Numerical Methods for the Solution of Differential Equations",
+      "description": "Introduces the numerical solutions of ordinary and partial differential equations (ODEs and PDEs). Focuses on the derivation of discrete solution methods for a variety of differential equations, and their stability and convergence. Also provides hands-on experience in implementing such numerical algorithms for the solution of engineering and scientific problems using MATLAB software. The class consists of lectures and hands-on programming sections. Basic mathematical knowledge of ODEs and PDEs is assumed, and a basic working knowledge of programming in MATLAB is expected. (Formerly AMS 213B.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM215",
+      "name": "AM 215 — Stochastic Modeling in Biology",
+      "description": "Application of differential equations, probability, and stochastic processes to problems in cell, organismal, and population biology. Topics include systems biology, cellular processes, gene-regulation, and population biology. Students may not receive credit for this course and AM 115 . (Formerly AMS 215.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM216",
+      "name": "AM 216 — Stochastic Differential Equations",
+      "description": "Introduction to stochastic differential equations and diffusion processes with applications to biology, biomolecular engineering, and chemical kinetics. Topics include Brownian motion and white noise, gambler's ruin, backward and forward equations, and the theory of boundary conditions. (Formerly AMS 216.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM217",
+      "name": "AM 217 — Introduction to Fluid Dynamics",
+      "description": "Covers fundamental topics in fluid dynamics at the graduate level: Euler and Lagrange descriptions of continuum dynamics; conservation laws for inviscid and viscous flows; potential flows; exact solutions of the Navier-Stokes equation; boundary layer theory; gravity waves. Students cannot receive credit for this course and AM 107 . (Formerly AMS 217.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM224",
+      "name": "AM 224 — Applied Dynamical Systems",
+      "description": "Graduate-level course in dynamical systems theory, focusing on n-dimensional continuous dynamical systems. Covers fixed points, stability (linear and Lyapunov), normal forms, center manifold theorem, Liouville theorem, reversible and gradient flows, conservative systems, and quantitative characterization of chaos.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor. An introductory course in dynamical systems theory (e.g. AM 114 or MATH 145 or AM 214), partial differential equations (e.g. AM 112 or MATH 107 ) as well as experience with programming and scientific computing using Matlab or Python, are strongly recommended.",
+      "prereqGroups": [
+        [
+          "AM114",
+          "AM214",
+          "MATH145"
+        ],
+        [
+          "AM112",
+          "MATH107"
+        ]
+      ]
+    },
+    {
+      "id": "AM227",
+      "name": "AM 227 — Waves, Instabilities, and Turbulence in Fluids",
+      "description": "Advanced fluid dynamics course introducing various types waves and instabilities that commonly arise in geophysical and astrophysical systems, as well as turbulence. Topics covered include, but are not limited to: pressure waves, gravity waves, convection, shear instabilities, and turbulence. Advanced mathematical methods are used to study each topic. Undergraduates are encouraged to take this course with permission of the instructor. (Formerly Waves and Instabilities in Fluids.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 212A and AM 217 .",
+      "prereqGroups": [
+        [
+          "AM212A"
+        ],
+        [
+          "AM217"
+        ]
+      ]
+    },
+    {
+      "id": "AM229",
+      "name": "AM 229 — Convex Optimization",
+      "description": "Focuses on recognizing, formulating, analyzing, and solving convex optimization problems encountered across science and engineering. Topics include: convex sets; convex functions; convex optimization problems; duality; subgradient calculus; algorithms for smooth and non-smooth convex optimization; applications to signal and image processing, machine learning, statistics, control, robotics and economics. Students are required to have knowledge of calculus and linear algebra, and exposure to probability. (Formerly AMS 229.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM230",
+      "name": "AM 230 — Numerical Optimization",
+      "description": "Introduces numerical optimization tools widely used in engineering, science, and economics. Topics include: line-search and trust-region methods for unconstrained optimization, fundamental theory of constrained optimization, simplex and interior-point methods for linear programming, and computational algorithms for nonlinear programming. (Formerly AMS 230.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Basic knowledge of linear algebra is assumed. Enrollment is restricted to graduate students. Undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM231",
+      "name": "AM 231 — Nonlinear Control Theory",
+      "description": "Covers analysis and design of nonlinear control systems using Lyapunov theory and geometric methods. Includes properties of solutions of nonlinear systems, Lyapunov stability analysis, effects of perturbations, controllability, observability, feedback linearization, and nonlinear control design tools for stabilization. (Formerly AMS 231.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): basic knowledge of mathematical analysis and ordinary differential equations is assumed. Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM232",
+      "name": "AM 232 — Applied Optimal Control",
+      "description": "Introduces optimal control theory and computational optimal control algorithms. Topics include: calculus of variations, minimum principle, dynamic programming, HJB equation, linear-quadratic regulator, direct and indirect computational methods, and engineering application of optimal control. (Formerly AMS 232.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 114 or AM 214, or ECE 240 or ECE 241 , or MATH 145 . Enrollment is restricted to graduate students. Undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "AM114",
+          "AM214"
+        ],
+        [
+          "ECE240",
+          "ECE241"
+        ],
+        [
+          "MATH145"
+        ]
+      ]
+    },
+    {
+      "id": "AM238",
+      "name": "AM 238 — Fundamentals of Uncertainty Quantification in Computational Science and Engineering",
+      "description": "Computing the statistical properties of nonlinear random system is of fundamental importance in many areas of science and engineering. Introduces students to state-of-the-art methods for uncertainty propagation and quantification in model-based computations, focusing on the computational and algorithmic features of these methods most useful in dealing with systems specified in terms of stochastic ordinary and partial differential equations. Topics include: polynomial chaos methods (gPC and ME-gPC), probabilistic collocation methods (PCM and ME-PCM), Monte-Carlo methods (MC, quasi-MC, multi-level MC), sparse grids (SG), probability density function methods, and techniques for dimensional reduction. Basic knowledge of probability theory and elementary numerical methods for ODEs and PDEs is recommended. (Formerly AMS 238.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): STAT 203 or equivalent, and AM 213B or equivalent. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "STAT203"
+        ],
+        [
+          "AM213B"
+        ]
+      ]
+    },
+    {
+      "id": "AM250",
+      "name": "AM 250 — An Introduction to High Performance Computing",
+      "description": "Designed for STEM students and others. Through hands-on practice, this course introduces high-performance parallel computing, including the concepts of multiprocessor machines and parallel computation, and the hardware and software tools associated with them. Students become familiar with parallel concepts and the use of MPI and OpenMP together with some insight into the use of heterogeneous architectures (CPU, CUDA, OpenCL), and some case-study problems. (Formerly AMS 250.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM260",
+      "name": "AM 260 — Computational Fluid Dynamics",
+      "description": "Introduces modern computational approaches to solving the differential equations that arise in fluid dynamics, particularly for problems involving discontinuities and shock waves. Examines the fundamentals of the mathematical foundations and computation methods to obtain solutions. Focuses on writing practical numerical codes and analyzing their results for a full understanding of fluid phenomena. (Formerly AMS 260.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Basic knowledge of computer programming languages is assumed. Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM275",
+      "name": "AM 275 — Magnetohydrodynamics",
+      "description": "Studies the interaction of fluid motion and magnetic fields in electrically conducting fluids, with applications in many natural and man-made flows ranging from, for example, planetary physics and astrophysics to industrial metallurgic engineering. (Formerly AMS 275.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 107 or AM 217 . AM 227 suggested. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "AM107",
+          "AM217"
+        ]
+      ]
+    },
+    {
+      "id": "AM280A",
+      "name": "AM 280A — Seminar in Mathematical and Computational Biology",
+      "description": "Weekly seminar on mathematical and computational biology. Participants present research findings in organized and critical fashion, framed in context of current literature. Students present own research on a regular basis. (Formerly AMS 280A.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM280B",
+      "name": "AM 280B — Seminar in Applied Mathematical Modeling",
+      "description": "Weekly seminar series covering topics of current research in applied mathematics and statistics. Permission of instructor required. Enrollment is restricted to graduate students. (Formerly AMS 280B.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM280C",
+      "name": "AM 280C — Seminar in Geophysical and Astrophysical Fluid Dynamics",
+      "description": "Weekly seminar/discussion group on geophysical and astrophysical fluid dynamics covering both analytical and computational approaches. Participants present research progress and findings in semiformal discussions. Students must present their own research on a regular basis. (Formerly AMS 280C.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM296",
+      "name": "AM 296 — Masters Project",
+      "description": "Independent completion of a masters project under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM297A",
+      "name": "AM 297A — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM297B",
+      "name": "AM 297B — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM297C",
+      "name": "AM 297C — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM297F",
+      "name": "AM 297F — Independent Study",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM299A",
+      "name": "AM 299A — Thesis Research",
+      "description": "Thesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM299B",
+      "name": "AM 299B — Thesis Research",
+      "description": "Thesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "AM299C",
+      "name": "AM 299C — Thesis Research",
+      "description": "Thesis research under faculty supervision. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

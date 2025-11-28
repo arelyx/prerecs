@@ -1,0 +1,52 @@
+{
+  "department": "ARBC - Arabic",
+  "slug": "arbc-arabic",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/arbc-arabic",
+  "generated_at": "2025-11-28T07:51:33.733201+00:00",
+  "courses": [
+    {
+      "id": "ARBC1",
+      "name": "ARBC 1 — First-Year Arabic",
+      "description": "Introduction to Arabic language and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ARBC2",
+      "name": "ARBC 2 — First-Year Arabic",
+      "description": "Introduction to Arabic and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.",
+      "credits": "5",
+      "rawRequirements": "Requirements ARBC 1 or equivalent proficiency.",
+      "prereqGroups": [
+        [
+          "ARBC1"
+        ]
+      ]
+    },
+    {
+      "id": "ARBC3",
+      "name": "ARBC 3 — First-Year Arabic",
+      "description": "Introduction to Arabic and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ARBC 2 or equivalent proficiency.",
+      "prereqGroups": [
+        [
+          "ARBC2"
+        ]
+      ]
+    },
+    {
+      "id": "ARBC4",
+      "name": "ARBC 4 — Second-Year Arabic",
+      "description": "Continuation of Arabic language and Arabic-speaking culture courses with practice in all four language skills: listening, speaking, reading, and writing. Intended for students who have successfully completed Arabic 3 or possess equivalent proficiency.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ARBC 3 or proficient equivalency.",
+      "prereqGroups": [
+        [
+          "ARBC3"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "department": "LATN - Latin",
+  "slug": "latn-latin",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/latn-latin",
+  "generated_at": "2025-11-28T07:51:41.198860+00:00",
+  "courses": {
+    "LATN 1 — Elementary Latin": "Course: LATN 1 — Elementary Latin\nCredits: 5\nDescription: Instruction in Latin grammar, using a modern Latin method, designed to prepare for the study of classical literature. The sequence begins in the fall quarter only.\nRequirements: No additional requirements listed.",
+    "LATN 2 — Elementary Latin": "Course: LATN 2 — Elementary Latin\nCredits: 5\nDescription: Instruction in Latin grammar, using a modern Latin method, designed to prepare for the study of classical literature.\nRequirements: Requirements Prerequisite(s): LATN 1 .",
+    "LATN 99 — Tutorial": "Course: LATN 99 — Tutorial\nCredits: 5\nDescription: Students submit petition to sponsoring agency.\nRequirements: No additional requirements listed.",
+    "LATN 99F — Tutorial": "Course: LATN 99F — Tutorial\nCredits: 2\nDescription: Students submit petition to sponsoring agency.\nRequirements: No additional requirements listed."
+  }
+}

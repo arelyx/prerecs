@@ -1,0 +1,40 @@
+{
+  "department": "LAAD - Languages",
+  "slug": "laad-languages",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/laad-languages",
+  "generated_at": "2025-11-28T07:51:40.927730+00:00",
+  "courses": [
+    {
+      "id": "LAAD99",
+      "name": "LAAD 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LAAD99F",
+      "name": "LAAD 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LAAD199",
+      "name": "LAAD 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "LAAD199F",
+      "name": "LAAD 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "department": "GREE - Greek",
+  "slug": "gree-greek",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/gree-greek",
+  "generated_at": "2025-11-28T07:51:39.324107+00:00",
+  "courses": [
+    {
+      "id": "GREE1",
+      "name": "GREE 1 — Elementary Ancient Greek",
+      "description": "Instruction in the grammar of Attic Greek, together with readings from ancient authors, designed to prepare for the study of classical literature. The sequence begins in the fall quarter only.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "GREE2",
+      "name": "GREE 2 — Elementary Ancient Greek",
+      "description": "Instruction in the grammar of Attic Greek, together with readings from ancient authors, designed to prepare for the study of classical literature.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): GREE 1 , or permission of instructor",
+      "prereqGroups": [
+        [
+          "GREE1"
+        ]
+      ]
+    },
+    {
+      "id": "GREE99",
+      "name": "GREE 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "GREE99F",
+      "name": "GREE 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

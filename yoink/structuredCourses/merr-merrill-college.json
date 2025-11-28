@@ -1,0 +1,264 @@
+{
+  "department": "MERR - Merrill College",
+  "slug": "merr-merrill-college",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/merr-merrill-college",
+  "generated_at": "2025-11-28T07:51:42.077289+00:00",
+  "courses": [
+    {
+      "id": "MERR1",
+      "name": "MERR 1 — Academic Literacy and Ethos: Reading Ourselves, Reading the World",
+      "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Engages students in Merrill's intellectual tradition of investigating social change and social justice.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR1A",
+      "name": "MERR 1A — Introduction to University Life and Learning",
+      "description": "Orientation to and exploration of the nature of the liberal arts, and of learning at research universities. Topics include: academic planning for upper-division coursework; enrollment processes; and understanding pathways to degree completion; UCSC resources that support health and well-being strategies for academic success; the cultivation of just communities; the prevention of sexual harassment and violence; campus conduct policies; awareness of risks associated with drug and/or alcohol use; and an introduction to traditions of community-engaged learning, ground-breaking research, and interdisciplinary thinking that define a UC Santa Cruz degree. This course can be taken for Pass/No Pass grading only.",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to entering first-year Merrill College students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR5",
+      "name": "MERR 5 — WORD: Writing Originating from Reading and Discussion.",
+      "description": "Designed to provide students with practice using critical reading strategies with a variety of academic texts and genres and is graded Pass/No Pass only. Enrollment is restricted to frosh students and by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR31F",
+      "name": "MERR 31F — Agency, Dialogue, Action: Fostering Critical Engagement",
+      "description": "What exactly does it mean to have agency, what do we do with agency? Course examines theories of agency, in education and elsewhere, and engages students in opportunities to enact and examine effective approaches. Understanding that spaces of social collaboration are also learning environments, students investigate how different models of student engagement promote agency ultimately leading to investigating how we can utilize our agency to effect change and how dialogue plays an integral role in this process. Also explores effective practices for fostering and implementing agency and communication, and the theories from which these practices emerge. Enrollment is by permission and is restricted to students who are a member of a SOMeCA organization. (Formerly MERR 31.)",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR32F",
+      "name": "MERR 32F — Mindful Collaboration: Cultivating Radical Exchange",
+      "description": "Collaboration can be challenging, particularly in a society in which there is an emphasis on individualism and competitiveness. Compromise, for example, can be experienced or interpreted as personal sacrifice rather than fertile ground for possibility. Solving many of the world's most significant issues (climate change, economic instability, pandemic, etc.) will require collective effort and this will challenge us to create new ways of being and thinking. Through classroom discussions, journal reflections, and experiential exercises, students investigate models of collaboration, how social inequities can challenge collaborative work, the importance of common purpose, practices that support respectful and inclusive deliberation, and student organizations as sites of collaboration. Enrollment is by permission and is restricted to students who are a member of a SOMeCA organization.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR33F",
+      "name": "MERR 33F — Transformative Leadership and Social Change",
+      "description": "Examines current state of constant division and dissent to look for solutions to society's largest problems and examples of leadership that exhibit the compassion, openness, and skills needed to reach inclusive and genuine consensus that students can learn from in becoming effective and transformative leaders. Students challenge their own assumptions regarding leadership and explore and assess different means through which they can be leaders who facilitate change with more than just their own ideas in mind. Through both class discussions and interactive practices, students explore ways of strengthening interpersonal relationships, developing shared frameworks, and creating a collective consensus that supports sustainable and inclusive change. Enrollment is by permission and is restricted to students who are a member of a SOMeCA organization.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR34F",
+      "name": "MERR 34F — Careers in STEM",
+      "description": "Provides students with information, tools, and strategies to embark on STEM career exploration and preparation, including strategies for addressing challenges and opportunities related to diversity within STEM career fields. Students explore their career values, network with guest speakers in STEM fields (alumni, faculty, postdocs, graduate students, career coaches, and hiring managers), and prepare and create career-related documents (resumes, cover letters, networking plans). Enrollment is restricted to sophomore and junior STEM majors and proposed STEM majors, and by instructor permission. Students in the EOP program are given priority.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR35A",
+      "name": "MERR 35A — Pathways to Graduate School Phase 1",
+      "description": "Guides students in utilizing relevant and timely information, tools, and strategies to embark on the path to graduate school exploration and preparation, including strategies for addressing challenges and opportunities related to diversity within graduate education. Students explore their values and motivations for pursuing graduate school, network with guest speakers (current graduate students, faculty members, graduate school admissions professionals); and prepare to continue their development as scholars and researchers in order to deliver outstanding graduate school application materials (personal statements, CV/resumes, letters of recommendation requests). Through these course activities, students cultivate their scholarly identity and sense of self-efficacy as future graduate students. Enrollment is restricted to sophomores and juniors in the Arts, Humanities, and Social Sciences divisions and by instructor permission. Students in the EOP program are given priority.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR35B",
+      "name": "MERR 35B — Pathways to Graduate SchoolâPhase 2",
+      "description": "Guides students via a strengths-based approach in utilizing the information, resources, support, and self-determination they identified in MERR 35A , Pathways to Graduate SchoolâPhase 1, to navigate the graduate school application process and submit for admission to respective graduate programs and/or other competitive opportunities.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR40",
+      "name": "MERR 40 — Deafness & Sign Language",
+      "description": "Explores what we can learn about the human mind and brain by studying sensory loss and language in a different sensory modality. Topics include visual and spatial thinking, brain organization, compensating for sensory loss, and the nature of human language.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR41",
+      "name": "MERR 41 — Pandemics and Planetary Health",
+      "description": "Examines global health events through our own personal experiences and foundations in public health, environmental health, social theory, and governance, generating insight about how infectious disease spreads within our communities and across geographic boundaries. A focal objective is to explore lessons from present and past pandemics to inform future actions and responses within our global and local communities. Case study methods are used to analyze the COVID-19 pandemic and engage in learning across multiple global health events and intersecting planetary health challenges, in a theory and practice-based exploration of pandemics from the perspectives of global health, society, science, and human behavior. (Formerly offered as Pandemic Case Studies: Principles in Public Health.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR60",
+      "name": "MERR 60 — Fake News: Its History and Why We Need Critical Media Literacy",
+      "description": "Teaches students how to take skillful possession of their power as citizens by participating in community focused news literacy service learning projects. Recently, debates about fake news in entertainment, politics, and news media have centered on the threat American citizens' waning news literacy skills pose to the democratic process. Course develops those skills, focusing on critical thinking, the history of fake news and journalism, differences between journalism and fake news, news and propaganda, news and opinion, bias and fairness, assertion and verification, and evidence and inference. Integrates coursework into collaborative community engagement projects that seek to advance the community's news literacy skills.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR90",
+      "name": "MERR 90 — Theory and Practice of Field Study",
+      "description": "Course provides an opportunity for lower-division students to learn about Santa Cruz, Calif., its contemporary history, culture, and politics through classroom theoretical learning integrated with individual field studies. Course also examines social change, qualitative research, and community organizing.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR90F",
+      "name": "MERR 90F — Merrill Field Study Practicum",
+      "description": "Offers Merrill students an opportunity for practical field study experience with preparation and support for practical skill development and critical reflection on service-learning experience.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR90S",
+      "name": "MERR 90S — Theory and Practice of Field Study",
+      "description": "Students spend 10 hours a week on an internship they choose, with the support of the instructor, working with a local organization. Includes class lectures and discussions of readings.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR93",
+      "name": "MERR 93 — Field Study",
+      "description": "Provides for individual programs of study sponsored by the college and performed off campus. Up to three such courses may be taken for credit in any one quarter. Approval of student's adviser and provost required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR93F",
+      "name": "MERR 93F — Field Study",
+      "description": "Provides for individual program of study sponsored by the college and performed off campus. Approval of instructor required.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR93G",
+      "name": "MERR 93G — Field Study",
+      "description": "Provides for individual programs of study sponsored by the college and performed off campus. Approval of instructor required.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR98F",
+      "name": "MERR 98F — Independent Study",
+      "description": "Independent Study",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR99",
+      "name": "MERR 99 — Tutorial",
+      "description": "Various topics to be arranged between student and instructor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR99F",
+      "name": "MERR 99F — Tutorial",
+      "description": "Various topics to be arranged between student and instructor. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR120",
+      "name": "MERR 120 — Personal Empowerment",
+      "description": "Intensive course on individual goal-oriented behavior, commonly called problem solving. Focus on purpose, goals, meaning, emotions, languages, model-building, reality, thinking, logic, creativity, the steps of problem solving, common blocks, and techniques of unblocking. Meet with instructor prior to advance enrollment; priority given to upper-level students.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR180",
+      "name": "MERR 180 — Research Skills for College and Beyond",
+      "description": "Focuses on exploration/development of skills for planning, study habits, research, networking, and communication skills for college, graduate and professional school, and beyond. Primary focus is on writing, public speaking, and academic and professional research.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR192",
+      "name": "MERR 192 — Directed Student Teaching",
+      "description": "Teaching of a lower-division seminar by an upper-division student under faculty supervision. (See MERR 42.) Students submit petition to sponsoring agency, supported by faculty member willing to supervise.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR193",
+      "name": "MERR 193 — Field Study",
+      "description": "Provides for individual programs of study sponsored by the college and performed off campus. Up to three such courses may be taken for credit in one quarter. Approval of student's adviser and provost required.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR193F",
+      "name": "MERR 193F — Field Study",
+      "description": "Provides for individual programs of study sponsored by the college and performed off campus. Up to three such courses may be taken for credit in one quarter. Approval of student's adviser and provost required.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR193G",
+      "name": "MERR 193G — Field Study",
+      "description": "Provides for individual programs of study sponsored by the college and performed off campus. Up to three such courses may be taken for credit in one quarter. Approval of student's adviser and provost required.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR194",
+      "name": "MERR 194 — Group Tutorial",
+      "description": "A program of independent study arranged between a group of students and a faculty member.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR195",
+      "name": "MERR 195 — Senior Research Project",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR198",
+      "name": "MERR 198 — Independent Field Study",
+      "description": "Provides for college-sponsored individual study programs off campus, for which faculty supervision is not in person (e.g., supervision is by correspondence). Up to three such courses may be taken for credit in any one quarter. This may be a multiple-term course extending over two or three quarters; in this case the grade and evaluation submitted for the final quarter apply to all previous quarters. Petitions may be obtained at the Merrill College Office. Approval of student's adviser, certification of adequate preparation, and approval by the Merrill Provost required.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR198F",
+      "name": "MERR 198F — Independent Study",
+      "description": "Independent Study",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "MERR199",
+      "name": "MERR 199 — Tutorial",
+      "description": "Various topics to be arranged between student and instructor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

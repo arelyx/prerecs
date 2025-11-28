@@ -1,0 +1,160 @@
+{
+  "department": "CLNI - College Nine",
+  "slug": "clni-college-nine",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/clni-college-nine",
+  "generated_at": "2025-11-28T07:51:35.260086+00:00",
+  "courses": [
+    {
+      "id": "CLNI1",
+      "name": "CLNI 1 — Academic Literacy and Ethos: International and Global Perspectives",
+      "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Addresses large-scale political, cultural, and economic issues to inform global citizenship.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI1A",
+      "name": "CLNI 1A — Introduction to University Life and Learning",
+      "description": "Orientation to and exploration of the nature of the liberal arts, and of learning at research universities. Topics include: academic planning for upper-division coursework; enrollment processes; and understanding pathways to degree completion; UCSC resources that support health and well-being strategies for academic success; the cultivation of just communities; the prevention of sexual harassment and violence; campus conduct policies; awareness of risks associated with drug and/or alcohol use; and an introduction to traditions of community-engaged learning, ground-breaking research, and interdisciplinary thinking that define a UC Santa Cruz degree. This course can be taken for Pass/No Pass grading only.",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to entering first-year College Nine students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI30",
+      "name": "CLNI 30 — (H)ACER Undergraduate Community Internship",
+      "description": "Student Internship through the Apprenticeship in Community Engaged Research (H)ACER Program at College Nine and John R. Lewis College. The (H)ACER Program joins community engagement with critical reflexive components of qualitative research to support transformative learning and strengthen community-university partnerships. Students will be placed at a variety of internships and work with our community partners such as Calabasas Elementary School classroom teachers, Calabasas Elementary School After School Program, Calabasas Community Garden, and Watsonville High School classroom teachers. Students also may propose internships if they already have strong ties with a community partner and receive approval from the (H)ACER Director. Requires students to read selected readings on critical service learning, community learning, qualitative research methods and a variety of texts relevant to the history, context and activities at the sites where they will intern. Internships will take place primarily in Watsonville. Enrollment by permission of the instructor. (Formerly JRLC 30.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI35",
+      "name": "CLNI 35 — Knowledge For Justice",
+      "description": "Introduction to the (H)ACER program at College Nine and John R Lewis College. (H)ACER trains students in participatory research methodologies and creates opportunities for students to work in real-world contexts addressing issues such as social, economic, educational, and environmental injustice. Students gain a foundation in understanding the context of the research university and developing critical research methods for working with communities. Students grapple with questions of how to conduct research in an ethical way and to build relationships that both recognize and are not foreclosed by histories of violence, with particular attention to race, class, gender, and nationality. (Formerly offered as JRLC 35.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI45",
+      "name": "CLNI 45 — Undeclared Scholars Discovery Lab",
+      "description": "The Undeclared Scholars Discovery Lab offers a framework for personal and intellectual exploration to help guide thoughtful consideration of potential majors. Considers careers and jobs within the context of selecting a major and reflects on personal, cultural, and social ideas about the importance of work in giving life meaning. Through readings, exercises, advising activities, and guest visits, students focus on the question of what makes a life meaningful and how different majorsâand the wide range of opportunities associated with themâresonate with our thinking. To support a capacious approach to major exploration, students also learn about habits of mind that encourage discovery as an ongoing, iterative process that sustains our lifelong development.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to College Nine and John R. Lewis College members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI55",
+      "name": "CLNI 55 — Undeclared Scholars Program: Opportunities Lab",
+      "description": "The Undeclared Scholars Opportunity Lab is intended to offset obstacles to student engagement opportunities by providing a framework to help students understand common obstacles, develop skills and strategies for overcoming them, and learn about many of the research and extracurricular opportunities available at UCSC. Students have a structured way of learning about and âsamplingâ a range of opportunities while also developing a tool box of professional skills.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI65",
+      "name": "CLNI 65 — Learning to DJ",
+      "description": "Introduces students to the art of DJing. Becoming a skilled DJ requires many things: a deep love of music, the ability to read oneâs audience, technical skill, and knowledge of DJ cultures and their histories. Students learn to DJ using both vinyl and digital formats, as well as how to organize events centered around dance music.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI70",
+      "name": "CLNI 70 — College Nine and John R. Lewis College Community Garden",
+      "description": "Students in this course design and build a new community garden at Colleges Nine and Ten. Students engage in a collaborative design process with campus stakeholders; learn hands-on skills and community gardening best practices; and build regenerative social and ecological systems. (Formerly Colleges Nine and Ten Community Garden)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI80",
+      "name": "CLNI 80 — International Feminist Perspectives",
+      "description": "Offers perspectives on feminist movements, both historical and contemporary, across Asia, Africa, Europe, and the Americas. Students explore the values of specific movements from around the world that align with larger international trends, as well as the culturally unique tenets and organizing structures of the movements. Assignments encourage students to critically analyze the motivating factors in the creation of feminist movements and the complications in transnational feminist spaces.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI85",
+      "name": "CLNI 85 — Global Action",
+      "description": "Workshop facilitated by peer instructors. Students learn about current international and global issues through interactive exercises, small-group discussions, and faculty presentations. Students develop an action plan to raise awareness about one or more of these concerns and take practical steps to create positive change in the world.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI90",
+      "name": "CLNI 90 — Intercultural Understanding",
+      "description": "Provides an opportunity to enhance the intercultural experience, increase cultural competency, promote further understanding, and examine the various trends facing a uniquely diverse community. Geared toward U.S. and international students affiliated with the International Living Center. Enrollment by instructor permission.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI92",
+      "name": "CLNI 92 — Breaking Stereotypes",
+      "description": "Supports the development of cross-cultural understanding and media literacy to navigate diverse perspectives, examining how U.S. media portrays Muslim, Arab, North African, and Middle Eastern identities, analyzing the construction, reinforcement, and challenge of stereotypes across film, news, television, and social media.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI110",
+      "name": "CLNI 110 — Storytelling for Social Impact",
+      "description": "Stories are fundamental to what it means to be human. This course introduces students to the history, social context and techniques of storytelling and takes students through the research, writing and performing process of storytelling from the personal to the communal, with an emphasis on social impact storytelling, purposeful stories that drive action on social issues. Students engage with the model of âThe Mothâ radio hour and podcast by listening to and analyzing a wide array of stories told before a live audience, as well as writing and performing three stories during the quarter, using techniques learned in class and from skilled storytellers and theater faculty.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI120",
+      "name": "CLNI 120 — Practical Activism Conference Planning and Development",
+      "description": "Offers an applied experience of collaborative planning, production, and leadership. Students plan workshops and other event components; conduct outreach and publicity; and address all aspects of educational event planning. Enrollment restricted to members of the spring volunteer Practical Activism planning group. Enrollment by permission of the instructor.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI191",
+      "name": "CLNI 191 — Teaching Global Action",
+      "description": "Undergraduates at upper-division level participate in teaching discussion groups for CLNI 85 (W). Prerequisite(s): permission of instructor: essay describing interest in becoming course assistant, copies of evaluations, and letter of recommendation from faculty member and/or college staff member. Enrollment is restricted to College Nine juniors and seniors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI199",
+      "name": "CLNI 199 — Tutorial",
+      "description": "Individual directed study for upper-division college members with college-affiliated faculty. Students must submit petition with one of the college academic advisers with accompanying letter from faculty adviser. Approval of provost required. Enrollment is restricted to upper-division College Nine members.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CLNI199F",
+      "name": "CLNI 199F — Tutorial",
+      "description": "Individual directed study for upper-division college members with college-affiliated faculty. Students must submit petition with one of the college academic advisers with accompanying letter from faculty adviser. Approval of provost required. Enrollment is restricted to upper-division College Nine members.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC140",
+      "name": "JRLC 140 — Secrecy, Knowledge, and Politics",
+      "description": "Overview of definitions, history, theory, law, and policy underlying secrecy. Through scholarly and popular readings, podcasts, video/film, guest speakers, and primary materials, course explores how secrecyâas the intentional and unintentional concealment of information and knowledgeâpermeates the social fabric, impacting social relationships as well as hampering public knowledge of historical and contemporary government policies and actions.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "JRLC98",
+      "name": "JRLC 98 — Alternative Spring Break",
+      "description": "Provides students with the opportunity to conduct service-learning work in a local Santa Cruz community over spring break. There are four preliminary class meetings in the winter quarter. Winter meeting attendance is required. Enrollment is by interview only. Enrollment is restricted to College Nine and John R. Lewis College members.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

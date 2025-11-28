@@ -1,0 +1,12 @@
+{
+  "department": "ARBC - Arabic",
+  "slug": "arbc-arabic",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/arbc-arabic",
+  "generated_at": "2025-11-28T07:51:33.733201+00:00",
+  "courses": {
+    "ARBC 1 — First-Year Arabic": "Course: ARBC 1 — First-Year Arabic\nCredits: 5\nDescription: Introduction to Arabic language and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.\nRequirements: No additional requirements listed.",
+    "ARBC 2 — First-Year Arabic": "Course: ARBC 2 — First-Year Arabic\nCredits: 5\nDescription: Introduction to Arabic and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.\nRequirements: Requirements ARBC 1 or equivalent proficiency.",
+    "ARBC 3 — First-Year Arabic": "Course: ARBC 3 — First-Year Arabic\nCredits: 5\nDescription: Introduction to Arabic and Arabic-speaking culture with practice in all four language skills: listening, speaking, reading, and writing. Intended for students with no previous study of Arabic as well as heritage speakers.\nRequirements: Requirements Prerequisite(s): ARBC 2 or equivalent proficiency.",
+    "ARBC 4 — Second-Year Arabic": "Course: ARBC 4 — Second-Year Arabic\nCredits: 5\nDescription: Continuation of Arabic language and Arabic-speaking culture courses with practice in all four language skills: listening, speaking, reading, and writing. Intended for students who have successfully completed Arabic 3 or possess equivalent proficiency.\nRequirements: Requirements Prerequisite(s): ARBC 3 or proficient equivalency."
+  }
+}

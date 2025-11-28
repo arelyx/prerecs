@@ -1,0 +1,148 @@
+{
+  "department": "NLP-Natural Language Processing",
+  "slug": "nlp-natural-language-processing",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/nlp-natural-language-processing",
+  "generated_at": "2025-11-28T07:51:42.653612+00:00",
+  "courses": [
+    {
+      "id": "NLP201",
+      "name": "NLP 201 — Natural Language Processing I",
+      "description": "The first course in a series covering the core concepts and algorithms for the theory and practice of natural language processing (NLP), the creation of computer programs that can understand, generate, and learn natural language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to natural language processing graduate students, and computer science and engineering doctoral students by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "NLP202",
+      "name": "NLP 202 — Natural Language Processing II",
+      "description": "This is the second course in a series covering the core concepts and algorithms for the theory and practice of natural language processing (NLP)âthe creation of computer programs that can understand, generate, and learn natural language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): NLP 201 . Enrollment is restricted to natural language processing graduate students.",
+      "prereqGroups": [
+        [
+          "NLP201"
+        ]
+      ]
+    },
+    {
+      "id": "NLP203",
+      "name": "NLP 203 — Natural Language Processing III",
+      "description": "Third and final course in a series covering the core concepts and algorithms for the theory and practice of natural language processing (NLP)âthe creation of computer programs that can understand, generate, and learn natural language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): NLP 201 and NLP 202 .",
+      "prereqGroups": [
+        [
+          "NLP201",
+          "NLP202"
+        ]
+      ]
+    },
+    {
+      "id": "NLP220",
+      "name": "NLP 220 — Data Science and Machine Learning Fundamentals",
+      "description": "Covers a broad set of tools and core skills required for working with Natural Language Data. Covers core traditional machine learning methods such as classification methods using Naive Bayes, SVMs, Linear regression and Support Vector Regression, as well as the use of Pytorch and other programming frameworks commonly used in the field. Also includes methods used for collecting, merging, cleaning, structuring and analyzing the properties of large and heterogeneous datasets of natural language, in order to address questions and support applications relying on those data. Course covers working with existing corpora as well as the challenges in collecting new corpora. (Formerly Data Collection, Wrangling and Crowdsourcing.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to natural language processing graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "NLP243",
+      "name": "NLP 243 — Deep Learning for Natural Language Processing",
+      "description": "Introduction to machine learning models and algorithms for natural language processing (NLP) including deep learning approaches. Targeted at professional master's degree students, course focuses on applications and current use of these methods in industry. Topics include: an introduction to standard neural network learning methods such as feed-forward neural networks; recurrent neural networks; convolutional neural networks; and encoder-decoder models with applications to natural language processing problems such as utterance classification and sequence tagging. (Formerly Machine Learning for Natural Language Processing.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to natural language processing graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "NLP244",
+      "name": "NLP 244 — Advanced Machine Learning for Natural Language Processing",
+      "description": "Covers advanced deep machine learning models and algorithms for Natural Language Processing, such as transformers, pre-trained large language models, contextual embeddings, multi-modal embeddings, mullti-task learning, and reinforcement learning. Provides both theoretical and intuitive understanding of NLP learning models.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): NLP 243 or CSE 244B . Enrollment is restricted to natural language processing graduate students and computer science and engineering doctoral students, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "NLP243",
+          "CSE244B"
+        ]
+      ]
+    },
+    {
+      "id": "NLP245",
+      "name": "NLP 245 — Conversational Agents",
+      "description": "Reviews recent work on conversational AI systems for task-oriented, informational, and social conversations with machines. Students read and review theoretical and technical papers from journals and conference proceedings, present paper summaries, and engage in discussions. A research project is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Requirements Prerequisite(s): NLP 201 and NLP 243 or CSE 244B . Enrollment is restricted to natural language processing graduate students and computer science and engineering doctoral students, or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "NLP201",
+          "NLP243",
+          "CSE244B"
+        ]
+      ]
+    },
+    {
+      "id": "NLP255",
+      "name": "NLP 255 — Topics in Applied Natural Language Processing",
+      "description": "Gives students a solid foundation in a specific application area of natural language processing, by learning about the theories, methods, tools, and techniques typically used in this area. The application area varies each quarter, with expected topics to include Information Extraction, Question Answering, Natural Language Generation, Sentiment Analysis, and others. Students learn about the state of the art and open challenges, and have the opportunity to explore and experiment with both standard algorithms and new emerging approaches.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "NLP267",
+      "name": "NLP 267 — Machine Translation",
+      "description": "Machine Translation systems can instantly translate between any pair of over eighty human languages such as German to English or French to Russian. Modern translation systems learn to translate by reading millions of words of already translated text. This course covers the models and algorithms used by such systems and explains how they are able to automatically translate one human language to another. The course covers fundamental building blocks using concepts from linguistics, statistical and deep machine learning, algorithms, and data structures. It provides insight into the challenges associated with machine translation and introduces novel approaches that might lead to better machine translation systems.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): NLP 201 and NLP 243 or CSE 244B . Concurrent or previous enrollment in NLP 202 . Enrollment is restricted to natural language processing graduate students and computer science and engineering Ph.D. students, or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "NLP201",
+          "NLP243",
+          "CSE244B"
+        ]
+      ]
+    },
+    {
+      "id": "NLP270",
+      "name": "NLP 270 — Linguistic Models of Syntax and Semantics for Computer Scientists",
+      "description": "Provides an introduction to theoretical linguistics for natural language processing, focusing on morphology, syntax, semantics, and pragmatics, and on training students in linguistic description, representation, and argumentation. Students learn to describe common features underlying natural languages and to manipulate several syntactic and semantic representations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to natural language processing graduate students and computer science and engineering Ph.D. students, or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "NLP271A",
+      "name": "NLP 271A — Capstone I: Recent Research in NLP",
+      "description": "The first in a sequence of two capstone courses providing hands-on practice of key NLP concepts and skills and experience working in a team project setting. Provides students with tools for project management and working in a team. Explores the research literature and investigates what makes a good project proposal. Allows students to prepare a Capstone project proposal and gather feedback for improvement. Class must be taken for letter grade.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): NLP 201 and NLP 220 . Enrollment is restricted to natural language processing graduate students.",
+      "prereqGroups": [
+        [
+          "NLP201",
+          "NLP220"
+        ]
+      ]
+    },
+    {
+      "id": "NLP271B",
+      "name": "NLP 271B — Capstone II: Natural Language Processing",
+      "description": "The second capstone course providing hands-on practice of key NLP concepts and skills and experience working in a team project setting. Provides students with tools for project management and working in a team. Allows students to refine and define several possible projects, present them for feedback, produce initial implementations of key modules and assess them, and complete the capstone project, which includes testing and assessing the quality of the final implementation, writing the final project report, poster creation, video and oral presentation of the project as a team. Course must be taken for letter grade.",
+      "credits": "10",
+      "rawRequirements": "Requirements Prerequisite(s): NLP 202 and NLP 271A . Enrollment is restricted to natural language processing graduate students.",
+      "prereqGroups": [
+        [
+          "NLP202",
+          "NLP271A"
+        ]
+      ]
+    },
+    {
+      "id": "NLP280",
+      "name": "NLP 280 — Seminar in Natural Language Processing",
+      "description": "Weekly seminar course covering current research and advanced development in all areas of Natural Language Processing. The seminar is based on invited talks by guest speakers from industry research and advanced development working in the area of Natural Language Processing. Students attend talks given by speakers in a weekly seminar series and participate in discussions after the talks. This class can be taken for Satisfactory/Unsatisfactory credit only.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

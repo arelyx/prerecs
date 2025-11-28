@@ -1,0 +1,1748 @@
+{
+  "department": "ECE - Electrical and Computer Engineering",
+  "slug": "ece-electrical-and-computer-engineering",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/ece-electrical-and-computer-engineering",
+  "generated_at": "2025-11-28T07:51:37.463481+00:00",
+  "courses": [
+    {
+      "id": "ECE1",
+      "name": "ECE 1 — Hands-On Computer Engineering",
+      "description": "Hands-on introduction to computer engineering practice and research, including computer hardware, robotics, and embedded systems. Encourages interaction with UCSC's School of Engineering community. Designed for students without previous background in computer engineering. (Formerly Computer Engineering 1.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment restricted to first-year students and sophomores.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE8",
+      "name": "ECE 8 — Introduction to Robotics, Automation and Intelligent Control",
+      "description": "Fundamental concepts in robotics, dynamical systems, modeling, analysis and robustness to uncertainty. Control as it occurs naturally, and the design of control laws to engineer desirable motion or dynamic response. The course also introduces students to MATLAB. (Formerly Robot Automation: Intelligence through Feedback Control.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 20 or CSE 5J or CSE 10 or ASTR 19 or ASTR 119 or BME 160 or by permission of the instructor. Prerequisites may be waived if students have passed the CSE 20 test-out exam.",
+      "prereqGroups": [
+        [
+          "CSE20",
+          "CSE5J",
+          "CSE10",
+          "ASTR19",
+          "ASTR119",
+          "BME160"
+        ]
+      ]
+    },
+    {
+      "id": "ECE9",
+      "name": "ECE 9 — Statics and Mechanics of Materials",
+      "description": "Theory and application of statics and mechanics of materials for mechanical and biomechanical systems. Covers statics of particles; equilibrium of rigid bodies; free-body diagrams; analysis of structure; friction; concepts of stress and strain; axial loading; torsion and bending; and failure criteria. (Formerly Introduction to Statics, Dynamics, and Biomechanics.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 19A or MATH 20A ; and PHYS 5A and PHYS 5L or PHYS 6A and PHYS 6L ; and AM 10 or MATH 21 .",
+      "prereqGroups": [
+        [
+          "MATH19A",
+          "MATH20A"
+        ],
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ],
+        [
+          "PHYS5L",
+          "PHYS6L"
+        ],
+        [
+          "AM10",
+          "MATH21"
+        ]
+      ]
+    },
+    {
+      "id": "ECE10",
+      "name": "ECE 10 — Fundamentals of Robot Kinematics and Dynamics",
+      "description": "Covers the theory and application of mathematical models to analyze the kinematics and dynamics of robot mechanisms or their components using vector algebra, differential equations, and computer simulations; also covers robot vehicle kinematics, robot arm kinematics, and robot dynamics with computational examples and problems. Some basic programming skills and familiarity with MATLAB are expected. (Formerly CMPE 10.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 9 , and AM 20 or MATH 24 .",
+      "prereqGroups": [
+        [
+          "ECE9"
+        ],
+        [
+          "AM20",
+          "MATH24"
+        ]
+      ]
+    },
+    {
+      "id": "ECE11",
+      "name": "ECE 11 — 3D Prototyping",
+      "description": "Introduces the basics of rapid prototyping for robotics design from limiting stresses to optimal design. Discusses fast prototyping methods, advantages, and disadvantages. Introduces CAD, CAD packages, 3D printing with different materials, and 3D scanning. (Formerly CMPE 11.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ECE 9 .",
+      "prereqGroups": [
+        [
+          "ECE9"
+        ]
+      ]
+    },
+    {
+      "id": "ECE13",
+      "name": "ECE 13 — Computer Systems and C Programming",
+      "description": "Computer Systems and C Programming is intended to bring students up to speed on programming small and large programs in C. Originally written in 1978, C remains the most popular programming language, and the most used one in terms of numbers of computer programs written in it. The course approaches C from an embedded paradigm, and all programming assignments are on a 32-bit embedded micro, the Microchip PIC32. Students learn how to program in C, how to write modular code, and some of the tips and tricks when dealing with an embedded micro. This is a programming class and students will write lots of code. Expect to spend at least 15-20 hours outside of class playing with the code to get things to work. (Formerly CSE 13E Embedded Systems and C Programming; Students cannot receive credit for ECE 13 , CSE 13S , and CSE 13E.)",
+      "credits": "7",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 12 . CSE 20 or CSE 30 (Python programming background) is recommended but not required. Programming experience in any other language is also acceptable.",
+      "prereqGroups": [
+        [
+          "CSE12"
+        ]
+      ]
+    },
+    {
+      "id": "ECE30",
+      "name": "ECE 30 — Engineering Principles of Electronics",
+      "description": "Suitable for sophomores pursuing computer science and engineering careers. Aims at deriving basic engineering principles directly from examples relevant to computing and electronics: 1) Newton's Laws and related fundamental mechanics; 2) basic thermodynamics and heat/energy transfer; 3) key electromagnetic principles, including Coulomb's Law, Gauss's Law, and basic circuit analysis using Kirchoff's Laws/Rules; and 4) Ray optics for fiber optic communications and camera electronics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): MATH 19B or MATH 20B . Enrollment is restricted to computer engineering, computer science: computer game design, computer science, network and digital technology, and technology and information management majors and proposed majors; and to computer engineering, computer science, and technology and information management minors.",
+      "prereqGroups": [
+        [
+          "MATH19B",
+          "MATH20B"
+        ]
+      ]
+    },
+    {
+      "id": "ECE80B",
+      "name": "ECE 80B — Engineering Innovations for Medicine and Natural Sciences",
+      "description": "Introduces to a lay audience engineering innovations that have had an impact in medicine and biology. Course is designed for non-engineering majors, or pre-med students, as well as pre-engineering to provide a broad understanding of how technology has improved and keeps on improving healthcare.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE80G",
+      "name": "ECE 80G — Creating and Financing a Sustainable Startup in the Global Economy",
+      "description": "Introduces students and prospective entrepreneurs to the ingredients required to successfully create and finance a sustainability-minded startup or nonprofit in the global economy. Emphasis is placed on ethical business practice, tools for understanding markets and supply chains, and building value for all stakeholders, including communities and the environment.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE80H",
+      "name": "ECE 80H — Bending the Curve: Solutions to Climate Change",
+      "description": "Students examine the interconnectedness of natural and social systems as they evaluate, interpret, and debate evidence and explanations of climate change. Includes interviewing family members, friends, and professionals for a variety of divergent views on the climate change debate. Class sessions are devoted to student discussion of the course materials, including readings, take-home assignments and pre-recorded videos. The class culminates with a written proposal and group presentations of ideas for solutions, with the guidance of the instructor, addressing one of the \"grand challenges\" presented in the course with the goal of empowering students to emerge as critical thinkers and actors equipped with a solution-based mindset.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE80E",
+      "name": "ECE 80E — Engineering Ethics",
+      "description": "Ethical theories, analysis, and their application to issues in the practice of engineering, such as safety and liability, professional responsibility to clients and employers, codes of ethics, legal obligations, environmental issues, and social issues. Emphasis on developing independent ethical analysis through the use of case studies. (Formerly CMPE 80E.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE80J",
+      "name": "ECE 80J — Renewable Energy Sources, Storage, and Smart Grids",
+      "description": "Introduces energy sources and storage with special emphasis on renewables as part of smart grids. Fundamental energy-conversion limits based on physics and existing source properties are studied. Various sources, such as solar, wind, hydropower, geothermal, tidal energy, and fuel cells are described. Electric vehicles, sustainable microgrids, and the integration to smart grids are studied. Finally, smart meters, demand response, the energy market, and policy are covered. Students cannot receive credit for this course and course 81J. (Formerly EE 80J.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE80S",
+      "name": "ECE 80S — Sustainability Engineering and Practice",
+      "description": "Topical introduction to principles and practices of sustainability engineering and ecological design with emphasis on implementation in society. Provides an understanding of basic scientific, engineering, and social principles in the design, deployment, and operation of resource-based human systems, and how they can be maintained for this and future generations. No specialized background in engineering, science, or social sciences is assumed. (Formerly EE 80S.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE80T",
+      "name": "ECE 80T — Modern Electronic Technology and How It Works",
+      "description": "Basic knowledge of electricity and how things work, how technology evolves, its impact on society and history, and basic technical literacy for the non-specialist. Broad overview of professional aspects of engineering and introduction and overview of basic systems and components. Topics include electrical power, radio, television, radar, computers, robots, telecommunications, and the Internet. (Formerly EE 80T.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE94",
+      "name": "ECE 94 — Group Tutorial",
+      "description": "A means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE94F",
+      "name": "ECE 94F — Group Tutorial",
+      "description": "A means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE99",
+      "name": "ECE 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE99F",
+      "name": "ECE 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE101",
+      "name": "ECE 101 — Introduction to Electronic Circuits",
+      "description": "Introduction to the physical basis and mathematical models of electrical components and circuits. Topics include circuit theorems (Thevenin and Norton Equivalents, Superposition), constant and sinusoidal inputs, natural and forced response of linear circuits. Introduction to circuit/network design, maximum power transfer, analog filters, and circuit analysis using Matlab. Topics in elementary electronics including amplifiers and feedback. (Formerly EE 101.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5N ; or PHYS 6C and PHYS 6N ; and MATH 24 or PHYS 116A , or previous or concurrent enrollment in AM 20 . Concurrent enrollment in ECE 101L is required.",
+      "prereqGroups": [
+        [
+          "PHYS5C",
+          "PHYS6C"
+        ],
+        [
+          "PHYS5N",
+          "PHYS6N"
+        ],
+        [
+          "MATH24",
+          "PHYS116A",
+          "AM20"
+        ]
+      ]
+    },
+    {
+      "id": "ECE101L",
+      "name": "ECE 101L — Introduction to Electronic Circuits Laboratory",
+      "description": "Illustrates topics covered in ECE 101 . One two-hour laboratory session per week.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N ; and MATH 24 or PHYS 116A , or previous or concurrent enrollment in AM 20 . Concurrent enrollment in ECE 101 is required.",
+      "prereqGroups": [
+        [
+          "PHYS5C",
+          "PHYS6C"
+        ],
+        [
+          "PHYS5N",
+          "PHYS6N"
+        ],
+        [
+          "MATH24",
+          "PHYS116A",
+          "AM20"
+        ]
+      ]
+    },
+    {
+      "id": "ECE102",
+      "name": "ECE 102 — Properties of Materials",
+      "description": "The fundamental electrical, optical, and magnetic properties of materials, with emphasis on metals and semiconductors: chemical bonds, crystal structures, elementary quantum mechanics, energy bands. Electrical and thermal conduction. Optical and magnetic properties. (Formerly EE 145.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L , PHYS 5B and PHYS 5M , and PHYS 5C and 5N; or PHYS 6A and PHYS 6L , PHYS 6B and PHYS 6M , and PHYS 6C and PHYS 6N . Concurrent enrollment in ECE 102L is required.",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ],
+        [
+          "PHYS5L",
+          "PHYS6L"
+        ],
+        [
+          "PHYS5B",
+          "PHYS6B"
+        ],
+        [
+          "PHYS5M",
+          "PHYS6M"
+        ],
+        [
+          "PHYS5C",
+          "PHYS6C"
+        ],
+        [
+          "PHYS5N",
+          "PHYS6N"
+        ]
+      ]
+    },
+    {
+      "id": "ECE102L",
+      "name": "ECE 102L — Properties of Materials Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in course 145. One two-hour laboratory per week.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L , PHYS 5B and PHYS 5M , and PHYS 5C and 5N; or PHYS 6A and PHYS 6L , PHYS 6B and PHYS 6M , and PHYS 6C and PHYS 6N . Concurrent enrollment in ECE 102 is required.",
+      "prereqGroups": [
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ],
+        [
+          "PHYS5L",
+          "PHYS6L"
+        ],
+        [
+          "PHYS5B",
+          "PHYS6B"
+        ],
+        [
+          "PHYS5M",
+          "PHYS6M"
+        ],
+        [
+          "PHYS5C",
+          "PHYS6C"
+        ],
+        [
+          "PHYS5N",
+          "PHYS6N"
+        ]
+      ]
+    },
+    {
+      "id": "ECE103",
+      "name": "ECE 103 — Signals and Systems",
+      "description": "Course covers the following topics: characterization and analysis of continuous-time signals and linear systems, time domain analysis using convolution, frequency domain analysis using the Fourier series and the Fourier transform, the Laplace transform, transfer functions and block diagrams, continuous-time filters, sampling of continuous time signals, examples of applications to communications and control systems. (Formerly EE 103.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L ; and AM 20 or MATH 24 .",
+      "prereqGroups": [
+        [
+          "ECE101",
+          "ECE101L"
+        ],
+        [
+          "AM20",
+          "MATH24"
+        ]
+      ]
+    },
+    {
+      "id": "ECE103L",
+      "name": "ECE 103L — Signals and Systems Laboratory",
+      "description": "Use and operation of spectrum analyzers; advanced signal analysis using oscilloscopes; measuring impulse response, step response, frequency response, and computer analysis of real signals. MATLAB programming is taught and used as a tool for signal analysis. Students are billed a materials fee. (Formerly EE 103L.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L and AM 20 or MATH 24 . Concurrent enrollment in ECE 103 is required.",
+      "prereqGroups": [
+        [
+          "ECE101",
+          "ECE101L"
+        ],
+        [
+          "AM20",
+          "MATH24"
+        ]
+      ]
+    },
+    {
+      "id": "ECE104",
+      "name": "ECE 104 — Bioelectronics",
+      "description": "Covers selected case studies in interfacing electronic devices with biological systems. from Galvani to neuronal stimulation and electroceuticals. These studies include: the squid giant axon, the pace maker, deep brain stimulation, organic bioelectronics, bionanoelectronics and optogenetics, bioenergetics, and bioprotonics electroceuticals. Students are assessed through weekly student papers on case studies and through a final presentation. (Formerly EE 104.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE110",
+      "name": "ECE 110 — Brain-Inspired Machine Learning",
+      "description": "Studies how the computational principles of the brain can be applied to build efficient machine learning models in software and hardware. Topics include the neuroscience of deep learning, spiking neural networks, hardware accelerators, and memory circuit design. Taught in conjunction with ECE 210 . Students cannot receive credit for this course and ECE 210 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 .",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ]
+      ]
+    },
+    {
+      "id": "ECE115",
+      "name": "ECE 115 — Introduction to Solid Mechanics",
+      "description": "Introduces the solid mechanics of materials. Topics include: stress and strain, torsion, bending of beams, shearing stresses in beams, compound stresses, principal stresses, deflections of beams, and statically indeterminate members and columns. (Formerly CMPE 115.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 9 ; and MATH 19B or MATH 20B ; and AM 10 or MATH 21 .",
+      "prereqGroups": [
+        [
+          "ECE9"
+        ],
+        [
+          "MATH19B",
+          "MATH20B"
+        ],
+        [
+          "AM10",
+          "MATH21"
+        ]
+      ]
+    },
+    {
+      "id": "ECE118",
+      "name": "ECE 118 — Introduction to Mechatronics",
+      "description": "Technologies involved in mechatronics (intelligent electro-mechanical systems) and techniques necessary to integrate these technologies into mechatronic systems. Topics include electronics (A/D, D/A converters, opamps, filters, power devices), software program design (event-driven programming, state machine-based design), DC and stepper motors, basic sensing, and basic mechanical design (machine elements and mechanical CAD). Combines lab component of structured assignments with a large and open-ended team project. Students who enrolled in this class will learn how to solve engineering problems using the C Programming Language. Cannot receive credit for this course and ECE 218 .",
+      "credits": "10",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L and CSE 100 and CSE 100L ; and ECE 13 or CSE 13E. ECE 121 and ECE 167 are highly recommended (but not required).",
+      "prereqGroups": [
+        [
+          "ECE101",
+          "ECE101L"
+        ],
+        [
+          "CSE100",
+          "CSE100L"
+        ],
+        [
+          "ECE13",
+          "CSE13E"
+        ]
+      ]
+    },
+    {
+      "id": "ECE121",
+      "name": "ECE 121 — Microcontroller System Design",
+      "description": "Focus is on the design and use of microcontroller-based embedded systems, specifically addressing issues of low-level functionality, direct manipulation of input/output using various specialized peripheral sets, and multiple communications protocols. Covers timers, Input Capture, Output Compare, ADC, PWM, interrupts, bus and memory organization, DMA, SPI, I2C, device driver programming, serial packet communication, and clocking. Students enrolled in this class learn how to use the C programming language to solve engineering problems.",
+      "credits": "7",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 12 ; and ECE 13 or CSE 13E. Concurrent enrollment in ECE 101 and ECE 101L is required.",
+      "prereqGroups": [
+        [
+          "CSE12"
+        ],
+        [
+          "ECE13",
+          "CSE13E"
+        ]
+      ]
+    },
+    {
+      "id": "ECE122A",
+      "name": "ECE 122A — Collaborative Sustainability Project Design",
+      "description": "This course is the first quarter of a three quarter series of courses that together comprise the IDEASS Program (Impact Designs: Engineering and Sustainability through Student Service), which provides students with opportunities to plan, implement, and evaluate interdisciplinary sustainable design projects in the built environment for the Monterey Bay Region. In fall quarter students are introduced to project topics and background information. In collaboration with an outside mentor project teams design, revise, and complete a project plan including project goals and deliverables, timeline of key activities and major milestones, stakeholder map, evaluation plan, and budget (as applicable). Students apply online; selected applicants complete in-person interviews. (Formerly EE 122A.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE122B",
+      "name": "ECE 122B — Collaborative Sustainability Project Implementation",
+      "description": "The second of a three-quarter sequence that together comprise the IDEASS Program (Impact Designs: Engineering and Sustainability through Student Service) which provides opportunities for students to plan, implement, and evaluate interdisciplinary sustainable-design projects in the built environment for the Monterey Bay Region. In winter quarter, project teams work collaboratively to implement the project plans approved during the fall quarter. Students participate in a weekly seminary series that includes guest lectures and field trips as well as workshops in project management, public speaking, writing skills, and other professional development. Prerequisite(s): ECE 122A . Students apply online; selected applicants complete in-person interviews. Enrollment is restricted to juniors and seniors. (Formerly EE 122B.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE122C",
+      "name": "ECE 122C — Collaborative Sustainability Project Implementation",
+      "description": "The third of a three-quarter sequence that together comprise the IDEASS Program (Impact Designs: Engineering and Sustainability through Student Service) which provides opportunities for students to plan, implement, and evaluate interdisciplinary sustainable-design projects in the built environment for the Monterey Bay Region. In spring quarter, project teams work collaboratively to continue implementation of project plans approved during the fall quarter, then evaluate projects impacts. Students participate in a weekly seminary series that includes guest lectures and field trips as well as workshops in project management, public speaking, writing skills, and other professional development. Students also work in the community on educational public outreach regarding project impacts. Prerequisite(s): ECE 122A . Students apply online; selected applicants complete in-person interviews. Enrollment is restricted to juniors and seniors. (Formerly EE 122C.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE129A",
+      "name": "ECE 129A — Capstone Project I",
+      "description": "First of a three-course sequence in which students apply knowledge and skills gained in elective track to complete a major design project. In this first course, students complete the specification and planning for a substantial project. Topics covered: engineering design cycle, engineering teams, and professional practices. (Formerly EE 129A.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and CSE 100 ; enrollment restricted to senior Electrical Engineering and Robotics Engineering majors. Electrical Engineering majors must complete ECE 171 ; and ECE 157 or ECE 173 or ECE 118 or ECE 121 . Robotics Engineering majors must complete ECE 118 and ECE 121 .",
+      "prereqGroups": [
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ],
+        [
+          "CSE100"
+        ],
+        [
+          "ECE171"
+        ],
+        [
+          "ECE157",
+          "ECE173",
+          "ECE118",
+          "ECE121"
+        ],
+        [
+          "ECE118",
+          "ECE121"
+        ]
+      ]
+    },
+    {
+      "id": "ECE129B",
+      "name": "ECE 129B — Capstone Project II",
+      "description": "Second of a three-course sequence in which students apply knowledge and skills gained in elective track to complete a major design project. In this second course, students complete the training, research, and procurement for a substantial project and a preliminary implementation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129A . Enrollment is restricted to seniors.",
+      "prereqGroups": [
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ],
+        [
+          "ECE129A"
+        ]
+      ]
+    },
+    {
+      "id": "ECE129C",
+      "name": "ECE 129C — Capstone Project III",
+      "description": "Third of a three-course sequence in which students apply knowledge and skills gained in this elective track to complete a major design project. In this third course, students work in teams to complete the project specified and advance on the results of the work in the first two courses. A formal written report, oral presentation, and demonstration of the successful project to a review panel of engineering faculty is required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129B . Enrollment is restricted to seniors.",
+      "prereqGroups": [
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ],
+        [
+          "ECE129B"
+        ]
+      ]
+    },
+    {
+      "id": "ECE130",
+      "name": "ECE 130 — Introduction to Optoelectronics and Photonics",
+      "description": "Introduction to optics, photonics and optoelectronics, fiber optic devices and communication systems: Topics include: ray optics, electromagnetic optics, resonator optics, interaction between photons and atoms, dielectric waveguides and fibers, semiconductor light sources and detectors, modulators, amplifiers, switches, and optical fiber communication systems. Taught in conjunction with course 230. Students cannot receive credit for this course and ECE 230 . (Formerly EE 130.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5B and PHYS 5C , or PHYS 6B and PHYS 6C ; concurrent enrollment in ECE 130L .",
+      "prereqGroups": [
+        [
+          "PHYS5B",
+          "PHYS6B"
+        ],
+        [
+          "PHYS5C",
+          "PHYS6C"
+        ]
+      ]
+    },
+    {
+      "id": "ECE130L",
+      "name": "ECE 130L — Introduction to Optoelectronics Laboratory",
+      "description": "Includes a series of projects to provide hands-on experience needed for basic concepts and laboratory techniques of optical fiber technology.",
+      "credits": "1",
+      "rawRequirements": "Requirements Prerequisite(s): PHYS 5L , PHYS 5M , and PHYS 5N , or PHYS 6L , PHYS 6M , and PHYS 6N ; concurrent enrollment in ECE 130 .",
+      "prereqGroups": [
+        [
+          "PHYS5L"
+        ],
+        [
+          "PHYS6L"
+        ],
+        [
+          "PHYS5M"
+        ],
+        [
+          "PHYS6M"
+        ],
+        [
+          "PHYS5N"
+        ],
+        [
+          "PHYS6N"
+        ]
+      ]
+    },
+    {
+      "id": "ECE135",
+      "name": "ECE 135 — Electromagnetic Fields and Waves",
+      "description": "Vector analysis. Electrostatic fields. Magnetostatic fields. Time-varying fields and Maxwell's equations. Plane waves. (Formerly EE 135.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L , or PHYS 102 ; and AM 20 or PHYS 116A or MATH 24 . Students must concurrently enroll in ECE 135L .",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ],
+        [
+          "PHYS102"
+        ]
+      ]
+    },
+    {
+      "id": "ECE135L",
+      "name": "ECE 135L — Electromagnetic Fields and Waves Laboratory",
+      "description": "Laboratory sequence illustrating topics in course 135. One two-hour laboratory session per week.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L , or PHYS 102 ; and AM 20 or PHYS 116A or MATH 24 . Students must concurrently enroll in ECE 135 .",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ],
+        [
+          "PHYS102"
+        ]
+      ]
+    },
+    {
+      "id": "ECE136",
+      "name": "ECE 136 — Engineering Electromagnetics",
+      "description": "Course will cover electromagnetic wave propagation, transmission lines, waveguides, and antennas. (Formerly EE 136.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 135 and ECE 135L . Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECE135"
+        ],
+        [
+          "ECE135L"
+        ]
+      ]
+    },
+    {
+      "id": "ECE141",
+      "name": "ECE 141 — Feedback Control Systems",
+      "description": "Analysis and design of continuous linear feedback control systems. Essential principles and advantages of feedback. Design by root locus, frequency response, and state space methods and comparisons of these techniques. Applications. (Formerly CMPE 141 and EE 153.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 103 , and majors in the School of Engineering and Division of Physical and Biological Sciences programs, with the exception of physics majors. Prerequisites for physics majors: PHYS 116A , PHYS 116C , and PHYS 133 .",
+      "prereqGroups": [
+        [
+          "ECE103"
+        ]
+      ]
+    },
+    {
+      "id": "ECE145",
+      "name": "ECE 145 — Estimation and Introduction to Control of Stochastic Processes",
+      "description": "Provides practical knowledge of Kalman filtering and introduces control theory for stochastic processes. Selected topics include: state-space modeling; discrete- and continuous-time Kalman filter; smoothing; and applications in feedback control. Students learn through hands-on experience. Students cannot receive credit for this course and course 245. Enrollment by permission of instructor. (Formerly CMPE 145.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE149",
+      "name": "ECE 149 — Introduction to Cyber-physical Systems",
+      "description": "Presents the basic concepts and tools for the study of cyber-physical systems, including modeling and analysis tools for continuous-time and discrete-time systems, finite state machines, stateflow, timed and hybrid automata, concurrency, invariants, linear temporal logic, verification, and numerical simulation. Students are guided on methods for simulation and encouraged to apply them to several applications. The course is self-contained. Students are expected to have a basic background in logic circuits, programming, the mathematical modeling of dynamical systems ( ECE 8 is recommended), differential equations, linear algebra, and basic calculus. Knowledge of MATLAB/Simulink is useful. Students cannot receive credit for this course and ECE 249 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 100 and CSE 100L or equivalent, and ECE 13 or CSE 13E or equivalent.",
+      "prereqGroups": [
+        [
+          "CSE100"
+        ],
+        [
+          "CSE100L"
+        ],
+        [
+          "ECE13"
+        ],
+        [
+          "CSE13E"
+        ]
+      ]
+    },
+    {
+      "id": "ECE151",
+      "name": "ECE 151 — Communications Systems",
+      "description": "An introduction to communication systems. Analysis and design of communication systems based on radio, transmission lines, and fiber optics. Topics include fundamentals of analog and digital signal transmission in the context of baseband communications, including concepts such as modulation and demodulation techniques, multiplexing and multiple access, channel loss, distortion, bandwidth, signal-to-noise ratios and error control. Digital communication concepts include an introduction to sampling and quantization, transmission coding and error control. (Formerly EE 151.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 103 , ECE 101 , and ECE 101L ; and CSE 107 or STAT 131 or probability theory and random variables background. Enrollment is restricted to School of Engineering and Physical and Biological Sciences majors.",
+      "prereqGroups": [
+        [
+          "ECE101L"
+        ],
+        [
+          "CSE107"
+        ],
+        [
+          "STAT131"
+        ]
+      ]
+    },
+    {
+      "id": "ECE152",
+      "name": "ECE 152 — Introduction to Wireless Communications",
+      "description": "Introduction to the principles of wireless communications systems. Wireless propagation channels and their impact on digital communications. Modulation techniques for wireless systems and their performance. Multi-antenna systems and diversity. Multicarrier and spread spectrum. Multi-access methods: FDMA, TDMA, CDMA. The structure of cellular systems. Students cannot receive credit for this course and course 252. (Formerly EE 152.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 107 and ECE 151 , or by consent of instructor. Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "CSE107"
+        ],
+        [
+          "ECE151"
+        ]
+      ]
+    },
+    {
+      "id": "ECE153",
+      "name": "ECE 153 — Digital Signal Processing",
+      "description": "Introduction to the principles of signal processing, including discrete-time signals and systems, the z-transform, sampling of continuous-time signals, transform analysis of linear time-invariant systems, structures for discrete-time systems, the discrete Fourier transform, computation of the discrete Fourier transform, and filter design techniques. Taught in conjunction with Electrical Engineering 250. Students cannot receive credit for this course and Electrical Engineering 250. (Formerly EE 153 and CMPE 153.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 103 . Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECE103"
+        ]
+      ]
+    },
+    {
+      "id": "ECE157",
+      "name": "ECE 157 — RF Hardware Design",
+      "description": "Engineering design cycle for wireless and RF systems: design, practical hardware implementation, and prototype. (Formerly EE 157.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L , ECE 103 , and ECE 171 , and ECE 174 ; or consent of instructor. Concurrent enrollment in ECE 157L is required.",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ],
+        [
+          "ECE103"
+        ],
+        [
+          "ECE171"
+        ],
+        [
+          "ECE174"
+        ]
+      ]
+    },
+    {
+      "id": "ECE157L",
+      "name": "ECE 157L — RF Hardware Design Laboratory",
+      "description": "Laboratory to accompany course 157, emphasizing hardware-design practice and principles applies to RF apparatus. Students design and implement a substantial final project during the last half of the course.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L , ECE 103 , and ECE 171 , and ECE 174 ; or consent of instructor. Concurrent enrollment in ECE 157 is required.",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ],
+        [
+          "ECE103"
+        ],
+        [
+          "ECE171"
+        ],
+        [
+          "ECE174"
+        ]
+      ]
+    },
+    {
+      "id": "ECE163",
+      "name": "ECE 163 — Introduction to Small-Scale UAV Theory and Practice",
+      "description": "Technologies involved in the modeling and simulation of small-scale unmanned aerial vehicles (UAVs) with an emphasis on control applications, from low-level flight stabilization to higher level path planning and vision-based control. Topics include coordinate frames, aerodynamics, equations of motion, full non-linear simulation, linearized dynamics models and trim states, force and moment balances for steady flight, flight controls by successive loop closure, state space control, path planning and guidance, sensors and estimation. Students enrolled in this class learn how to use the Python programming language to solve engineering problems. Taught in conjunction with ECE 263 . Students cannot receive credit for this course and ECE 263 .",
+      "credits": "7",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 141 or ECE 241 or ECE 242 ; and CSE 30 or ECE 13 or CSE 13E or CSE 13S . ECE 121 , ECE 167 , and ECE 145 recommended but not required. Enrollment is restricted to sophomores, juniors and seniors.",
+      "prereqGroups": [
+        [
+          "ECE141"
+        ],
+        [
+          "ECE241"
+        ],
+        [
+          "ECE242"
+        ],
+        [
+          "CSE30"
+        ],
+        [
+          "ECE13"
+        ],
+        [
+          "CSE13E"
+        ],
+        [
+          "CSE13S"
+        ]
+      ]
+    },
+    {
+      "id": "ECE167",
+      "name": "ECE 167 — Sensing and Sensor Technologies",
+      "description": "Introduces fundamental issues in sensing of temperature, motion, sound, light, position, etc. Sensors are integrated into a digital system using filtering, amplification, and analog-to-digital conversion. Advanced topics may include noise, temperature, and other sources of variability. Students who enrolled in this class will learn how to solve engineering problems using the C Programming Language.",
+      "credits": "7",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 13E or ECE 13 ; and ECE 103 and ECE 103L .",
+      "prereqGroups": [
+        [
+          "CSE13E"
+        ],
+        [
+          "ECE13"
+        ],
+        [
+          "ECE103"
+        ],
+        [
+          "ECE103L"
+        ]
+      ]
+    },
+    {
+      "id": "ECE169",
+      "name": "ECE 169 — Electric Machinery and Control",
+      "description": "Advanced modeling and analysis of synchronous generators, permanent-magnet ac machines, and dual-fed induction machines. Machine control techniques including droop control, field weakening, multiple reference frame control, and indirect vector control. Taught in conjunction with ECE 269 . Students cannot receive credit for this course and ECE 269 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: ECE 176 and ECE 176L , or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "ECE176"
+        ],
+        [
+          "ECE176L"
+        ]
+      ]
+    },
+    {
+      "id": "ECE170",
+      "name": "ECE 170 — Advanced Power Electronics",
+      "description": "Advanced topics in power electronics including SCR circuits, modulation techniques, multilevel power converters, active and current-source rectifiers, magnetic circuit design, state-space averaging, power converter controller design and stability. Taught in conjunction with ECE 270 . Students cannot receive credit for this course and ECE 270 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: ECE 177 or equivalent or instructor approval. Enrollment is restricted to seniors.",
+      "prereqGroups": [
+        [
+          "ECE177"
+        ]
+      ]
+    },
+    {
+      "id": "ECE171",
+      "name": "ECE 171 — Analog Electronics",
+      "description": "Introduction to (semiconductor) electronic devices. Conduction of electric currents in semiconductors, the semiconductor p-n junction, the transistor. Analysis and synthesis of linear and nonlinear electronic circuits containing diodes and transistors. Biasing, small signal models, frequency response, and feedback. Operational amplifiers and integrated circuits. (Formerly EE 171.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L ; previous or concurrent enrollment in ECE 171L is required.",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ]
+      ]
+    },
+    {
+      "id": "ECE171L",
+      "name": "ECE 171L — Analog Electronics Laboratory",
+      "description": "Laboratory sequence illustrating topics covered in course 171. One two-hour laboratory session per week.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L ; previous or concurrent enrollment in ECE 171 is required.",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ]
+      ]
+    },
+    {
+      "id": "ECE172",
+      "name": "ECE 172 — Advanced Analog Circuits",
+      "description": "Analog circuit design covering the basic amplifier configurations, current mirrors, differential amplifiers, frequency response, feedback amplifiers, noise, bandgap references, one- and two-stage operational amplifier design, feedback amplifier stability, switched capacitor circuits and optionally the fundamentals of digital-to-analog and analog-to-digital converters. Emphasis throughout will be on the development of approximate and intuitive methods for understanding and designing circuits. Cannot receive credit for this course and course 221. (Formerly EE 172.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 171 .",
+      "prereqGroups": [
+        [
+          "ECE171"
+        ]
+      ]
+    },
+    {
+      "id": "ECE173",
+      "name": "ECE 173 — High-Speed Digital Design",
+      "description": "Studies of analog circuit principles relevant to high-speed digital design: signal propagation, crosstalk, and electromagnetic interference. Topics include electrical characteristics of digital circuits, interfacing different logic families, measurement techniques, distributed circuits and transmission lines, ground planes and grounding, terminations, power systems, electromagnetic compatibility and noise suppression. Laboratory sequence illustrates fundamental lecture topics and includes completion of a final design project.",
+      "credits": "7",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L and ECE 174 , or by permission of the instructor. ECE 171 and ECE 121 are recommended.",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ],
+        [
+          "ECE174"
+        ]
+      ]
+    },
+    {
+      "id": "ECE174",
+      "name": "ECE 174 — Introduction to EDA Tools for PCB Design",
+      "description": "Focus on EDA tools for design of printed-circuit boards. Elements of design flow covered: schematic capture and simulation to final PCB layout. Final project is required. Students are billed a materials fee.",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L or consent of instructor.",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ]
+      ]
+    },
+    {
+      "id": "ECE175",
+      "name": "ECE 175 — Energy Generation and Control",
+      "description": "Introduces electrical energy generation, sensing, and control, emphasizing the emerging smart grid. Topics include 3-phase AC power systems, voltage and transient stability, fault analysis, grid protection, power-flow analysis, economic dispatch, and high voltage DC distribution (HVDC). (Formerly EE 175.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 . Concurrent enrollment in ECE 175L is required.",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ]
+      ]
+    },
+    {
+      "id": "ECE175L",
+      "name": "ECE 175L — Energy Generation and Control Laboratory",
+      "description": "Computer analysis and simulation of energy generation, components, power-flow analysis, systems, and control covering topics from course 195. Weekly computer simulations reinforce the concepts introduced in course 175. (Formerly EE 175L.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 101 . Concurrent enrollment in ECE 175 is required.",
+      "prereqGroups": [
+        [
+          "ECE101"
+        ]
+      ]
+    },
+    {
+      "id": "ECE176",
+      "name": "ECE 176 — Energy Conservation and Control",
+      "description": "AC/DC electric-machine drives for speed/position control. Integrated discussion of electric machines, power electronics, and control systems. Computer simulations. Applications in electric transportation, hybrid-car technology, robotics, process control, and energy conservation. (Formerly EE 176.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 103 and ECE 171 . Concurrent enrollment in ECE 176L is required.",
+      "prereqGroups": [
+        [
+          "ECE103"
+        ],
+        [
+          "ECE171"
+        ]
+      ]
+    },
+    {
+      "id": "ECE176L",
+      "name": "ECE 176L — Energy Conversion and Control Laboratory",
+      "description": "Simulink-based simulations of electric machines/drives in applications such as energy conservation and motion control in robotics and electric vehicles. (Formerly EE 176L.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 103 and ECE 171 . Concurrent enrollment in course 176 is required.",
+      "prereqGroups": [
+        [
+          "ECE103",
+          "ECE171"
+        ]
+      ]
+    },
+    {
+      "id": "ECE177",
+      "name": "ECE 177 — Power Electronics",
+      "description": "Switch-mode power converter design and analysis. Non-switching power supplies. Electronic power-factor correction. Soft switching. Power-semiconductor devices. Use in energy conservation, renewable energy, lighting, and power transmission. (Formerly EE 177.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 103 . Concurrent enrollment in ECE 177L is required.",
+      "prereqGroups": [
+        [
+          "ECE103"
+        ]
+      ]
+    },
+    {
+      "id": "ECE177L",
+      "name": "ECE 177L — Power Electronics Laboratory",
+      "description": "Buck, boost, buck-boost, flyback, and forward converter design and control.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 103 . Concurrent enrollment in ECE 177 is required.",
+      "prereqGroups": [
+        [
+          "ECE103"
+        ]
+      ]
+    },
+    {
+      "id": "ECE178",
+      "name": "ECE 178 — Device Electronics",
+      "description": "This course reviews the fundamental principles, device's materials, and design and introduces the operation of several semiconductor devices. Topics include the motion of charge carriers in solids, equilibrium statistics, the electronic structure of solids, doping, the pn junction, the junction transistor, the Schottky diode, the field-effect transistor, the light-emitting diode, and the photodiode. (Formerly EE 178.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 102 and ECE 102L and ECE 171 and ECE 171L . Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECE102",
+          "ECE102L",
+          "ECE171",
+          "ECE171L"
+        ]
+      ]
+    },
+    {
+      "id": "ECE179",
+      "name": "ECE 179 — Decision Analysis in Management",
+      "description": "Presents decision tools/theory with a focus on investment, finance, management, technology, and policy. Often, irreversible decisions are made without enough information to analyze the possible consequences. Course uses systematic approaches to analyze these types of situations to enable rational decisions. (CSE 174.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 30 or MATH 22 or MATH 23A ; and ECON 113 ; and ECON 100A or ECON 100M . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "ECON100A"
+        ],
+        [
+          "ECON100M"
+        ]
+      ]
+    },
+    {
+      "id": "ECE180J",
+      "name": "ECE 180J — Advanced Renewable Energy Sources, Storage, and Smart Grids",
+      "description": "Provides a comprehensive overview of renewable energy, storage, and smart grids. Fundamental energy-conversion limits based on physics and existing material properties are discussed. Various sources and facilities, such as solar, wind, hydropower, geothermal, tidal energy, and fuel cells are described. Solar- and wind-site assessment, electric vehicles, as well as sustainable microgrids are also discussed. Finally, the latest research on smart grids and smart cities is introduced. Students who enroll in this class will learn how to use Matlab to solve engineering problems.(Formerly EE 180J.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): AM 11A or MATH 11A or MATH 19A or MATH 19B or MATH 20A or MATH 20B ; and STAT 5 or STAT 7 or STAT 17 or STAT 131 or CSE 107 ). PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N are recommended.",
+      "prereqGroups": [
+        [
+          "STAT5"
+        ],
+        [
+          "STAT7"
+        ],
+        [
+          "STAT17"
+        ],
+        [
+          "STAT131"
+        ],
+        [
+          "CSE107"
+        ]
+      ]
+    },
+    {
+      "id": "ECE181J",
+      "name": "ECE 181J — Renewable Energy Sources in Practice",
+      "description": "Provides a fundamental understanding of renewable energies in practice by experiencing them in a functional context. Students visit and evaluate renewable-energy facilities, such as wind power, solar energy, hydrogen storage, biofuel production, waste-water testing facilities, biomass, biodiesel, and biogas. This intensive one-month program allows students to carry out applied research in a real-life, industrial-scale, renewable-energy context. Prerequisite(s): course 80J or equivalent. Enrollment restricted to junior, senior, and graduate students and by permission of instructor. (Formerly EE 181J.)",
+      "credits": "7",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE183",
+      "name": "ECE 183 — Special Topics in Electrical Engineering",
+      "description": "Topics vary with instructor. Sample topics include smart grids, bioelectronics, antennas, etc. Enrollment by instructor permission. Approval of undergraduate adviser required for credit as an upper-division elective. (Formerly EE 183.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE185",
+      "name": "ECE 185 — Introduction to the US Electricity Industry",
+      "description": "Teaches students about the U.S. electricity industry. Topics include power generation costs, electric grid, power flows, retail market and tariff design, regulation and market monitoring, locational marginal pricing, risk management, market power, and contemporary issues.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: PHYS 5C and PHYS 5N ; or PHYS 6C and PHYS 6N . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "PHYS5C",
+          "PHYS5N"
+        ],
+        [
+          "PHYS6C",
+          "PHYS6N"
+        ]
+      ]
+    },
+    {
+      "id": "ECE193",
+      "name": "ECE 193 — Field Study",
+      "description": "Provides for individual programs of study with specific academic objectives carried out under the direction of a faculty member of the electrical engineering program and a willing sponsor at the field site and using resources not normally available on campus. Credit is based on the presentation of evidence of achieving the objectives by submitting a written and oral presentation. May not normally be repeated for credit.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE193F",
+      "name": "ECE 193F — Field Study",
+      "description": "Provides for individual programs of study with specific academic objectives carried out under the direction of a faculty member of the electrical engineering program and a willing sponsor at the field site and using resources not normally available on campus. Credit is based on the presentation of evidence of achieving the objectives by submitting a written and oral presentation. May not normally be repeated for credit.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE195",
+      "name": "ECE 195 — Senior Thesis Research",
+      "description": "Individual directed study for upper-division undergraduates. Students submit petition to sponsoring agency. If using this course to replace the capstone design requirement ( ECE 129A , ECE129B, ECE 129C ), students must take ECE 129A . Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE195F",
+      "name": "ECE 195F — Senior Thesis Research",
+      "description": "Prerequisite(s): petition on file with sponsoring agency. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE198",
+      "name": "ECE 198 — Individual Study or Research",
+      "description": "Provides for department-sponsored individual study program off campus, for which faculty supervision is not in person, but by correspondence. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE198F",
+      "name": "ECE 198F — Independent Field Study",
+      "description": "Provides for department-sponsored individual study program off campus for which faculty supervision is not in person, but by correspondence. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE199",
+      "name": "ECE 199 — Tutorial",
+      "description": "Individual directed study for upper-division undergraduates. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE199F",
+      "name": "ECE 199F — Tutorial",
+      "description": "Individual directed study for upper-division undergraduates. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE200",
+      "name": "ECE 200 — Research and Teaching in Electrical Engineering",
+      "description": "Basic teaching techniques for TAs: responsibilities and rights, resource materials, computer security, leading discussion or lab sessions, presentations techniques, maintaining class records, electronic handling of homework, and grading. Examines research and professional training: use of library and online databases, technical typesetting, writing journal and conference papers, publishing, giving talks, and ethical issues. (Formerly EE 200.)",
+      "credits": "3",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE201",
+      "name": "ECE 201 — Introduction to Nanotechnology",
+      "description": "Introduction to underlying principles of nanoscience and nanotechnology. Intended for multidisciplinary audience with a variety of backgrounds. Introduces scientific principles and laws relevant on the nanoscale. Discusses applications in engineering, physics, chemistry, and biology. (Formerly EE 211.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 102 or consent of instructor.",
+      "prereqGroups": [
+        [
+          "ECE102"
+        ]
+      ]
+    },
+    {
+      "id": "ECE203",
+      "name": "ECE 203 — Nanocharacterization of Materials",
+      "description": "Covers the many characterization techniques used to characterize materials from volumes less than one cubic micrometer, including the basic physics of each method, the methodology used to get quantitative results, and the advantages and limitations of each technique. (Formerly EE 213.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students, or to undergraduates majoring in engineering or science by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE204",
+      "name": "ECE 204 — Bioelectronics",
+      "description": "Covers selected case studies in interfacing electronic devices with biological systems from Galvani to neuronal stimulation and electroceuticals. Studies include: the squid giant axon, the pacemaker, deep-brain stimulation, organic bioelectronics, bionanoelectronics and optogenetics, bioenergetics, and bioprotonics electroceuticals. Students are assessed through weekly papers on case studies and through a final presentation. (Formerly EE 204.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE205",
+      "name": "ECE 205 — Fundamentals of Nanoelectronics",
+      "description": "Covers microscopic theory of electron transport in nanoelectronic devices and transistors. Topics include: ballistic transport; quantum conductance, NEGF-Landauer formalisms; molecular conductors; graphene and carbon nanotubes, quantum resonant tunneling devices; nanotransistors; and spintronics. (Formerly EE 218.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 201 or ECE 207 . Enrollment is restricted to graduate students. Students with background in basic matrix algebra and MATLAB programming may enroll with permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECE201"
+        ],
+        [
+          "ECE207"
+        ]
+      ]
+    },
+    {
+      "id": "ECE207",
+      "name": "ECE 207 — Nanomaterials and Nanometer-Scale Devices",
+      "description": "Materials controlled at nanometer-scale will revolutionize existing technologies. Course offers opportunities of learning materials that exhibit peculiar physical characteristics at the nanometer scales. Course also includes discussions of unique device architecture based on materials crafted at the nanometer scale. (Formerly EE 216.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE210",
+      "name": "ECE 210 — Brain-Inspired Machine Learning",
+      "description": "Studies how the computational principles of the brain can be applied to build efficient machine learning models in software and hardware. Topics include the neuroscience of deep learning, spiking neural networks, hardware accelerators, and memory circuit design. Taught in conjunction with ECE 110 . Students cannot receive credit for this course and ECE 110 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE215",
+      "name": "ECE 215 — Models of Robotic Manipulation",
+      "description": "Theory and application of mathematical models to analyze, design, and program serial kinematic chains (robot arms). Covers models of arbitrary articulated robotic or biological arms and their application to realistic arms and tasks, including the homogeneous coordinate model of positioning tasks; the forward and inverse kinematic models; the Jacobian matrix; trajectory generation;and dynamic models, including Newton-Euler and Lagrangian formulations. (Formerly CMPE 215.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; and to seniors who have taken ECE 141 , and AM 10 or MATH 21 ; or by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE216",
+      "name": "ECE 216 — Bio-Inspired Locomotion",
+      "description": "Presents the principles of biological locomotion and application to robotics problems. Students learn about effective movements in the biological world (slithering, walking, climbing, and flying); extract their underlying principles; and apply them creatively to robotics design. (Formerly CMPE 216.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 9 or equivalent. Enrollment is restricted to graduate students, and seniors by permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECE9"
+        ]
+      ]
+    },
+    {
+      "id": "ECE218",
+      "name": "ECE 218 — Mechatronics",
+      "description": "Examines technologies involved in mechatronics (intelligent electro-mechanical systems)and techniques necessary to integrate these technologies. Topics include electronics (A/D, D/A converters, opamps, filters, power devices), software program design (event-driven programming, state machine-based design), DC and stepper motors, basic sensing, and basic mechanical design (machine elements and mechanical CAD). Students learn how to solve engineering problems using C Programming Language. Combines lab component of structured assignments with a large and open-ended team project. Students cannot receive credit for this course and ECE 118 .",
+      "credits": "10",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE220",
+      "name": "ECE 220 — Introduction to Imaging Instrumentation: Physics, Engineering, and Application",
+      "description": "Lectures covering technologies for different imaging modalities, detectors, and instrumentations with discussion of properties of the signal generation, image reconstruction, and image data quantification.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to seniors and graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE221",
+      "name": "ECE 221 — Advanced Analog Integrated Circuits",
+      "description": "Analog integrated circuit design with emphasis on fundamentals of designing linear circuits using CMOS. Covers MOS devices and device modeling, current mirrors, op-amp design, op-amp compensation, comparators, multipliers, voltage references, sample-and-holds, noise, and an introduction to more complicated systems using these building blocks, such as phase locked loops and analog-to-digital converters. If time permits, integrated circuit layout issues and device/circuit fabrication. Students cannot receive credit for this course and ECE 172 . (Formerly EE 221.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): course ECE 171 or equivalent; ECE 178 or equivalent recommended.",
+      "prereqGroups": [
+        [
+          "ECE171"
+        ]
+      ]
+    },
+    {
+      "id": "ECE222",
+      "name": "ECE 222 — High-Speed Low-Power Integrated Circuit Design",
+      "description": "Digital integrated circuit design covered with an emphasis on high-speed and low-power applications. Covers signaling techniques and circuits including transmitters and receivers, with emphasis on on-chip interconnect, timing fundamentals and timing circuits. Theoretical fundamentals of phase locked loops and design issues of implementation addressed. Course has a project design component. Interview to assess technical skills of student. Enrollment is restricted to electrical engineering and computer engineering graduate students. (Formerly EE 222.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE222A",
+      "name": "ECE 222A — Advances in Agriculture Technology",
+      "description": "Agricultural technology draws from a wide variety of areas. Topics discussed include agricultural applications of cyber-physical systems and robotics, electronic design of sensor technology, energy harvesting and reliable communication for sensor networks, and signal/image processing techniques for sensor data.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ECE 290 , and/or have experience in reading academic research papers. Enrollment is restricted to graduate students; undergraduates may enroll with permission of the instructor.",
+      "prereqGroups": [
+        [
+          "ECE290"
+        ]
+      ]
+    },
+    {
+      "id": "ECE223",
+      "name": "ECE 223 — Advanced Solid-State Devices",
+      "description": "Solid-state devices advance rapidly by employing new materials, new architecture, and new functional principles. Class offers opportunities to learn the latest advancements in solid-state devices (e.g., electronic, optoelectronic, photonic devices, and smart sensors) viewed from various scientific, technological, and engineering aspects, such as energy conversion and computation. (Formerly EE 223.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE224",
+      "name": "ECE 224 — Device Electronics",
+      "description": "Reviews the fundamentals of semiconductors and then explores the structure, design, and operation of the most important and widely used semiconductor devices. Topics include the motion of charge carriers in solids, equilibrium statistics, the electronic structure of solids, doping, the pn junction, the junction transistor, the Schottky diode, field-effect transistor, the light-emitting diode, and the photodiode.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE225",
+      "name": "ECE 225 — Semiconductor Processing and Bandgap Engineering",
+      "description": "Addresses principles of semiconductor processing with applications for semiconductor materials engineering, research, and development. The materials fabrication and processing topics include preparation of silicon, III-V compounds, and dielectric thin films, including thin film deposition techniques, diffusion, ion implantation, and standard device fabrication sequences. Applications of these processing principles for semiconductor materials engineering and bandgap engineering in semiconductor heterostructures are discussed for devices, such as LEDs, lasers, photoreceptors, modulators, and high-speed transistors.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE226",
+      "name": "ECE 226 — CMOS Radio Frequency Integrated Circuit Design",
+      "description": "Covers narrowband and high-frequency techniques, noise, distortion, nonlinearities, low-noise amplifiers, power amplifiers, mixers, receivers, and transmitters for wireless communications. Topics are presented in the context of integrated designs in CMOS, but topics are fundamental and widely applicable. (Formerly EE 226.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 172 or ECE 221 or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECE172"
+        ],
+        [
+          "ECE221"
+        ]
+      ]
+    },
+    {
+      "id": "ECE227",
+      "name": "ECE 227 — Fundamentals of Semiconductor Physics",
+      "description": "Semiconductor physics is examined for advanced new materials and devices. Discusses how familiar concepts are extended to new electronics. Intended for students interested in electrical engineering, physics, and materials science applications. Good familiarity with basic electromagnetism and quantum physics is assumed. (Formerly EE 227.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE228",
+      "name": "ECE 228 — Engineering of Thin Film Deposition",
+      "description": "Covers key processes to build a coherent picture of the deposition of thin films. Offers an opportunity to implement general computing resources in describing the formation of thin films. The deposition of thin films plays a key role in technology due to their unprecedented physical properties. Their deposition depends on such factors as thermodynamics in the deposition environment and kinetics on the solid surfaces where atoms are assembled; therefore, understanding the fundamental processes involved is important. (Formerly EE 217.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Students should have a background in solid-state materials that is equivalent to ECE 102 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECE102"
+        ]
+      ]
+    },
+    {
+      "id": "ECE229",
+      "name": "ECE 229 — Quantum Electronics",
+      "description": "Covers basic theory of interaction of electromagnetic radiation with resonant atomic transitions and density matrix treatment; and applications including Rabi oscillations, slow light; nonlinear optics; coherent radiation, and noise in photodetectors and lasers. (Formerly EE 232.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 231 or equivalent.",
+      "prereqGroups": [
+        [
+          "ECE231"
+        ]
+      ]
+    },
+    {
+      "id": "ECE230",
+      "name": "ECE 230 — Optical Fiber Communication",
+      "description": "Components and system design of optical fiber communication. Topics include step-index fibers, graded-index fibers, fiber modes, single-mode fibers, multimode fibers, dispersion, loss mechanics, fiber fabrication, light-emission processes in semiconductors, light-emitting diodes, laser diodes, modulation response, source-fiber coupling, photodetectors, receivers, receiver noise and sensitivity, system design, power budget and rise-time budget, fiber-optic networks (FDDI, SONET, etc.), wavelength division multiplexing (WDM). Students cannot receive credit for this course and ECE 130 . (Formerly EE 230.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE231",
+      "name": "ECE 231 — Optical Electronics",
+      "description": "Introduction to phenomena, devices, and applications of optoelectronics. Main emphasis is on optical properties of semiconductors and semiconductor lasers. (Formerly EE 231.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE232",
+      "name": "ECE 232 — Integrated Biophotonics",
+      "description": "Covers use of integrated optics for study of biological material; fluorescence spectroscopy, single molecule detection, optical tweezers, layered dielectric media, hollow-core waveguides, photonic crystals, optofluidics, biophotonic systems, and applications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE236",
+      "name": "ECE 236 — Optics and Microscopy",
+      "description": "Covers the basic principles of optics and microscopy. Topics include geometrical optics, simple ray tracing, diffraction, Fourier optics, image formation in the human eye, the photographic camera, and different types of microscopes. Hands-on experience is provided in laboratories. Requires basic mathematics. (Formerly EE 266.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduate students may enroll with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE237",
+      "name": "ECE 237 — Image Processing and Reconstruction",
+      "description": "Fundamental concepts in digital image processing and reconstruction. Continuous and discrete images; image acquisition, sampling. Linear transformations of images, convolution and superposition. Image enhancement and restoration, spatial and spectral filtering. Temporal image processing: change detection, image registration, motion estimation. Image reconstruction from incomplete data. Applications. (Formerly EE 264.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 153 or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECE153"
+        ]
+      ]
+    },
+    {
+      "id": "ECE238",
+      "name": "ECE 238 — Medical Image Formation, Presentation, and Assessment",
+      "description": "This course covers how modern medical images are generated from raw data, and how they are presented to radiologists and doctors. It also explains key image quality metrics, their evaluation, and how they inform system design.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with permission of the instructor. This course requires basic knowledge of math and physics such as calculus, linear algebra, and statistics. ECE 80B is helpful for undergraduates, but is not required.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE240",
+      "name": "ECE 240 — Introduction to Linear Dynamical Systems",
+      "description": "Introduction to applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics include the following: Least-squares approximations of over-determined equations and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm and singular value decomposition. Eigenvalues, left and right eigenvectors, and dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input multi-output systems, impulse and step matrices; convolution and transfer matrix descriptions. Control, reachability, state transfer, and least-norm inputs. Observability and least-squares state estimation. (Formerly CMPE 240.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students; undergraduates may enroll if they have completed ECE 103 and AM 147 .",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE241",
+      "name": "ECE 241 — Introduction to Feedback Control Systems",
+      "description": "Graduate-level introduction to control of continuous linear systems using classical feedback techniques. Design of feedback controllers for command-following error, disturbance rejection, stability, and dynamic response specifications. Root locus and frequency response design techniques. Extensive use of Matlab for computer-aided controller design. Course has concurrent lectures with ECE 141 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE242",
+      "name": "ECE 242 — Applied Feedback Control",
+      "description": "Sequel to ECE 141 and ECE 241 . After reviewing control design techniques examined in ECE 141 and ECE 241 , this course explores state space control, discrete time control, and two case studies in control design. Students design and implement feedback controllers on an inverted pendulum experiment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 141 or ECE 241 . Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "ECE141"
+        ],
+        [
+          "ECE241"
+        ]
+      ]
+    },
+    {
+      "id": "ECE243",
+      "name": "ECE 243 — System Identification",
+      "description": "Course provides introduction to the construction of linear dynamical models from experimental data using parametric and non-parametric identification techniques. Theoretical and practical aspects of these techniques addressed. (Formerly CMPE 243.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 240 , or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECE240"
+        ]
+      ]
+    },
+    {
+      "id": "ECE244",
+      "name": "ECE 244 — Digital Control",
+      "description": "Teaches the design and analysis of digital control systems. The topics covered are discrete-time system modeling; z-transform; stability, controllability, and observability of discrete-time systems; various design approaches to control design in which sensor, computer hardware, actuation, communication, and user interface are part of the design. Note: knowledge of linear algebra, calculus, basic differential equations, Laplace transform, signals and systems, linear-system control theory, MATLAB, and the use of word-processing software are assumed. (Formerly CMPE 244.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 141 or ECE 241 . Enrollment is restricted to graduate students, or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "ECE141"
+        ],
+        [
+          "ECE241"
+        ]
+      ]
+    },
+    {
+      "id": "ECE245",
+      "name": "ECE 245 — Estimation and Introduction to Control of Stochastic Processes",
+      "description": "Provides practical knowledge of Kalman filtering and introduces control theory for stochastic processes. Selected topics include: state-space modeling; discrete- and continuous-time Kalman filter; smoothing; and applications in feedback control. Students learn through hands-on experience. Students cannot receive credit for this course and course 145. (Formerly CMPE 245.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 240 or ECE 241 . Knowledge of Matlab is expected. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECE240"
+        ],
+        [
+          "ECE241"
+        ]
+      ]
+    },
+    {
+      "id": "ECE246",
+      "name": "ECE 246 — Hybrid Dynamical Systems",
+      "description": "Examines the modeling and analysis of hybrid dynamical systems, including the modeling of hybrid systems, the concept of solutions, Zeno behavior, equilibrium sets, stability, convergence, Lyapunov-based conditions, robustness, and simulation. Students are guided on methods for simulation and encouraged to apply them to several applications. (Formerly CMPE 246.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 240 or ECE 241 or ECE 242 . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "ECE240"
+        ],
+        [
+          "ECE241"
+        ],
+        [
+          "ECE242"
+        ]
+      ]
+    },
+    {
+      "id": "ECE249",
+      "name": "ECE 249 — Introduction to Cyber-physical Systems",
+      "description": "Presents the basic concepts and tools for the study of cyber-physical systems, including modeling and analysis tools for continuous-time and discrete-time systems, finite state machines, stateflow, timed and hybrid automata, concurrency, invariants, linear temporal logic, verification, and numerical simulation. Students are guided on methods for simulation and encouraged to apply them to several applications. The course is self-contained. Students are expected to have a basic background in logic circuits, programming, the mathematical modeling of dynamical systems ( ECE 8 is recommended), differential equations, linear algebra, and basic calculus. Knowledge of MATLAB/Simulink is useful. Students cannot receive credit for this course and ECE 149 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CSE 100 and CSE 100L or equivalent, and ECE 13 or CSE 13E or equivalent.",
+      "prereqGroups": [
+        [
+          "CSE100"
+        ],
+        [
+          "ECE13"
+        ]
+      ]
+    },
+    {
+      "id": "ECE250",
+      "name": "ECE 250 — Digital Signal Processing",
+      "description": "In-depth study of signal processing techniques, including discrete-time signals and systems, the z-transform, sampling of continuous-time signals, transform analysis of linear time-invariant systems, structures for discrete-time systems, the discrete Fourier transform, computation of the discrete Fourier transform, filter design techniques. Students cannot receive credit for this course and course 153. (Formerly EE 250.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE251",
+      "name": "ECE 251 — Principles of Digital Communications",
+      "description": "A core course on digital communications theory. Provides an introduction to digital communication, including source coding, characterization of communication signals and systems, modulation and demodulation for the additive Gaussian channel, digital signaling, and over bandwidth constrained linear filter channels and over fading multipath channels. (Formerly EE 251.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 151 and ECE 153 and CSE 107 .",
+      "prereqGroups": [
+        [
+          "ECE151",
+          "ECE153",
+          "CSE107"
+        ]
+      ]
+    },
+    {
+      "id": "ECE252",
+      "name": "ECE 252 — Wireless Communications",
+      "description": "In-depth study of the physical layer of wireless communications. Wireless propagation channels and their impact on digital communications. Modulation techniques for wireless systems and their performance. Multi-antenna systems and diversity. Multicarrier and spread spectrum. Multi-access methods: FDMA, TDMA, CDMA. The structure of cellular systems. Students cannot receive credit for this course and course 152. (Formerly EE 252.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 251 .",
+      "prereqGroups": [
+        [
+          "ECE251"
+        ]
+      ]
+    },
+    {
+      "id": "ECE253",
+      "name": "ECE 253 — Introduction to Information Theory",
+      "description": "An introduction to information theory including topics such as entropy, relative entropy, mutual information, asymptotic equipartition property, channel capacity, differential entropy, rate distortion theory, and universal source coding. (Formerly EE 253 and CMPS 250.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE254",
+      "name": "ECE 254 — Radar, Synthetic Aperture Radar, and ISAR",
+      "description": "Introduces radar signal processing, synthetic aperture radar (SAR), and inverse SAR (ISAR). Focuses on the fundamentals and design principles of modern radar systems. Students use hands-on computer simulations to build a strong background in radar sensor systems that can be applied to a variety of problems, such as medical imaging, ground-penetrating radar imaging for geophysical exploration, and the use of radar sensor systems for satellite-based SAR. (Formerly EE 288.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 153 . Enrollment is restricted to juniors, seniors, and graduate students.",
+      "prereqGroups": [
+        [
+          "ECE153"
+        ]
+      ]
+    },
+    {
+      "id": "ECE255",
+      "name": "ECE 255 — Error Control Coding",
+      "description": "Covers the following topics: introduction to algebra; linear block code; cyclic codes; BCH code; RS codes; spectral domain study of codes; CRC; and product codes. (Formerly EE 261.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE256",
+      "name": "ECE 256 — Statistical Signal Processing",
+      "description": "Covers fundamental approaches to designing optimal estimators and detectors of deterministic and random parameters and processes in noise, and includes analysis of their performance. Binary hypothesis testing: the Neyman-Pearson Theorem. Receiver operating characteristics. Deterministic versus random signals. Detection with unknown parameters. Optimal estimation of the unknown parameters: least square, maximum likelihood, Bayesian estimation. Will review the fundamental mathematical and statistical techniques employed. Many applications of the techniques are presented throughout the course. Note: While a review of probability and statistics is provided, this is not a basic course on this material. (Formerly EE 262.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ECE 103 and CSE 107 , or permission of instructor.",
+      "prereqGroups": [
+        [
+          "ECE103",
+          "CSE107"
+        ]
+      ]
+    },
+    {
+      "id": "ECE258",
+      "name": "ECE 258 — Introduction to Inverse Problems",
+      "description": "Fundamental approaches and techniques in solving inverse problems in engineering and applied sciences, particularly in imaging. Initial emphasis on fundamental mathematical, numerical, and statistical formulations and known solution methods. Sampling of applications presented from diverse set of areas (astronomical, medical and optical imaging, and geophysical exploration). (Formerly EE 265.)",
+      "credits": "3",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE263",
+      "name": "ECE 263 — Small-Scale UAV Theory and Practice",
+      "description": "Technologies involved in the modeling and simulation of small-scale unmanned aerial vehicles (UAVs) with an emphasis on control applications, from low-level flight stabilization to higher level path planning and vision-based control. Topics include coordinate frames, aerodynamics, equations of motion, full non-linear simulation, linearized dynamics models and trim states, force and moment balances for steady flight, flight controls by successive loop closure, state space control, path planning and guidance, sensors and estimation. Students enrolled in this class learn how to use the Python programming language to solve engineering problems. Students gain team leadership and project management skills. Taught in conjunction with ECE 163 . Students cannot receive credit for this course and ECE 163 .",
+      "credits": "7",
+      "rawRequirements": "Requirements Prerequisites: Students should have an understanding of Feedback Controls and Programming (Python preferred). It is recommended but not required that students have a background in Sensors, Microcontrollers, Kalman Filtering, and Estimation. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "FeedbackControls"
+        ],
+        [
+          "ProgrammingPython"
+        ]
+      ]
+    },
+    {
+      "id": "ECE269",
+      "name": "ECE 269 — Electric Machinery and Control",
+      "description": "Advanced modeling and analysis of synchronous generators, permanent-magnet ac machines, and dual-fed induction machines. Machine control techniques including droop control, field weakening, multiple reference frame control, and indirect vector control. Taught in conjunction with ECE 169 . Students cannot receive credit for this course and ECE 169 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students who have taken ECE 176 or an equivalent undergraduate course on classical electric machinery.",
+      "prereqGroups": [
+        [
+          "ECE176"
+        ]
+      ]
+    },
+    {
+      "id": "ECE270",
+      "name": "ECE 270 — Advanced Power Electronics",
+      "description": "Advanced topics in power electronics including SCR circuits, modulation techniques, multilevel power converters, active and current-source rectifiers, magnetic circuit design, state-space averaging, power converter controller design and stability. Taught in conjunction with ECE 170 . Students cannot receive credit for this course and ECE 170 .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisites: Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE275",
+      "name": "ECE 275 — Energy Market, Policy, and Modeling",
+      "description": "The power industry is responsible for a large fraction of the U.S.'s emissions of SO2, NOx, and CO2, as well as much other water, solid waste, and land impacts. Its large environmental as well as economic footprint make it a target of many environmental policies, as well as an inherently interesting sector to study. The recent development of energy and climate policy at the global, the U.S. federal, and state-level has made Energy & Climate Policy an intriguing and dynamic topic for both industries and academia. This course will present fundamental analytical tools (optimization and simulation) for modeling firm and market behavior for the energy sector, with a focus on electric power. However, these models can be used for planning investments in generation, transmission, and energy conservation, and for analysis of public policy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE279",
+      "name": "ECE 279 — Optimization and Control for Electric Power Systems",
+      "description": "Provides a comprehensive overview of power systems. Students learn how mathematical tools are used for the system planning and operation. Advanced topics include smart grids, electric vehicles and energy data analytics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates admitted with permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE280A",
+      "name": "ECE 280A — Current Topics in Applied Microscopy and Neuronal Imaging",
+      "description": "A weekly seminar to discuss current topics in applied microscopy and neuronal imaging. (Formerly EE 280A.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE280B",
+      "name": "ECE 280B — Seminar on Integrated Bioelectronics",
+      "description": "Weekly seminar covering current research in integrated bioelectronics. Enrollment is by permission of the instructor and is restricted to students who have research in bioelectronics. (Formerly EE 280B.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE280C",
+      "name": "ECE 280C — Seminar on Control",
+      "description": "Weekly seminar series covering topics of current research in theory and application of control to engineering systems. Current research work and literature in these areas discussed. (Formerly CMPE 280C.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE280D",
+      "name": "ECE 280D — Graduate Research Seminar",
+      "description": "Weekly seminar series in topics of current research in information systems and technology management. Enrollment by permission of instructor. (Formerly TIM 280A.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE280N",
+      "name": "ECE 280N — Seminar on Nanophotonics and Lab-on-Chip Systems",
+      "description": "Weekly series covering current research in nanophotonics and lab-on-chip systems including nanoplasmonic biosensors; nanospectroscopy (Raman and vibrational mid-infrared spectroscopy); nanofabrication; nanophotonics devices for energy conversion and thermoplasmonics; acoustic fluids; and microfluidic integration. Current research work and recent literature are discussed. Enrollment is by permission of the instructor and restricted to graduate students. Sophomores, juniors, and seniors may enroll by permission of instructor. (Formerly EE 280N.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE280O",
+      "name": "ECE 280O — Seminar on Applied Optics",
+      "description": "Weekly seminar series covering topics of current research in applied optics, including integrated, quantum, nonlinear, and nano-optics. Current research work and literature in these areas are discussed. Enrollment by permission of instructor. (Formerly EE 280O.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE280Z",
+      "name": "ECE 280Z — Seminar on Smart Grids and Data Analytics",
+      "description": "Weekly series covering state-of-the-art research in smart power grids, machine learning, communications, and signal processing. Current research works and recent literature are discussed. Enrollment is by permission of the instructor and is restricted to graduate students. Undergraduates may enroll by permission of the instructor. (Formerly EE 280Z.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE283",
+      "name": "ECE 283 — Special Topics in Electrical and Computer Engineering",
+      "description": "Graduate seminar on a research topic in electrical engineering that varies with the particular instructor. Topics may include, but are not limited to, electromagnetics, antennas, electronics biotechnology, nanotechnology, signal processing, communications, VLSI, MEMS, and radio frequency. Enrollment is restricted to graduate students and consent of instructor. (Formerly EE 283.)",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE290",
+      "name": "ECE 290 — ECE Graduate Seminar",
+      "description": "Leading speakers from academia and industry present their latest research.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE291",
+      "name": "ECE 291 — Tomorrow's Professors, Engineers, and Entrepreneurs",
+      "description": "The aim of this course is two-fold: (1) inform, motivate, and prepare graduate students for possible careers in academia and industry; (2) expose graduate students to the professional skills required for possible career options in engineering and science. Enrollment is restricted to graduate students, and by permission of the instructor. Course is for Satisfactory/Unsatisfactory grade only.",
+      "credits": "3",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE293",
+      "name": "ECE 293 — Advanced Topics in Electrical and Computer Engineering",
+      "description": "Graduate seminar on a research topic in electrical engineering that varies with the particular instructor. Typical topics include, but are not limited to, electromagnetics, antennas, electronics biotechnology, nanotechnology, signal processing, communications, VLSI, and MEMS. Prerequisite(s):Enrollment is by permission of the instructor and is restricted to graduate students. In some quarters course will be taught in conjunction with ECE 183 . (Formerly EE 293.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE296",
+      "name": "ECE 296 — Master Project",
+      "description": "Master project conducted under faculty supervision. Petition on file with sponsor faculty.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE297A",
+      "name": "ECE 297A — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE297B",
+      "name": "ECE 297B — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE297C",
+      "name": "ECE 297C — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE297F",
+      "name": "ECE 297F — Independent Study or Research",
+      "description": "Independent study or research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE299A",
+      "name": "ECE 299A — Thesis Research",
+      "description": "Thesis research conducted under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE299B",
+      "name": "ECE 299B — Thesis Research",
+      "description": "Thesis research conducted under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ECE299C",
+      "name": "ECE 299C — Thesis Research",
+      "description": "Thesis research conducted under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "CRSN81C",
+      "name": "CRSN 81C — Designing a Sustainable Future",
+      "description": "Introduces key technological solutions to environmental problems; discusses their underlying principles; and examines their societal dimensions. Topics include: conventional and renewable energy; emerging technologies for transportation, energy efficiency clean water; planetary engineering; and lean manufacturing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to first-year and sophomore college members.",
+      "prereqGroups": []
+    }
+  ]
+}

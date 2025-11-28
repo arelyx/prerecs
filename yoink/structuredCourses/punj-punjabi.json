@@ -1,0 +1,36 @@
+{
+  "department": "PUNJ - Punjabi",
+  "slug": "punj-punjabi",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/punj-punjabi",
+  "generated_at": "2025-11-28T07:51:44.343718+00:00",
+  "courses": [
+    {
+      "id": "PUNJ1",
+      "name": "PUNJ 1 — First-Year Punjabi 1",
+      "description": "First course of a three-quarter sequence designed to introduce students to modern Punjabi as spoken in India, Pakistan, and the global Punjabi diaspora. Course materials have been created primarily in Gurmukhi script. Course is taught online utilizing Zoom classes, interactive online activities in Canvas, recorded captivate lessons, and a mobile app companion. Students master Gurmukhi script and phonology and are expected to develop basic proficiency in Punjabi. Course is organized by modules on core themes about Punjabi life and culture. Students gain greater ease at listening, reading, writing, and talking in Punjabi. Punjabi is spoken most of the time in class. This course emphasizes developing basic communication skills using everyday vocabulary and grammatical structures in Punjabi.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PUNJ2",
+      "name": "PUNJ 2 — First-Year Punjabi 2",
+      "description": "The second course of a yearlong beginning sequence (Punjabi 1,2,3) continues the introduction to modern Punjabi as spoken in India, Pakistan, and wherever Punjabi speakers have settled globally. Enhances skills in reading, writing, speaking and listening. Instruction is provided in all four language skills. Oral communication and conversation emphasized as in PUNJ 1 , while reading and writing skills are developed more deeply. Students are given systematic lessons on Punjabi grammar and enhance their understanding and use of Punjabi vocabulary for communication in real-life situations. Course materials have been created primarily in Gurmukhi script. Punjabi is spoken most of the time in class. Course emphasizes developing basic communication skills using everyday vocabulary and grammatical structures in Punjabi.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PUNJ3",
+      "name": "PUNJ 3 — First-Year Punjabi 3",
+      "description": "The last course of a year-long beginning sequence (Punjabi 1, 2, 3). Continues building and strengthening studentsâ skills in reading, writing, speaking and listening of modern Punjabi as spoken in India, Pakistan and wherever Punjabi speakers have settled globally. Helps students attain and enhance competence in the four modes of literacy reading, writing, speaking and listening. Course materials have been created primarily in Gurmukhi script. Punjabi spoken most of the time in class Course emphasizes developing communication skills using everyday vocabulary and grammatical structures in Punjabi.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): PUNJ 2 or by consent of the instructor.",
+      "prereqGroups": [
+        [
+          "PUNJ2"
+        ]
+      ]
+    }
+  ]
+}

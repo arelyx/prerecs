@@ -1,0 +1,1338 @@
+{
+  "department": "HISC - History of Consciousness",
+  "slug": "hisc-history-of-consciousness",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/hisc-history-of-consciousness",
+  "generated_at": "2025-11-28T07:51:40.145024+00:00",
+  "courses": [
+    {
+      "id": "HISC1",
+      "name": "HISC 1 — Introduction to History of Consciousness",
+      "description": "What does it mean to speak of consciousness in an age of AI, ecological crisis, and future uncertainty? Can âraising consciousnessâ result in meaningful social change? Or is human consciousness an obstacle to be overcome? This course examines the history of the concept of consciousness within the Western philosophical tradition, focusing on its relationship to political action. Students are introduced to major debates in the fields of phenomenology, political philosophy, and philosophy of mind. Readings include Descartes, Hegel, Marx, Husserl, Sartre, Fanon, Merleau-Ponty, and Thao.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC9",
+      "name": "HISC 9 — Ecological Marxism",
+      "description": "In recent years, numerous scholars and activists have turned to Karl Marx's thought to help make sense of our present ecological predicamentâand imagine ways out of and beyond it. This class introduces Marxâs fundamental ideas about labor, nature, and capital, with a focus on the ecological dimensions of his thinking. It also examines current Marxist perspectives on ecological crisis and their convergence with ecofeminist, anti-colonial, and Indigenous standpoints.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC12",
+      "name": "HISC 12 — Historical Introduction to Philosophy",
+      "description": "Focuses on moral, metaphysical, and epistemological issues using classical texts along with some contemporary readings on related philosophical problems. Plato, Kant, and Sartre provide the central readings on ethics, while Descartes, Hume, Kant (again), and Wittgenstein provide the central metaphysical and epistemological discussions. Issues of philosophy of language and method are highlighted throughout.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC20",
+      "name": "HISC 20 — Democracy and Dictatorship",
+      "description": "Although democracy is generally accepted as the best and most legitimate form of government, there is little agreement on what it means and how it should function. This course explores the concept and theories of democracy, with a focus on the âPeopleââwho constitutes the people, how popular will is embodied, and how it may be expressed. Course explores debates about different models of democracy and examines how alternatives to democracy, such as dictatorship, autocracy, and tyranny, have been conceptualized. Also studies democracy and its âothersâ in relation to a constellation of concepts including power, equality, participation, accountability, resistance, legitimacy, and the rule of law.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC60A",
+      "name": "HISC 60A — What is Revolution?",
+      "description": "Studies the modern concept of revolution. Course proposes to inquire into the concept of revolution, insurgency, revolt and resistance in theory and practice. The course aims to analyze thinkers such Thomas Hobbes, Jean-Jacques Rousseau, Immanuel Kant, G.W. F. Hegel, Karl Marx, Carl Schmitt, Hannah Arendt, V.I. Lenin, Rosa Luxemburg, and the revolutionary declarations from the French Revolution to the Zapatista insurgency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC60C",
+      "name": "HISC 60C — What Is Resistance?",
+      "description": "Explores the politics of resistance and how different thinkers have conceptualized what it means to resist, why it is necessary, and with what methods it should be done. Side by side with the theorists of resistance, the course analyzes examples of resistance from around the world, traversing different time periods, geographies, and cultures. Examples range from peasant revolts to labor movements, feminist struggles to anti-war mobilizations, prisoner uprisings to anti-colonial wars and contemporary forms of corporeal, self-sacrificial resistance. Relying upon the concrete political problems posed by each historical instance as springboards into larger theoretical concerns, the course focuses on questions such as the nature of power relations, different forms of political organization and representation, the relationship between means and ends, the role of violence, and the function of different media, especially as they become manifest in the complexity of real politics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC65",
+      "name": "HISC 65 — What is Belief?",
+      "description": "Explores the historical and political conditions in which “belief” has come to characterize people’s relationships to a nonmaterial, spiritual, or supernatural reality. Analyzing the historically recent genesis and differentiation of categories like “religion,” “politics,” and “science,” course examines how the rise to prominence of “belief” is constitutive of modernity as a whole. From these theoretical-historical foundations, course goes on to explore the realms of so-called belief themselves, through case studies on the bodily practices of mystics, prophetically inspired peasant uprisings, and the uncanny reality of UFOs. (Formerly offered as HISC 123, What is Belief? Mystics, Heretics, and Aliens.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC70",
+      "name": "HISC 70 — Gandhi and Us",
+      "description": "Places the anti-imperial radical and thinker Mohandas Gandhi in the context of twentieth-century global politics, philosophy, and history. Studies political and philosophical history through the global prism of empire and modernity.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC73",
+      "name": "HISC 73 — Can We Really âSaveâ Animals?",
+      "description": "What does animal conservation mean in our contemporary world of deforestation, climate change, and unchecked capitalism? This course explores the intersections between animal behavior and ecology and the environmental humanities to assess the forms animal conservation takes in the contemporary era, and investigates discourses that humans employ to âsaveâ our fellow animals. Course navigates the competing interests and actors that come into conflict in the world of animal conservation, as well as the possibilities of survival in our entangled futures.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC75",
+      "name": "HISC 75 — Ecological Crisis and Human Freedom",
+      "description": "From climate change to the Sixth Great Extinction to the threat of nuclear warfare, we live in a time of growing ecological devastation and peril. As a result, the very meaning of human societiesâ relationships to the ecological worlds they inhabit is increasingly up for question. What is the proper role of humans in nature? How are we to live, and who are we to become, in an age of ecological unraveling? What is to be done in the realms of politics and culture to ensure a livable future? Course examines histories of freedom as both a concept and practice, giving particular focus to forms of collective liberation that consist in acting together with the earth and the other creatures with whom we share this world.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC80N",
+      "name": "HISC 80N — Prophecy Against Empire",
+      "description": "In the core of a London slum, with wars raging all around him, the printer William Blake sounded the trumpet of prophecy. This course channels Blake's war-time revelations, laying bare the antimonies of imperial violence and the prophetic tradition.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC80O",
+      "name": "HISC 80O — Understanding Popular Music",
+      "description": "Students develop the skills necessary to analyze popular music. First, challenging common-sense understandings of how music functions. And second, understanding how history works its way into musical forms.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC80P",
+      "name": "HISC 80P — The Black Panther Party: History and Theory of a Political Movement",
+      "description": "Examines the history and theory of the Black Panther Party (BPP). Texts situate the historical conditions leading to the BPP's rise; theoretical inspirations and contributions; national and international reach; and decline following state repression, electoral campaigns, and guerrilla warfare.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC80R",
+      "name": "HISC 80R — What is Space?",
+      "description": "Examines space as it relates to questions of politics, philosophy, and everyday life. Space, rather than a neutral background or setting, is socially produced, making it a site of constant struggle. Course studies space in its relationship to class conflict and racialized violence, but also as a terrain of collective dreams, experimentation, and political possibility. Themes include: questions of orientation and disorientation, production and annihilation, city and hinterland, interior and exterior, subjection and liberation. Also focuses on problems of race and class as they inform capitalism, and experiments with practices of psycho-geography on walks or \"drifts\" across campus. Thinkers discussed include Benjamin, Bachelard, Merleau-Ponty, Lefebvre, Debord, Harvey, Jameson, Gilmore, and others. (Formerly offered as Urban Consciousness: Life, Inequality, and the City.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC80S",
+      "name": "HISC 80S — War and the Media",
+      "description": "Examines how histories of war are inextricably tied to histories of media, with a focus on the global War on Terror. Interrogates dominant media and policy approaches to terrorism and their construction of the Islamist \"enemy\" through tropes of backwardness and fanaticism. Seeks instead to situate Islamist movements historically and politically, and in doing so, to consider how Islamist radicalism is deeply intertwined with capitalist modernity, mutually constitutive with contemporary militarism and imperialism, and might darkly mirror other key aspects of contemporary political life.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC80T",
+      "name": "HISC 80T — What is the Witch: Terror, Subjectivity, Modernity",
+      "description": "What is the witch? A historical person? A vestige of pre-colonial European ancestry? A cultural object whose image and identity are shaped by film, paintings and literature. Class considers the witch's development in Europe. Also reviews the witch as a tool of racial, economic and social stratification in society. By looking at how the witch is represented through visual and literary culture, students develop an understanding of the witch as a historic symbol of shifting relations of gender, class and power.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC80U",
+      "name": "HISC 80U — Labor and Globalization",
+      "description": "Taking a long view of globalization from the 19th century to the present, course offers a historical survey of how strained trade routes, production networks, and supply came to be, by focusing on the workers, labor processes, and labor regimes that produce and reproduce this gargantuan \"factory without walls.\" Explores what concepts should be used to define globalization, must capitalism be global, and how many \"globalizations\" have there been since the 19th century, and what distinguishes them? What forces have caused and maintained inequalities in labor forces across the globe? How does global production isolate, divide, and separate workers from one another? How does it bring them together?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC80V",
+      "name": "HISC 80V — Introduction to Marxism",
+      "description": "The goal of this course is to introduce students to the thought of Karl Marx and some of the major thinkers working in the Marxist tradition. The majority of the course centers on Marx's writing, though students also read texts that extend and develop Marx's ideas into areas that Marx himself did not explore. Course addresses questions central to the Marxist tradition: What is capital? What is capitalism? What is a capitalist state? How did Marx understand colonialism and national liberation struggles? What is the specific nature of gendered oppression and exploitation under capitalism? What is the relationship between capitalist production and cultural production?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC80W",
+      "name": "HISC 80W — What is Imperialism?",
+      "description": "Course takes, as its starting point, the formation of the Marxian concept of imperialism in the early 20th century, in the context of centuries of colonialism and the late 19th-century scramble for Africa. Course surveys debates about imperialism in the post-World War period, particularly as they relate to the history of capitalism in the Global South and developments in world trade, finance, and production, leading to consideration of the present moment and grappling with what is novel in global capitalism today.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC82",
+      "name": "HISC 82 — Another Brick in the Wall",
+      "description": "Pink Floyd's album, The Wall, guides us into exploring what the walls are that make up our world, what they divide and imprison, and how they perpetuate power, but also limits that protect us. From the borders that enclose nation-states to the bodies that give us the illusion of contained selves, students encounter, build or tear down the walls that define knowledge, human, or nonhuman experience. By reading \"the wall\" as a metaphor through a range of texts and media, course investigates the meaning of place, consciousness, and objectivity, while critiquing power structures and systemic oppression in our society.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC83",
+      "name": "HISC 83 — White Like Me: Whiteness and the Racial Imaginary",
+      "description": "Survey course of antiracism literatures in the U.S. that introduces students to critical whiteness studies, a field of research, thought, and embodied antiracist practice that emerged in the 1980s and 1990s and is currently provoking renewed interest. Students think through the genealogy of whiteness studies and its origins in Black studies and movements to gain ethnic studies programs on campuses in California. Also considers the position of whiteness studies within the fields of critical race and ethnic studies, gender and sexuality studies, and political economy. It is important to note that this course is less a critical response to whiteness studies than an introduction to and survey of the field.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC85",
+      "name": "HISC 85 — Politics and Religion",
+      "description": "Considers both the religious sources of political ideas and the political sources of religious ideas, addressing topics, such as sovereignty, justice, love, reason, revelation, sacrifice, victimhood, evil, racism, rebellion, reconciliation, and human rights.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC86",
+      "name": "HISC 86 — After the Human: Artificial Intelligence and the End of the World",
+      "description": "Starting from Donna Haraway's \"A Cyborg Manifesto,\" course explores theoretical and myth-making texts that articulate visions of a future beyond humanity. Examines manifestations of the posthuman in film, fiction, and scholarly work. Readings include Haraway, Plato, Descartes, and others. Explores the concept of artificial intelligence as a fascination of science fiction, an engineering objective, a field of study, a philosophical problem, etc. Discussions on: (a) the figure of the thinking machine, its promises and attendant anxieties; (b) the history of ideas leading up to the birth of the field of artificial intelligence in the early 20th century; and (c) the philosophical roots of underlying concepts, such as intelligence, artificiality, agency, mechanism, identity, rationality, logic and free will.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC87",
+      "name": "HISC 87 — What is Utopia?",
+      "description": "Utopia translates to \"no place\" though it sounds identical to another Greek word, \"eutopia,\" or \"good place.\" This double meaning speaks to the desire for the ideal society coupled with the very impossibility of its creation. While the term utopia originated in the tradition of political philosophy, this course opens up discussion to a range of utopian thinking in the domains of literature, philosophy, and theory. Some of the questions students tackle are: What are some common elements of utopian imaginaries? Are utopias always already dystopias? How is the concept of utopia connected to the way we shape and experience space? Close reading and discussion of written and visual texts is complemented by analytical and creative writing exercises that engage the themes.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC102",
+      "name": "HISC 102 — Philosophy and Poetics",
+      "description": "Introduction to the relationship between philosophy and poetics in some major 19th- and 20th-century poets and thinkers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC103",
+      "name": "HISC 103 — The Problem of California",
+      "description": "From Muir Woods to Hollywood and Silicon Valley to the Central Valley, California has been a path breaker that has shaped politics and cultural production. The state's rich diversity makes it an especially exciting site for studying the relations between divergent social, economic, cultural, political, and ecological forces. Course investigates the histories, cultures, and geographies of California by exploring relations between power and place through ethnographic, archival, critical, and aesthetic lenses. Also examines the role of identity within constructions of inequality and struggles for political change. Course fulfills one upper-division course requirement for the minor in the history of consciousness.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC104",
+      "name": "HISC 104 — Political Writing",
+      "description": "Explores the politics of writing by moving beyond rehearsals of established form into an analysis of the politics of writing, asking: What are the philosophical and political implications of the writing forms we choose?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC105",
+      "name": "HISC 105 — Antisocial Media",
+      "description": "Provides an introduction to critical scholarship on media infrastructures with a focus on cybernetic systems, internet protocol, surveillance, logistics, and finance. It explores how these configurations of power are reorganizing our societies and restructuring our subjectivities.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC106",
+      "name": "HISC 106 — The U.S. Horror Film: Race, Capitalism, and Monsters",
+      "description": "Analyzes films and images to consider how the genre of horror has screened the problems, expectations, and fantasized afterlives of racism, labor exploitation, ruin, and war.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC107",
+      "name": "HISC 107 — The Idea of Reality",
+      "description": "Examines the \"real\" in a variety of registersâfrom realism in art to reality TV, from virtual reality to the real number systemâand asks what, if anything, these usages have in common, what distinguishes the real from the unreal, from the ideal, and from the lie. Through writing, films, and television ranging from the serious to the whimsical, course looks at the ways in which the idea of \"reality\" is invoked, how it is represented, and to what ends.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC108",
+      "name": "HISC 108 — Parables for a Warming Planet: The Politics of Climate Change",
+      "description": "Examines the literary forms of parables, allegories, fables, and other kinds of storytelling as a way of understanding and responding to ecological crises. How can these stories capture the scale and myriad agents of climate change, sea level rise, and species collapse while helping us explore options for a planetary future? What kinds of attention do these forms demand of their readers and how is their simplicity matched by a complexity of possible interpretations? Course also examines the role of figurative language and speculation in the discourse of science. What are the stories that science tells itself? Texts span literature, science, and philosophy with a special interest in the fields of Black feminism, science studies, and Indigenous thought of the Island Pacific.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC109",
+      "name": "HISC 109 — Liberalism and Violence",
+      "description": "Explores the meanings of modernity, religion, and violence and examines the conceptual status that war and sovereignty, long associated with religious belief, have since been accorded within the modern humanist and secular tradition. Also explores aspects of this tradition and their relationship to questions of morality and violence and how violence-and its relationship to secularism-can be better understood today as a mode of negotiating human existence in a world dominated by technology and its myths.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "JUNIOR",
+          "SENIOR"
+        ]
+      ]
+    },
+    {
+      "id": "HISC110",
+      "name": "HISC 110 — Histories of the Atom",
+      "description": "This interdisciplinary course considers the atom in four respects: as philosophical idea, as weapon, as catastrophe, and as clock. Students will learn about ancient atomisms, radiometric dating, the Manhattan Project, the bombing of Hiroshima, and the Chernobyl nuclear disaster.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC111",
+      "name": "HISC 111 — States, War, Capitalism",
+      "description": "Survey of seminal work on ancient origins of the state, diverse geo-political systems of war and diplomacy, and consequences of the formation of the world market on the evolution of geo-political systems up to and beyond the wars of today.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "JUNIOR",
+          "SENIOR"
+        ]
+      ]
+    },
+    {
+      "id": "HISC112",
+      "name": "HISC 112 — Foundations in Critical Theory",
+      "description": "Concentrates on the Marxist tradition of critical theory, centering on classical texts by Marx and by writers in the Marxist tradition up to the present.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC113",
+      "name": "HISC 113 — History of Capitalism",
+      "description": "Surveys major developments in the capitalist world economy from the 13th century to today. Topics include: the transition to capitalism in Europe; the emergence of banking; colonization, slavery, and uneven development; industrialization; and globalization.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC114",
+      "name": "HISC 114 — Histories of Miseducation",
+      "description": "Examines the history of the idea of \"miseducation\" through a transnational lens. Focuses in particular on histories of the (mis)education of people of African descent, drawing on historical cases and theorizations from both the Continent and the diaspora. This class will trace the emergence of the concept and proximate theorizations of \"education\" itself through an array of different social movements, institutional formations, and texts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC115",
+      "name": "HISC 115 — The Radical Right, A Symptom of Capitalism",
+      "description": "Provides the historical context and the theoretical tools necessary for understanding today's radical right. Specific focus on considering the far right in the context of radical constructions under conditions of late capitalism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC116",
+      "name": "HISC 116 — What is Species?",
+      "description": "Examines the rise of species-thinking within the Western philosophical tradition and how different thinkers have defined what distinguishes the human species from others. A critical and close examination of Charles Darwin’s role as a thinker of species is at the center of the course, with interest in its theoretical and political implications for discourses on gender and race. Readings include Kant, Feuerbach, Marx, Plessner, Grosz, Haraway, and others.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC117",
+      "name": "HISC 117 — Making the Refugee Century: Non-Citizens and Modernity",
+      "description": "Examines the material, discursive, and racialized conditions that have produced refugees in the last century. Also examines the social claims made by refugees, institutional responses to them, and political alternatives to state belonging",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC118",
+      "name": "HISC 118 — What is Money?",
+      "description": "Explores what happens if money is examined as a material and politically contingent phenomenon in its own right, rather than assuming the classic \"three functions of money\" (unit of account, means of exchange, and store of value). Students examine these functions separately with an eye to the tensions that arise between them, and trace a deep history of monetary systems as the outcome of a process of negotiation and contestation. Topics considered include palace economies, cowrie shells, metallic coinages, the modern monetary revolution, and contemporary struggles over student debt.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC119",
+      "name": "HISC 119 — Politics of Recognition",
+      "description": "Course touches on the philosophical roots of Hegel's text, starting from the pre-World War II rereading of Hegel's master/slave dialectic that became the kernel of postwar thought arising from struggles over capitalism, communism, fascism, racism, colonialism, and feminism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC120",
+      "name": "HISC 120 — What is a State?",
+      "description": "Examines the modern concept of state, its anthropological assumptions, categories, its critique, and its crisis. Inquires into the concept of representation, borders, security and control in thinkers, such as Thomas Hobbes, John Locke, Jean-Jacques Rousseau, Immanuel Kant, G.W.F. Hegel, Karl Marx, Carl Schmitt, and Lenin.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC121",
+      "name": "HISC 121 — What Is Politics?",
+      "description": "Reviews the concept and practice of politics, its anthropological assumptions, categories, its critique, and its crisis. Students inquire into the concept of politics, justice, conflict, and law.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC122",
+      "name": "HISC 122 — What is the Psyche?",
+      "description": "Surveys the history of psychoanalysis, emphasizing Sigmund Freudâs foundational role in shaping the concept of the psyche. Explores psychoanalysisâ relevance to contemporary issues, particularly its intersection with ongoing developments in psychiatry, neuroscience, and artificial intelligence. Through critical engagement with key texts, students investigate how psychoanalytic concepts continue to influence our understanding of mind, behavior, and subjectivity.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC124",
+      "name": "HISC 124 — What is Cinema?",
+      "description": "Explores the fundamental question \"What is Cinema?\" Drawing inspiration from AndrÃ© Bazinâs seminal collection of essays, course traces the historical evolution of cinema, its national traditions, genre development, and philosophical inquiries. Through readings and screenings, students engage with the ideological, artistic, and theoretical frameworks that define cinemaâs role in shaping emotional and intellectual experiences.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC125",
+      "name": "HISC 125 — Queerness and Race",
+      "description": "Gives students a grasp of different definitions and uses of the concept queerness in its relationship to race and how it's tied to the politics of lesbian, gay, bisexual, and transgender (LGBT) identity.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC127",
+      "name": "HISC 127 — What is Modernity?",
+      "description": "Is modernity a Western concept? Are there plural modernities? How many modernities? Is the concept of modernity a polemical concept? Modernity was born as a new epoch in opposition to the dark age, as a new beginning in opposition to old traditions, as a tabula rasa in opposition to previous forms of knowledge. This course investigates the concept of modernity, its philosophical and political categories, and the underlying notion of time and history. The course proposes to inquire into the concept of modernity and its critics in texts by Descartes, Thomas Hobbes, Immanuel Kant, G.W.F. Hegel, Walter Benjamin, Simone Weil, Dipesh Chakrabarty, Sylvia Wynter.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC128",
+      "name": "HISC 128 — Why Obey?",
+      "description": "We are everyday confronted with countless expectations of obedienceâat home, work, while studying or at worship; with parents, teachers, the police. Some demands are formal and public, others are informal, unwritten norms, or habitual codes of conduct. Basic observation of the vast range of rules, norms, and codes that demand compliance invites a range of questions, from a diverse set of perspectives. In response to this challenge, this course examines the theory and practice of disobedience across a range of time periods and contexts. Course considers examples of conscientious objection, riots, strikes, direct action and the like, ultimately seeking to answer: why and how do people disobey?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC129",
+      "name": "HISC 129 — Politics of Violence",
+      "description": "Inquires into the relationship between politics and violence as articulated by early modern, modern, and contemporary political theorists. Investigates the role of violence in the constitution and maintenance of sovereign power and the construction of the modern subject of politics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC130",
+      "name": "HISC 130 — Blackness and the Psychoanalytic Imaginary",
+      "description": "Scholars in African and Black Studies have critiqued Freudian and post-Freudian psychoanalysis for its claim of universality, emphasizing its conscious and unconscious failures in accounting for the psycho-historical effects of racial violence. Drawing on thinkers and practitioners situated in both disciplines, this seminar examines Freudian notions of instinct, drive, desire, death, and sexuality in relation to blackness. Our critical study of Freud is guided by the following questions: how should we make sense of the seeming incommensurability between psychoanalysis and blackness?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC131",
+      "name": "HISC 131 — Postcolonial Paths",
+      "description": "How postcolonial thought occasions the reconsideration of the Western tradition of political philosophy and the discovery of alternative pathways of modernization within it.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC132",
+      "name": "HISC 132 — How to Break a Nation? De/Anti/Post-Colonial Discourses",
+      "description": "Nationalism is making a comeback, with far-right movements advocating protectionism, border control, and rejection of international regulations under the banner of decolonization. Historically, national liberation movements also sought freedom through nationalist claims. But is the anti-colonial struggle compatible with nationalism? This course explores key texts on nationalism, anticolonial, postcolonial, and decolonial theory, applying them to historical cases to examine the complex relationship between nationalism, the modern state, and emancipation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC133",
+      "name": "HISC 133 — What Freedom is to Me",
+      "description": "Offers an opportunity to study with established artist and Distinguished Professor Sir Isaac Julien and gain insight into production and the critical reception of moving image, video art, and installation work by examining historical and contemporary art practice from the 1960s to the present, focusing on artists and curators working in the field of film art. Julienâs film installations are the result of research that combines insights from many different disciplines with the recurring question of freedom present and treated throughout his work. His poetic artworks question the established preconceptions around the understanding of history and the Western aesthetics and encourage liberation in face of political injustices and artistic constraints.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC135",
+      "name": "HISC 135 — What is Freedom?",
+      "description": "Seminar in modern political thought. The focus and outcome of the course is developing the skill of analytical thinking and clear formulation of concepts in writing. Raises and discusses a set of fundamental questions around the method and methodology of moral and political thought, to which every member in the seminar contributes.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC136",
+      "name": "HISC 136 — Latin American Thought",
+      "description": "Does Latin American thought have to appeal to quintessential Western philosophical questions regarding knowledge, ethics, reality? Course explores how concepts such as identity and abstraction, as well as realities of indigeneity and diversity, both cause and effect the development of analytical and political frameworks across Latin America. Examines what difference social, political, and ethnic inequality might make to the development of core conceptual and philosophical questions and frameworks.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC137",
+      "name": "HISC 137 — Why Should I Care?",
+      "description": "Have you ever wondered why you should care? Or wished you wouldnât? Caring can be overwhelming. But most people need care, feel they care, or encounter care in one way or another. Caring can feel good, and also awful; it can do good but also be used to control or hurt others. Care can be rigged by inequalities, and power. Care is complicated, but also vital to people, non-humans, and the planet. It matters what happens with care, when we care, and if we donât. It matters who gets the care they need, and who doesnât. In this course we explore what care means from a range of interdisciplinary perspectives.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC138",
+      "name": "HISC 138 — Fascism and Film",
+      "description": "Provides students with an opportunity to try to understand what fascism is, what it looks and sounds like. Course investigates the conditions from which fascism arises, attempting to answer such questions as: Why is fascism always nationalist? How does it relate to liberalism and capitalism? A wide variety of literature is studied to answer these questions â from Marxâs writing to the Futurist Manifesto to early-20th century analyses of fascism to contemporary psychoanalytic and political economic analyses. The course pays special attention to a few themes, including economy, ideology, culture, psychology and fascismâs social movement quality.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC140A",
+      "name": "HISC 140A — Africa: How to Make a Continent",
+      "description": "Introduces the histories of exploration, museum collection, and photography that shape historical and contemporary ideas about race, culture, and place in Africa.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC142",
+      "name": "HISC 142 — What is a Person?",
+      "description": "The question âwhat is a person?â may seem simple, but upon reflection it is revealed to be complex and contentious. Consider: the vast majority of human beings have historically been denied the status of âpersons,â including most women and racialized peoples. Conversely, there are many non-human entities that have been granted recognition as persons, including corporations, artificial learning systems, even rivers and mountains. So, if âpersonsâ are not merely synonymous with individual biological humans, what are they? This course examines these questions through the scope and nature of personhood from the medieval world to the present, exploring how they touch upon fields such as philosophy, law, politics, science, and the arts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC144",
+      "name": "HISC 144 — World-Making and Power",
+      "description": "One who comprehends the substance of things can shape change. Numerous narratives link power to the elements of air, fire, earth, water. Others perceive the world as composed of molecules, particles, materials. Some find cosmologies, experience, or spirit. What is the world made of? We read philosophy and analyze popular culture; engage with the matter around us; observe, create and play; think with science studies and poetry; discuss power, liberation, justice; inquire about cosmology; explore art and the environmental humanities; and, most importantly, imagine making alternative worlds.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC147",
+      "name": "HISC 147 — Truth, Ideology, And Power",
+      "description": "Amid a resurgence of explicitly ideological politics married to what some consider to be a dearth of concern for empirical truth, how should we think about the relationship between truth and ideology? This class pursues an interdisciplinary approach, spanning literatures from the fields of epistemology and language philosophy, intellectual history, political theory, and semiotics, in order to consider how the problem of truth surfaces in theorizations of ideology, what differentiates ideologies from truths, and what the function of âtruthâ is in our conceptions of ourselves today.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC150",
+      "name": "HISC 150 — Radical Political Theory",
+      "description": "Introduction to texts of radical political theory, a body of work that critically examines fundamental premises of politics. Addresses the question \"What is the 'political'?\" Explores political theory of the word \"radical\" Examines texts of contemporary political theory, ideas of politics and the political that are original, defy convention, and challenge our notions of what is acceptable; and examines etymological origins of the word. Weekly readings include new \"little\" books, contemporary essays, manifestos, and zines, that touch on the current edges of political theory. Course fulfills the ;Textual Analysis and Interpretation (TA) general education requirement. This means that students are expected to read attentively, exercising critical and analytical thinking, and evaluate the effectiveness and persuasiveness of the theories contained within these readings, as well as the modes of writing used to convey them.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC152",
+      "name": "HISC 152 — Critical Ecologies: Thinking, Practice, Change",
+      "description": "As the environmental crisis deepens in vastly unequal ways across the planet, people and societies are compelled to prevent the collapse of living environments by becoming more ecological. This course explores how ecological notions deploy across different terrains of thinking and practice, changing how we conceive the place of humans in the world. The focus is on more than human interdisciplinary approaches that question dominant environmental relations, de-center the traditional place assigned to humans as the highpoint of nature, and seek for more caring ways of living with non-humans.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC155",
+      "name": "HISC 155 — Science, Technology and Social Transformation",
+      "description": "Can we revolutionize the world with science and tech? How do science and technology shape the societies and the environments we live in? How can we create radical social and ecological change through new innovations and inventions? The course introduces students to Science and Technology Studies (STS) and to critical perspectives on the history, social aspects, ecological dimensions, culture, and politics of science, technology, and medicine in the context of contemporary real-world issues. The course is open to everyone. Students from all departments and disciplines across the arts and humanities, sciences, engineering, and social sciences are welcome.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC160",
+      "name": "HISC 160 — Advanced Topics in History of Consciousness",
+      "description": "Provides students an opportunity for in-depth analysis of advanced topics within the history of consciousness arena. Course topic changes; see the Class Search for current topic.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC163",
+      "name": "HISC 163 — Freud",
+      "description": "The development of Freud's concept of mind. Extensive reading tracing the origins and development of Freud's theories and concepts (e.g., abreaction, psychic energy, defense, wish-fulfillment, unconscious fantasy, dreams, symptoms, transference, cure, sexuality) and emphasizing the underlying model of the mind and mental functioning.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC164",
+      "name": "HISC 164 — Monster Theory",
+      "description": "Examines the shift modernity has introduced to our understanding of monstrosity and the roles and functions monsters have played in the construction of homogenous nation-states and national subjects. How did colonial projects justify themselves based on the alleged monstrosity of the Other? How have monsters come to be tools through/against which the dominant ideas of religion, science, secularism, gender, and sexuality are constructed and subverted? What are the promises of monsters? Reading theories of monsters, we see how monsters inform and unsettle our social and political imaginations. (Formerly Modern Monsters.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC166",
+      "name": "HISC 166 — Race, Science, and Humanities",
+      "description": "Is race a social construct or (partially at least) a biologically grounded reality? Which medical, biological, social, and political agendas are at play with respect to the genomics of race? Genomic results of the past few decades have added significant complexity to the view that race is primarily a social construct. The debates rage, and the stakes are high. Course engages the history, philosophy, and anthropology of the genetics and genomics of race from the 19th century to today, also introducing the basic science on a \"need-to-know\" basis.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC167",
+      "name": "HISC 167 — Liberation Technology",
+      "description": "Explores technologies for social change, self-affirmation, and more-than-human connection. Investigates technologies of liberation in an era of enclosure, control, domination, and regressive universalisms. Envisions alternative technologies for transgression, self-government, collective autonomy, and ecological interdependence. Students read critical social theory; experiment with alternative technologies and alternative futurities; create speculative objects, media, relations; explore image, sound, and the body; think with art, continental philosophy, cultural studies; discuss power, liberation, and justice; and, most importantly, learn to know your escape routes.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC169",
+      "name": "HISC 169 — Blue Humanities: Oceans, Humanity, and the Future",
+      "description": "As steerers of planetary climate systems, loci of biodiversity, sources of food, and cradles of inspiration to poets, philosophers, artists, and society in general, the oceans are essential to our future. Course combines history, philosophy, literature, and cinema, using them as lenses through which to analyze, understand, and effect positive change on troubled oceans. Course fits well with UCSC's oceanside location and marine campus.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC185C",
+      "name": "HISC 185C — Comparative Religion: A Critical Introduction",
+      "description": "Introduces the comparative study of world religions and provides critical entry points toward the understanding of its history as a discipline. Special emphasis on the troubled history of imperialism, orientalism, and facile generalizations that have always accompanied the attempt to understand foreign or dead cultures.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC185T",
+      "name": "HISC 185T — Marxism and Feminism",
+      "description": "Critically engages with feminist-Marxist perspectives on social-reproduction. Introduces the foundation of Marxism and feminist-Marxist critique while examining the international feminist struggle historically from the origins of capitalism to the present moment.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC187",
+      "name": "HISC 187 — The Emergence of the Avant-garde from Disenchantment to Dada",
+      "description": "Examines the socio-political and cultural origins of early 20th-century avant-garde movements focusing on the vanguard movement of futurism, the roles played by the disenchantment of the world, and technological rationalization as it relates to warfare and aesthetic production.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC190",
+      "name": "HISC 190 — Nature or Nurture?",
+      "description": "Examines baseline philosophical and scientific views of human nature in the context of the debate about existence and the role of human nature., Considers whether human nature is singular or plural, genetic or environmental, and what role it plays in political and social thought. Examines race and sex/gender as biological and/or cultural categories and realities. Concludes with explicit attention to theoretical and conceptual frameworks highlighting nurture, the environment, and social construction, vis-a-vis human \"nature.\" As a critical and exploratory course, no ultimate position on human nature is endorsed. Prerequisite(s): HISC 166 and by permission of instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC199",
+      "name": "HISC 199 — Tutorial",
+      "description": "A program of individual study arranged between an undergraduate student and a faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC203A",
+      "name": "HISC 203A — Approaches to History of Consciousness",
+      "description": "An introduction to history of consciousness required of all incoming students. The seminar concentrates on theory, methods, and research techniques. Major interpretive approaches drawn from cultural and political analysis are discussed in their application to specific problems in the history of consciousness. Prerequisite(s): first-year standing in the program. See the department office for more information.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC203B",
+      "name": "HISC 203B — Approaches to History of Consciousness",
+      "description": "Writing-intensive course based on readings in HISC 203A .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HISC 203A . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "HISC203A"
+        ]
+      ]
+    },
+    {
+      "id": "HISC205",
+      "name": "HISC 205 — Global Political Thought",
+      "description": "Seminar anchored in a question fundamental to the history of ideas in the modern history of empire: How to think globally about political thought. Through sustained examinations of classic texts in the history of moral and political philosophy, the seminar explores how the \"global\" itself becomes a universal framework essential to understanding politics worldwide.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC207",
+      "name": "HISC 207 — Undisciplining Theory",
+      "description": "Deep, critical reading of key authors in contemporary philosophical and social thought, focusing on the undisciplined elements that inform and drive their work. Exploring the reach and potential of thinking that moves beyond fixed theories and conceptual allegiances, course avoids the disciplining and self-referential inertia that generates rigid disciplines, fields, or dogma. What problems and events prompted a specific theoretical intervention? What practices are invited in a text? Course explores how emerging problems can challenge a theory's relevance and inspire our own thinking to creatively engage with change.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC208",
+      "name": "HISC 208 — Humanism and its Critics",
+      "description": "Examines modern humanism and its critics in a trajectory composed of three moments: foundational texts of 19th century humanism and some of their 20th century interpreters, the critiques of humanism launched by structuralist/post-structuralist continental theory in the 1960s that dealt with the essentialization of the human (theoretical anti-humanism), and contemporary critiques that take issue with anthropocentrism (posthumanism/transhumanism). Students consider thematics that have shaped humanism and the controversies surrounding it including questions of secularism, morality, and materialism, essentialism and class/gender/racial identity, anthropocentrism, and universalism. Readings include Feuerbach, Marx, Sartre, Heidegger, Foucault, Althusser, Haraway, Braidotti, and Ferrando.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC209",
+      "name": "HISC 209 — Hegelâs Phenomenology of Spirit",
+      "description": "Students read Hegel's Phenomenology of Spirit from cover to cover. This book has been critical for many disciplines such as philosophy, politics, psychology, anthropology, sociology",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC210",
+      "name": "HISC 210 — New Left Theory",
+      "description": "The âNew Leftâ refers to a wave of Leftist organizations, progressive movements, protests and revolts across the globe that emerged between the mid-1950s and the 1970s. It includes the worker and student rebellions of May 1968; Third Worldism, Eurocommunism, and international Maoism; as well as protest movements organized around feminism, gay liberation, civil rights, environmentalism, anti-war and nuclear disarmament. This seminar examines key debates in the intellectual and political formation of the New Left, with an eye to their contemporary relevance for us today.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC214",
+      "name": "HISC 214 — What is a Subject?",
+      "description": "Examines major streams of theorization about the subject in postwar and contemporary continental and critical theory. Thinkers include Althusser, Badiou, Balibar, Butler, Fanon, Foucault, Honneth, Laclau and Mouffe, Mbembe, Ranciere, and Sartre.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC215",
+      "name": "HISC 215 — History of Unconsciousness",
+      "description": "There is a history of political consciousness that culminated in the project of enlightenment. There is a history of individual, collective, and political unconscious, which culminated in fascism. These two histories are intertwined, but their outcome is not preconceived. On the contrary, their relationship and integration constitute a field of possibilities for social, political, and human experimentation. This course inquires into the concept of political unconscious by exploring thinkers, such as Kant, Foucault, Adorno, Horkheimer, Freud, Jung, Reich, Fromm, Marcuse, and Klein.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC216",
+      "name": "HISC 216 — Critical Race/Ethnic Studies",
+      "description": "Explores foundational and emergent theoretical and methodological approaches to the study of race. Issues examined include the production of race within and across various spheres of human activity and how race has shaped notions of difference and commonality in the past and present.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC217",
+      "name": "HISC 217 — Critical Human Rights Theory",
+      "description": "Addresses about 10 of the significant critiques of human rights discourse published in the past decade by authors, such as Moyn, Douzinas, Fassin, Ticktin, J. Slaughter, D. Chandler, Mamdani, Weitzman, Badiou, and Meister.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC218",
+      "name": "HISC 218 — French Hegel",
+      "description": "Students expected to locate with fluency and precision their own research projects within the conceptual and methodological frameworks defining the late-20th century constellation of thought to be laid out systematically over the course of the term.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC219",
+      "name": "HISC 219 — Radical Futures and Visual Culture",
+      "description": "Attempts to break through the pervasive dystopia and catastrophism of the present and open up speculative proposals regarding the not-yet and what's to come. Students critically consider methodologies of futurity among varieties of radical imaginaries grounded in the traditions of the oppressedâincluding Afrofuturisms, Indigenous, Chicanx/Latinx, multispecies, postcapitalist, and communist proposalsâand place them in relation to threatening reactionary, neo-fascist tendencies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC220",
+      "name": "HISC 220 — Theories of Democracy and Dictatorship",
+      "description": "Although democracy is generally accepted as the best and most legitimate form of government, there is little agreement on what it means and how it should function. This course explores the concept and theories of democracy, with a focus on the âPeopleââwho constitutes the people, how popular will is embodied, and how it may be expressed. Course explores debates about different models of democracy and examines how alternatives to democracy, such as dictatorship, autocracy, and tyranny, have been conceptualized. Also studies democracy and its âothersâ in relation to a constellation of concepts including power, equality, participation, accountability, resistance, legitimacy, and the rule of law.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC221",
+      "name": "HISC 221 — Surveillance Culture: Privacy, Publicity, Art, and Critical Social Practice",
+      "description": "Examines how artists and activists are responding by using surveillance technologies to look over \"big brother's\" shoulder and to create greater awareness of privacy issues. Course pays particular attention to metadata, big data, bio-power, and the relationship between various forms of surveillance with respect to privacy, publicity, and free speech.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC222B",
+      "name": "HISC 222B — Theories of Late Capitalism",
+      "description": "Writing-intensive course based on readings in HISC 222A.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HISC 222A. Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "HISC222A"
+        ]
+      ]
+    },
+    {
+      "id": "HISC223",
+      "name": "HISC 223 — Althusser",
+      "description": "Through close readings of Althusser's major texts, this course systematically examines the political and philosophical thought of Louis Althusser and analyzes why he is one of the most important thinkers of the 20th century.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC224",
+      "name": "HISC 224 — Marx's Capital Vol. 1",
+      "description": "Investigates the many layers of Marx's Capital.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC226",
+      "name": "HISC 226 — Liberty and Resistance",
+      "description": "Examines modern conceptions of liberty from a non-liberal perspective. Proposes to inquire into the concept of liberty as an individual and collective right by exploring its philosophical justifications and criticism in thinkers, such as Kant, Hegel, and Marx.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC227",
+      "name": "HISC 227 — Carl Schmitt",
+      "description": "Provides a careful contextualization and a critically informed interrogation of the major works of Carl Schmitt, a figure at the center of many contemporary debates in political and legal thought.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC228",
+      "name": "HISC 228 — Deleuze and Guattari: A Thousand Plateaus (Readings in Continental Theory)",
+      "description": "Students read Deleuze and Guattariâs âA Thousand Plateausâ (1980) to explore its contemporary relevance for mobilizing radical alternatives, for liberating bodies and ecologies, for undoing noxious universalities and majoritarian politics, and for remaking vision, technics, and affect. Course, co-taught by Professor Dimitris Papadopoulos and Professor Maria Puig de la Bellacasa. âA Thousand Plateausâ is examined within the context of poststructuralist thought through a detailed chapter-by-chapter analysis, alongside related works.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restriced to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC229",
+      "name": "HISC 229 — Walter Benjamin",
+      "description": "Investigates Walter Benjamin's thought through a close reading of some of the texts in his production that will enable students to address his conceptions of religion, politics, art, and history.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC230A",
+      "name": "HISC 230A — Poetry, Language, Thought",
+      "description": "Introduces the relation between philosophy and poetics in some major 20th-century poets and thinkers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC230B",
+      "name": "HISC 230B — Poetry, Language, Thought",
+      "description": "Writing-intensive course based on readings in HISC 230A.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HISC 230A , or permission of instructor.",
+      "prereqGroups": [
+        [
+          "HISC230A"
+        ]
+      ]
+    },
+    {
+      "id": "HISC231",
+      "name": "HISC 231 — From System to Fragment",
+      "description": "Explores the rise and fall of the philosophical system. It proposes to inquire into the origin of the systematic philosophy, its development, its crisis, and its disintegration. This theoretical trajectory will be investigated together with alternative trajectories in thinkers, such as I. Kant, G. Fichte, Novalis, K.W.F. Schlegel, G.W.F. Hegel, M. Stirner, S. Kierkegaard, K. Marx, F. Nietzsche, L. Wittgenstein, T.W. Adorno, W. Benjamin, Empedocles.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC232",
+      "name": "HISC 232 — Music, Social, Thought",
+      "description": "Examines the various modes through which intellectuals, artists, and other commentators have written about music as a socially situated art as well as the ways they have theorized the social through examinations of musical phenomena. Focus changes with course offering.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC236",
+      "name": "HISC 236 — 20th Century Critical Theory",
+      "description": "Focuses on the critical-theoretical approaches that are associated with an interdisciplinary group of scholars affiliated with the Institute for Social Research, known as the \"Frankfurt School\". Surveys some of their most important contributions to the critique of capitalism, the authoritarian state, instrumental reason, culture, historical progress, law, and social organization. Discusses whether or not these different works fit together into a single tradition called \"critical theory\" and what theoretical and political implications the gesture of such naming entails. Investigates the normative foundations of critique and the philosophical influences that shape them. Course also explores the different \"generations\" of the Frankfurt School and map out the relationship of these thinkers to the traditions of Western Marxism, psychoanalysis, and social theory. Concludes by analyzing the limitations of critical theory and the intellectual challenges it faces in the contemporary world.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC237A",
+      "name": "HISC 237A — Historical Materialism",
+      "description": "Students read landmark works of classical and contemporary Marxism. Writings from Marx, Lenin, Trotsky, Lukacs, Gramsci, Adorno, Benjamin, Sartre, Althusser, Anderson, Jameson, and Zizek are addressed.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC237B",
+      "name": "HISC 237B — Historical Materialism",
+      "description": "Writing-intensive seminar based on HISC 237A. Students read landmark works of classical and contemporary Marxism. Writings from Marx, Lenin, Trotsky, Lukacs, Gramsci, Adorno, Benjamin, Sartre, Althusser, Anderson, Jameson, and Zizek are discussed.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC240",
+      "name": "HISC 240 — Basic Principles of University-Level Pedagogy",
+      "description": "Provides training for graduate students in university-level pedagogy in general. Under the supervision of the department chair, coordinated by a graduate student with substantial experience as a teaching assistant.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC242A",
+      "name": "HISC 242A — Violence and Phenomenology: Fanon/Hegel/Sartre",
+      "description": "Study of the work and influence of Frantz Fanon from a range of viewpoints: existential, phenomenological, psychoanalytic, and political; a variety of genres: film, literature, case history, and critique; and a set of institutional histories: clinical, cultural, and intellectual.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC242B",
+      "name": "HISC 242B — Violence and Phenomenology: Fanon/Hegel/Sartre",
+      "description": "Writing intensive course based on readings in HISC 242A.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite: HISC 242A . Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "HISC242A"
+        ]
+      ]
+    },
+    {
+      "id": "HISC244",
+      "name": "HISC 244 — Racial Capitalism",
+      "description": "Includes readings of selected foundational texts in the intellectual lineage now known as \"racial capitalism.\" Focus is on critical appropriation of and/or engagement with Marxism by key thinkers in what is now sometimes known as the \"Black radical tradition.\" Authors may include Karl Marx, W.E.B. DuBois, Eric Williams, Oliver Cox, Walter Rodney, Stuart Hall, Cedric Robinson, Angela Davis, and/or Ruth Wilson Gilmore. Course is organized around the close reading of a set of key texts. In addition to developing knowledge of the substantive topics, the course is organized to facilitate the development of key skills in textual interpretation and analytic argumentation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC246",
+      "name": "HISC 246 — Black Radicalism",
+      "description": "Examines the history of black radical intellectual, cultural, political, and/or social movements. May take the form of a survey of different aspects of black radicalism or may focus on a particular individual, groups, period, etc.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC248",
+      "name": "HISC 248 — Black Critical Theory",
+      "description": "Offers a critical introduction and overview of black critical theory across multiple fields and genres. Beginning with the question of race and ontology, students go on to consider questions of sovereignty and domination, freedom and liberation, identity and difference, and conclude with a study of race and the post-human. Major thinkers studied include: Sylvia Wynter, Achille Mbembe, Frantz Fanon, and W.E.B. DuBois, as well as contemporary figures, such as Frank Wilderson, Fred Moten, and Hortense Spillers.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC249",
+      "name": "HISC 249 — Black Ecological Thought",
+      "description": "Surveys writings that bridge the divide between Black studies and environmental studies and, by extension, between environmental/ecological and postcolonial/antiracist movements. Considers the work of theorists, historians, and other academics, as well as that of activists engaged in on-the-ground struggle. Encourages an understanding of how colonialism and slavery and their legacies have been intertwined with the destructive ways of inhabiting the earth that have contributed to environmental crises facing the planet today. Draws upon such an understanding to assess present-day forms of critique and mobilization around racism and the environment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC252",
+      "name": "HISC 252 — Poststructuralism",
+      "description": "French poststructuralism, with particular attention to the main philosophical texts of Jacques Derrida and Michel Foucault. Other representative theorists as well as critics of poststructuralism are studied as time permits.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC261",
+      "name": "HISC 261 — Modern Intellectual History",
+      "description": "Survey of 19th- and 20th-century intellectual history that focuses on a cross-section of major works from Hegel to Levi-Strauss.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC262",
+      "name": "HISC 262 — Critical Theory After Habermas",
+      "description": "Examines key works of Frankfurt School theorist Jurgen Habermas, his followers, and critics, on topics such as the public sphere, the theory of communicative action, power and domination, and religion and secularism.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC263",
+      "name": "HISC 263 — European Philosophies of Difference",
+      "description": "Survey of European philosophies of difference, tracing the evolution of philosophical concepts and frameworks from Nietzsche, Kierkegaard, Bergson, and Heidegger through later 20th-century French post-structuralist, feminist, and Frankfurt School theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC264",
+      "name": "HISC 264 — The Idea of Africa",
+      "description": "Examines the position of Africa in cultural studies and the simultaneous processes of over- and under-representation of the continent that mark enunciations of the global and the local. Themes include defining diaspora, the West as philosophy, and Africa in the global economy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC265A",
+      "name": "HISC 265A — Biopolitics l: Problematics",
+      "description": "Focuses on the theorization of life and death in relation to power as proposed by 20th-century thinkers. Investigates how a biopolitical problematic has emerged and what insights into politics it offers. Explores the different ways in which thinkers have conceptualized biopolitics and its broader implications.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC265B",
+      "name": "HISC 265B — Biopolitics II: Corporealities",
+      "description": "Focuses on the exploration of biopolitics and necropolitics on the body. Examines how the body has become deeply integrated into power relations in modern society. Also explores different forms of corporeality that are conduits of political struggle and sites of transgression, resistance, and refusal.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC267",
+      "name": "HISC 267 — Capital and Democracy in an Age of Finance",
+      "description": "What is the connection between capital accumulation and democracy in an era when creating financial assets has been decoupled from producing goods and services? Democracy can pose a threat to capital accumulation when an accelerated rise in asset values deepens historical inequality; financial markets can pre-empt such threats by becoming suddenly illiquid, thereby bringing on an event of disaccumulation unless/until restoring the confidence that capital markets have in their own continuing appreciation becomes the highest political priority of the state. This course examines what it meansâboth politically and theoreticallyâfor this consensus to break down.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC268A",
+      "name": "HISC 268A — Rethinking Capitalism",
+      "description": "Readings include works by speakers at UCSC's Rethinking Capitalism Initiative. Topics are: (1) financialization versus commodification (how options-theory has changed capitalism); (2) material markets (how this theory performs); and (3) valuation and contingency (how economies make worlds).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC268B",
+      "name": "HISC 268B — Rethinking Capitalism",
+      "description": "HISC 268A addressed changes in the theory and practice of capitalism as derivatives markets have become increasingly central to it. This course, which can be regarded as either background or sequel, concerns questions that surround recent debates about derivatives from the standpoint of broader developments in law, culture, politics, ethics, ontology, and theology. What would it mean to see questions of contingency and value as a challenge to late-modern understandings of these modes of thought?",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC269",
+      "name": "HISC 269 — Property and Possession",
+      "description": "Covers modern conceptions of property and their critique. Inquires into the concept of property as an individual right by exploring its philosophical justifications and criticism in thinkers, such as John Locke, Jean-Jacques Rousseau, Immanuel Kant, G.W. F. Hegel, Pierre-Joseph Proudhon, and Karl Marx.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC271",
+      "name": "HISC 271 — Historical Temporalities",
+      "description": "Explores the critique of the unilinear historical time through the prism of Reinhart Koselleck, Walter Benjamin, and Ernst Bloch's attempts to reconfigure the concepts of time and history. During the course, students investigate how time affects both representation of reality and political praxis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC272",
+      "name": "HISC 272 — Deprovincializing Marx",
+      "description": "Course aims to rethink Marx against the grain, from the debate with Russian populists to Capital and the Grundrisse. Investigates formal subsumption not as a historical stage, but as a form that denotes how capitalism encounters, incorporates, and combines existing modes of production without creating a homogeneous world.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC275",
+      "name": "HISC 275 — Sovereignties",
+      "description": "The guiding thought of this seminar is the question of what is, and is not, sovereign. Exploring a wide range of authors (such as Bodin, Hobbes, Spinoza, Rousseau, Kant, Schmitt, Bataille, and Fanon), this seminar addresses the most salient problems in recent discussions of sovereignty.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC276",
+      "name": "HISC 276 — Critical STS",
+      "description": "How do science and technology enable or hinder ecological resurgence, cultural articulation, racial justice, and political liberation? Course examines current works from the multidisciplinary field of critical, cultural, and feminist STS (science and technology studies), exploring their relevance for a wide range of research in anthropology, race studies, art, environmental studies, social studies and political theory, history, and philosophy. Beyond engaging with these recent works, students have the opportunity to learn foundational concepts and methods of STS and workshop written work.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC278",
+      "name": "HISC 278 — Speculative Ecologies",
+      "description": "The planetary environmental debacle has exposed the damaging consequences requiring the re-invention of eco-social arrangements. Knowledge fields have responded by assimilating ecological concepts, frameworks, and methods into ways of thinking and acting in the world, sometimes taking the sciences as a normative blueprint for the realignment of social, political, and ethical values. Course identifies the reclaiming of a speculative orientation in research dedicated to creatively fostering a diversity of ecological futures and explores the relevance of speculative thought for research and writing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC279",
+      "name": "HISC 279 — Earth-Land-Soil: Geophilosophies in Troubled Grounds",
+      "description": "Explores the grounds for thinking that may be opened by engagements with earth, land, and soil as figures, places, and materialities in contemporary social and cultural theory. Engages with re-emergences of Earth as a ground for shared ecological consciousness and belonging and with critiques of planetary epistemic colonialisms that erase human and non-human experiences and conflicts from Indigenous land relations to the reclaiming of soil materialities. Amid anxieties for the planetâs future, we give attention to tensions between place-based ecological attachments and the perpetuation of nativist and nationalist exclusions, and to how Earth, land, and soil world-makings may appear uneven, unequal and divergent, common and uncommon, as well as inevitably interdependent.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC282",
+      "name": "HISC 282 — Art of Independence, Liberation and the Cold War",
+      "description": "Explores art movements that played a role in major struggles for independence and liberation from colonial regimes or reflected upon them subsequently. These art movements are examined though international art and media exhibitions. Case studies vary with each course offering. (Formerly HAVC 282.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC283",
+      "name": "HISC 283 — Autonomy and Autonomist Politics",
+      "description": "What is the meaning of autonomy in the midst of the current socio-ecological crisis? Is autonomist politics possible in the 21st century? The course discusses different dimensions of autonomy–self-determination, self-institution, self-valorization, self-definition—and focuses on the relevance and limits of autonomist politics across different social fields and across a multiplicity of unfolding translocal and transnational struggles. As we de-center, provincialize, and posthumanize autonomism, we examine the meaning of refusal and exodus in a contentious multi-polar geopolitical order and in a manifestly more-than-human world.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC285",
+      "name": "HISC 285 — Topics in Political Theology",
+      "description": "Readings focus on the early 20th-century rediscovery of political theology; its use in theorizations of the Holocaust; and its return in 21st-centurty debates on empires, war, terror, enmity, reconciliation, fanaticism, human rights, political economy, and global catastrophe. Students cannot receive credit for this course and HISC 85.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC291",
+      "name": "HISC 291 — Advising",
+      "description": "Independent study formalizing the advisee-adviser relationship. Regular meetings to plan, assess and monitor academic progress, and to evaluate coursework as necessary. May be used to develop general bibliography of background reading and trajectory of study in preparation for the qualifying examination.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC292",
+      "name": "HISC 292 — Practicum in Composition",
+      "description": "A practicum in the genres of scholarly writing, for graduate students working on the composition of their qualifying essay or doctoral dissertation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": [
+        [
+          "GRADUATESTUDENTS"
+        ]
+      ]
+    },
+    {
+      "id": "HISC293A",
+      "name": "HISC 293A — Field Study",
+      "description": "Research carried out in field settings, based on a project approved by the responsible faculty. The student must file a prospectus with the department office before undertaking the research and a final report of activities upon return.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC293B",
+      "name": "HISC 293B — Field Study",
+      "description": "Research carried out in field settings, based on a project approved by the responsible faculty. The student must file a prospectus with the department office before undertaking the research and a final report of activities upon return.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC293C",
+      "name": "HISC 293C — Field Study",
+      "description": "Research carried out in field settings, based on a project approved by the responsible faculty. The student must file a prospectus with the department office before undertaking the research and a final report of activities upon return.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC294A",
+      "name": "HISC 294A — Ind Study-Teaching",
+      "description": "Directed graduate research and writing coordinated with the teaching of undergraduates. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC294B",
+      "name": "HISC 294B — Ind Study-Teaching",
+      "description": "Directed graduate research and writing coordinated with the teaching of undergraduates. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC294C",
+      "name": "HISC 294C — Ind Study-Teaching",
+      "description": "Directed graduate research and writing coordinated with the teaching of undergraduates. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC295",
+      "name": "HISC 295 — Directed Reading",
+      "description": "Systematic working through a prearranged bibliography which is filed as a final report at the end of the quarter with the signature of the instructor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC295A",
+      "name": "HISC 295A — Directed Reading",
+      "description": "Systematic working through a prearranged bibliography which is filed as a final report at the end of the quarter with the signature of the instructor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC295B",
+      "name": "HISC 295B — Directed Reading",
+      "description": "Systematic working through a prearranged bibliography which is filed as a final report at the end of the quarter with the signature of the instructor. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC295C",
+      "name": "HISC 295C — Directed Reading",
+      "description": "Systematic working through a prearranged bibliography which is filed as a final report at the end of the quarter with the signature of the instructor. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC296",
+      "name": "HISC 296 — Special Student Seminar",
+      "description": "A seminar study group for graduate students focusing each quarter on various problems in the history of consciousness. A statement and evaluation of the work done in the course will be provided each quarter by the students who have participated in the course for that quarter, and reviewed by the responsible faculty.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC297A",
+      "name": "HISC 297A — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC297B",
+      "name": "HISC 297B — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC297C",
+      "name": "HISC 297C — Independent Study",
+      "description": "Independent study and research under faculty supervision. Students submit petition to sponsoring agency.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC298",
+      "name": "HISC 298 — Doctoral Colloquium",
+      "description": "Under the supervision of a History of Consciousness faculty member, students finishing their dissertation meet weekly or bi-weekly to read and discuss selected draft chapters, design difficulties and composition problems.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC299A",
+      "name": "HISC 299A — Thesis Research",
+      "description": "Prerequisite(s): advancement to candidacy.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC299B",
+      "name": "HISC 299B — Thesis Research",
+      "description": "Prerequisite(s): advancement to candidacy.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HISC299C",
+      "name": "HISC 299C — Thesis Research",
+      "description": "Prerequisite(s): advancement to candidacy.",
+      "credits": "15",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "DANM250F",
+      "name": "DANM 250F — Film, Moving Image Installation, and Curatorial Lab",
+      "description": "Workshop investigating moving and still images to create visual and sonic languages for production, exhibition and installation. Core faculty Mark Nash and Isaac Julien invite students to participate in ongoing projects as well as present and discuss their own work. Established artists, film makers and curators are also invited to present their work to the group. (Formerly offered as Research Group: Isaac Julien Studio Lab.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FMST212",
+      "name": "FMST 212 — Feminist Theory and the Law",
+      "description": "Interrogation of the relationship between law and its instantiating gendered categories, supported by feminist, queer, Marxist, critical race, and postcolonial theories. Topics include hypostasization of legal categories, the contest between domestic and international human rights frameworks, overlapping civil and communal codes, cultural explanations in the law, the law as text and archive, testimony and legal subjectivity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC245",
+      "name": "HAVC 245 — Race and Representation",
+      "description": "Explores how human subjects come to be visually defined and marked by race discourse. Covers diverse theoretical literatures on the topic, primarily in visual studies, but also in cultural studies, post-colonial studies, and psychoanalysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LIT149H",
+      "name": "LIT 149H — The Future",
+      "description": "Examines modes of thinking and imagining the future throughout human history, and considers the fate of the future today. Topics include apocalyptic religion, utopia and dystopia, progress, revolution, finance, and everyday life. Critical approach designations: Histories, Power and Subjectivities. Distribution requirement: Global.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "LIT149J",
+      "name": "LIT 149J — The Good Life",
+      "description": "The social, affective, and psychic structures of our neoliberal era make it difficult to live a good life. Drawing on the broad tradition of critical theory and utopian imaginings, the course aims to give practical and theoretical guidance toward achieving a good life.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

@@ -1,0 +1,1243 @@
+{
+  "department": "FILM - Film and Digital Media",
+  "slug": "film-film-and-digital-media",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/film-film-and-digital-media",
+  "generated_at": "2025-11-28T07:51:38.495171+00:00",
+  "courses": [
+    {
+      "id": "FILM10",
+      "name": "FILM 10 — Professional Topics in Film, Television, and Digital Media",
+      "description": "Taught by a working professional, lectures and workshop provide students with career-related information and insight into a specific profession in film, television, and digital media. Students research various aspects of a film, television, or digital media profession.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared film and digital media majors and minors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM20A",
+      "name": "FILM 20A — Introduction to Film Studies",
+      "description": "An introduction to the basic elements, range, and diversity of cinematic representation and expression. Aesthetic, theoretical, and critical issues are explored in the context of class screenings and critical readings. If space allows, restrictions may be lifted after priority enrollment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM20B",
+      "name": "FILM 20B — Introduction to Television Studies",
+      "description": "Introduction to the basic forms of televisual presentation, including differing narrative structure from movies and situation comedies to soap opera, plus modes of direct discourse in news, advertising, sports, music, television, and other genres. Alternative forms and modes in electronic media, such as independent video art and documentary, public television, cable, and electronic networks are explored, with their potential for expressing cultural diversity set in relation to social, cultural, and political conditions. If space allows, restrictions may be lifted after priority enrollment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM20C",
+      "name": "FILM 20C — Introduction to Digital Media",
+      "description": "Introduces fundamental features of digital media and examines the immense visual, social, and psychological impact of the digital revolution on our culture. Topics include the concepts and forms of the digital hypertext interface, Internet, and web, and the impact of digital media on conceptions of the self, body, identity, and community. If space allows, restrictions may be lifted after priority enrollment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared film and digital media majors and film and digital media minors. Students pursuing the minor may contact the instructor for a permission code.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM20P",
+      "name": "FILM 20P — Introduction to Production Technique",
+      "description": "Introduction to the production processes of visual/aural, time-based, creative work. Students work on a range of creative projects: performed, written, photographed, and created digitally. Assignments emphasize imaginative problem-solving, collaboration, visualization, and critical media literacy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to proposed and declared film and digital media majors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM80A",
+      "name": "FILM 80A — The Film Experience",
+      "description": "Students learn to understand how films reach the public through a collaborative, industrial, and artistic practice; how films work in a narrative sense; how they construct meanings for viewers; and how their formal techniques construct different possibilities for meaning and interpretation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM80C",
+      "name": "FILM 80C — Indigenous California in Film and Media",
+      "description": "Examines the historical representation of Indigenous Californians and their histories in a diversity of films and visual media drawing on cultural studies, cultural history, and Indigenous studies. Course examines bad hollywood stereotypical films about California Indians as well as more recent films written by and created by California Indians themselves.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM80M",
+      "name": "FILM 80M — Understanding Media",
+      "description": "Introduces students to contemporary concerns, issues, and topics of media and media criticism. With an emphasis on visual analysis, students develop conceptual tools to think critically about photography, cinema, television, video, and print journalism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM80S",
+      "name": "FILM 80S — Special Topics in Film and Digital Media",
+      "description": "Study of selected aspects of film, television, and/or digital media. Includes weekly screenings and historical/theoretical readings.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM80T",
+      "name": "FILM 80T — Technothrillers",
+      "description": "Examination of recent films classified as thrillers that approach technology (computers, robotics, biotech, the Internet, etc.) through suspense, anxiety, and paranoia. It will also address how technologically produced popular culture negotiates attitudes toward technological change.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM80V",
+      "name": "FILM 80V — Video Games as Visual Culture",
+      "description": "Through aesthetic, medium-specific and critical theories of electronic games, course introduces histories, ideas, and debates that inform critical game studies. Themes include: games and cinema; race, class, gender, sexuality and representation; visual/cultural studies approaches; topical issues in games.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM80X",
+      "name": "FILM 80X — Sex in the Cinema",
+      "description": "Examines the historical representation of sexual difference, orientation, and politics in film and video using cultural studies, political and economic historiography, and feminist and queer theory and paying special attention to intersections of U.S. political movements with filmmaking and reception.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM120",
+      "name": "FILM 120 — Introduction to Media Theory",
+      "description": "Explores media theory. May be organized thematically or chronologically. Selects from key debates and movements central to understanding media forms in relation to self, society, politics, and aesthetics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A . Enrollment is restricted to proposed and declared film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM130",
+      "name": "FILM 130 — Silent Cinema",
+      "description": "Presents the development of silent film as a cultural form from the early period to the beginning of sound, addressing its historical evolution, technological development, aesthetic transformations, and varied cultural contexts. Usually offered in alternate academic years.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A , satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM132A",
+      "name": "FILM 132A — International Cinema to 1960",
+      "description": "A survey of significant developments in narrative film outside Hollywood from the advent of sound technology to the late '50s. Differing inter/national contexts, theoretical movements, technological innovations, and major directors are studied. Usually offered alternate academic years.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A , satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM132B",
+      "name": "FILM 132B — International Cinema, 1960 to Present",
+      "description": "A survey of significant developments in narrative film outside Hollywood from 1960 to the present. Major film movements and directors from around the world are studied. Usually offered in alternate academic years.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A , satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM134A",
+      "name": "FILM 134A — American Film, 1930-1960",
+      "description": "A survey of American narrative cinema from 1930 to 1960. Examines developments in film style, film technology, and the film industry in relation to American cultural history.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A or FILM 20B , satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "FILM20A",
+          "FILM20B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM134B",
+      "name": "FILM 134B — American Film, 1960-Present",
+      "description": "A survey of American narrative cinema from 1960 to the present. Examines developments in film style, film technology, and the film industry in relation to American cultural history.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A or FILM 20B ; and satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ],
+        [
+          "FILM20B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM136A",
+      "name": "FILM 136A — Experimental Film and Video",
+      "description": "A survey of various experimental styles and practices in film and video, addressing the historical developments of these media formats. The course situates experimental film and video work within the larger contexts of artistic traditions as well as networks of production and reception.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A .",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM136B",
+      "name": "FILM 136B — History of Television",
+      "description": "Survey of the historical development of broadcast television from its origins to the present day phenomena of cable, satellite, and electronic networks. Examination of major genres, forms, and modes of production and consumption within cultural, social, and economic contexts. Offered every other year, alternating with FILM 136A .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20B .",
+      "prereqGroups": [
+        [
+          "FILM20B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM136C",
+      "name": "FILM 136C — Visual Culture and Technology: History of New Media",
+      "description": "Explores the relationship between technology and change and surveys the history of various technologies of visual culture from print to computer based imagery and the Internet.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20C .",
+      "prereqGroups": [
+        [
+          "FILM20C"
+        ]
+      ]
+    },
+    {
+      "id": "FILM136D",
+      "name": "FILM 136D — Documentary Film and Video",
+      "description": "Explores the category of nonfiction through a historical and theoretical study of documentary in film and video. Addresses ethnographic film, Soviet and Griersonian documentary, cinema verite and/or other selected documentary texts and the issues of representation they raise. Students are billed a course materials fee.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A or FILM 20B .",
+      "prereqGroups": [
+        [
+          "FILM20A",
+          "FILM20B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM145",
+      "name": "FILM 145 — Social Media Documentary Theory and Production",
+      "description": "Teaches social media documentary theory and production. Students review current scholarship around social media campaigns, cellphone footage as evidence, and the creation of original media to expand messages for social justice. Students shoot a body of source footage on their smart device and create a social media-based outreach strategy that could support future work for a grassroots initiative.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20P .",
+      "prereqGroups": [
+        [
+          "FILM20P"
+        ]
+      ]
+    },
+    {
+      "id": "FILM150",
+      "name": "FILM 150 — Screenwriting",
+      "description": "Problems in writing for film and television are explored through the writing of original material and analysis of existing works. Various film genres, conventions, and styles, both fictional and nonfictional, are examined. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Admission by application; application materials available during the last three weeks of preceding quarter.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM151",
+      "name": "FILM 151 — Film Directing",
+      "description": "Workshop that explores the director's involvement in film and video production. Topics include the manipulation of time and space, continuity, script planning and blocking, and working with actors and crew. Students participate in group and individual exercises in pre-production and scene direction.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170B . FILM 20P is recommended.",
+      "prereqGroups": [
+        [
+          "FILM170B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM152",
+      "name": "FILM 152 — Script Analysis",
+      "description": "Students analyze diverse narrative techniques, dramatic structures, and genre forms to understand the craft of screenwriting and prepare for their own creative writing and filmmaking. Students read finished scripts and view films.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 . Enrollment is restricted to proposed and declared film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM160",
+      "name": "FILM 160 — Film Genres",
+      "description": "Concentrated study of films from one cinematic grouping with similar themes and narrative structures such as westerns, musicals, or science fiction, or a comparative study of different genres. History, theory, and criticism of the genre are covered.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM160H",
+      "name": "FILM 160H — Film Genres, Horror",
+      "description": "Concentrated study of films examining the horror genre, examining its enduring popularity, cultural significance, and evolving aesthetic forms. Through a combination of historical overview and thematic analysis, students consider horror's complex relationship to gender, race, class, and the body. Students engage with a diverse range of films across subgenres and global contexts, developing critical tools to analyze cinematic techniques, narrative structures, genre conventions, and audience reception. History, theory, and criticism of the genre are covered.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 130 , or FILM 132A , or FILM 132B , or FILM 134A , or FILM 134B . Enrollment is restricted to film and digital media majors and minors and proposed film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM130",
+          "FILM132A",
+          "FILM132B",
+          "FILM134A",
+          "FILM134B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM160W",
+      "name": "FILM 160W — Film Genres, The Western",
+      "description": "Concentrated study of films examining the western genre and settler colonialism. Course explores the broad and changing genre of the western, while investigating how these stories engage with broader themes of settler colonial justifications and critiques. History, theory, and criticism of the genre are covered.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 130 , or FILM 132A , or FILM 132B , or FILM 134A , or FILM 134B . Enrollment is restricted to film and digital media majors and minors and proposed film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM130",
+          "FILM132A",
+          "FILM132B",
+          "FILM134A",
+          "FILM134B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM161B",
+      "name": "FILM 161B — Documentary Animation",
+      "description": "Examines the history, practice, and emergence of documentary animation in contemporary film, on the Web and as activist media with emphasis on the discourse central to social documentary, decolonial theory, and the politics of representation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A . Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM162",
+      "name": "FILM 162 — Film Authors",
+      "description": "Intensive critical study of the work of one film auteur (director, screenwriter, actor, cinematographer). Themes, style, and structure are explored using various critical modes of analysis.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM162F",
+      "name": "FILM 162F — Female Filmmakers",
+      "description": "Examines contributions that female and non-binary filmmakers have made to world cinema.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A .",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM165A",
+      "name": "FILM 165A — Film, Video, and Gender",
+      "description": "A study of texts, theories, and issues of gender in film and/or video. Changing focus on one or more topics, including production and authorship, representation, reception, theories of identification, sexual preference, and related issues. Usually offered in alternate academic years.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A or FILM 20B .",
+      "prereqGroups": [
+        [
+          "FILM20A",
+          "FILM20B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM165B",
+      "name": "FILM 165B — Race on Screen",
+      "description": "Review of historical and critical tools to interpret representations of race on cinematic, television, and computer screens. Class will consider the place of race in theoretical and historical scholarship and examine the debates about race produced within and across film and digital media. Usually offered in alternate academic years.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A or FILM 20B .",
+      "prereqGroups": [
+        [
+          "FILM20A",
+          "FILM20B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM165C",
+      "name": "FILM 165C — Lesbian, Gay, and Queer Film and Video",
+      "description": "An overview of homosexuality and LGBT representations in American film. Explores the format and historical significance of New Queer Cinema. Recent independent queer film and video discussed. Topics include: authorship; spectatorship; genre and genre reappropriation; historical gender constructs; the art film; mainstream versus independent production; and the relationship of film to popular music.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors, sophomores, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM165D",
+      "name": "FILM 165D — Asian Americans and Media",
+      "description": "Examines media representations about, as well as by, Asian Americans. Using critical essays on film theory, racial studies, feminist criticism, and independent cinema, students develop the skills necessary to conduct critical analysis of Asian Americans in film and television.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM165E",
+      "name": "FILM 165E — Chicana/o Cinema, Video",
+      "description": "Examines emergence of Chicana/o cinema and video from a place of social displacement, resistance, and affirmation. Looks at Chicana/o representation and spectatorship as it pertains to ethnicity, class, gender, and the beginning of a new Chicana/o film aesthetic.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM165G",
+      "name": "FILM 165G — Gender and Global Cinema",
+      "description": "Offers students historical and critical tools to investigate global film through the framework of gender. Focused in particular on contemporary film (from 1960 to present), the class is structured both chronologically and via national industries.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A .",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM168",
+      "name": "FILM 168 — National Cinema and Culture",
+      "description": "Study of a specific cinematic or other media tradition of a region, nation, language, diasporic collectivity or other unifying cultural entity. Not a survey, this course selects one focus or offers a comparative of cross-cultural framework.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM168A",
+      "name": "FILM 168A — Arab and North African Cinemas",
+      "description": "Introduction to the diverse cinemas of the Arabic-speaking world. By introducing a wide range of films and clips every week, the course gives students a historical grounding in cinema from across the region, paying attention to the interconnections and influences between films, filmmakers, and countries. While history and politics are considered to understand the films' contexts, attention is paid to form and aesthetics, too: one of the course aims is to illustrate that Arab films are more than just political or sociological texts, even if they are usually read that way in the United States.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 132A or FILM 132B or permission of instructor.",
+      "prereqGroups": [
+        [
+          "FILM132A",
+          "FILM132B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM168F",
+      "name": "FILM 168F — Francophone African Cinema",
+      "description": "Introduces students to the diverse cinema of French-speaking African nations and interrogates the role of empire and language in relation to cinema and decolonial politics. The course presents a wide array of films by Francophone (French-speaking) filmmakers from Africa, including some made by diasporic or itinerant filmmakers based in France. Film viewings and discussions of work from Morocco, Senegal, Cameroon, Mali, Burkina Faso, and other countries. Critically engages with debates around the meaning of francophonie in a contemporary context.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 132A or FILM 132B or permission of the instructor.",
+      "prereqGroups": [
+        [
+          "FILM132A",
+          "FILM132B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM168M",
+      "name": "FILM 168M — National Cinema and Culture: Morocco",
+      "description": "Faculty-led study abroad course taught in Rabat, Morocco. In-depth investigation of Moroccan cinema and culture, including literature and art. Includes visits and field trips around Morocco.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM170A",
+      "name": "FILM 170A — Fundamentals of Digital Media Production",
+      "description": "Introduction to the conceptual and technical fundamentals of making digital media. Covers principles of digital image manipulation, basic web authoring, and interface design through projects that introduce production techniques and methods.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20C or CSE 101 or CSE 111 .",
+      "prereqGroups": [
+        [
+          "FILM20C",
+          "CSE101",
+          "CSE111"
+        ]
+      ]
+    },
+    {
+      "id": "FILM170B",
+      "name": "FILM 170B — Fundamentals of Film and Video Production",
+      "description": "An introduction to the art and craft of making films and videos. Covers principles of cinematography, videography, editing, production planning, and lighting involving both production techniques and methods. Students are billed a course materials fee of $190.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A or FILM 20B and at least one upper-division film and digital media critical studies course.",
+      "prereqGroups": [
+        [
+          "FILM20A",
+          "FILM20B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM171A",
+      "name": "FILM 171A — Sound",
+      "description": "The cinematic equation equals images plus sound. What are sound-specific properties? What is the relationship between sound and image? Course examines these and other questions through the creation of audio and audiovisual pieces. Students are billed a course materials fee of $161.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170A or FILM 170B .",
+      "prereqGroups": [
+        [
+          "FILM170A",
+          "FILM170B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM171C",
+      "name": "FILM 171C — Special Topics Workshop: Found Footage",
+      "description": "Students consider the practice of transforming or recycling found images and other visual materials to create new meanings. In addition to assigned readings, screenings, and technical workshops, students produce creative found moving image projects and writing responding to course materials. Prior experience with digital editing recommended.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A ; prior experience with digital editing recommended.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM171D",
+      "name": "FILM 171D — Social Information Spaces",
+      "description": "Investigates how information spaces can be designed to be inhabited, socially navigable spaces. Emphasizes the social navigation of information spaces, a set of techniques and ideas from computer-supported cooperative works, human-computer interaction, and architecture.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170A .",
+      "prereqGroups": [
+        [
+          "FILM170A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM171F",
+      "name": "FILM 171F — Special Topics Workshop: Autobiographical Film",
+      "description": "Students explore autobiography as a filmmaking genre and practice, using experimental, fictionalized, documentary, and hybrid forms. Readings and screenings provide a theoretical context for production work. Topics include: strategies of (self) representation, reenactment, performance, portraiture, memoir, confession, and diaristic film. Students are billed a course materials fee of $210. Prerequisite(s): FILM 170B . Admission by application; application materials available during the last three weeks of preceding quarter.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM171S",
+      "name": "FILM 171S — Special Topics in Film and Digital Media Production",
+      "description": "Intermediate workshop-style production course which addresses diverse themes and approaches. Content changes quarterly according to faculty research interests and changing technologies/discourses in digital audiovisual production. Students are billed a materials fee of $175.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM172",
+      "name": "FILM 172 — Narrative Video Workshop",
+      "description": "Intermediate workshop in film and video production concentrating on narrative production, development of critical standards, and technical methods. Topics include cinematography, sound, and non-linear digital editing techniques. Each student is responsible for the completion of short narratives from assignments. Students are billed a course materials fee of $292.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170B .",
+      "prereqGroups": [
+        [
+          "FILM170B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM173",
+      "name": "FILM 173 — Narrative Digital Media Workshop",
+      "description": "Analysis of cinematic codes and narrative structure through digital video, Internet and interactive multimedia projects. Required readings address contemporary research in narratology and hyper-media, exploring the potential of digital technology to reconfigure the role of both author and audience. Students billed a course materials fee of $210.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170A .",
+      "prereqGroups": [
+        [
+          "FILM170A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM174A",
+      "name": "FILM 174A — Reasonable Doubts: Making an Exoneree Part A",
+      "description": "Part 1 of an intensive two-quarter course sequence in which UCSC students collaborate with students from Georgetown University to reinvestigate and document five cases of wrongful conviction. Small teams of students from both universities work together as investigative journalists, filmmakers, and social justice activists, producing short documentary films, websites, and social media campaigns providing humanizing portraits of the lives, families, and complicated legal cases of five wrongfully convicted incarcerated people. Commitment to enrollment in FILM 174B in the following quarter is required. Enrollment is by application; application materials available during the last three weeks of preceding quarter. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM174B",
+      "name": "FILM 174B — Reasonable Doubts: Making an Exoneree Part B",
+      "description": "Part 2 of an intensive two-quarter course sequence in which UCSC students collaborate with students from Georgetown University to reinvestigate and document five cases of wrongful conviction. Small teams of students from both universities work together as investigative journalists, filmmakers, and social justice activists, producing short documentary films, websites, and social media campaigns providing humanizing portraits of the lives, families, and complicated legal cases of five wrongfully convicted incarcerated people.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 174A . Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": [
+        [
+          "FILM174A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM175",
+      "name": "FILM 175 — Documentary Video Workshop",
+      "description": "Workshop in documentary video production, development of critical standards, ethical issues, and technical methods. Each student is responsible for the completion of short documentaries from assignments. Students are billed a course materials fee of $210.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170B",
+      "prereqGroups": [
+        [
+          "FILM170B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM176",
+      "name": "FILM 176 — Experimental Video Workshop",
+      "description": "Introductory workshop in video production (non-narrative, experimental). Topics include a survey of non-narrative experimental video from a historical/theoretical perspective and an introduction to videography, fundamentals of video editing, and sound. Students are billed a course materials fee of $210.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170B .",
+      "prereqGroups": [
+        [
+          "FILM170B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM177",
+      "name": "FILM 177 — Digital Media Workshop: Computer as Medium",
+      "description": "Introduction to the computer as a medium as well as a tool. Students explore art practice within digital imaging and information and communications environments through projects, readings, and screenings. Assignments may include designing virtual communities and /or interactive, multimedia web works.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170A .",
+      "prereqGroups": [
+        [
+          "FILM170A"
+        ]
+      ]
+    },
+    {
+      "id": "FILM178A",
+      "name": "FILM 178A — Personal Computers in Film and Video",
+      "description": "Introduction to the specific applications of computers for film and video. By using computer-generated, enhanced and imported graphics, animation, text, sound, and moving video, students create still and time-based works in a computer environment. Students are billed a course materials fee of $147. Prerequisite(s): FILM 170A or FILM 170B . Admission by application; application materials available during the last three weeks of preceding quarter.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM178B",
+      "name": "FILM 178B — Advanced Personal Computers in Film and Video",
+      "description": "Study of advanced computer tools in digital media, including exploration, creation, and manipulation of sound with the same level of complexity as required in composing the moving image. Students produce a final project that demonstrates skills learned. Prerequisite(s): FILM 170A or FILM 170B . Admission by application; application materials available during the last three weeks of preceding quarter.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM179A",
+      "name": "FILM 179A — Special Topics in Animation",
+      "description": "Provides opportunities to learn technical skills in animation while engaging in critical analysis of animation and design. Students are encouraged to pursue their personal artistic vision as well as to develop a collaborative and problem-solving mindset.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170A or FILM 170B .",
+      "prereqGroups": [
+        [
+          "FILM170A",
+          "FILM170B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM179B",
+      "name": "FILM 179B — Documentary Animation Workshop",
+      "description": "A project-based production seminar in documentary animation: students learn diverse animation styles and techniques, and apply them to a documentary-animation class project.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170A or FILM 170B .",
+      "prereqGroups": [
+        [
+          "FILM170A",
+          "FILM170B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM180",
+      "name": "FILM 180 — Writing About Film, Television, and Digital Media",
+      "description": "Improves students' ability to write and edit, and invites students to explore different kinds of writing related to film, television, and digital media including historical, theoretical, cultural criticism, popular reviews, grant proposals, online forums, and publishing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 20A , FILM 20B , or FILM 20C . Enrollment is restricted to sophomore and junior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM20A"
+        ],
+        [
+          "FILM20B"
+        ],
+        [
+          "FILM20C"
+        ]
+      ]
+    },
+    {
+      "id": "FILM185D",
+      "name": "FILM 185D — Sound and Image in Theory and Criticism",
+      "description": "Explores theories and critiques of sound in culture and analyzes sound in relation to media images in film, video, and other media. Voice, noise, and music are addressed.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 .",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM185F",
+      "name": "FILM 185F — Advanced Topics in Film Studies",
+      "description": "Study of a selected aspect of film history, theory, and/or criticism. Usually offered in alternate academic years with rotating topics.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM185R",
+      "name": "FILM 185R — The Film Remake",
+      "description": "History and theory of the remake through case studies across cultural, gender, and genre boundaries. Examines changing cultural, social, stylistic, and technical values and explores notions of originality, repetition, homage, allusion, quotation, and intertextuality from Feuillade and Hitchcock to Raimi and Johnny To.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 , FILM 130 , FILM 132A , FILM 132B , FILM 132C, FILM 134A or FILM 134B .",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ],
+        [
+          "FILM130"
+        ],
+        [
+          "FILM132A"
+        ],
+        [
+          "FILM132B"
+        ],
+        [
+          "FILM132C"
+        ],
+        [
+          "FILM134A"
+        ],
+        [
+          "FILM134B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM185S",
+      "name": "FILM 185S — Advanced Topics in Film Studies",
+      "description": "Study of a selected aspect of film history, theory ,or criticism. Includes weekly screenings and historical/theoretical readings. Usually offered in alternate academic years with rotating topics.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM185X",
+      "name": "FILM 185X — EyeCandy Seminar",
+      "description": "Seminar and workshop on writing, producing, and publishing a journal. Students engage in assignments and exercises directly and indirectly related to the production of a web launch as well as a print copy of EyeCandy. Permission of instructor required based upon student's participation in EyeCandy in winter and spring quarters. Preference given to film and digital media majors and minors; others may apply based on qualifications and as space allows.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM187",
+      "name": "FILM 187 — Advanced Topics in Television Studies",
+      "description": "Study of a selected aspect of television history, television criticism, or national television. Includes weekly screenings and historical/theoretical readings. Usually offered in alternate academic years, with rotating topics.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM189",
+      "name": "FILM 189 — Advanced Topics in Digital and Electronic Media Studies",
+      "description": "Study of a selected aspect of digital and/or electronic media history and criticism. Topics can include virtual environments, electronic networks, video installations, computer games, and hyper-media. Usually offered in alternate academic years.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM192",
+      "name": "FILM 192 — Directed Student Teaching",
+      "description": "Teaching a lower-division course under faculty supervision (see FILM 42). Proposal supported by a faculty sponsor and department.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM193F",
+      "name": "FILM 193F — Group Tutorial",
+      "description": "A program of independent study arranged between a group of students and a faculty instructor. Tutorial may not be used to satisfy major requirements. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM194A",
+      "name": "FILM 194A — Film Theory Seminar",
+      "description": "Advanced senior seminar examining classical and contemporary film theory and those theoretical paradigms and methods that have illuminated the medium: formalism, realism, structuralism, semiology, psychoanalysis, Marxism, feminism, and phenomenology. Primary texts are read.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 . Enrollment is restricted to senior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM194B",
+      "name": "FILM 194B — Electronic Media Theory Seminar",
+      "description": "Study of the major theoretical approaches to electronic media and their critical application to texts from television, independent video art and documentary, and electronic networks. Readings include a range of theoretical approaches selected from semiotic, ideological, feminist, cultural studies, reception theory, postmodernist, and other critical traditions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 . Enrollment is restricted to senior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM194C",
+      "name": "FILM 194C — New Media Theory Seminar",
+      "description": "Study of theories of emerging genres of electronic culture, with emphasis on the discourse about computer-assisted and computer-generated forms of art and mass culture such as digital imagery, virtual environments, telematics, hyper- and multimedia, and electronic networks",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 . Enrollment is restricted to senior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM194D",
+      "name": "FILM 194D — Film History Seminar",
+      "description": "In-depth study of film history investigating developments in cinematic style, technological innovation, and industrial practice against the broad canvas of cultural history. Students will acquire the basic tools necessary to conduct informed film historical research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 ; and FILM 130 or FILM 134A or FILM 134B . Enrollment restricted to senior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM194E",
+      "name": "FILM 194E — International Cinemas",
+      "description": "In-depth study of the history and theory of international cinemas with changing topics such as globalism and resistance, postcolonial theory, international productions and querying race, the national, and cinema.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 ; and FILM 132A or FILM 132B or FILM 132C. Enrollment restricted to senior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM194F",
+      "name": "FILM 194F — Film and the Other Arts",
+      "description": "Examines the use of artistic media within films and of films that thematically are about other media. What do other art forms allow for in terms of the story, the film's meaning, the gaze, and the spectator?",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 . Enrollment restricted to senior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM194G",
+      "name": "FILM 194G — New(s) Media",
+      "description": "Addresses the role of new media technologies in the production, distribution, and reception of the news, especially international news. Examines software and network technologies as amplifying, filtering, extending, and countering the forces of media.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 . Enrollment restricted to senior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM194H",
+      "name": "FILM 194H — Ethics and Documentary Filmmaking",
+      "description": "Online senior seminar that addresses long-standing ethical dilemmas including filmmaker/participant relationships, ethical ethnographic filmmaking, and conversations regarding the role of social media and new media. Explores issues such as allyship, privilege, and insider/outsider responsibilities for filmmakers working with topics such as class, the environment, gender, feminism, race and sexuality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 120 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM120"
+        ]
+      ]
+    },
+    {
+      "id": "FILM194S",
+      "name": "FILM 194S — Special Topics Seminar",
+      "description": "Intensive research and writing on a changing topic chosen to demonstrate critical mastery in a specific area of film and digital media studies, for example, film adaptations and their literary sources, documentary/reality shows, or networked new media texts.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM195",
+      "name": "FILM 195 — Senior Thesis/Project",
+      "description": "An individually supervised course, with emphasis on independent research, to culminate in a senior thesis/project/production. Proposals should be submitted to adviser one quarter in advance. Petition required, approved by instructor and department; thesis petitions available in the department office.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM196A",
+      "name": "FILM 196A — Senior Project in Narrative Production",
+      "description": "Students accomplish a range of production work focused on narrative production including script development, casting, and rehearsing to shooting and post-production work. Students are billed a course materials fee of $292. Enrollment is restricted to senior film and digital media majors. Students may apply a maximum of two times.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170B , and two additional upper-division FDM production courses. FILM 172 is recommended. Enrollment is restricted to senior Film & Digital Media majors.",
+      "prereqGroups": [
+        [
+          "FILM170B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM196B",
+      "name": "FILM 196B — Senior Project in Screenwriting",
+      "description": "Students write a full-length (75-100 pages) screenplay in this seminar while studying structural concepts and character development in selected films. Scheduling, outlining, pitching ideas, and critique are all part of the workshop format of the class.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements; and FILM 150 , THEA 157 , or THEA 159 . Enrollment is restricted to senior film and digital media majors.",
+      "prereqGroups": [
+        [
+          "FILM150"
+        ],
+        [
+          "THEA157"
+        ],
+        [
+          "THEA159"
+        ]
+      ]
+    },
+    {
+      "id": "FILM196C",
+      "name": "FILM 196C — Senior Project in Documentary",
+      "description": "Students are responsible for producing short documentaries (up to 12 minutes). In class, students discuss each other's work as well as view and discuss other documentary films. Students are billed a course materials fee of $292. Enrollment is restricted to senior film and digital media majors.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): FILM 170B , and two additional upper-division FDM production courses. Enrollment is restricted to senior Film & Digital Media majors.",
+      "prereqGroups": [
+        [
+          "FILM170B"
+        ]
+      ]
+    },
+    {
+      "id": "FILM197",
+      "name": "FILM 197 — Senior Digital Media Workshop",
+      "description": "Incorporates independent projects using the computer as a medium as well as a tool. Students design and implement projects in digital imaging, information, and communications environments. Students' projects may include designing virtual communities, building collaborative networks, and/or interactive, multimedia web works. Admission by application; application materials available during the last three weeks of the preceding quarter. Enrollment is restricted to senior film and digital media majors.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM198",
+      "name": "FILM 198 — Independent Field Study",
+      "description": "Provides for department-sponsored individual study programs off campus for which faculty supervision is not in person (e.g., supervision is by correspondence). Students engaging in field study must complete application procedures for such study by the fifth week of the previous quarter. Field study may not be used to satisfy major requirements. Petition required, approved by instructor and department; petitions available in the department office.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM198F",
+      "name": "FILM 198F — Independent Field Study",
+      "description": "Provides for department-sponsored individual study programs off campus for which faculty supervision is not in person (e.g., supervision is by correspondence). Students engaging in field study must complete application procedures for such study by the fifth week of the previous quarter. Field study may not be used to satisfy major requirements. Petition required, approved by instructor and department; petitions available in the department office.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM199",
+      "name": "FILM 199 — Tutorial",
+      "description": "Individual study in areas approved by sponsoring instructors. Tutorial may not be used to satisfy major requirements. Petition required, approved by instructor and department; petitions available in the department office.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM199F",
+      "name": "FILM 199F — Tutorial",
+      "description": "Individual study in areas approved by sponsoring instructors. Tutorial may not be used to satisfy major requirements. Petition required, approved by instructor and department; petitions available in the department office.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM200A",
+      "name": "FILM 200A — Introduction to Graduate Study",
+      "description": "Introduces graduate study in the critical practice of film and digital media. Conducted as a pro-seminar, with faculty presentations and discussion.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM200B",
+      "name": "FILM 200B — Theory and Praxis of Film and Digital Media 1",
+      "description": "Investigates methods for rhetorical production of written and visual/aural texts. Emphasizes questions about delineation between theory and practice, and provides groundwork in theories relevant to key areas in film, television, and digital media studies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM200C",
+      "name": "FILM 200C — Theory and Praxis of Film and Digital Media 2",
+      "description": "Investigates methods for rhetorical production of written and visual/aural texts. Emphasizes interwoven practices of the artist/researcher/teacher, formal and expressive possibilities of hybridized research, and cultural issues raised by integrated methods of inquiry.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM202",
+      "name": "FILM 202 — Pedagogy in Film and Digital Media",
+      "description": "Prepares students for teaching assistantships and instructor roles. Topics include TAships, designing inclusive course syllabi and lesson plans, active learning, teaching technologies, and classroom environment.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM203",
+      "name": "FILM 203 — Professional Development in Film and Digital Media",
+      "description": "Prepares graduate students with professional skills in the discipline, such as CV writing, grants research and writing, public presentation, exhibition, publication, and job seeking.",
+      "credits": "3",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM221",
+      "name": "FILM 221 — Audio Arts and Methods",
+      "description": "Explores practices and ethics of listening, noticing and audio recording. Students gain expertise with microphones for field recording, studio set-ups, and digital audio editing software, and create original sound works of their own. The course entwines theory and practice, considering various approaches to audio arts across platforms and contexts such as broadcast, podcast, installation, audio essay, performance, and art as social practice, as well as exploring strategies for sound design for audiovisual works.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM222",
+      "name": "FILM 222 — Critical Methodologies in Film and Television",
+      "description": "Introduces graduate students to critical methodologies in media studies and offers sustained examination of theoretical approaches to media studies. Methodologies may include (but are not limited to) contemporary theory (semiotic, psychoanalytic, ideological), cultural studies, intertextuality, feminist film, and television theory.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM223",
+      "name": "FILM 223 — The Film/Video Essay",
+      "description": "Focuses on essayistic approaches to scholarship and production, emphasizing relationships between theory and praxis that this mode of production requires.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM224",
+      "name": "FILM 224 — Mediating Difference",
+      "description": "Considers theoretical and strategic, situated difference in the era of (semi-)colonialism, post-colonialism, and globalism, examining theoretical writing alongside media works on the topic.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM225",
+      "name": "FILM 225 — Software Studies",
+      "description": "Today, our lives are woven into vast software systems that facilitate our family communications, personal relations, jobs, and cultural, economic, political, and social institutions. Course examines these conditions of life and thought using insights from the arts and humanities.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM226",
+      "name": "FILM 226 — Queer Theory and Global Film and Media",
+      "description": "Examines queer subjectivities, practices, and theories in relation to globalization, transnationalism, and postcoloniality, focusing on film/media produced outside the United States. The course addresses representation and also uses queer theoretical work to engage wider contexts of film/media production, distribution, and exhibition.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM227",
+      "name": "FILM 227 — Representing Memory",
+      "description": "Studio-based hybrid practice/theory to explore problems of historical representation in film, video, and new media and engage with the production of new cinematic/visual forms that take on issues of personal, collective, and national memories.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM228",
+      "name": "FILM 228 — Moving Image Archives and the Frontiers of Information",
+      "description": "Explores moving image archives in relation to social movements, technological change, and moving image use and reuse. Theories of memory, information, and technology provide a framework for discussions, site visits, and individual projects.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM229",
+      "name": "FILM 229 — Topics in Documentary Studies",
+      "description": "Examines the forms, discourses, and practices of documentary film, television, video, and other media in relation to cultural, social, and political history and theory. While the thematic focus varies from term to term, each edition of the course places critical thought and documentary work in conversation around issues central to forms of social knowledge and action.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM230",
+      "name": "FILM 230 — Expanded Documentary",
+      "description": "Students explore the aesthetic, political, and ethical dimension of new and expanded forms of documentary practice including: new media; database-driven, interactive documentary; participatory media; social media; and documentation-based art practices.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM231",
+      "name": "FILM 231 — Topics in Postcolonial Theories, Film, and Media",
+      "description": "Explores topics in postcolonial theories and film and media around themes such as colonialism, modernity, and institutions of cinema; colonial histories and national or transnational film and media; race, gender, sexuality and colonialism; the uneven implications, pitfalls, and possibilities of the term postcolonial in relation to film and media.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM232",
+      "name": "FILM 232 — Audiovisual Ethnography",
+      "description": "Students learn the technical and critical skills required for fieldwork-based ethnographic video and audio media production. The course is structured around cumulatively building filmmaking skills with an emphasis on critically informed nonfiction ethnographic observation.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to film and digital media, anthropology, or social documentation graduate students.",
+      "prereqGroups": [
+        [
+          "FILM",
+          "ANTH",
+          "SSDC"
+        ]
+      ]
+    },
+    {
+      "id": "FILM234",
+      "name": "FILM 234 — Toward an Ethics of New Media",
+      "description": "Investigates an ethics of new media. Using an intersectional approach, students read thematic units that consider issues of race, class, and gender as they crosscut questions of advanced technological tools and their implementation in modern society.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM235",
+      "name": "FILM 235 — Feminist Media Histories",
+      "description": "Investigates feminist histories of film, radio, television, video, technology, playable media, and digital culture from the 19th century through the present day. Students learn varied historiographic methodologies and also engage in primary historical research.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM236",
+      "name": "FILM 236 — Making...in the Anthropocene",
+      "description": "Through readings and assignments, students explore the notions of making and the temporal context of the Anthropocene. Making is broadly defined as any creative production. The Anthropocene and climate change are studied as urgent and compelling context.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM237",
+      "name": "FILM 237 — Graduate Critique",
+      "description": "Develops fluency in the languages of critical practice as expressed across media. Integrates critical and analytical writing about objects and experiences created by and through electronic and digital media with ongoing, student-driven critiques of audiovisual scholarship.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to film and digital media graduate students. Graduate students from other programs may enroll by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "FILM"
+        ]
+      ]
+    },
+    {
+      "id": "FILM238",
+      "name": "FILM 238 — The Politics of Information",
+      "description": "Explores the production and perception of information (news, stories, figures, identities, controversies, and complacencies). Students research, analyze, theorize, and define the scope of the politics of information, study the consequences of media(ted) knowledge, and propose possibilities for critical intervention and change.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM239",
+      "name": "FILM 239 — Topics in Media Theory",
+      "description": "Explores advanced media theory and the methodologies of media analysis. Themes and issues to be drawn from media history; material, popular, or mass cultures; network and information theory; and intellectual, institutional, political, or cultural contexts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM283",
+      "name": "FILM 283 — New Media Art and Digital Culture",
+      "description": "A study of new media art in the context of digital culture. Electronic, digital and online technology art are set in critical relation to discourse on history, aesthetics, hypermedia, the interface, hacks, embodiment, robotics, artificial life and other topics.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM284",
+      "name": "FILM 284 — Film, Culture, and Modernity",
+      "description": "Traces the rise of motion picture culture from the late 19th century through the end of the 1920s, looking at film's emerging visual and narrative grammar, its changing cultural status, and its engagement with shifting registers of class, ethnicity, gender, and sexuality.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM295",
+      "name": "FILM 295 — Directed Reading",
+      "description": "Directed reading that does not involve a term paper. Students submit petition to course-sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM296F",
+      "name": "FILM 296F — Independent Study",
+      "description": "Independent study with primary advisor for graduate students prior to advancing to candidacy.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM297",
+      "name": "FILM 297 — Independent Study",
+      "description": "Either study related to a course being taken or a totally independent study. Students submit petition to sponsoring agency. Enrollment restricted to graduate students. May be repeated for credit.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM297F",
+      "name": "FILM 297F — Independent Study",
+      "description": "Students submit petition to course-sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM299A",
+      "name": "FILM 299A — Thesis Research",
+      "description": "Students submit petition to course sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "FILM299B",
+      "name": "FILM 299B — Thesis Research",
+      "description": "Students submit petition to course sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "DANM250F",
+      "name": "DANM 250F — Film, Moving Image Installation, and Curatorial Lab",
+      "description": "Workshop investigating moving and still images to create visual and sonic languages for production, exhibition and installation. Core faculty Mark Nash and Isaac Julien invite students to participate in ongoing projects as well as present and discuss their own work. Established artists, film makers and curators are also invited to present their work to the group. (Formerly offered as Research Group: Isaac Julien Studio Lab.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD293",
+      "name": "SOCD 293 — Studies and Practice for Social Documentation, Filmmaking, and New Media",
+      "description": "This thematic, graduate-level, hybrid, production/critical studies course provides opportunities to learn specific technical skills while engaging in the analysis and critical interpretations of cinema, social documentary, animation, art, television, and new media. Technical topics may include animation; motion graphics; interactive web media; and installation, editing, cinematography, and sound.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students in social documentation. Graduate students from other programs may enroll by permission of the instructor.",
+      "prereqGroups": []
+    }
+  ]
+}

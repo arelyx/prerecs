@@ -1,0 +1,16 @@
+{
+  "department": "FIL-Filipino",
+  "slug": "fil-filipino",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/fil-filipino",
+  "generated_at": "2025-11-28T07:51:38.300606+00:00",
+  "courses": [
+    {
+      "id": "FIL82",
+      "name": "FIL 82 — Introduction to Filipino Language & Culture",
+      "description": "Introduction to Filipino language and culture. Four skills (reading, writing, speaking, listening) in basic Filipino (Tagalog), with readings and discussion of critical contemporary thought (decolonization, gender, social movements) in English. For heritage speakers and second-language learners.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}

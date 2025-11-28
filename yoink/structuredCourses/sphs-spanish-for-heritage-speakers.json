@@ -1,0 +1,101 @@
+{
+  "department": "SPHS - Spanish for Heritage Speakers",
+  "slug": "sphs-spanish-for-heritage-speakers",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/sphs-spanish-for-heritage-speakers",
+  "generated_at": "2025-11-28T07:51:45.130993+00:00",
+  "courses": [
+    {
+      "id": "SPHS4",
+      "name": "SPHS 4 — Spanish for Heritage Speakers",
+      "description": "Deals with orthography, lexicon development, morphology, syntax, and other linguistic topics as applied to the development of all language skills (listening, reading, speaking, and writing). Emphasizes reading and writing about well-known and pivotal authentic texts of varying genres and formats from the Spanish-speaking world. Emphasis is on the United States, Mexico, and Spain. Students need to use the self-placement questionnaire posted on the Languages and Applied Linguistics web page. The Spanish Placement Exam can be taken but it is not required.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): Placement into SPHS 4 via via assessment.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPHS5",
+      "name": "SPHS 5 — Spanish for Heritage Speakers",
+      "description": "Deals with orthography, lexicon development, morphology, syntax, and other linguistic topics as applied to the development of all language skills (listening, reading, speaking, and writing). Emphasizes reading and writing about well-known and pivotal authentic texts of varying genres and formats from the Spanish-speaking world. Emphasis is on Central America and the Caribbean.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPHS 4 , by consent of program coordinator, or by placement assessment.",
+      "prereqGroups": [
+        [
+          "SPHS4"
+        ]
+      ]
+    },
+    {
+      "id": "SPHS6",
+      "name": "SPHS 6 — Spanish for Heritage Speakers",
+      "description": "Deals with orthography, lexicon development, morphology, syntax, and other linguistic topics as applied to the development of all language skills (listening, reading, speaking, and writing). Emphasizes reading and writing about well-known and pivotal authentic texts of varying genres and formats from the Spanish-speaking world. Emphasis is on South America.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SPHS 5 or by placement assessment.",
+      "prereqGroups": [
+        [
+          "SPHS5"
+        ]
+      ]
+    },
+    {
+      "id": "SPHS94",
+      "name": "SPHS 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPHS99",
+      "name": "SPHS 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPHS99F",
+      "name": "SPHS 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPHS115",
+      "name": "SPHS 115 — El ensayo lectura, análisis y redacción",
+      "description": "Centers on three areas: essay reading, essay analysis and interpretation, and essay writing. Student read representative essays by Latin American writers, analyze their discourse structure, and apply the lessons learned to their own writing.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; SPAN 6 or SPHS 6 , or by placement assessment. Enrollment restricted to sophomore, junior, and senior Spanish studies majors.",
+      "prereqGroups": [
+        [
+          "SPAN6",
+          "SPHS6"
+        ]
+      ]
+    },
+    {
+      "id": "SPHS194",
+      "name": "SPHS 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPHS199",
+      "name": "SPHS 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SPHS199F",
+      "name": "SPHS 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

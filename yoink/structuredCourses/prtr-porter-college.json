@@ -1,0 +1,344 @@
+{
+  "department": "PRTR - Porter College",
+  "slug": "prtr-porter-college",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/prtr-porter-college",
+  "generated_at": "2025-11-28T07:51:43.976643+00:00",
+  "courses": [
+    {
+      "id": "PRTR1",
+      "name": "PRTR 1 — Academic Literacy and Ethos: Arts of Reading",
+      "description": "Teaches foundational concepts for intellectual exploration and personal development within an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Engages Porter's intellectual tradition of investigating the contribution the arts and humanities make to a good life, a just society, and a flourishing world.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR1A",
+      "name": "PRTR 1A — Introduction to University Life and Learning",
+      "description": "PRTR 1A explores opportunities, expectations, and responsibilities in university life. TopicsÂ include: academic planning;Â general education requirements;Â majors and minors;Â campus policy;Â and preparation for Porter's core course:Â Re/reading Race.Â Students gain familiarity with resources for health,Â well-being, time management, academic success, cultivating just communities, sexual harassment andÂ violence prevention, reflection on UCSC's principles of community, and an introduction to theÂ living and learning tradition of PorterÂ College.Â This course can be taken for Pass/No Pass grading only.",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to entering first-year Porter College students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR2",
+      "name": "PRTR 2 — Reading Films for Truth",
+      "description": "Building on the foundational skills, habits of mind, and interpretive proficiencies developed in Academic Literacy and Ethos: Arts of Reading ( PRTR 1 ), students will explore the ways in which feature-length narrative and documentary films have approached the representation of truth.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR20",
+      "name": "PRTR 20 — Deciding: A Partnership for Your Path to Major and Meaning",
+      "description": "Designed to empower students in making informed decisions about their academic and career paths. In this dynamic class, students delve into a structured process of self-discovery, gaining insights into their interests, values, skills, and aspirations. Through a combination of interactive workshops, engaging discussions, structured panels and practical exercises, students build the lifelong skills necessary for ongoing exploration and discovery.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR26",
+      "name": "PRTR 26 — Navigating the Research University",
+      "description": "Explores critical engagement in education in the context of a research university. Introduces first-year issues and success strategies and ways to participate in the institution's academic life. Investigates strategies for clarifying education goals and devising a plan for success. Students cannot receive credit for this course and KRSG 26 or STEV 26 .",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to first-year Porter and Kresge College members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR35M",
+      "name": "PRTR 35M — The Mockumentary Film",
+      "description": "Mockumentaries such as Waiting for Guffman, This is Spinal Tap, and Woody Allen's Zelig grow out of the documentary tradition; but instead of claiming to represent real-world phenomena, they blatantly distort. Ten mockumentaries and their documentary correlates are studied. (Formerly course 80J.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR37L",
+      "name": "PRTR 37L — Introduction to Laser Cutting, 3D Prinitng, and Vacuum Forming",
+      "description": "Design functional objects, sculpture, and other digitally inspired forms in a variety of 2D (Illustrator) and 3D applications (Cinema 4D, Ketch UP, or AutoCAD), then produce those models as physical objects with a variety of rapid-prototyping methods including laser cutting, 3D printing, and vacuum forming.",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR41I",
+      "name": "PRTR 41I — Improvisation",
+      "description": "Theory and practice of improvisation in the performing arts with an emphasis on acting improvisation techniques. Readings and films develop a theoretical and historical understanding of spontaneous invention on stage. Students attend area theater improvisational performances.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR41S",
+      "name": "PRTR 41S — Solo Performance Works in the Theater",
+      "description": "Explores solo performance works made for the theater. While all course texts fall within the narrative tradition, some center on performers' lives, others on socio-political issues. Course participants screen video recordings of live performances in class., ultimately creating their own brief solo performances.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR41W",
+      "name": "PRTR 41W — Playwriting Workshop",
+      "description": "Explores different aspects of written drama: scene and character development, plot, dialogue, monologues, soliloquies, stage direction, setting, and structure. Excerpts of late 20th-century plays serve as the basis for class discussion.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR45",
+      "name": "PRTR 45 — Archives In Place: The Radical University Across Time",
+      "description": "This interdisciplinary course combines archival research methods and creative practice to create a collaborative research space where, together, we explore our own distinctive institutional history through a deep dive into UCSCâs special collections library holdings. Through sharing and discussing our research findings- including historic photographs, films, syllabi, student publications, flyers, oral histories/audio recordings and more- and through screenings, readings, and conversation, we develop creative projects in dialogue with our research process.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR47K",
+      "name": "PRTR 47K — Korean Music and Culture",
+      "description": "Introduction to the farmers band tradition. Theory and practice of drumming are emphasized, resulting in a group performance.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR47S",
+      "name": "PRTR 47S — Sound Art",
+      "description": "Several composers and performers of contemporary art music discuss the processes by which works are conceived in imagination, transcribed in notation, and realized in sound. After a brief introduction to contemporary music aesthetics, students attend a series of related presentations, seminars, and concerts.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR51A",
+      "name": "PRTR 51A — The Artist's Novel",
+      "description": "A cross-cultural survey of the kunstlerroman, or artist's novel, from its origins in late 18th-century Germany to contemporary Latin America and the United States, this course explores how this genre understands artistic development and the role of artists in society.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR61",
+      "name": "PRTR 61 — Seminar in Arts",
+      "description": "Theoretical and historical aspects of the arts from one culture or world area are explored through seminar discussion, library research, and film/video presentations.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR61B",
+      "name": "PRTR 61B — Handmade Books",
+      "description": "This workshop teaches the history and construction of handmade books as a mode of personal and/or political expression leading to an exhibition of student work.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR61J",
+      "name": "PRTR 61J — Jewish Personal Narratives on Film",
+      "description": "Considers Jewish-American filmmakers as they come to terms with their identity in autobiographical works. Students write responses to texts and create their own brief personal narratives.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR61N",
+      "name": "PRTR 61N — Personal Narratives in Theater and Film",
+      "description": "Considers filmmakers and monologue performers as they come to terms with their identity in autobiographical works. Students write responses to texts and create their own brief personal narratives.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR61O",
+      "name": "PRTR 61O — Documenting Oral History",
+      "description": "Students learn basic techniques of interview and camera work to document on film oral histories collected from community elders. Students develop their skills in writing, theater, visual art, music, or film to reinterpret oral histories as artwork.",
+      "credits": "5",
+      "rawRequirements": "Requirements Priority given to college members. Others by permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR63W",
+      "name": "PRTR 63W — Ways of Knowing",
+      "description": "Creativity in different disciplines is developed via different ways of knowing. Musical, visual, scientific, and spatial literacy demand understanding which is not primarily logocentric. Explores how practitioners of arts and science develop their work and conceptualize its execution.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR71A",
+      "name": "PRTR 71A — Awakening Compassion: Transforming Our Relationship to Self and the World",
+      "description": "Develops the qualities of compassion and kindness toward oneself and others. Combining contemporary scientific research, mindfulness training, and traditional contemplative practices, this course supports students in the cultivation of a more discerning, thoughtful, and compassionate life.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR90B",
+      "name": "PRTR 90B — Art and Politics After Google",
+      "description": "Addresses questions of aesthetics and politics through a critical and practical examination of some artistic, literary, and broadly cultural developments proper to the history of the Internet (1990s to the present).",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to participants in the first-year scholars program.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR93",
+      "name": "PRTR 93 — Field Study",
+      "description": "Field Study",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR95A",
+      "name": "PRTR 95A — Arts Education in the Community",
+      "description": "Students explore social justice topics in Shakespeare and deliver a performance or creative project that engages with the local community. Students are guided by instructor's models of teaching techniques, designed to stimulate the imagination, and by diverse readings.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR99",
+      "name": "PRTR 99 — Tutorial",
+      "description": "Various topics to be arranged. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR99F",
+      "name": "PRTR 99F — Tutorial",
+      "description": "Various topics to be arranged. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR131C",
+      "name": "PRTR 131C — Curatorial Practice",
+      "description": "Offers the opportunity to participate in programming interdisciplinary curatorial praxis, arts events, exhibitions, performances, lectures, and film screenings. Students are exposed to UCSC alumni and faculty members' research through visiting class lectures. Students learn basic protocol for arts programming and critical arts writing, and are required to create their own participatory curatorial project at Porter College.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR131P",
+      "name": "PRTR 131P — What is Photography? History, Politics, and Critique of Photographic Representation",
+      "description": "We live in a world permeated with photographic images, but do we really notice photographs? Do we understand how they work and what they mean? Do we know how to read them? Now that our phones and cameras have merged, we might also say that we live in a world that is forever inviting, imploring us to take photos; we might say we live in a world in which it is almost impossible not to take photos. Are we all photographers now? Do we choose to take photographs or has photography, in a sense, chosen us?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR132",
+      "name": "PRTR 132 — Writing the Future: Science Fiction",
+      "description": "Investigates how science fiction's utopic and/or dystopic projections give insights about equality, democracy, justice, and difference at the same time they register contemporary anxieties about community, kinship, war, viruses, genetic engineering, robotics, surveillance, and environmental degradation. (Formerly PRTR 151F.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR141L",
+      "name": "PRTR 141L — Long Form Improvisation",
+      "description": "Focuses on long-form (acting) improvisation, building participants' knowledge and skills through practical and theoretical readings, by viewing relevant performances, and by improvising in class and in small groups outside class. Participants perform in a final public showing.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR141W",
+      "name": "PRTR 141W — Improvisation Workshop",
+      "description": "For practitioners of acting improvisation, this course deepens participants' knowledge and skills through practical and theoretical readings, by viewing performances, and by improvising in class and in small groups outside class. Participants perform in a final public showing.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR147O",
+      "name": "PRTR 147O — Opera Workshop/Music Practicum",
+      "description": "Rehearsal of the principal vocal parts of an opera in preparation for a full production. Consideration of the dramatic aspects of each role and the interrelationships of the characters.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR147P",
+      "name": "PRTR 147P — Advanced Music Practicum",
+      "description": "The practice of music in a particular area of the world at an advanced level. Students learn the music of one world area or culture over the quarter and study the associated cultural background. Enrollment limited.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR151",
+      "name": "PRTR 151 — The Deep Read: Special Topics",
+      "description": "Small, discussion-based seminar held in conjunction with The Humanities Institute's community reading initiative, The Deep Read. The Deep Read aims to bring together UCSC undergraduates, faculty, and alumni to discuss and think deeply about a text and its key themes and issues. Course is a comprehensive study of The Deep Read book, the author's work, and its relevant contexts. While the textual analysis framework remains consistent every year, the topic, author, and key text changes each year.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR151P",
+      "name": "PRTR 151P — Building the Poem: Process, Form, and the Embodied Text",
+      "description": "Investigates form as it guides poetic utterance. Students complete texts to fit forms including broadsides, pamphlets, and books. Composition is guided by production methods, from holographic texts to letterpress and digital composition.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR161B",
+      "name": "PRTR 161B — Handmade Books",
+      "description": "Teaches the construction and history of handmade books as artistic expression. Coursework covers a variety of structures, the analysis of book content, and the integration of design and concept. Covers the generation of content; explorations in typography; and folded, glued, and stitched structures.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR192",
+      "name": "PRTR 192 — Directed Student Teaching",
+      "description": "Teaching of a lower-division seminar by an upper-division student under faculty supervision. (See course 42.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR193",
+      "name": "PRTR 193 — Field Study",
+      "description": "Field Study",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR194",
+      "name": "PRTR 194 — Group Tutorial",
+      "description": "A program of independent study arranged between a group of students and a faculty instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR198",
+      "name": "PRTR 198 — Ind Field Study",
+      "description": "Ind Field Study",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR199",
+      "name": "PRTR 199 — Tutorial",
+      "description": "Tutorial",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "PRTR199F",
+      "name": "PRTR 199F — Tutorial",
+      "description": "Individual projects carried out under the supervision of a Porter faculty member. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

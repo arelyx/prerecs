@@ -1,0 +1,194 @@
+{
+  "department": "ITAL - Italian",
+  "slug": "ital-italian",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/ital-italian",
+  "generated_at": "2025-11-28T07:51:40.354089+00:00",
+  "courses": [
+    {
+      "id": "ITAL1",
+      "name": "ITAL 1 — First-Year Italian",
+      "description": "During the first quarter of this first-year sequence, students learn to introduce themselves, to talk about their daily activities and hobbies, to describe themselves and their friends/families, and to recount past events. The first-year sequence (1-2-3) begins in fall quarter.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL1A",
+      "name": "ITAL 1A — Accelerated Italian",
+      "description": "The first quarter of accelerated instruction in elementary Italian language. The accelerated pace allows a rapid mastery of grammar and vocabulary, giving students a basic knowledge of Italian in only two quarters. Completion of the sequence is equivalent to the completion of the 1-2-3 sequence. This sequence starts once a year in the winter quarter.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL1B",
+      "name": "ITAL 1B — Accelerated Italian",
+      "description": "The second quarter of accelerated instruction in elementary Italian language. The accelerated pace allows a rapid mastery of grammar and vocabulary, giving students a basic knowledge of Italian in only two quarters. Completion of the sequence is equivalent to the completion of the 1-2-3 sequence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ITAL 1A or ITAL 2 or placement by assessment. For students completing ITAL 2 , ITAL 3 is preferable.",
+      "prereqGroups": [
+        [
+          "ITAL1A"
+        ],
+        [
+          "ITAL2"
+        ]
+      ]
+    },
+    {
+      "id": "ITAL2",
+      "name": "ITAL 2 — First-Year Italian",
+      "description": "During the second quarter of this first-year sequence, students learn to tell a story in the past, to make plans about their future, and to express commands and requests. The sequence starts once a year in the fall quarter.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ITAL 1 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "ITAL1"
+        ]
+      ]
+    },
+    {
+      "id": "ITAL3",
+      "name": "ITAL 3 — First-Year Italian",
+      "description": "During the third quarter of this first-year sequence, students learn to talk about historical events, to formulate hypothetical scenarios, to express wishes, desires, doubts, and opinions, and to discuss more abstract topics (e.g., immigration, work, politics).",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ITAL 2 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "ITAL2"
+        ]
+      ]
+    },
+    {
+      "id": "ITAL4",
+      "name": "ITAL 4 — Second-Year Italian",
+      "description": "Short stories, articles, films, and newsclips are used as the basis for studying intermediate-level conversation and composition. Laboratory assignments involve use of the World Wide Web, conversations with native speakers, films and video clips. Students interested in this course who have not taken the prerequisite at UCSC should meet with the instructor, preferably prior to the first class meeting, and take the placement examination.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ITAL 1B or ITAL 3 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "ITAL1B"
+        ],
+        [
+          "ITAL3"
+        ]
+      ]
+    },
+    {
+      "id": "ITAL5",
+      "name": "ITAL 5 — Second-Year Italian",
+      "description": "Reading of Italian short stories and a play are used as basis for further study and refinement of oral and written skills at the intermediate level. Particular emphasis is placed on oral/written discussion of abstract ideas and topics, and on the study of different language registers/contexts. Laboratory work is regularly assigned. Students interested in this course who have not taken the prerequisite at UCSC should meet with the instructor, preferably prior to the first class meeting and take the placement examination.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ITAL 4 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "ITAL4"
+        ]
+      ]
+    },
+    {
+      "id": "ITAL6",
+      "name": "ITAL 6 — Second-Year Italian",
+      "description": "Reading of first novel in the language and weekly viewing of Italian films serve as basis for oral reports and discussions on various aspects of Italian culture and civilization. Weekly assignments, three essays, and a paper on topics derived from or related to the text. Students interested in this course who have not taken the prerequisite at UCSC should meet with the instructor, preferably prior to the first class meeting, and take the placement examination.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): ITAL 5 or placement by assessment.",
+      "prereqGroups": [
+        [
+          "ITAL5"
+        ]
+      ]
+    },
+    {
+      "id": "ITAL50",
+      "name": "ITAL 50 — Basic Italian Conversation",
+      "description": "Gives students an opportunity to practice speaking and listening skills to build their fluency in Italian. Develops conversational strategies, introduces some grammar, and includes vocabulary drills and key expressions through role plays, games and small-group activities.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL80",
+      "name": "ITAL 80 — Italian Culture Through Cinema",
+      "description": "Film is used as a medium through which images of Italians and their culture are disseminated, perpetuated, and crystallized. Whether these representations offer historical perspectives or stereotypes, they are important documents for the study of Italian culture, society, history, and politics. Students cannot receive credit for this course and Italian 106.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL94",
+      "name": "ITAL 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL99",
+      "name": "ITAL 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL99F",
+      "name": "ITAL 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL100",
+      "name": "ITAL 100 — Advanced Italian Composition and Conversation",
+      "description": "Provides intensive practice in oral and written Italian. Focuses on vocabulary building and increased oral and written expression. Active student participation is essential and constitutes a significant portion of the course including class discussions, oral presentations, written reports, responses and essays, using different genres of writing, including, but not limited to diaries, epistles (formal and informal), blogs, text messaging, dialogues, short stories, memoirs, interviews, podcasts, and media language.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): IITAL 6, placement by assessment, or instructor permission.",
+      "prereqGroups": [
+        [
+          "ITAL6"
+        ]
+      ]
+    },
+    {
+      "id": "ITAL101",
+      "name": "ITAL 101 — Italian Culture through Food",
+      "description": "Explores how the evolution of the Italian culinary tradition and the variety of eating habits reflect the historical and economical changes that took place in Italian society over the most recent centuries. Course is taught in English.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL106",
+      "name": "ITAL 106 — Italian Culture Through Film",
+      "description": "Film is used as a medium through which images of Italians and their culture are disseminated, perpetuated, and crystallized. Students focus on pivotal issues in Italian culture, society, history, and politics, and develop an informed opinion on relevant issues in Italian studies. The course is taught in English with a mandatory enhancement section in Italian. The enhancement section meets once a week and is designed to give students who are already familiar with the language the opportunity to discuss the films in Italian and to read/view additional material in the language. Students cannot receive credit for this course and ITAL 80 .",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL194",
+      "name": "ITAL 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL199",
+      "name": "ITAL 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "ITAL199F",
+      "name": "ITAL 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "department": "KRSG - Kresge College",
+  "slug": "krsg-kresge-college",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/krsg-kresge-college",
+  "generated_at": "2025-11-28T07:51:40.818339+00:00",
+  "courses": [
+    {
+      "id": "KRSG1",
+      "name": "KRSG 1 — Academic Literacy and Ethos: Learning in Community",
+      "description": "Teaches foundational practices for intellectual and personal development in an academic community: analysis, critical thinking, metacognition, engagement with others across difference, and self-efficacy. Framed by three overarching questions: How do I learn? Why do I learn? and From whom do I learn? Students read in different genres and formats and engage in peer-to-peer learning and collaborative discussion. Assignments include reflections on reading and discussion, an oral history project, and a creative project. (Formerly Academic Literacy and Ethos: Power and Representation.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to college members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG1A",
+      "name": "KRSG 1A — Introduction to University Life and Learning",
+      "description": "KRSG 1A explores opportunities, expectations, and responsibilities in university life. Topics include: academic planning; general education requirements; majors and minors; campus policy; and preparation for Kresge's core course: Power & Representation. Students gain familiarity with resources for health, well-being, time management, academic success, cultivating just communities, sexual harassment and violence prevention, reflection on UCSC's principles of community, and an introduction to the living and learning tradition of KRSG College. This course can be taken for Pass/No Pass grading only.",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to entering first-year Kresge College students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG1T",
+      "name": "KRSG 1T — Introduction to Transfer Life and Learning",
+      "description": "Transfer student orientation to the opportunities, resources, learning experiences, and principles of community at UCSC. The course explores the purpose and structure of a research university. Transfer students gain an understanding of graduation requirements and how to customize their pathway to degree completion. This course can be taken for Pass/No Pass grading only. (Formerly Introduction to Research Universities and the Liberal Arts.)",
+      "credits": "1",
+      "rawRequirements": "Requirements Enrollment is restricted to entering transfer students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG2",
+      "name": "KRSG 2 — The Power of Filmmaking",
+      "description": "Introduction to media representations through film and their consequences for individuals and communities. Addresses how today's films represent struggles for justice and agencyâespecially relative to race, gender, citizenship/documentation, and communities of diasporaâin terms of filmmaking frameworks and the dialogues they foment. Each week class screens and discusses a collection of films, television, news programming, and video games to analyze and critique the ways in which power operates. Students also use such analyses and criticism to inform us as we create our own filmmaking projects. (Formerly offered as Power and Representation in Media.)",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG3",
+      "name": "KRSG 3 — Campus Natural History Practicum",
+      "description": "Develop practical skills and knowledge in naturalist observation. Acquire an overview of the field of natural history, particularly applied to the UCSC campus. Document an evolving and multidimensional personal experience of natural spaces, including, but not limited to, wilderness. (Formerly KRSG 18.)",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG10",
+      "name": "KRSG 10 — Reading Marx",
+      "description": "Karl Marxâs writings have had a far-reaching impact on political and intellectual history, producing many different and often conflicting readings. This small, in-person seminar provides an introduction to Marxâs writing through careful reading and discussion of a range of published and unpublished texts. Each week focuses on a specific concept and tasks seminar participants with collaboratively forging interpretive insights through careful analysis and discussion. Emphasis is placed on developing skills and practices of collective reading. To promote reading deeply and mindfully, all texts are read in hard copy (provided at no cost to students).",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG12",
+      "name": "KRSG 12 — Reading Science Fiction: Octavia Butler and Ursula LeGuin",
+      "description": "Discussion-based seminar where students read classic works by two foundational figures in science fiction: Octavia Butler and Ursula K. LeGuin. Discusses the impact of these authors in science fiction and literature more broadly; reflects on the unique power and possibilities of the science fiction genre itself; and thinks about what it might mean to cultivate a lasting reading practice, one based on pleasure and joy, not obligation. Emphasis is placed on developing skills and practices of collaborative reading. To promote reading deeply and mindfully, all texts are read in hard copy, provided at no cost to students. (Disability Resource Center digital accommodations will be provided as needed.)",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG25",
+      "name": "KRSG 25 — Transfer Excellence at the Research University",
+      "description": "Guides transfer students toward deeper engagement with the research university. Students work in small-scale learning communities and the course is designed as a catalyst for opportunities in undergraduate research, internships, creative projects, and experiential learning. Topics include: excelling in the quarter system and upper-division classes; centering strengths and overcoming imposter syndrome; developing research goals; financing educational goals; and planning for life after graduation, including careers and graduate school. (Formerly Successful Transfer to the Research University.)",
+      "credits": "2",
+      "rawRequirements": "Requirements Enrollment is restricted to transfer students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG30",
+      "name": "KRSG 30 — Theater for Public Speaking",
+      "description": "A public speaking course that uses community-building theater games and embodied practice to teach students to be more comfortable with themselves, collaborate with peers, and communicate with an audience. Students learn techniques and build confidence to present in class and professional contexts.",
+      "credits": "2",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG51",
+      "name": "KRSG 51 — City on a Hill Press Practicum in Production",
+      "description": "Students work collaboratively on City on a Hill Press, the student-run, campus newspaper of record, gaining practice in news production. Students engage in analysis and critical reflection regarding both the form and content of news, and its critical relationship to a healthy democracy. Course outcomes include the development of media literacy, and experience addressing issues such as intent, fairness, accuracy, and impact. Areas of focus include, but are not limited to, graphic design, illustration, photojournalism, visual composition, copy editing, fact-checking, and media literacy. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is by permission of the instructor in consultation with City on a Hill Press co-editors-in-chief.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG52",
+      "name": "KRSG 52 — City on a Hill Press Practicum in Reporting and Editing",
+      "description": "Students work collaboratively on City on a Hill Press, the student-run, campus newspaper of record, gaining practice in investigative journalism and news editing. Students engage in analysis and critical reflection regarding both the form and content of news, and its critical relationship to a healthy democracy. Course outcomes include the development of media literacy, and experience addressing issues such as intent, fairness, accuracy, and impact. Areas of focus include, but are not limited to, story production, story assignment and management, and staff editorial composition. Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is by permission of the instructor, in consultation with City on a Hill Press co-editors-in-chief.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG60C",
+      "name": "KRSG 60C — Narratives of Incarceration and Abolition",
+      "description": "Analyzes systems of incarceration in the U.S. and explores movements to abolish those systems and to envision alternative modes of justice. Themes include, but are not limited to, the role that mass incarceration plays in contemporary society, histories of resistance, political prisoners, racial justice, and the intellectual, creative, and political interventions of incarcerated people. Students engage in collaborative projects throughout the class, and learn effective strategies for group work and interpersonal communication. (Formerly offered as Prison Narratives.)",
+      "credits": "3",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+      "prereqGroups": [
+        [
+          "WRIT2",
+          "WRIT1"
+        ]
+      ]
+    },
+    {
+      "id": "KRSG60F",
+      "name": "KRSG 60F — Writer's Read",
+      "description": "Students attend weekly creative writing readings by fiction writers and poets, read excerpts from the writers' works, participate in question and answer sessions, and write short, creative and/or analytical responses to the readings and writings.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG63",
+      "name": "KRSG 63 — Kresge Garden Cooperative",
+      "description": "Hands-on practice with basic ecological horticulture skills through work at the Kresge Garden, including soil cultivation. Enrollment by instructor approval through application (available in the Kresge College office). Enrollment limited to college members.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG65W",
+      "name": "KRSG 65W — Kresge Lab: Creative Writing",
+      "description": "A course of guidance and exercises to assist in developing independent writing projects, and a group setting for critique and feedback. Students do in-class and out-of-class writing assignments; read and discuss texts; and work to develop a final project.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG67",
+      "name": "KRSG 67 — Transformative Justice Seminar",
+      "description": "Examines the principles and processes of restorative justice juxtaposed to current practices in the judicial and educational systems of contemporary society. Students study leading restorative justice practices and their implication for individual and community transformation. Students learn to facilitate the restorative justice process restorative circles, and have the opportunity to practice them in real time. Enrollment is by instructor consent and is restricted to frosh, sophomores, and juniors.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG70",
+      "name": "KRSG 70 — Media for Climate Justice",
+      "description": "Students learn about and address the climate crisis through creative interventions (video, photography, writing). Students discuss and reflect upon their impact on climate change, learn how they might tackle the climate crisis, and create their own climate change portfolio for future creative-activist work.",
+      "credits": "3",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG76",
+      "name": "KRSG 76 — Social Documentary Photography",
+      "description": "History of social documentary photography with its practice. Includes analysis of historical and contemporary images from social documentary work; camera, darkroom, and digital skill development; an individual student documentary project; and collective project discussion.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to Kresge College members.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG85S",
+      "name": "KRSG 85S — The Politics of Climate Crisis",
+      "description": "The climate crisis challenges and frustrates common assumptions about individual and collective agency, nature and the process of history, the organization of human and non-human activity, and of politics itself. This seminar examines current debates and representations in various media, working collaboratively to understand the political dimensions of what we designate in simple terms as âclimate changeâ, but which really encompasses a broad range of interrelated natural and social phenomena. Students develop critical interdisciplinary research projects within thematic groups that explore more specific topicsâe.g., strategic failures of cosmopolitanism, eco-fascism and climate migration, biodiversity and land enclosure, the Green New Deal vs. degrowth, or the ethics of sabotage. (Formerly Critical Writing Practicum: The Politics of Climate Crisis.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment restricted to students in the College Scholars Program.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG99",
+      "name": "KRSG 99 — Tutorial",
+      "description": "A program of directed study arranged between a student and a Kresge faculty member. Student must submit petition to sponsoring agency. Student must confirm Graded or P/NP with instructor in petition before enrolling.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG99F",
+      "name": "KRSG 99F — Independent Study",
+      "description": "A program of directed study arranged between a student and a Kresge faculty member. Student must submit petition to sponsoring agency. Student must confirm Graded or P/NP with instructor in petition before enrolling.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG99G",
+      "name": "KRSG 99G — Independent Study",
+      "description": "A program of directed study arranged between a student and a Kresge faculty member. Student must submit petition to sponsoring agency. Student must confirm Graded or P/NP with instructor in petition before enrolling.",
+      "credits": "3",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG100",
+      "name": "KRSG 100 — University Learning with Intention and Purpose",
+      "description": "Students learn practical ways of maximizing the resources of a public education and research institution. Students collaborate across disciplines, broaden impacts of higher learning, and develop strategies for effective interaction with faculty and the broader professional communities to which they aspire.",
+      "credits": "2",
+      "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to sophomore and juniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG102",
+      "name": "KRSG 102 — STARRS Internship (Services for Transfer, Reentry, and Resilient Scholars)",
+      "description": "Student-interns develop professional skills while giving back to transfer, re-entry, and resilient scholar communities. Students dialogue about university policy; identify structural barriers faced by minoritized and other disadvantaged communities when pursuing higher education; collaboratively design projects to address them; and implement and lead civic-engagement activities. Enrollment is by instructor permission. Application required to match student-interns' skills and interests with specific internship projects being offered. Email jrceja@ucsc.edu for application.(Formerly STARS Internship: Services for Transfer And Reentry Students.) May be repeated for credit.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG192",
+      "name": "KRSG 192 — Directed Student Teaching",
+      "description": "Teaching of a lower-division seminar under Kresge faculty supervision. (See KRSG 42.) Prerequisite(s): upper-division standing in Kresge, a proposal supported by a Kresge faculty member willing to supervise, and college approval.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG193",
+      "name": "KRSG 193 — Field Study",
+      "description": "Supervised off-campus study conducted under the immediate and direct guidance of a Kresge faculty supervisor. To be used primarily by upper-division students doing part-time, off-campus study. Prerequisite(s): approval of student's adviser and the college.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG194",
+      "name": "KRSG 194 — Group Tutorial",
+      "description": "A program of independent study arranged between a group of students and a Kresge faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG195",
+      "name": "KRSG 195 — Senior Thesis",
+      "description": "Senior thesis or project for student doing individual major program. May be repeated twice for credit. Prerequisite(s): permission of sponsoring committee and college approval.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG198",
+      "name": "KRSG 198 — Independent Field Study",
+      "description": "Provides for college-sponsored individual study programs off campus, for which Kresge faculty supervision is not in person (e.g., supervision is by correspondence.) Prerequisite(s): approval of the student's faculty sponsor and college approval.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG199",
+      "name": "KRSG 199 — Tutorial",
+      "description": "A program of individual study arranged between an upper-division student and a Kresge faculty member. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "KRSG199F",
+      "name": "KRSG 199F — Tutorial",
+      "description": "Tutorial",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "EDUC178",
+      "name": "EDUC 178 — Special Topics in Education",
+      "description": "Taught on a rotating basis by various faculty members. The precise focus of each year's course will vary according to the instructor. Please contact the department for information on the current topic. Individual topics may be applied only once to the education minor, STEM minor or education major. (Formerly Advanced Educational Studies.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to junior and senior education and STEM minors, education, democracy, and justice, science education, and sociology majors or by permission of instructor.",
+      "prereqGroups": []
+    }
+  ]
+}

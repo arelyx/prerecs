@@ -1,0 +1,119 @@
+{
+  "department": "HEBR - Hebrew",
+  "slug": "hebr-hebrew",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/hebr-hebrew",
+  "generated_at": "2025-11-28T07:51:39.749991+00:00",
+  "courses": [
+    {
+      "id": "HEBR1",
+      "name": "HEBR 1 — First-Year Hebrew",
+      "description": "Speaking, listening comprehension, reading, and writing fundamentals. The use of Modern Hebrew is encouraged through classroom practice supplemented by work with computer tutorials. The first-year sequence (1-2-3) begins in fall quarter only.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HEBR2",
+      "name": "HEBR 2 — First-Year Hebrew",
+      "description": "Speaking, listening comprehension, reading, and writing fundamentals. The use of Modern Hebrew is encouraged through classroom practice supplemented by work with computer tutorials.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HEBR 1 or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "HEBR1"
+        ]
+      ]
+    },
+    {
+      "id": "HEBR3",
+      "name": "HEBR 3 — First-Year Hebrew",
+      "description": "Speaking, listening comprehension, reading, and writing fundamentals. The use of Modern Hebrew is encouraged through classroom practice supplemented by work with computer tutorials.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HEBR 2 or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "HEBR2"
+        ]
+      ]
+    },
+    {
+      "id": "HEBR4",
+      "name": "HEBR 4 — Second-Year Hebrew",
+      "description": "Development of the students' familiarity with the spoken and written language through grammar review, discussions, and vocabulary building. Varied readings on literary and cultural topics related to modern Israel.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HEBR 1B or HEBR 3 or by consent of instructor.",
+      "prereqGroups": [
+        [
+          "HEBR1B"
+        ],
+        [
+          "HEBR3"
+        ]
+      ]
+    },
+    {
+      "id": "HEBR80",
+      "name": "HEBR 80 — Introduction to Biblical Hebrew",
+      "description": "Introduces students to the basic lexicon and grammatical structures of biblical Hebrew, with an emphasis on the development of a set of useful translation strategies. Throughout the course, students apply their emergent skills to translating a variety of biblical texts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HEBR82",
+      "name": "HEBR 82 — Hebrew: Travel Abroad",
+      "description": "Class is designed for students planning to travel to Israel with one of many funded or unfunded programs offered to students by different agencies. The main course focus is to learn reading and communication skills in Hebrew. Students learn about Israeli culture, with a focus on its differences from U.S. cultures. These communication skills can be used while in Israel for either traveling purposes or attending classes in one of the universities as part of the learning abroad programs. Students acquire the skills required for practical use of Hebrew in order to communicate everyday life activities along with specific functional tasks, such as understanding directions; ordering in a restaurant; health issues; dealing with security issues and emergency situations; understanding tour guides; and addressing historical, political, and geographical issues.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HEBR94",
+      "name": "HEBR 94 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HEBR99",
+      "name": "HEBR 99 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HEBR99F",
+      "name": "HEBR 99F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HEBR194",
+      "name": "HEBR 194 — Group Tutorial",
+      "description": "Provides a means for a small group of students to study a particular topic in consultation with a faculty sponsor. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HEBR199",
+      "name": "HEBR 199 — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HEBR199F",
+      "name": "HEBR 199F — Tutorial",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

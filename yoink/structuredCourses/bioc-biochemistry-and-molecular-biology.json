@@ -1,0 +1,112 @@
+{
+  "department": "BIOC - Biochemistry and Molecular Biology",
+  "slug": "bioc-biochemistry-and-molecular-biology",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/bioc-biochemistry-and-molecular-biology",
+  "generated_at": "2025-11-28T07:51:34.303191+00:00",
+  "courses": [
+    {
+      "id": "BIOC100A",
+      "name": "BIOC 100A — Biochemistry and Molecular Biology",
+      "description": "Fundamentals of molecular biology, structure and function of nucleic acids, and protein structure. Designed for students preparing for research careers in biochemistry and molecular biology.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 8B ; and BIOL 20A . Enrollment is restricted to chemistry, biochemistry, and biomolecular engineering and bioinformatics majors, chemistry minors, and proposed chemistry, biochemistry, and biomolecular engineering majors.",
+      "prereqGroups": [
+        [
+          "CHEM8B"
+        ],
+        [
+          "BIOL20A"
+        ]
+      ]
+    },
+    {
+      "id": "BIOC100B",
+      "name": "BIOC 100B — Biochemistry and Molecular Biology",
+      "description": "Covers principles of protein function from ligand binding and enzyme mechanism, kinetics and regulation to membrane composition and membrane protein function. Lecture: 3-1/2 hours; discussion: 1-1/4 hours.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOC 100A",
+      "prereqGroups": [
+        [
+          "BIOC100A"
+        ]
+      ]
+    },
+    {
+      "id": "BIOC100C",
+      "name": "BIOC 100C — Biochemistry and Molecular Biology",
+      "description": "Biochemistry: intermediary metabolism and bioenergetics. How enzymatically catalyzed reactions are organized and regulated; how energy from molecules is extracted for chemical work. Lecture: 3-1/2 hours; discussion: 1-1/4 hours. (Formerly Biochemistry .)",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOC 100B",
+      "prereqGroups": [
+        [
+          "BIOC100B"
+        ]
+      ]
+    },
+    {
+      "id": "BIOC110L",
+      "name": "BIOC 110L — Advanced Biochemistry Laboratory",
+      "description": "An introduction to the major techniques used in the isolation and characterization of biological components. Laboratory: 8 hours; lecture: 1-3/4 hours. Students are billed a materials fee of $350.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): BIOC 100B and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to chemistry majors in the biochemistry concentration. Other majors by permission.",
+      "prereqGroups": [
+        [
+          "BIOC100B"
+        ]
+      ]
+    },
+    {
+      "id": "BIOC163A",
+      "name": "BIOC 163A — Quantum Mechanics, Spectroscopy and Molecular Structure for Biochemistry and Molecular Biology",
+      "description": "Detailed introduction to molecular quantum mechanics and application of spectroscopic and diffraction techniques to problems involving biological macromolecules. Designed as an alternative to CHEM 163A for the biochemistry and molecular biology major requirement. Students cannot receive credit for this course and CHEM 163A .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1B and CHEM 1C , or CHEM 3C , or CHEM 4B ; and PHYS 5A and 5C, or PHYS 6A and 6C; and previous or concurrent enrollment in PHYS 5B or PHYS 6B .",
+      "prereqGroups": [
+        [
+          "CHEM1B",
+          "CHEM3C",
+          "CHEM4B"
+        ],
+        [
+          "CHEM1C"
+        ],
+        [
+          "PHYS5A",
+          "PHYS6A"
+        ],
+        [
+          "PHYS5C",
+          "PHYS6C"
+        ],
+        [
+          "PHYS5B",
+          "PHYS6B"
+        ]
+      ]
+    },
+    {
+      "id": "BIOC163B",
+      "name": "BIOC 163B — Biochemical Thermodynamics and Statistical Mechanics for Biochemistry and Molecular Biology",
+      "description": "Detailed introduction to the fundamentals of classical and statistical thermodynamics and applications to problems involving biochemical equilibria, macromolecular structure and function. Course is designed as an alternative to CHEM 163B for partial fulfillment of the biochemistry and molecular biology major physical chemistry requirement. Students cannot receive credit for this course and CHEM 163B .",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): CHEM 1B and CHEM 1C , or CHEM 3C , or CHEM 4B ; PHYS 6A or PHYS 5A ; and previous or concurrent enrollment in BIOC 100A . .",
+      "prereqGroups": [
+        [
+          "CHEM1B",
+          "CHEM3C",
+          "CHEM4B"
+        ],
+        [
+          "CHEM1C"
+        ],
+        [
+          "PHYS6A",
+          "PHYS5A"
+        ],
+        [
+          "BIOC100A"
+        ]
+      ]
+    }
+  ]
+}

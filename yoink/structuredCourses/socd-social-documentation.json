@@ -1,0 +1,133 @@
+{
+  "department": "SOCD - Social Documentation",
+  "slug": "socd-social-documentation",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/socd-social-documentation",
+  "generated_at": "2025-11-28T07:51:44.700979+00:00",
+  "courses": [
+    {
+      "id": "SOCD200",
+      "name": "SOCD 200 — Approaches to Social Documentation",
+      "description": "Comprehensive review and analysis of documentary strategies aimed at societal critique and social change, evaluating changes in argument, evidence, and process over development of the discipline.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD201A",
+      "name": "SOCD 201A — Introduction to Documentary Field Production and Editing",
+      "description": "Designed to provide supplemental instruction on specific topical and/or technical matters related to social documentation. Topics include technical standards and innovations within the field of social documentation, documentary subjects, location production, and/or the work of individual professional documentarians.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD201B",
+      "name": "SOCD 201B — Advanced Documentary Field Production and Editing",
+      "description": "Intensive directing and producing course that covers conceptualization, research, treatment and proposal writing, interview technique, camera, editing, production, and distribution.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to social documentation graduate students. Open to qualified undergraduates with permission of instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD201C",
+      "name": "SOCD 201C — Project Planning for the Social Documentary",
+      "description": "Workshop seminar in project planning focusing on the form and content of the documentary project; research and preproduction; technical, financial, and logistical plans; and coordination with subjects and resources.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to social documentation graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD202",
+      "name": "SOCD 202 — Multiple-Platform Social Documentary Production",
+      "description": "Introduction to social documentary genres including video, photography, new media and other mediums, which addresses social-scientific research and methodology in the context of these processes.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to social documentation graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD203",
+      "name": "SOCD 203 — Documentary Research Methods and Social Science Representation",
+      "description": "Designed to acquaint students with how social science research represents social reality and how social documentarians represent social reality. Designed to encourage comparison among different modes of social science research and between social science and different modes of social documentation representations of social life.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD204",
+      "name": "SOCD 204 — Ethnographic Writing and Social Documentation",
+      "description": "Graduate-level advanced seminar explores ways that seeing, hearing, and knowing are influenced by culture, power, race, and other factors. Readings emphasize how documentary subjects are constituted and known, addressing questions of epistemology, social constructivism, objectivity, and method.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD292",
+      "name": "SOCD 292 — Special Topics",
+      "description": "Provides supplemental instruction on specific topical and/or technical matters related to social documentation. Topics include technical standards, artistic strategies, and innovations within the field of social documentation, documentary subjects, and/or work of individual professional documentarians.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD293",
+      "name": "SOCD 293 — Studies and Practice for Social Documentation, Filmmaking, and New Media",
+      "description": "This thematic, graduate-level, hybrid, production/critical studies course provides opportunities to learn specific technical skills while engaging in the analysis and critical interpretations of cinema, social documentary, animation, art, television, and new media. Technical topics may include animation; motion graphics; interactive web media; and installation, editing, cinematography, and sound.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students in social documentation. Graduate students from other programs may enroll by permission of the instructor.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD294A",
+      "name": "SOCD 294A — Production/Analysis/Editing",
+      "description": "Workshop seminar oriented toward actual fieldwork, production, and preparation for editing of the thesis project in the student's chosen genre. Techniques of collection and recording, analysis, preparation, and editing taught.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to social documentation graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD294B",
+      "name": "SOCD 294B — Production/Analysis/Editing",
+      "description": "Workshop seminar oriented toward the editing and creative assemblage of the thesis project in the student's chosen genre. Techniques of preparation, exhibition, and editing taught.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to social documentation graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD294C",
+      "name": "SOCD 294C — Production/Analysis/Editing",
+      "description": "Social documentation students in the final phase of completing their master's thesis receive guidance in shaping their projects, receive feedback, and are taught key elements of structure and narrative at a time when the demand for clarity and social documentation exposition is crucial.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): SOCD 294A and SOCD 294B . Enrollment is restricted to social documentation graduate students.",
+      "prereqGroups": [
+        [
+          "SOCD294A",
+          "SOCD294B"
+        ]
+      ]
+    },
+    {
+      "id": "SOCD295",
+      "name": "SOCD 295 — Project Completion",
+      "description": "Individualized study for second-year graduate students working on and completing their final projects. Limited to students enrolled in the social documentation program during their final quarter of study.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD297",
+      "name": "SOCD 297 — Independent Study",
+      "description": "Study either related to a course being taken or a totally independent study. Enrollment restricted to graduate students. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "SOCD297F",
+      "name": "SOCD 297F — Independent Study",
+      "description": "Students submit petition to course-sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    }
+  ]
+}

@@ -1,0 +1,1753 @@
+{
+  "department": "HAVC - History of Art and Visual Culture",
+  "slug": "havc-history-of-art-and-visual-culture",
+  "url": "https://catalog.ucsc.edu/en/current/general-catalog/courses/havc-history-of-art-and-visual-culture",
+  "generated_at": "2025-11-28T07:51:39.499029+00:00",
+  "courses": [
+    {
+      "id": "HAVC10",
+      "name": "HAVC 10 — Introduction to African Visual Culture",
+      "description": "An interdisciplinary approach to the study of the basic structures (gender, art within political sphere, and spiritual aspects of visual culture) and cultural institutions (initiations, closed associations, kingship, title association, etc.) around which the study of African visual culture revolves.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC20",
+      "name": "HAVC 20 — Visual Cultures of Asia",
+      "description": "An introduction to the art and architecture of East Asia, including China, India, Southeast Asia, and Japan. In order to achieve a fuller understanding of the arts of these countries a historical, cultural, and religious context is provided.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC22",
+      "name": "HAVC 22 — Religion and Visual Culture in China",
+      "description": "Introduction to the study of religious currents and practices in China and their visual expression. In addition to religious art, topics include such pivotal matters as body concepts and practices, representations of the natural world, and logics of the built environment.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC24",
+      "name": "HAVC 24 — Southeast Asia Visual Culture",
+      "description": "Introduces the visual cultures of Southeast Asia. Topics include indigenous megalithic art, textiles, and jewelry, as well as Hindu and Buddhist art and architecture. Also considers shadow play and dance performance as alternative lenses to looking at ritual and visual narratives rendered on stone temples.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC27",
+      "name": "HAVC 27 — Image and Ideology in Indian Art",
+      "description": "Examination of the ways social, religious, and political patronage have affected the production and reception of art in the Indian subcontinent. The course is designed as a series of case studies from different periods of Indian history.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC28",
+      "name": "HAVC 28 — Ghosts, Haunting, Memory, and Erasure in the Films of Asia",
+      "description": "Explores the theme of memory, haunting, ghosts and the politics of erasure and remembrance in films made by Asian filmmakers and contemporary artists in Asia. Examines the intersecting themes of haunting, memory, and ghosts and how selected filmmakers and visual artists in Asia go about framing and unframing this topic in their work. The goal of the course is to see, through a comparative lens, how these selected filmmakers and artists treat the topic of specter and the politics of memory and erasure in their respective films from a national and transnational perspective.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC30",
+      "name": "HAVC 30 — Introduction to European Visual Culture",
+      "description": "General survey of European art and architecture with a focus on the southern, Mediterranean ancient cultures. Course consists of a number of case studies of works from various periods from ancient to modern.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC35",
+      "name": "HAVC 35 — European Visual Culture in a Global Context 1500-1900",
+      "description": "Survey of the visual and material products of European contact with Africa, Asia, Oceania, and the Americas between 1500 and 1900 focused both on object-specific case studies and thematic discussions of contact, colonialism, appropriation, and the visual construction of race.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC39",
+      "name": "HAVC 39 — African-American Art",
+      "description": "Interdisciplinary investigation of the construction of race in the United States, tracing the impact of European art on American artistic production, exploring its influence on African-American art and culture, including the Harlem Renaissance, black internationalism, and the vibrant Negritude movement. Explores how a definable black aesthetic crystallized during the late 1950s-70s African anti-colonial, Civil Rights and Black Power eras, and continued to flourish through the 1990sâall of which gave rise to new artistic forms such as black queer, feminist, and conceptual art. Also studies the phenomenon of post-black art, popular visual culture, as well as discourses on African modernity and globalization.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC40",
+      "name": "HAVC 40 — Museum Cultures: The Politics of Display",
+      "description": "Explores the history of collecting and displaying art (museums, galleries, fairs) since the mid-19th century and the effect of institutional changes on aesthetic conventions. Follows the history from the origins of museums and collections to contemporary critiques of institutional exclusion and misrepresentation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC41",
+      "name": "HAVC 41 — Introduction to Modern Art",
+      "description": "Examines the social, economic, and political significance of European and U.S. modernist art and architecture, moving from French realism to American minimalism. Provides the historical background and theoretical frameworks needed to make sense of modernist art and culture.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC43",
+      "name": "HAVC 43 — History of Modern Architecture",
+      "description": "Examines the origins and development of modern architecture, from the Enlightenment and the Industrial Revolution to the 20th Century and beyond. Buildings, urban plans, and works of art and design are discussed in relation to political, social, and cultural currents.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC44",
+      "name": "HAVC 44 — Designing California: Architecture, Design, and Environment",
+      "description": "Introduces the complex interplay between design--including architecture, art, engineering, and city planning--and conceptions of environment during the 20th Century in the American West.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC45",
+      "name": "HAVC 45 — Photography Now",
+      "description": "Explores recent methods and approaches in photography. Surveys significant aesthetic, conceptual, and theoretical shifts occurring in the photographic medium and related discourses. Special attention given to the current landscape of contemporary photography (1980-present).",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC46",
+      "name": "HAVC 46 — Introduction to U.S. Art and Visual Culture",
+      "description": "Overview of U.S. art and visual culture from the late 18th Century to the present. Examines art as evidence for understanding evolving beliefs and values of Americans. Explores the social and political meanings of art, and pays particular attention to how artists, patrons, and audiences have constructed nationalism, race, class, sexuality, and gender.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC47",
+      "name": "HAVC 47 — Introduction To Contemporary Art",
+      "description": "Introduces students to major debates and practices in contemporary art from 1960 to the present. Not a strict chronological survey or exhaustive catalogue, the course attends to movements and theoretical frameworks that still fuel contemporary practice and criticism.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC48",
+      "name": "HAVC 48 — Climate Justice Now! Art, Activism, Environment Today",
+      "description": "As climate change grows more severe, artists and activists are creating strategies of consciousness-raising, mass mobilization, and sustainable living. This course investigates the convergence of climate justice and cultural politics, exploring imperatives for a just transition to a post-carbon future.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC49",
+      "name": "HAVC 49 — From Memes to Metadata: an Introduction to Digital Visual Culture",
+      "description": "Introduction to digital visual culture including critical and historical approaches to memes; social media and politics; and the many intersections of data, images, and society. Sample topics include: digital art, digital activism, and surveillance.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC50",
+      "name": "HAVC 50 — Ancient Mediterranean Visual Cultures",
+      "description": "The role that ancient art and visual culture play in constructing social identities, sustaining political agendas, and representing various cultural, ritual, and mythological practices in Mesopotamia, Egypt, Greece, and Rome, including the sociology of ancient cultures, mythology, religious studies, gender studies and history.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC51",
+      "name": "HAVC 51 — Greek Eyes: Visual Culture and Power in the Ancient Greek World",
+      "description": "The central role of visual communication in ancient Greek civilization: examines the construction of cultural, social, political, religious, and gender identities through material objects and rituals. Includes discussions of images of the public and private sphere, athletic and theatrical performances, mythology, pilgrimage, and magic.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC55",
+      "name": "HAVC 55 — Unclothed: The Naked Body from Antiquity to the Present",
+      "description": "The human body without clothing in European and European-American art and visual culture from ancient Greece to the present day. Among the themes to be addressed: gender, youth and age, sexuality and sexual preference, fecundity and potency, erotic art and pornography, primitivism and the naked body of the non-European. (Formerly HAVC 31, The Nude in the Western Tradition.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC58",
+      "name": "HAVC 58 — Gardens of Delight: Fifteen Centuries of Islamic Visual Culture",
+      "description": "Examines some of the most representative creations of Islamic visual culture from the 7th Century to the present in order to appreciate the richness of this tradition and its extensive influence on other cultures. Focuses on the social, political, and religious role of a variety of materials, from mosques, palaces, and gardens to visual narratives, ceremonies, dance, and contemporary films.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC60",
+      "name": "HAVC 60 — Indigenous American Visual Culture",
+      "description": "Selected aspects of art and architecture of the first peoples of the Americas, north, central, and south, from ca. 2000 B.C.E. to present. Societies to be considered may include Anasazi, Aztec, Inca, Northwest Coast, Maya, Navajo, Plains, and others.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC64",
+      "name": "HAVC 64 — Indigenous North American Materiality and Resistance",
+      "description": "Through case studies of contemporary and historical practices, course examines the rich visual cultures of the United States and Canada. Students learn about the role artists play in resisting colonization and sustaining community knowledge.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC65",
+      "name": "HAVC 65 — Native American Art and the Environment",
+      "description": "Introduces students to the work of Native American artists that either reflects environmental knowledge or which reacts against threats to natural resources. By studying current issues such as fossil fuel extraction, invasive species, and wildfires, students learn how artists contend with threats to their ancestral homelands and how art functions as a powerful medium for raising awareness of these challenges.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC70",
+      "name": "HAVC 70 — Visual Cultures of the Pacific Islands",
+      "description": "Interdisciplinary course examines visual cultures of Australia, Melanesia, Micronesia, and Polynesia from the archaeological past through contemporary periods.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC76",
+      "name": "HAVC 76 — Oceanic Digital Arts",
+      "description": "Focuses on critical oceanic studies as an artistic paradigm for creating digital technologies. Pacific Islander artists create digital art to preserve and revitalize cultural practices. Oceanic digital arts are a form of cultural reclamation and represent a growing artistic movement to archive knowledge for future generations in the face of climate disaster and cultural erasure. Students analyze Indigenous virtual art to understand the benefits and shortcomings of prioritizing technology for Native knowledge production/preservation within our ever-increasingly techno-mediated world.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC80",
+      "name": "HAVC 80 — Colonial Histories and Legacies: Africa, Oceania, and the Indigenous Americas",
+      "description": "The arts and visual cultures of selected cultures that developed outside the spheres of influence of major European and Asian civilizations, with an emphasis on the history and influence of colonialism in creating current ethnic and racial categories.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC85",
+      "name": "HAVC 85 — Introduction to Global Architecture",
+      "description": "Introduces the study of architecture and the built environment from a global perspective, focusing on architecture's relation to themes, such as ritual, power, the city, technology, and climate.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC99",
+      "name": "HAVC 99 — Tutorial",
+      "description": "Supervised study for undergraduates. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC100A",
+      "name": "HAVC 100A — Approaches to Visual Studies",
+      "description": "Introduction to major issues of method and critique in study of art and visual culture. Focuses on understanding disciplinary and critical modes of scholarly inquiry in the visual arts, including role of historical research. Emphasizes intensive reading, discussion, and writing. HAVC 100A is a prerequisite for all History of Art and Visual Culture seminars.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to sophomore, junior, and senior History of Art and Visual Culture majors and minors.",
+      "prereqGroups": [
+        [
+          "ENTRYLEVELWRITING",
+          "COMPOSITION"
+        ]
+      ]
+    },
+    {
+      "id": "HAVC110",
+      "name": "HAVC 110 — Visual Cultures of West Africa",
+      "description": "Explores visual cultures of West Africa through time (Nok to present). Attention paid to relationships between peoples and impact of European/Arab presence on visual cultures. Prerequisite(s): HAVC 10 or HAVC 80 recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC111",
+      "name": "HAVC 111 — Visual Cultures of Central Africa",
+      "description": "Examination of visual cultures of Central Africa within a historical sequence from the Sanga archaeological excavations to contemporary easel painting.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HAVC 80 suggested. Enrollment is restricted to sophomores, juniors and seniors (recommended).",
+      "prereqGroups": [
+        [
+          "HAVC80"
+        ]
+      ]
+    },
+    {
+      "id": "HAVC115",
+      "name": "HAVC 115 — Gender in African Visual Culture",
+      "description": "In Africa, relationships exist between gender and visual culture. Course examines where categories come from, differences in men's and women's visual cultures, and how visual cultures teach, reinforce, and negotiate gender definitions. When are male/female boundaries crossed, and why?",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC116",
+      "name": "HAVC 116 — African Architecture",
+      "description": "Study of the built environment in Africa. The course explores the diversity of architectural types and how gender, politics, religion, and culture shape and are shaped by architectural spaces and how the natural environment shapes the built environment.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC117",
+      "name": "HAVC 117 — Contemporary Art of Africa",
+      "description": "Examines contemporary arts in post-colonial Africa, 1960-present, including new popular cultural forms; arts resulting from new class and national structures; commodification of culture; Pan-Africanism; exhibitionism; and questions of destiny.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC118",
+      "name": "HAVC 118 — Art of the Contemporary African Diaspora",
+      "description": "Considers contemporary art by African artists operating in metropolitan centers, as well as Afro-British, Afro-Caribbean, and African-American production. Topics are organized thematically and address constructing and deconstructing the idea of Africa; cultural authenticity; diaspora; Creolite and creolization; hybridity; cosmopolitanism; post-black; and globalism in the arts.",
+      "credits": "5",
+      "rawRequirements": "Requirements Background in history of art and visual culture recommended. Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC119",
+      "name": "HAVC 119 — Arts and Politics of African Urban Space",
+      "description": "Using contemporary art and other visual materials, examines how select African cities are structured, imagined, and contested, and how migration, colonialism, race, ethnicity, and globalization inform their spatial politics. Draws from urban studies, political theory, memoire, anthropology, and visual studies.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC122A",
+      "name": "HAVC 122A — Sacred Geography of China",
+      "description": "An examination of the close relationship of religious traditions and the natural world in China, and its expression in visual representation. Particular emphasis on the ways in which competing groups sought to define or re-envision an understanding of the terrain.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC122B",
+      "name": "HAVC 122B — Constructing Lives in China: Biographies and Portraits",
+      "description": "Consideration of biographies and portraits in China as representations of human types and individuals, and the use of these representations as models for constructing lives. Attention to historical and social contexts, early times to present. Special focus on Chinese Buddhist traditions. A previous course that focuses on traditional China or Buddhist studies strongly recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC122C",
+      "name": "HAVC 122C — Writing in China",
+      "description": "Examines material and conceptual phenomena of writing in Chinese visual culture. Focuses on the intersections of places and practices of writing through various inscribed sites, ranging from oracle bones, seals, and mountain facades to hand scrolls, architecture, and contemporary art.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC122D",
+      "name": "HAVC 122D — Chinese Landscape Painting",
+      "description": "Examines the history and significance of the subjects most prominent in Chinese painting since the Han Dynasty, focusing on the cultural factors that made landspace a fundamental value in the Chinese tradition and the methods whereby painters created pictorial equivalents.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC122E",
+      "name": "HAVC 122E — Art and Propaganda in China",
+      "description": "Examines painting, photography, sculpture, film, mixed-media works, propaganda posters, and performance art from the mid-19th century to the contemporary period. Investigates how transcultural exchanges shaped the trajectory of Chinese arts; the roles new mediums played in changing Chinese art and national identity; the impact of politics on the development of visual culture; and the varied styles and movements that burgeoned since the post-Mao period. Course provides students with a firm understanding of the development of modern and contemporary Chinese art and visual culture within social, political, and historical contexts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC122F",
+      "name": "HAVC 122F — Bodies in Chinese Culture",
+      "description": "Introduces images, thoughts, and practices of bodies in Chinese culture. In China and Taiwan, the body is to be cherished, adorned, nourished, cultivated, and gazed upon, but also disciplined, altered, and controlled. Examines texts and images of the Chinese body in relation to religion, gender, ethnic politics, martial arts, sports, nationalism, food, medicine, and death. No knowledge of the Chinese language is required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC123A",
+      "name": "HAVC 123A — Modernity and the Arts of India",
+      "description": "Deals with artistic responses to the forces of modernity, colonialism, industrialization and globalization in India during the 19th and 20th centuries. Addresses the complex and often painful climb toward re-establishing a truly Indian artistic identity. (Formerly Modernity and Nationalism in the Arts in India.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC123B",
+      "name": "HAVC 123B — Religions and Visual Culture of South Asia",
+      "description": "South Asia is the home of many religions (Hinduism, Buddhism, Jainism, Islam, and Sikhism). Introduces the role images (painting, sculpture, architecture, photography, film) play in shaping these diverse religious traditions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC124A",
+      "name": "HAVC 124A — Arts of Ancient Southeast Asia",
+      "description": "Focuses on Hindu and Buddhist arts of ancient Southeast Asia (Indonesia, Cambodia, Vietnam, and Thailand). Materials covered include indigenous megalithic arts, stone sculptures, and monumental temple architecture such as Angkor Wat, Borobudur, Prambanan, and the Bayon.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC124B",
+      "name": "HAVC 124B — History of Photography in Southeast Asia",
+      "description": "Examines how photography was used in Southeast Asia to document the racial difference and the exotic Others under the regime of colonialism. Considers the role photography played in documenting the Vietnam-American War and how contemporary Southeast Asian-American artists challenge this photographic history in their art.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC124C",
+      "name": "HAVC 124C — Arts and Politics in Theravada Traditions",
+      "description": "Consideration of the arts and architecture in Theravada Buddhist traditions in Sri Lanka and Southeast Asia. Topics and themes include ritual, relics, visual narrative, mural painting, contemporary art, mass-meditation movement, and political protest.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC124D",
+      "name": "HAVC 124D — Contemporary Art of Southeast Asia and its Diaspora",
+      "description": "Examines the respective national notions of modernity in the region through a comparative lens. How global capital flow and transnational cultural exchanges impact the production of arts of Southeast Asia and its diaspora. Themes and issues include: colonialism and art education; nationalism; identity politics; memory; trauma; gender; race; sexuality; and the body.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC124E",
+      "name": "HAVC 124E — Southeast Asian-American and Diasporic Visual Culture",
+      "description": "Focuses on Southeast Asian refugee visual culture in the United States. Themes and issues include: trauma; memory; the politics of race and ethnicity; gender and sexuality; and the politics of inclusion and exclusion from the nation-state.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC127A",
+      "name": "HAVC 127A — Buddhist Visual Worlds",
+      "description": "Introduction to the study of Buddhist visual traditions, from their beginnings to the present day. Case studies examined with careful attention to historical, social and cultural contexts; particular emphasis on the relation of visual traditions to Buddhist practices.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC127B",
+      "name": "HAVC 127B — Buddhist Pure Lands",
+      "description": "Explores Buddhist imaginative worlds of the \"pure lands\": worlds in outer space, sacred mountains, internal states of mind. Study of related practices, including expression and representation of these concepts in paintings, scriptures, poetry, and built environments. Focus is on Chinese traditions.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC127C",
+      "name": "HAVC 127C — Ritual in Asian Religious Art",
+      "description": "Examination of interaction between image and ritual in Asian religious art. Case studies from different historical periods and geographical locations (e.g., China, Tibet, Japan, Indonesia, India). Examples include mandalas, ritual bronzes, tankas, sacred caves, temples, tea ceremonies, and calligraphy.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC127D",
+      "name": "HAVC 127D — Storytelling in Asian Art",
+      "description": "Combination of theoretical perspectives on narrative from literary criticism, rhetoric, folklore, and film theory with art historical focus on images (cave temples, stone reliefs on stupas, scrolls, dance-drama, etc.) from India, Pakistan, China, Japan, Cambodia, and Indonesia.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC127E",
+      "name": "HAVC 127E — Modern/Contemporary Architecture of the Asia Pacific",
+      "description": "Examines 20th- and 21st-century architecture in the Asia Pacific. Examines how aesthetic, socio-political, economic, and technological networks have contributed to Asia Pacific's dynamic and experimental approaches to contemporary architecture.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC127F",
+      "name": "HAVC 127F — The Politics of Exclusion: Asian American Visual Culture",
+      "description": "Examines Asian American artists as well as representations of Asian Americans through U.S. history. Addresses such themes as migration and dislocation, race and identity, intergenerational relationships, origins and diasporas, and American foreign policies in Asia.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC133A",
+      "name": "HAVC 133A — Themes in the Study of Medieval Visual Culture",
+      "description": "Many issues associated with contemporary artistic production and visual culture originated in the Middle Ages. Themes to be considered: role of secular art; women as artists and patrons; aesthetic attitudes; relationship between cultures in holy war, crusade, and pilgrimage.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC135B",
+      "name": "HAVC 135B — German Art, 1905-1945",
+      "description": "Expressionism, agitprop, the Bauhaus, New Objectivity, attacks on modernism, National Socialist realism. Painting, sculpture, graphic art, and some architecture and film, studied in the context of political events from the eve of World War I to the end of World War II.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC135D",
+      "name": "HAVC 135D — Art, Revolt, and Revolution in Europe 1750-1850",
+      "description": "Lecture course focusing on the dynamics of art and politics in France, Britain, and to a lesser extent Spain, from 1750 to 1850. This period of dramatic social change gave rise to new conceptions of subjectivity, freedom, nationhood, and the public address of visual culture. (Formerly French Painting, 1780-1855.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC135E",
+      "name": "HAVC 135E — Jewish Identity and Visual Representation",
+      "description": "An exploration of the theoretical and practical or experiential applications of Jewish identity in European visual representation. Brief background on pre-emancipation textual and cultural issues followed by study of the Jewish subject and Jewish subjectivities in modernity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": [
+        [
+          "HAVC135E"
+        ]
+      ]
+    },
+    {
+      "id": "HAVC135F",
+      "name": "HAVC 135F — Art of the Book in Western Europe 500-1600",
+      "description": "The history of European books circa 500-1600, primarily medieval, illuminated manuscripts and the first years of printing. Focuses on the relationship between text and image. Topics include techniques of book production, the archeology of the book, and the life and travels of individual books. (Formerly course 191R.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC135G",
+      "name": "HAVC 135G — Blood, Guts, and Gore: Representing War from Leonard da Vinci to Abu Ghraib",
+      "description": "Examines images of war from 1400 to the present. Class discusses the many aspects of war while considering major painters of the last 600 years, including da Vinci, Rubens, Goya, Picasso. Class also discusses Callot, Marinetti, etc., and other media, including film, photography, and public monuments.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC135H",
+      "name": "HAVC 135H — Topics in European and Euro-American Visual Culture",
+      "description": "Consideration of how and why Europeans in Europe and Europeans and European-Americans in North America blended nature and human response between 1600 and the present in a variety of media and practices (painting, maps, photography, tourism, film, scouting, artist colonies).",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC135K",
+      "name": "HAVC 135K — Art and Science in Europe 1500-1900",
+      "description": "Examines a select number of case studies from 1500-1900 to see how thinkers and makers relied upon science and art to help them understand the world, asking how have scientists and natural philosophers used art to make their claims more convincing, how have artists relied on scientific research to do the same, and what practices do they have in common.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC135L",
+      "name": "HAVC 135L — Nineteenth-Century Europe in Prints",
+      "description": "Focuses on the public lives of printed pictures in Europe between 1789 and 1914. In lectures and in written assignments, the class analyzes how artists created works in multiple, which were then circulated by publishers and dealers and consumed by viewers across Europe. In-class discussions compare 19th-century print cultures to our current practices of engaging socially with digital images to see what each illuminates about the other.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC135P",
+      "name": "HAVC 135P — Paris, Capital of the 19th Century",
+      "description": "Examines the places, spaces, practices, and representations of Paris in the 19th century. Tracing the changing face(s) of Paris by way of its literary and visual representations, students consider the experiences and constructions of the modern city.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC137A",
+      "name": "HAVC 137A — Northern Renaissance Art",
+      "description": "Considers the painting and prints produced in Northern Europe in the 15th and 16th centuries. Major issues include the status of realism and classicism, the role of religion and religious reform, and the rise of popular imagery.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC137E",
+      "name": "HAVC 137E — Renaissance Prints",
+      "description": "Examines the issues surrounding the technology and uses of printed images from the early Renaissance through the end of the early modern period. Topics may include the political, religious, and satirical uses of prints and the representation of women in prints.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC140A",
+      "name": "HAVC 140A — America in Art",
+      "description": "Introduction to American visual arts: architecture, painting, photography, sculpture, and performance art, from the nineteenth through the twenty-first century. Explore social and political meanings of art and what art reveals about our nation's values and beliefs, in particular, gender and race.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC140B",
+      "name": "HAVC 140B — Victorian America",
+      "description": "Examines how American writers and artists negotiated complexities of U.S. society during the 19th century. Emphasis on issues ranging from women's rights to laissez-faire capitalism, and from Reconstruction to manifest destiny. Considers how the era's cultural products provided artists, patrons, and audiences with metaphorical coping strategies to counteract what Victorians perceived to be the period's overwhelming social and political changes.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC140C",
+      "name": "HAVC 140C — Race and American Visual Arts",
+      "description": "Investigation of the role played by visual arts in fashioning the racial identities of European-Americans, African Americans, Asian Americans, Native Americans, and Latinos in the United States.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC140D",
+      "name": "HAVC 140D — Chicano/Chicana Art: 1970-Present",
+      "description": "Taking the terms Chicano and Chicana as a critical framework, addresses cultural and conceptual themes in visual art production since 1970. Questions concerning aesthetics, identity, gender, and activism in painting, photography, murals, and installation art explored.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC140E",
+      "name": "HAVC 140E — Art and Science in America: Contact to circa 1900",
+      "description": "Examines the relationship between art and scientific inquiry in American visual culture from earliest European exploration through the 19th century, when new scientific theories and technological advancements challenged earlier modes of understanding vision, spirituality, and the physical world.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC140F",
+      "name": "HAVC 140F — Black Visual Culture",
+      "description": "Explores critical debates concerned with the visualization of African-American identity. In the 21st century, we have seen a renewed interest in racial justice and a sense of urgency around eradicating the enduring scourge of intolerance and inequity. As a result, there is a great necessity to explore the complexities of race and representation. By surveying a range of visual formsâfrom narrative and documentary film, to Internet-based and print mediaâthe course explores the current landscape of black cultural representation. Also looks at the intersection of gender, race, and sexuality as intersecting phenomena.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC140P",
+      "name": "HAVC 140P — Pop Culture as High Art",
+      "description": "Examines how Pop Art and popular culture in the Untied Stateswere (re)formulated into public icons that challenged the visual and ideological associations between high and low art.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141A",
+      "name": "HAVC 141A — Modern Art: Realism to Cubism",
+      "description": "Modern art in Europe and America, 1848-1914. Consideration of painting, graphic arts, and sculpture in Realism, Impressionism, Post-Impressionism (Symbolism) Art Nouveau, Fauvism, and Cubism as well as exploration of photography's changing status and influence.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141B",
+      "name": "HAVC 141B — Death, Desire, and Modernity",
+      "description": "Explores war, consumption and desire in the art of the 20th century. From Paris to New York, Cubism to Feminism, explores the relationship between the visual arts and intellectual movements such as psychoanalysis, existentialism, and phenomenology with particular attention to racial and sexual politics.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141C",
+      "name": "HAVC 141C — Modern Art: Pop to Present",
+      "description": "Surveys the art forms and critical ideas that have shaped artistic practice from the 1950s to the present, including an overview of the socio-political, economic, and cultural forces that inspire artists to articulate human experience in visual form. Examines how popular culture in the post-war United States became intertwined with visual art, forming into the artistic genre known as Pop Art. This important aesthetic shift challenged the political, ideological, and representational value systems that inform our understanding of so-called \"high art.\"",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141E",
+      "name": "HAVC 141E — Histories of Photography",
+      "description": "Introduction to the histories of photography and the critical debates around different photographic genres such as medical photography, art photography, and political photography. Students will develop a critical language in order to analyze photographs while considering the importance of social and institutional contexts.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141F",
+      "name": "HAVC 141F — The Camera and the Body",
+      "description": "Through the study of historical and contemporary visual texts (from ethnography and portraiture to advertising and erotica), this course explores how photographic images of the body, while masquerading as natural, self-evident, or scientific, participate in highly coded sign systems that influence who looks at whom, how, when, and why.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141H",
+      "name": "HAVC 141H — Media History and Theory",
+      "description": "An introductory examination of the writing about the issue of medium and media theory in visual culture. Technologies, discourses, and practices from all periods that use the comparison of media as a major approach to understanding the problems of the visual are highlighted. New media, film, television, video, traditional arts are also treated.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141I",
+      "name": "HAVC 141I — Be Here Now: Art, Land, Space",
+      "description": "From the \"happenings\" of the late 1950s to contemporary ecological art, this course will examine temporary, site-specific projects of the U.S and Western Europe. Students will be introduced to theories of public art and the social production of space, and invited to explore practices that change the role of the audience, remake museum spaces, situate art in nature, or transform urban life.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141J",
+      "name": "HAVC 141J — Critical Issues in Contemporary Art and Visual Culture",
+      "description": "Explores how theory can illuminate various forms of cultural production from art and cinema to popular and material cultures. Considers how scholars and visual producers utilize theory creatively and in the study of aesthetic objects and experiences.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141K",
+      "name": "HAVC 141K — Activist Art Since 1960: Art, Technology, Activism",
+      "description": "Students explore art and technology produced for social change since 1960 within the context of major historical ruptures, such as the Vietnam War, the women's movement, environmental protection, AIDS activism, anti-capitalist, and international human rights movements.",
+      "credits": "Credits",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141L",
+      "name": "HAVC 141L — Museums in the Internet Era",
+      "description": "Explores the world of museums in the age of digital technologies and the Internet. Key themes include digital repatriation, social media, interactivity, participation, net art, and digital aesthetics. Background in history of art and visual culture (e.g., at least one HAVC or equivalent course) is recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141M",
+      "name": "HAVC 141M — Museum Practices",
+      "description": "How are museums organized, categorized, visited? How are objects physically handled, documented, and displayed? Course explores various concepts upon which museum practices are based and the impact these concepts have on society and cultures.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141N",
+      "name": "HAVC 141N — Data Cultures: Art, Technology, and the Politics of Visual Representation",
+      "description": "Through critical readings, interactive assignments, and primary sources, this course explores cultural and political issues around data, emphasizing the impacts of relevant technologies and practices on art and visual culture. Sample topics: digital art, critical mapping, social media, and surveillance.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141O",
+      "name": "HAVC 141O — Sex, Lies, and Surveillance: Contemporary Documentary Arts",
+      "description": "Focuses on contemporary experiments in artistic documentary practice, including photography and digital imagery, moving-image media, and artistic installations. Considers artistic case studies and leading theoretical and critical elaboration in relation to international cultures of documentary practice.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141P",
+      "name": "HAVC 141P — Networks and Natures: Art, Technology, and the Nonhuman",
+      "description": "Through critical readings and primary sources, this course explores the historical and theoretical developments in the interactions of art, culture, nature, and technology. Sample topics include environmental art; media infrastructures; concepts of nature and the nonhuman; and climate change and visual culture.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC141Z",
+      "name": "HAVC 141Z — Deep Dive: Museums of the Bay Area",
+      "description": "This intensive course introduces students to Bay Area museums, their exhibition histories, and curatorial practices. Field trips allow students to have private conversations with museum curators, go behind the scenes, and engage in direct study of objects in exhibitions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC142",
+      "name": "HAVC 142 — Contemporary Art and Ecology",
+      "description": "Investigates contemporary art and the politics of ecology. Examines the intersection of art criticism, politico-ecological theory, environmental activism, and postcolonial globalization, considering geopolitical areas diverse as the Arctic, Nigeria, Bangladesh, India, Europe, and the Americas.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC142M",
+      "name": "HAVC 142M — Museum Exhibitions",
+      "description": "Students work in collaborative teams to create an exhibition prospectus. Students take the roles of museum departments, in the process learning about how a museum works. The impact exhibitions make in culture and society is examined throughout each step of the process.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC143A",
+      "name": "HAVC 143A — Contemporary Architecture and Critical Debates",
+      "description": "Examination of practitioners, projects, issues, and theories in contemporary architecture circa 1968 to the present. Topics include the architecture of aftermath, the ethics of memory and memorialization, the corporatization of museums, the role of criticism and exhibitions, and the cult of the brand-name architect.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC143B",
+      "name": "HAVC 143B — History of Urban Design",
+      "description": "Examines urban design from the Renaissance to the present, including Latin American colonial cities, Utopian plans, and sites such as Brasilia and Chandigarh. The course focuses on social justice, diversity, and the role of art and architecture.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC143C",
+      "name": "HAVC 143C — Latin American Modern Architecture",
+      "description": "Presents Latin America's modern architecture with relation to colonization; the influence of immigrants from Europe, Africa, and Asia; the presence of indigenous cultures; and the search for autonomy. Case studies include Argentina, Brazil, Chile, Mexico, Venezuela, and Uruguay.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC143D",
+      "name": "HAVC 143D — Architecture and the City in Modern and Contemporary Visual Culture",
+      "description": "Examines the modern and contemporary depictions of cities in visual and material culture, from paintings and photographs to logotypes and souvenirs. Also examines the roles of narrative in spatial representations, including literature, film, and television productions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC143E",
+      "name": "HAVC 143E — History of Design: The Objects of Technology, 1850-The Present",
+      "description": "Traces the connections between key movements in modern design and the evolution of technology in society. Also provides a framework for engaging critically with the proliferation of technology in society today.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC143F",
+      "name": "HAVC 143F — Memory, Place, and Preservation in Modern Architecture",
+      "description": "How have architects engaged with ideas of memory and place in architectural projects and built landscapes from the 18th century to the present? This course examines topics such as memorializing, erasure of place, historic preservation, and cultural heritage in modern architecture. (Formerly Memory, Place and Architecture.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to sophomores, juniors, and seniors.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC143G",
+      "name": "HAVC 143G — After Utopia: Architecture and the City, 1968-Present",
+      "description": "Explores critical issues in the history of architecture and urbanism from 1968 to the present. Major themes in the development of contemporary architecture are introduced, including the uneven legacy of modernism, the growth of cities, changing technologies, environmental issues, and the social and political context of design.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC143H",
+      "name": "HAVC 143H — City on a Hill: The Architecture of the Campus",
+      "description": "Explores the history of campus design in North America. Traces the ways designers have used the campus for staging new ideas of education and work, stimulating social relations, and connecting architecture with the natural world. Emphasis is devoted to UCSC and the Silicon Valley tech campus. (Formerly course 191U.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC144A",
+      "name": "HAVC 144A — Latin American Art and Visual Culture",
+      "description": "Investigates Latin American and Caribbean art and visual culture. Studies decolonial resistances, alternative modernisms, examining the shaping of race and ethnicity under global capitalism. Looks at practices by Latin American and Latinx artists, focusing on Afro-Latinx and indigenous knowledges.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC151",
+      "name": "HAVC 151 — Greek Myths Antiquity to the Present",
+      "description": "Myths dominated the culture and visual production of the ancient Greek world, and their presence is still strong today. How did they codify social, political, and religious realities and needs? How were they perceived in different time periods? In addition to ancient Greek and Roman and later European sculptures and paintings, this course considers less conventional sources, such as modern films, comics, and advertisements. HAVC 51 recommended as preparation.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC152",
+      "name": "HAVC 152 — Roman Eyes: Visual Culture and Power in the Ancient Roman World",
+      "description": "Visual culture in the ancient Roman world, from temples and public monuments to houses and tombs, performances, and rituals. Examines the construction of social and cultural identities, including class, gender, and sexuality, through architecture, sculpture, painting, household objects, jewelry, etc.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC153",
+      "name": "HAVC 153 — Neither Venus Nor Virgin: Women's Lives Beyond Men's Constructs in Late Antiquity and Byzantium",
+      "description": "Explores the lives of women in Late Antiquity and Byzantium through a critical analysis of primary visual and textual sources, most of which were produced by men. Looking beyond social expectations, we attempt to understand female experiences and agency.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC154",
+      "name": "HAVC 154 — Byzantine Visual Culture: Politics and Religion in the Empire of Constantinople, 330-1453 A. C",
+      "description": "Centered on the capital city of Constantinople (modern Istanbul), the Hellenized and Christianized Roman Empire of the Easter Mediterranean today known as Byzantium played a major, yet often overlooked, role in European history for more than a millennium. This course examines its visual production and relation to politics and religion in court and church ceremonial, expressions of Christian faith, and cultural interactions with Western Europe, Islam, and the Slavic world.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC155",
+      "name": "HAVC 155 — Constructing Cleopatra: Power, Sexuality, and Femininity Across the Ages",
+      "description": "The construction of female identity and the production of history through the myth of Cleopatra. Critical analysis of archeological data and ancient sources, later sculptures and paintings, and contemporary films, movies posters, Internet sites, advertisements, comics, games, dolls, and household objects.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC157B",
+      "name": "HAVC 157B — Italian Renaissance: Art and Architecture",
+      "description": "Lives of Italian Renaissance people from birth to death, examining the nature and roles of the institutions which defined human existence in this period. Uses visual arts both illustratively and to study how institutions fashioned their images through art and architecture.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC157C",
+      "name": "HAVC 157C — High Renaissance",
+      "description": "An investigation of the High Renaissance as a period and stylistic concept, using the major artists and monuments of the period 1480–1525 to discuss issues of theory, history, and art. Artists considered include Leonardo da Vinci, Michelangelo, and Raphael.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC157D",
+      "name": "HAVC 157D — Art of the Venetian Renaissance",
+      "description": "Considers Venetian art in the 15th and 16th centuries. Topics include major artists (the Bellini, Carpaccio, Titian, Tintoretto, Veronese, Palladio) and the relationship of the city to outside forces (Byzantine Empire, Turkish Empires) and other Italian cities.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC160A",
+      "name": "HAVC 160A — Indigenous American Visual Culture Before 1550: Mexico",
+      "description": "Art and architecture of selected pre-Hispanic cultures from the gulf coast, central, western, and southern Mexico including the Olmec, Zapotec, Toltec, Mixtec, Mexica (Aztec), and others.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC160B",
+      "name": "HAVC 160B — Indigenous American Visual Culture Before 1550: The Andes",
+      "description": "The art of selected pre-hispanic cultures of Colombia, Ecuador, Peru, and Bolivia including the Nazca, Moche, Chimu, and Inca.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC162A",
+      "name": "HAVC 162A — Special Studies in Early Indigenous American Visual Culture: The Ancient Maya",
+      "description": "The art and architecture of the Maya of southern Mesoamerica from the first century C.E. to ca. 1500. HAVC 80 , HAVC 60 , or HAVC 160A are recommended as preparation. (Formerly Advanced Studies in Early Indigenous American Visual Culture: The Ancient Maya.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC162B",
+      "name": "HAVC 162B — Special Studies in Early Indigenous American Visual Culture: The Inka",
+      "description": "The visual culture of the Inka of the Andean region of western South America including textiles, metalwork, and the built environment. HAVC 60 or HAVC 80 are recommended as preparation. (Formerly offered as Advanced Studies in Early Indigenous American Visual Culture: The Inka.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC163",
+      "name": "HAVC 163 — The Native in Colonial Spanish America",
+      "description": "Indigenous contributions to colonial Spanish American visual culture including architecture, manuscripts, sculpture, painting, textiles, feather-work, and metallurgy. Focus on colonial Mexico, the Andes, and California.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC164A",
+      "name": "HAVC 164A — Art and Visual Culture of Indigenous California",
+      "description": "Examines the diverse art and visual culture of California's Indigenous communities, by learning about historic practices and revitalization, artistic engagement with the built environment, performance and public art, activism through visual culture, and the deconstruction of stereotypes.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC165",
+      "name": "HAVC 165 — Indigenous Artists and the Borderland Missions",
+      "description": "The Missions of California, Arizona, New Mexico, Texas, Georgia and Florida impacted the lives of Indigenous peoples who were vital to the artistic and architectural development of these spaces. Course examines Indigenous contributions and ongoing reactions to these sites.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC170",
+      "name": "HAVC 170 — Art of the Body in Oceania",
+      "description": "Explores art of the body, defined broadly, from various perspectives. Examines colonial representations of Oceanic bodies, self-representation through bodily adornment and display (including tattoo, scarification, body painting, ornament, and dress), and bodily metaphors in Oceanic visual cultures.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC172",
+      "name": "HAVC 172 — Textile Traditions of Oceania",
+      "description": "Investigates how textiles contribute to cultural fabric of Oceania. Explores women's roles in socioeconomic exchanges and cultural production; gender issues regarding production and function of Oceanic textiles; and history of processes, functions, and aesthetics. Prerequisite: Prior coursework related to Oceania recommended.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC176",
+      "name": "HAVC 176 — Visual Sovereignty",
+      "description": "Focuses on oceanic studies as a paradigm for decolonial/anti-colonial art practices. By engaging theorizations on visual sovereignty,course emphasizes the need for trans-Indigenous worldmaking that deploys individual and community assertions of what representation means in art. Readings are organized by connecting Indigenous theories of Oceania in the Pacific across networks of Indigenous coalitions of resistance across the globe to connect divergent narratives, positions, times, and spaces.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC178",
+      "name": "HAVC 178 — Museums and Cultural Heritage in Oceania",
+      "description": "Examines representations of Pacific Island cultures. Explores the history of indigenous communities' relationships with museums and heritage institutions, and strategies to represent Oceanic histories, knowledges, and futures. Studies how stakeholders in cultural representation develop collaborative approaches to pursuing decolonized heritage practices.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC179",
+      "name": "HAVC 179 — Topics in Oceanic Visual Culture",
+      "description": "Examines selected and changing topics in the study of oceanic visual culture. The specific topic varies with each offering in order to keep up with recent directions in scholarship. Possible topics include: archaeological material and visual cultures; colonial-era images, objects, and spaces; architecture and environments; performance; gender; race and ethnicity; modern/contemporary art and visual culture; and/or a regional focus.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC180A",
+      "name": "HAVC 180A — Contemporary Art in a Globalized World",
+      "description": "Examines major developments in art and theory, 1980s-present. Close consideration of how artists from around the globe innovatively respond to often fraught social, political, and economic circumstances. Topics include: experimental social relations, diaspora, migration, decolonization, institutional critique, globalization, the commons, and ecology. (Formerly Global Contemporary Art.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC185",
+      "name": "HAVC 185 — Community Engagement Through the Arts",
+      "description": "Explores a variety of professional practices related to art history and visual studies. Focuses on critical issues central to community-engaged professional practice. Topics include: museums and communities, art and civic engagement, managing visual archives and collections, art law, cultural property, heritage preservation, art conservation, community arts organizations, public art, arts administration, academia, pedagogy, the vital role of the arts and the humanities in contemporary life. (Formerly Art and Community: Arts Professions and Community Engagement.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC186",
+      "name": "HAVC 186 — Horror and Gender in Art and Visual Culture",
+      "description": "Explores the theme of horror in 20th/21st-Century visual culture. Unpacks how horror is often reflective of entrenched cultural anxieties around the interplay between gender, morality, and female sexuality.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC186I",
+      "name": "HAVC 186I — Indigenous Art and Activism",
+      "description": "Examines how indigenous artists and activists visually respond to issues related to land and sovereignty. Looks at a broad range of media used by indigenous creative practitioners, including documentary filmmaking, printmaking, photography, and performance.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC186Q",
+      "name": "HAVC 186Q — Queer Visual Culture",
+      "description": "Students gain critical skills to grapple with queer art, visual culture, and theory of diverse histories and geographies. Students consider how queer is applied and appropriated in the scope of in/visibility in a transnational context.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC188A",
+      "name": "HAVC 188A — Introduction to Curatorial Studies",
+      "description": "Investigates display histories of natural, ethnographic, and historical objects as well as contemporary art curation practices. Explores how curatorial methodologies can reinforce or challenge inequalities implicit in choosing what and how objects are seen.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC188B",
+      "name": "HAVC 188B — Biennials and Mega-Exhibitions",
+      "description": "Explores the recent history of curatorial practice. Through studying important exhibitions produced in recent decades, students learn about the range of social, political, and economic factors influencing how art is conceived and displayed today.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC188C",
+      "name": "HAVC 188C — Site-Specific Art, Installations, Artists and Institutional Practice",
+      "description": "Examines key moments and projects in site-specific art since the 1960s, including Earth Works, the rise of installation art, and the interplay between artists and institutional venues sponsoring such projects, including museums, private galleries and patrons, and biennials.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC188M",
+      "name": "HAVC 188M — Visual Culture of Memory",
+      "description": "Considers visual and material culture (art, architecture, heritage sites, monuments, and museums) from around the world to explore how expressions of collective memory address the present through memorializing, commemorating, changing, or forgetting the past. (Formerly Heritage, Memory, and Material Culture.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190A",
+      "name": "HAVC 190A — African Art and Visual Culture",
+      "description": "Advanced seminar requiring intensive research and writing on changing topics related to a specific area of African art and/or visual culture chosen to demonstrate critical mastery of this subject.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190B",
+      "name": "HAVC 190B — Play and Ritual in Visual Cultures",
+      "description": "Compares how play and ritual construct worlds and regulate visual cultures—from dolls to ritual objects and performances. Attention given to areas where play and ritual overlap and the visual cultures that result.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190C",
+      "name": "HAVC 190C — The Mediterranean from the Rise of Christianity to the Rise of Islam",
+      "description": "Examines the visual culture of the Mediterranean from the 3rd to the 7th centuries A.D., focusing on the historical and cultural developments which led to the survival of the Eastern Roman Empire and its transformation to what we call Byzantium.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190D",
+      "name": "HAVC 190D — The World of the Lotus Sutra",
+      "description": "Close study of the principal text of East Asian Buddhism as a self-enclosed vision of reality, with careful consideration of the forms and functions of the world of visual and aural representation that it has inspired.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HAVC 127A or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "HAVC127A"
+        ]
+      ]
+    },
+    {
+      "id": "HAVC190E",
+      "name": "HAVC 190E — Huayan Visions",
+      "description": "Explores the distinctive conceptual world of the Buddhist Huayanjing (Avatamsaka-sutra) and its expression in visual forms. This long text, composed in Sanskrit and later translated into Chinese, is a principal scripture of the international Mahayana Buddhist traditions of Asia.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HAVC 127A or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "HAVC127A"
+        ]
+      ]
+    },
+    {
+      "id": "HAVC190F",
+      "name": "HAVC 190F — Chan Texts and Images",
+      "description": "Examines selected issues in history of Chan (Zen) Buddhist traditions in China from medieval times to the present day. Concepts, methods, and visual expression of Chan practice situated through study of texts and visual materials.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HAVC 127A or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "HAVC127A"
+        ]
+      ]
+    },
+    {
+      "id": "HAVC190G",
+      "name": "HAVC 190G — Buddhist Wisdom Traditions",
+      "description": "Careful study of Mahayana Buddhist perfection-of-wisdom traditions--texts and related material culture, including visual imagery and illustrated books--with focus on the particular vision of reality that they aim to produce or reveal.",
+      "credits": "5",
+      "rawRequirements": "Requirements Prerequisite(s): HAVC 127A or by permission of instructor.",
+      "prereqGroups": [
+        [
+          "HAVC127A"
+        ]
+      ]
+    },
+    {
+      "id": "HAVC190H",
+      "name": "HAVC 190H — Constructions of Identity in 20th c. Tibetan Visual Culture",
+      "description": "This course on the construction of identity in modern and contemporary Tibetan visual cultures examines artworks in Tibetan communities from the early 20th century to the present. Students learn to analyze how visual mediums helped to construct different aspects of Tibetan identity. Broad themes include: the role of visual representations in constructing race, ethnicity, and gender; the impact of transnational and national politics on identity formation; and the role of imperialism and colonialism in the construction of race and ethnicity in present-day Tibet and the diaspora.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190J",
+      "name": "HAVC 190J — Visual Cultures of the Vietnam-American War",
+      "description": "Examines the visual culture of the Vietnam-American war and its legacy in contemporary art of Southeast Asia. Considers representations in different media: painting, drawing, photography, film, novels, and material cultures. Issues addressed include memory, trauma, identity politics, body, race, gender, pornography, and prostitution.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190K",
+      "name": "HAVC 190K — Thematic Approach to Visual Cultures of Southeast Asia and Its Diaspora",
+      "description": "Undergraduate seminar that takes topical and thematic approaches to looking at the visual cultures of Southeast Asia and its diaspora. Media and themes include textile, film and literature, comparative modernity, race, gender, and sexuality. The specific topic and them varies from year to year.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190M",
+      "name": "HAVC 190M — Representations of Women in Indian Art",
+      "description": "Deals with representations of the female divinity in Indian religious imagery, and of women in secular and courtly paintings. Also examines roles women play in the production of art in the Indian subcontinent.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190N",
+      "name": "HAVC 190N — Topics in Mediterranean Visual Culture",
+      "description": "Examines selected and changing topics in the study of Mediterranean visual culture. Topics vary with each offering to keep up with recent directions in scholarship. Possible topics: Bronze Age Aegean cultures; myth, ritual, and religion in the Near East; Greek and Roman gender and sexuality; seafarers and cross-cultural interactions in the ancient Mediterranean; Islamic cultures of North African and Spain.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190O",
+      "name": "HAVC 190O — Berlin: History and the Built Environment",
+      "description": "Explores Berlin's urban and architectural history through themes: the meaning of memory in architecture; the political and cultural implications of preservation, globalization, and tourism. Because these questions are relevant beyond Berlin, course draws comparisons with other cities.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190P",
+      "name": "HAVC 190P — Death and Patriotism: The Case of the French Revolution",
+      "description": "What are the relations between the mortal body and politics in times of crisis? What purposes can death, or the threat of death, serve? Examines representations of executions, assassinations, and funerals during the French Revolution, with an emphasis on the Terror.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190Q",
+      "name": "HAVC 190Q — Portraiture: Europe and America, 1400-1990",
+      "description": "Western portraiture and self-portraiture at certain key moments (early modern Italy, 16th-century Germany, 17th-century Holland, France from the reign of Louis XIV to the Revolution, contemporary U.S.) are explored by reading 20th-century interpretations and some primary sources. This course can be taken for senior exit credit only by permission of the instructor.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190R",
+      "name": "HAVC 190R — 19th-Century European Art Now",
+      "description": "Reframes and recontextualizes works of 19th-century European art by looking at recent scholarly approaches as well as the critical commentary offered by contemporary artists. (Formerly 19th-Century Art Now.)",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190S",
+      "name": "HAVC 190S — New Directions in Contemporary Art",
+      "description": "Explores how critical theory illuminates forms of cultural production, from art and cinema to popular culture. Considers how scholars, artists, and filmmakers use critical theory both creatively and in the study of aesthetic objects and experiences.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190T",
+      "name": "HAVC 190T — Topics in Pre- and Post-Columbian Visual Culture",
+      "description": "Seminar on changing topics related to the current scholarship on pre-Hispanic and colonial Spanish American visual culture.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190U",
+      "name": "HAVC 190U — Word and Image in Illuminated Byzantine Manuscripts",
+      "description": "Religious, scientific, and secular manuscripts of Byzantium: examines how words and images interacted to express and promote central concepts of Byzantine culture; serve liturgical needs of private devotion; reflect imperial ideals; diffuse moral values and knowledge; and proclaim social status and cultural affiliations.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190V",
+      "name": "HAVC 190V — Cult of Mary in Byzantium",
+      "description": "Why did the cult of the Virgin Mary become so important in Byzantine culture? Examines historical, cultural, theological, political, and social reasons for this development, seen through the interaction of Byzantine visual culture and literature.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190W",
+      "name": "HAVC 190W — Art and Culture Contact in Oceania",
+      "description": "Examines impact of culture contact on Oceanic and Euro-American visual cultures in context of discovery, colonialism, and postcolonialism. Topics include 18th-century visual culture, colonial identities, primitivism, syncretism, impact of Christianity, contemporary art/market, media, tourism, transnationalism, and globalization. Prior coursework related to Oceania recommended but not required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190X",
+      "name": "HAVC 190X — Art and Identity in Oceania",
+      "description": "Theoretical discussions and Pacific Basin case studies on 1) definitions of cultural, ethnic, and national identities; 2) relationship between art, museums, and construction of historical and cultural narratives; 3) ways tradition defined in art practices and used by groups to assert an identity in their present. Participants first develop a theoretical framework and vocabulary for analyzing artistic production in a variety of cultures. Through specific case studies, will explore how art, architecture, and museums actively contribute to define and challenge ethnic and national identities. Prior course work related to Oceania recommended but not required.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC190Y",
+      "name": "HAVC 190Y — Art and the Sea: Visualizing Knowledge and Political History in Europe and North America (1500-1900)",
+      "description": "Seminar focusing on European and North American representations of ocean spaces, species, and human travelers made between 1500 and 1900. Students read recent scholarship on oceans, art, and science and consider an array of visual materials (including maps, oil paintings, and glass models) to ask how oceans served as the conduits for producing knowledge about the natural world and as the arenas in which arguments about national and cultural differences were staged.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191A",
+      "name": "HAVC 191A — Iconoclasm",
+      "description": "What happens when, to control an object, it is destroyed? Examines destruction of art as a way of ending the object's life cycle, as a device of social tension/change, and as a colonial and post-colonial mechanism of religious/political control.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191B",
+      "name": "HAVC 191B — The Virgin of Guadalupe: Images and Symbolism in Spain, Mexico, and the U.S",
+      "description": "Focus on the histories of miraculous images of La Virgen de Guadalupe de Extremadura (Spain) and La Virgen de Guadalupe de Tepeyac (Mexico). The foundations and growth of the cult of the Mexican Guadalupe during the colonial period is examined along with the multivalent symbolism of her image. Considers contemporary appearances of the Virgin of Guadalupe, from the miraculous images on a tree in central California and the compositions of Chicano artists, to mass-produced kitsch.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191C",
+      "name": "HAVC 191C — Subalternatives: Representing Others",
+      "description": "Explores how visual representation (in fine art, popular art, film, and television) encodes difference in selected cultural and historical contexts. Considers (post)colonial image-making both as a strategy of domination as well as resistance.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191D",
+      "name": "HAVC 191D — Semiotics and Visual Culture",
+      "description": "How can visual culture be understood as the production, circulation, and recirculation of signs? This course offers a history of semiotics and its methodological application in the analysis of images in popular culture and within the discipline of art history.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191E",
+      "name": "HAVC 191E — Feminist Theory and Art Production",
+      "description": "A close reading of works of art and theoretical texts by feminists working from 1970 to the present. The course encourages debate around the past, present, and future relevance of feminist theories to visual cultural studies, paying particular attention to issues of cultural and ethnic difference.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191F",
+      "name": "HAVC 191F — Image and Gender",
+      "description": "Examines what visual representations (feminine and masculine) reveal of gender in 19th- and 20th-century European and American culture; how images reflect norms of gender; and how we are conditioned to read images in gendered terms. Explores how femininity and masculinity were conceived during historical periods and how gender ideals changed in response to social, political, and economic pressures. Students encouraged to consider the fluid nature of 21st-century notions of ideal femininity and and masculinity and possible alternatives.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191G",
+      "name": "HAVC 191G — Art, Cinema, and the Postmodern",
+      "description": "Considers the relationship between art, cinema, and postmodernism. Specific, thematically oriented topics are considered including: the impact of cinema aesthetics on contemporary art; film and digital technology; cinematic structure as cultural critique; and filmic strategies as an ideological tool.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191H",
+      "name": "HAVC 191H — Climate Havoc: Art and Environmental Crisis Today",
+      "description": "Examines contemporary art visual culture in relation to climate havoc. Climate-change threats and impacts grow more widespread, frequent, and severe wreaking environmental havoc worldwide. In the absence of effective governance and international leadership in addressing adequate solutions, artists and activists are inventing and participating in creative strategies of consciousness-raising, mass mobilization, and ecologically sustainable modes of thinking and living. Seminar focuses on creative practices of climate justice, considering ecological transformation in relation to justice-oriented frameworks that both stress socio-political and economic inequities, and seek ways to rectify such inequalities. Also maps out new trajectories of practice and methodologies of scholarship at the convergence of art history, visual cultural studies, and climate breakdown.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191I",
+      "name": "HAVC 191I — Topics in Architecture and Urban History",
+      "description": "Focuses on selected topics in the history of art and visual culture. Topics vary depending on instructor.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191K",
+      "name": "HAVC 191K — Decolonial Visual Culture",
+      "description": "Examines contemporary visual culture and processes of decolonialization in relation to topics including: petrocapitalism, indigeneity, ecology, race, gender and sexuality, and multispecies ontology. Case studies include cultural practices in North America and Mexico, with diverse theoretical approaches.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191L",
+      "name": "HAVC 191L — Topics in Native American Visual Culture: Indigeneity and Pop Culture",
+      "description": "Examines the history of racist imagery and stereotypes that have shaped public perception of Indigenous American peoples. From imperialist propaganda through current-day manifestations, class examines the negative impacts misrepresentations have on Native communities and Indigenous responses.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191N",
+      "name": "HAVC 191N — Topics in Renaissance Art and Visual Culture",
+      "description": "Seminar on changing topics related to the current scholarship on the art and visual culture of the Renaissance.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191O",
+      "name": "HAVC 191O — Topics in Oceanic Visual Culture",
+      "description": "Seminar on current scholarship on Oceanic visual culture. Topics include pre-colonial, colonial, and post-colonial visualities; place and the built environment; performance; race; gender; travel and tourism; cultural institutions. Prior coursework related to Oceania recommended but not required.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191P",
+      "name": "HAVC 191P — Topics in Contemporary Art and Visual Culture",
+      "description": "Advanced seminar requiring intensive research and writing on changing topics in contemporary art and visual culture. (Formerly Topics in Contemporary Art.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191S",
+      "name": "HAVC 191S — Topics in American Art and Visual Culture",
+      "description": "Advanced seminar requiring intensive research and writing on changing topics related to a specific area of American art and/or visual culture chosen to demonstrate critical mastery of this subject.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191V",
+      "name": "HAVC 191V — The Edge of the Sea: Architecture and Design on the California Coast",
+      "description": "The history of architecture and design along the California coast. Through a series of case studies selected from topics in twentieth century design, course explores the roles of designers in mediating relationships between infrastructure and landscape, technology and natural forces, ideas of the artificial and natural, as well as between humans and non-human species.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC191W",
+      "name": "HAVC 191W — Art, Disaster, and Resilience",
+      "description": "Explores how art and other visual cultural practices--like participatory mapping, data visualization, and image sharing--negotiate the material and social consequences of both sudden and slow-moving disasters. Emphasizes critical, activist, and regenerative methods of representation, collaboration, and response.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC193F",
+      "name": "HAVC 193F — History of Art and Visual Culture Service Learning",
+      "description": "Integrates academic study with meaningful community service to enrich the learning experience, teach civic responsibility, and strengthen communities. Projects may serve non-profit agencies, schools, or art/culture institutions. Enrollment is restricted to junior and senior history of art and visual culture majors and minors. Enrollment is by instructor permission.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC195",
+      "name": "HAVC 195 — Senior Thesis",
+      "description": "Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC198",
+      "name": "HAVC 198 — Independent Field Study",
+      "description": "Independent field study away from the campus. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC198F",
+      "name": "HAVC 198F — Independent Field Study",
+      "description": "Independent field study away from the campus. Students submit petition to sponsoring agency.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC199",
+      "name": "HAVC 199 — Tutorial",
+      "description": "Individual study in areas approved by sponsoring instructors. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC199F",
+      "name": "HAVC 199F — Tutorial",
+      "description": "Individual study in areas approved by sponsoring instructors. Students submit petition to sponsoring agency",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC201A",
+      "name": "HAVC 201A — Introduction to Visual Studies and Critical Theory",
+      "description": "Introduces the visual studies discipline, providing students with an overview of the field's development, its primary texts, and its issues of central concern. Features intensive readings and student-led discussions.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC202",
+      "name": "HAVC 202 — Introduction to Visual Studies Methods",
+      "description": "Examines research methods and approaches in a variety of materials, cultures, periods, and subjects that are relevant in the discipline of visual studies. Discussions focus on research and readings by history of art and visual culture faculty who share practices, experiences, and advice.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC204",
+      "name": "HAVC 204 — Grant Writing, Pedagogy, and Professional Development",
+      "description": "Students work on grants for educational support, dissertation funding, or both; learn about effective, accessible, and equity-minded TA- and GSI-related pedagogy (including developing course content, logistics, assessment, and grading criteria); and cultivate professional skills in relation to the publication process, CV preparation, and gaining employment in academia and beyond. (Formerly Grant Writing.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC205",
+      "name": "HAVC 205 — Grant Writing in Visual Studies",
+      "description": "Devoted to grant-writing. Students work on composing and peer-reviewing research proposals, personal statements, bibliographies, CVs, and writing samples. Readings include literature on grant-writing and scholarly writing in the humanities.",
+      "credits": "3",
+      "rawRequirements": "Requirements Enrollment is restricted to visual studies students or by permission of the instructor.",
+      "prereqGroups": [
+        [
+          "VISUALSTUDIES"
+        ]
+      ]
+    },
+    {
+      "id": "HAVC212",
+      "name": "HAVC 212 — Yoruba Visualities and Aesthetics",
+      "description": "Yoruba conceptions of visuality are explored and compared to seeing through Western eyes. Critical reading focuses on Western and Yoruba scholars' work on visualities and complementary theoretical writings on Yoruba aesthetics and philosophy.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC213",
+      "name": "HAVC 213 — Theories and Visual Cultures of Iconoclasm",
+      "description": "Examines theories that attempt to explain iconoclasm, the willful destruction of religious or political objects, by applying the theory (including theories of cultural heritage) to various case studies. The universal aspect of iconoclasm and the differences in understanding and practice are explored.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC220",
+      "name": "HAVC 220 — Topics in Asian Visual Studies",
+      "description": "Examines selected and changing topics in the visual studies of Asia. The specific topic varies with each offering to keep up with recent directions in scholarship.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC222",
+      "name": "HAVC 222 — The Image of Arhat in China",
+      "description": "Indian Buddhist sage-monks (arhats) are portrayed in China in ways that represent a remarkable variety of visual/historical/practice traditions. This seminar examines these depictions and explores the ranges of means and functions attached to this theme.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC224",
+      "name": "HAVC 224 — Engaged Buddhism and Visual Culture",
+      "description": "Begins with an analysis of photography and films capturing the Gandhian and Dalit movement in India. Students then read key Buddhist texts on engaged Buddhism, and look at the rise of engaged Buddhism in Southeast Asia in the 1960s and how it impacted modern and contemporary art in Southeast Asia and its diaspora.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC230",
+      "name": "HAVC 230 — Race, Aesthetics, and Art in 18th Century Europe",
+      "description": "Looks at the 18th-century connections of theories of beauty to practices of art-making, the production of knowledge about the natural world, and the construction of race. Students discuss not only the debates of this era but the impacts they have made on the study of visual culture.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC231",
+      "name": "HAVC 231 — Visualizing Waterways and Water Ways",
+      "description": "Examines visual culture from 1500 to the present in conversation with texts about the relationship between material practices and water spaces. This aquatic focus allows us to learn together across a broad range of materials, periods, and geographies, calling into question static boundaries.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC232",
+      "name": "HAVC 232 — The Monument Since 1750 in Relation to Nationhood and the Experience of War",
+      "description": "Investigates modern monuments (1750 to present) and the creation or maintenance of a nation, especially in terms of war and its immediate aftermath. Destruction or alteration of monuments and production of anti- or counter-monuments are also examined.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC233",
+      "name": "HAVC 233 — Visuality, Blackness, and the Human",
+      "description": "Focuses on recent scholarly approaches engaged with the representation of African-American culture and identity, with a specific emphasis in the visualization of blackness. Utilizing a cross-disciplinary approach, students explore the evolving critical discourses concerned with blackness and the human. (Formerly Topics in Contemporary Art and Visual Culture.)",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC235",
+      "name": "HAVC 235 — Photography and History",
+      "description": "Investigates the complex relationship between photography and history. Considers the evolving perceptions of photography's capacity to capture reality, the discursive means by which photographic truths are produced, and the utility of photographs as primary evidence.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC236",
+      "name": "HAVC 236 — Contemporary Art and Theories of Democracy",
+      "description": "Interdisciplinary approach to the study of democratic political theory of the last two decades and its relation to contemporary art practice with an emphasis on activist art, public art, and theories of speech and performance.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC240",
+      "name": "HAVC 240 — Seeing Race",
+      "description": "Investigates how discursive systems racialized the sight of various racial and ethnic groups in 19th- and 20th-century U.S. society. Focuses on the construction and maintenance of racial values systems and on the historically specific ways in which an eclectic assortment of visual artifacts have been read by groups over time. Considers the visual and material implications of race-based sight.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC241",
+      "name": "HAVC 241 — Decolonizing Nature: Contemporary Art and Ecology",
+      "description": "Considers how visual culture intersects with environment. Considers how, in the age of neoliberal globalization, documentary and neo-conceptual practices confront the biopolitics of climate change; the financialization and rights of nature; climate refugees; and indigenous ecologies.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC242",
+      "name": "HAVC 242 — Radical Futurisms",
+      "description": "Examines and compares radical futurisms-Indigenous, Afro, Chicanx/Latinx, multispecies, Postcapitalist-and situates them in relation to experimental visual cultural, media, and aesthetic practices, asking critical and creative speculative questions about what comes after end-of-world narratives.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC243",
+      "name": "HAVC 243 — Alternative Architecture",
+      "description": "Focuses on what is commonly left out of architectural history: the ephemeral, informal, illegal, and uncertain. Topics include: anonymous and collective architecture; temporary interventions; everyday urbanism; and vestigial urban spaces. These topics are understood through theories of space as socially produced (Henri Lefebvre, Michel de Certeau, among others), and through cultural movements and manifestoes (Situationist International, Aesthetics of Hunger, etc.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC244",
+      "name": "HAVC 244 — Reinventing ''Reinventing Nature:'' Visual Culture and Environmentalism, circa 1995",
+      "description": "Departing from an interdisciplinary seminar held at the UC Humanities Research Institute in 1994 entitled \"Reinventing Nature,\" course engages discourses around ecology, technology, environmental politics, and visual representation that emerged in the 1990s through debates about the idea of nature.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC245",
+      "name": "HAVC 245 — Race and Representation",
+      "description": "Explores how human subjects come to be visually defined and marked by race discourse. Covers diverse theoretical literatures on the topic, primarily in visual studies, but also in cultural studies, post-colonial studies, and psychoanalysis.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC249",
+      "name": "HAVC 249 — How to Do Things with Pictures: Media, Culture, and Performance",
+      "description": "An interdisciplinary exploration of the performative dimensions of art, visual culture, and new media. Investigates theories of performance and action across multiple fields and considers their relevance to themes, problems, and contexts of interest to those enrolled.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC250",
+      "name": "HAVC 250 — The Cult of Mary in Byzantium: Visualities of Political, Religions, and Gender Constructs",
+      "description": "Through the study of the Byzantine cult of Mary, we examine diverse modalities in the construction and interaction of political, religious, and gender values, and we investigate the interrelated role of images, rituals, and text in human experience, expression, and communication.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC260",
+      "name": "HAVC 260 — Visual Literacy in Spanish America, 1500-1800",
+      "description": "Visual literacy is considered as a particular predicament of colonial societies. Students consider the legibility of artifacts in colonial Spanish American contexts given its culturally diverse audiences and examine specific instances of (mis)interpreted images and transcultured representations.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC264",
+      "name": "HAVC 264 — Contemporary Native American Art",
+      "description": "Seminar focusing on the work of contemporary Native American artists. Students explore ecological activism, the relationship of Native artists with the art market and factors that shape artistic production, and what it means to be an Indigenous artist.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC270",
+      "name": "HAVC 270 — Colonial Cultures of Collecting and Display",
+      "description": "Examines collections and exhibitions of colonized people, places, and objects through primary sources, theoretical texts, and analytical case studies (with some emphasis on Oceania). Focuses on visual discourses of race, science, religious conversion, colonial settlement, nation-building, education, and entertainment.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC273",
+      "name": "HAVC 273 — Imaging Colonial Borderlands",
+      "description": "Considers 18th-century to 21st-century colonialisms, especially in Oceania. Concentrates on representations conditioned by particular cross-cultural engagements in colonial peripheries rather than focusing on metropolitan representations. Explores the construction and transgression of rigidly defined colonial identity categories, as expressed in visual/material form. (Formerly offered as Imaging Colonial Peripheries and Borderlands.)",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC275",
+      "name": "HAVC 275 — The Visual Cultures of Travel and Tourism",
+      "description": "Explores the visual cultures of travel and tourism with some focus on Oceania. Travel and tourism are implicated in the histories of colonialism, ethnography, and globalization, and offer rich sites for critical engagement with theories of transnationalism, imperialism, diaspora, and identity.",
+      "credits": "5",
+      "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC280",
+      "name": "HAVC 280 — Visual Studies Issues",
+      "description": "Examines selected and changing issues in visual studies. The specific issue varies with each offering to keep pace with recent directions in scholarship.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC294",
+      "name": "HAVC 294 — Teaching-Related Independent Study",
+      "description": "Directed graduate research and writing coordinated with the teaching of undergraduates. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC295",
+      "name": "HAVC 295 — Directed Reading",
+      "description": "Directed reading that does not involve a term paper. Students submit petition to course-sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC297A",
+      "name": "HAVC 297A — Independent Study",
+      "description": "Independent study or research for graduate students. Students submit petition to sponsoring agency.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC297B",
+      "name": "HAVC 297B — Independent Study",
+      "description": "Independent study or research for graduate students. Students submit petition to sponsoring agency.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC297F",
+      "name": "HAVC 297F — Independent Study",
+      "description": "Students submit petition to course-sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "2",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC299A",
+      "name": "HAVC 299A — Thesis Research",
+      "description": "Students submit petition to course sponsoring agency. Enrollment is restricted to graduate students.",
+      "credits": "5",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "HAVC299B",
+      "name": "HAVC 299B — Thesis Research",
+      "description": "Students submit petition to course sponsoring agency. Enrollment restricted to graduate students.",
+      "credits": "10",
+      "rawRequirements": "Repeatable for credit Yes",
+      "prereqGroups": []
+    },
+    {
+      "id": "VAST188J",
+      "name": "VAST 188J — Curation and Justice",
+      "description": "How does cultural and political change happen? What role can cultural institutions play in meeting the social, political, and ecological challenges of our times? This interdisciplinary course explores curation as a place for critical engagement with pressing social and political issues including prison abolition and climate destruction, using the current exhibitions and programs at the Institute of the Arts and Sciences as a case study.",
+      "credits": "5",
+      "rawRequirements": "No additional requirements listed.",
+      "prereqGroups": []
+    }
+  ]
+}
