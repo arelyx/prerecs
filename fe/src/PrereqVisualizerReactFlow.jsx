@@ -669,13 +669,13 @@ export default function PrereqVisualizerReactFlow() {
       </div>
 
       {courseDetail && (
-        <div className="fixed top-28 right-6 z-40 w-96 bg-white/95 backdrop-blur border border-slate-200 rounded-2xl shadow-lg px-4 py-3 space-y-3">
+        <div className="fixed top-40 right-6 z-40 w-96 bg-white/95 backdrop-blur border border-slate-200 rounded-2xl shadow-lg px-4 py-3">
           <div className="flex items-start justify-between gap-3">
             <div>
               <div className="text-[11px] uppercase tracking-wide text-slate-400">{courseDetail.department}</div>
-            <div className="text-sm font-semibold text-slate-800 mt-0.5">
-              {courseDetail.course.name}
-            </div>
+              <div className="text-sm font-semibold text-slate-800 mt-0.5">
+                {courseDetail.course.name}
+              </div>
             </div>
             <button
               type="button"
@@ -686,26 +686,35 @@ export default function PrereqVisualizerReactFlow() {
             </button>
           </div>
           {!detailCollapsed && (
-            <>
+            <div className="mt-3 space-y-4 max-h-[calc(100vh-600px)] overflow-y-auto pr-1">
               <div>
-                <div className="text-[12px] text-slate-600 mt-2 leading-5 max-h-24 overflow-y-auto pr-1">
+                <div className="text-[12px] text-slate-600 leading-5">
                   {courseDetail.course.description}
                 </div>
                 {courseDetail.course.credits && (
                   <div className="text-[11px] text-slate-500 mt-1">Credits: {courseDetail.course.credits}</div>
                 )}
+
+              </div>
+              {courseDetail.course.rawRequirements && (
+                <div>
+                  <div className="text-[11px] font-semibold text-slate-500 uppercase">Raw Prerequisites</div>
+                  <div className="mt-1 text-[12px] text-slate-700 leading-5 whitespace-pre-wrap">
+                    {courseDetail.course.rawRequirements}
+                  </div>
+                </div>
+              )}
                 {!!courseDetail.missing_prereq_ids?.length && (
                   <div className="text-[11px] text-slate-500 mt-1">Unresolved prereqs: {courseDetail.missing_prereq_ids.join(", ")}</div>
                 )}
-              </div>
               <div>
                 <div className="text-[11px] font-semibold text-slate-500 uppercase">Prerequisites</div>
                 {courseDetail.prerequisites.length ? (
-                  <ul className="mt-1 text-[12px] text-slate-700 space-y-1 max-h-24 overflow-y-auto pr-1 list-disc list-inside">
-                {courseDetail.prerequisites.map((course) => (
-                  <li key={`pre-${course.id}`}>
-                    {course.name}
-                  </li>
+                  <ul className="mt-1 text-[12px] text-slate-700 space-y-1 list-disc list-inside">
+                    {courseDetail.prerequisites.map((course) => (
+                      <li key={`pre-${course.id}`}>
+                        {course.name}
+                      </li>
                     ))}
                   </ul>
                 ) : (
@@ -715,11 +724,11 @@ export default function PrereqVisualizerReactFlow() {
               <div>
                 <div className="text-[11px] font-semibold text-slate-500 uppercase">Postrequisites</div>
                 {courseDetail.postrequisites.length ? (
-                  <ul className="mt-1 text-[12px] text-slate-700 space-y-1 max-h-24 overflow-y-auto pr-1 list-disc list-inside">
-                {courseDetail.postrequisites.map((course) => (
-                  <li key={`post-${course.id}`}>
-                    {course.name}
-                  </li>
+                  <ul className="mt-1 text-[12px] text-slate-700 space-y-1 list-disc list-inside">
+                    {courseDetail.postrequisites.map((course) => (
+                      <li key={`post-${course.id}`}>
+                        {course.name}
+                      </li>
                     ))}
                   </ul>
                 ) : (
@@ -729,7 +738,7 @@ export default function PrereqVisualizerReactFlow() {
               {!!courseDetail.external_prereqs?.length && (
                 <div>
                   <div className="text-[11px] font-semibold text-slate-500 uppercase">External Prerequisites</div>
-                  <ul className="mt-1 text-[12px] text-slate-700 space-y-1 max-h-24 overflow-y-auto pr-1 list-disc list-inside">
+                  <ul className="mt-1 text-[12px] text-slate-700 space-y-1 list-disc list-inside">
                     {courseDetail.external_prereqs.map((entry) => (
                       <li key={`ext-${entry.course.id}`}>
                         {entry.course.name}
@@ -739,7 +748,7 @@ export default function PrereqVisualizerReactFlow() {
                   </ul>
                 </div>
               )}
-            </>
+            </div>
           )}
         </div>
       )}
