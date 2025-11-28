@@ -278,10 +278,17 @@ function layoutWithDagre(nodes, edges) {
 
 function CourseNode({ data }) {
   const { showIds, course, prereqCount, dependentCount } = data;
+  const isExternal = course?.isExternal;
   const title = showIds ? `${course.id} — ${course.name}` : course.name;
+  const borderClass = isExternal ? "border-amber-400 border-2" : "border-slate-300";
   return (
-    <div className="relative rounded-2xl border border-slate-300 shadow-sm p-3 overflow-hidden" style={{ width: NODE_W, height: NODE_H, pointerEvents: "auto", backgroundColor: (data?.bg ?? "#ffffff") }}>
-      <div className="text-[13px] font-semibold text-slate-900 truncate" title={title}>
+    <div className={`relative rounded-2xl shadow-sm p-3 overflow-hidden ${borderClass}`} style={{ width: NODE_W, height: NODE_H, pointerEvents: "auto", backgroundColor: (data?.bg ?? "#ffffff") }}>
+      {isExternal && (
+        <div className="absolute top-2 right-2 px-1.5 py-0.5 rounded bg-amber-100 text-[9px] text-amber-700 font-medium uppercase">
+          External
+        </div>
+      )}
+      <div className="text-[13px] font-semibold text-slate-900 truncate pr-14" title={title}>
         {title.length > 42 ? title.slice(0, 39) + "…" : title}
       </div>
       <div className="my-2 h-px bg-slate-200" />
@@ -418,7 +425,28 @@ export default function PrereqVisualizerReactFlow() {
         const relatedCourses = data.related_courses?.length
           ? data.related_courses
           : [data.course];
-        setCourses(normalizeCourses(relatedCourses));
+        // Include external prereqs in the graph, linking them to the main course
+        const externalPrereqs = (data.external_prereqs || []).map((ext) => ({
+          ...ext,
+          prereqGroups: [], // external courses have no further prereqs in this view
+          isExternal: true,
+        }));
+        // Add edges from external prereqs to the main course by updating main course's prereqGroups
+        const mainCourseId = data.course?.id;
+        const externalIds = externalPrereqs.map((e) => e.id);
+        const coursesWithExternalEdges = relatedCourses.map((c) => {
+          if (c.id === mainCourseId && externalIds.length > 0) {
+            // Add external prereq IDs to the course's prereqGroups
+            const existingGroups = c.prereqGroups || [];
+            const externalGroup = externalIds;
+            return {
+              ...c,
+              prereqGroups: [...existingGroups, externalGroup],
+            };
+          }
+          return c;
+        });
+        setCourses(normalizeCourses([...coursesWithExternalEdges, ...externalPrereqs]));
         setSuggestions([]);
         setPendingFocusId(data.course?.id || trimmed);
       } catch (error) {
@@ -661,7 +689,7 @@ export default function PrereqVisualizerReactFlow() {
                   <div className="text-[11px] text-slate-500 mt-1">Credits: {courseDetail.course.credits}</div>
                 )}
                 {!!courseDetail.missing_prereq_ids?.length && (
-                  <div className="text-[11px] text-slate-500 mt-1">External prereqs: {courseDetail.missing_prereq_ids.join(", ")}</div>
+                  <div className="text-[11px] text-slate-500 mt-1">Unresolved prereqs: {courseDetail.missing_prereq_ids.join(", ")}</div>
                 )}
               </div>
               <div>
@@ -692,6 +720,18 @@ export default function PrereqVisualizerReactFlow() {
                   <div className="text-[12px] text-slate-500 mt-1">No downstream courses in catalog</div>
                 )}
               </div>
+              {!!courseDetail.external_prereqs?.length && (
+                <div>
+                  <div className="text-[11px] font-semibold text-slate-500 uppercase">External Prerequisites</div>
+                  <ul className="mt-1 text-[12px] text-slate-700 space-y-1 max-h-24 overflow-y-auto pr-1 list-disc list-inside">
+                    {courseDetail.external_prereqs.map((course) => (
+                      <li key={`ext-${course.id}`}>
+                        {course.id} — {course.name}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
             </>
           )}
         </div>

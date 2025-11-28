@@ -59,7 +59,11 @@ class CourseDetail(BaseModel):
     )
     missing_prereq_ids: List[str] = Field(
         default_factory=list,
-        description="Prerequisite IDs referenced by the course but not found in the catalog.",
+        description="Prerequisite IDs referenced by the course but not found in any catalog.",
+    )
+    external_prereqs: List[Course] = Field(
+        default_factory=list,
+        description="Prerequisite courses from other departments/catalogs.",
     )
     related_courses: List[Course] = Field(
         default_factory=list,

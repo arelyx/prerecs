@@ -65,7 +65,8 @@ def create_app() -> FastAPI:
     @app.get("/courses/{slug}/classes/{course_id}", response_model=CourseDetail)
     def get_course_detail(slug: str, course_id: str) -> CourseDetail:
         catalog = _get_catalog_or_404(app, slug)
-        return _build_course_detail(catalog, course_id)
+        all_catalogs = _get_course_catalogs(app)
+        return _build_course_detail(catalog, course_id, all_catalogs)
 
     return app
 
@@ -100,7 +101,9 @@ def _prereq_ids(prereq_groups: List[List[str]] | None) -> List[str]:
     return ids
 
 
-def _build_course_detail(catalog: CourseCatalog, course_id: str) -> CourseDetail:
+def _build_course_detail(
+    catalog: CourseCatalog, course_id: str, all_catalogs: Dict[str, CourseCatalog]
+) -> CourseDetail:
     index = {_normalize_course_id(course.id): course for course in catalog.courses}
     children: Dict[str, set[str]] = defaultdict(set)
     for course in catalog.courses:
@@ -113,11 +116,16 @@ def _build_course_detail(catalog: CourseCatalog, course_id: str) -> CourseDetail
     if not course:
         raise HTTPException(status_code=404, detail=f"Course '{course_id}' not found in '{catalog.slug}'.")
 
-    ancestor_ids, missing_prereqs = _collect_ancestor_ids(index, normalized)
+    ancestor_ids, missing_prereq_ids = _collect_ancestor_ids(index, normalized)
     descendant_ids = _collect_descendant_ids(children, normalized)
 
     prereq_courses = _courses_in_catalog_order(catalog, ancestor_ids)
     postreq_courses = _courses_in_catalog_order(catalog, descendant_ids)
+
+    # Resolve external prereqs from other catalogs
+    external_prereqs, still_missing = _resolve_external_prereqs(
+        missing_prereq_ids, catalog.slug, all_catalogs
+    )
 
     related_ids = {normalized, *ancestor_ids, *descendant_ids}
     related_courses = [
@@ -133,7 +141,8 @@ def _build_course_detail(catalog: CourseCatalog, course_id: str) -> CourseDetail
         course=course,
         prerequisites=prereq_courses,
         postrequisites=postreq_courses,
-        missing_prereq_ids=missing_prereqs,
+        missing_prereq_ids=still_missing,
+        external_prereqs=external_prereqs,
         related_courses=related_courses or [course],
     )
 
@@ -191,6 +200,44 @@ def _filter_course_prereqs(course: Course, allowed_ids: set[str]) -> Course:
         if filtered:
             filtered_groups.append(filtered)
     return course.model_copy(update={"prereqGroups": filtered_groups})
+
+
+def _resolve_external_prereqs(
+    missing_ids: List[str],
+    current_slug: str,
+    all_catalogs: Dict[str, CourseCatalog],
+) -> tuple[List[Course], List[str]]:
+    """Look up missing prereq IDs in other catalogs.
+
+    Returns:
+        A tuple of (found external courses, still missing IDs).
+    """
+    external: List[Course] = []
+    still_missing: List[str] = []
+    seen: set[str] = set()
+
+    for prereq_id in missing_ids:
+        normalized = _normalize_course_id(prereq_id)
+        if normalized in seen:
+            continue
+        seen.add(normalized)
+
+        found = False
+        for slug, catalog in all_catalogs.items():
+            if slug == current_slug:
+                continue
+            for course in catalog.courses:
+                if _normalize_course_id(course.id) == normalized:
+                    external.append(course)
+                    found = True
+                    break
+            if found:
+                break
+
+        if not found:
+            still_missing.append(prereq_id)
+
+    return external, still_missing
 
 
 app = create_app()
