@@ -1,0 +1,5 @@
+venv/
+.venv/
+be/.venv/
+.cursor/
+key
