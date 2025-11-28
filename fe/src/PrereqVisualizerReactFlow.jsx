@@ -561,7 +561,7 @@ export default function PrereqVisualizerReactFlow() {
 
   return (
     <div className="w-screen h-screen bg-slate-50 text-slate-800">
-      <div className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-full max-w-4xl flex flex-wrap items-center justify-center gap-2 bg-white/85 backdrop-blur border border-slate-200 rounded-2xl shadow px-4 py-2">
+      <div className="fixed top-4 left-1/2 -translate-x-1/2 z-50 flex flex-wrap items-center justify-center gap-2 bg-white/85 backdrop-blur border border-slate-200 rounded-2xl shadow px-4 py-2">
         <div className="font-semibold tracking-tight text-slate-700 pr-2">prereqs</div>
         <label className="text-xs flex items-center gap-1">
           <select
