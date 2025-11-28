@@ -136,8 +136,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, CMMU 105A , CMMU 105B , and CMMU 105C . Enrollment is restricted to community studies majors.",
       "prereqGroups": [
         [
-          "CMMU105A",
-          "CMMU105B",
+          "CMMU105A"
+        ],
+        [
+          "CMMU105B"
+        ],
+        [
           "CMMU105C"
         ]
       ]

@@ -614,11 +614,7 @@
       "description": "Advanced principles in costume construction, including tailoring, advanced pattern drafting, and draping techniques. Focuses on translating modern techniques into historical garment construction. Teaches how to study artifacts and do primary research to unlock the past.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): course 17.",
-      "prereqGroups": [
-        [
-          "THEA17"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "THEA118",
@@ -797,6 +793,9 @@
       "prereqGroups": [
         [
           "THEA31A"
+        ],
+        [
+          "THEA131A"
         ]
       ]
     },

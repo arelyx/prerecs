@@ -42,12 +42,7 @@
       "description": "A rigorous examination and practice of the skills involved in writing articles about science, health, technology, and the environment for the general public. Covers the essential elements of news writing and explanatory journalism, including developing a story idea, interviewing scientists, fact checking, composition, and editing of multiple drafts about scientific research.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and C1, C2 requirements. Enrollment is restricted to junior and senior physical and biological sciences majors.",
-      "prereqGroups": [
-        [
-          "C1",
-          "C2"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "SCIC199",

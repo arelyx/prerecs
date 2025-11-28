@@ -122,12 +122,7 @@
       "description": "Students study the founding and development of Oakes College through oral history. Students immerse themselves in thorough background research and build skills necessary to conduct oral histories with previous Oakes affiliates, revising pieces suitable for publication.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s):satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to College members; other students may contact the instructor for a permission code.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "OAKS73B",
@@ -159,11 +154,7 @@
       "description": "Explores how social identities, life practices, and power are reflected and shaped by the spaces and places we live in. Combines local history and contemporary research with placements in the community focusing on justice for children, youth, and families; topics vary by year and seek to build on the understanding and community relationships advanced through winter quarter research.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): Oakes core course. Restricted to Oakes College members; others by permission of instructor.",
-      "prereqGroups": [
-        [
-          "OAKESCORECOURSE"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "OAKS93",

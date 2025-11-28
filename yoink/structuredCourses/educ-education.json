@@ -162,7 +162,9 @@
       "rawRequirements": "Requirements Prerequisite(s): EDUC 60 and EDUC 180 .",
       "prereqGroups": [
         [
-          "EDUC60",
+          "EDUC60"
+        ],
+        [
           "EDUC180"
         ]
       ]
@@ -247,7 +249,9 @@
       "rawRequirements": "Requirements Prerequisite(s): EDUC 60 and EDUC 180 .Enrollment is restricted to junior and senior education or STEM minors or by permission of instructor.",
       "prereqGroups": [
         [
-          "EDUC60",
+          "EDUC60"
+        ],
+        [
           "EDUC180"
         ]
       ]
@@ -316,23 +320,25 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 11A and MATH 11B , or MATH 19A and MATH 19B ; or MATH 20A and MATH 20B ; or AM 11A and AM 11B ; or ECON 11A and ECON 11B; or equivalent courses (by instructor approval); or by permission of the instructor.",
       "prereqGroups": [
         [
-          "MATH11A",
-          "MATH11B"
+          "MATH11A"
         ],
         [
-          "MATH19A",
-          "MATH19B"
+          "MATH11B",
+          "MATH19A"
         ],
         [
-          "MATH20A",
-          "MATH20B"
+          "MATH19B",
+          "MATH20A"
         ],
         [
-          "AM11A",
-          "AM11B"
+          "MATH20B",
+          "AM11A"
         ],
         [
-          "ECON11A",
+          "AM11B",
+          "ECON11A"
+        ],
+        [
           "ECON11B"
         ]
       ]
@@ -369,7 +375,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Entry Level Writing and Composition requirements. EDUC 10 and EDUC 60 ; EDUC 110 or EDUC 180 . Enrollment is restricted to education, democracy and justice majors, or by permission of instructor.",
       "prereqGroups": [
         [
-          "EDUC10",
+          "EDUC10"
+        ],
+        [
           "EDUC60"
         ],
         [

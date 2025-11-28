@@ -194,11 +194,7 @@
       "description": "Condensed version of Stevenson's core course for transfer students. Develops analytical writing, critical reading, and effective speaking by considering influential philosophical works while exploring cultural conflicts in modern society. Themes include imperialism, racism, and class conflict.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to college members.",
-      "prereqGroups": [
-        [
-          "STEV"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "STEV96",

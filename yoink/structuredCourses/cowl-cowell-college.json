@@ -288,9 +288,7 @@
       "rawRequirements": "Requirements Prerequisite(s): COWL 80A or COWL 80B.",
       "prereqGroups": [
         [
-          "COWL80A"
-        ],
-        [
+          "COWL80A",
           "COWL80B"
         ]
       ]

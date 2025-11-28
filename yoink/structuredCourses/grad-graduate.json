@@ -24,6 +24,9 @@
       "rawRequirements": "Requirements Concurrent enrollment in GRAD 200 and GRAD 202 is required. Enrollment is restricted to international graduate students in the Graduate Preparation Program.",
       "prereqGroups": [
         [
+          "GRAD200"
+        ],
+        [
           "GRAD202"
         ]
       ]
@@ -35,6 +38,9 @@
       "credits": "0",
       "rawRequirements": "Requirements Concurrent enrollment in GRAD 200 and GRAD 201 is required. Enrollment is restricted to international graduate students in the Graduate Preparation Program.",
       "prereqGroups": [
+        [
+          "GRAD200"
+        ],
         [
           "GRAD201"
         ]

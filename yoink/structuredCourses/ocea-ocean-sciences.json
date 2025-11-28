@@ -44,8 +44,12 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 11B or equivalent; and PHYS 6B ; and ESCI 100A or EART 110A .",
       "prereqGroups": [
         [
-          "MATH11B",
-          "PHYS6B",
+          "MATH11B"
+        ],
+        [
+          "PHYS6B"
+        ],
+        [
           "ESCI100A",
           "EART110A"
         ]
@@ -91,8 +95,12 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 11B or equivalent; PHYS 6B ; and ESCI 100A or EART 110A .",
       "prereqGroups": [
         [
-          "MATH11B",
-          "PHYS6B",
+          "MATH11B"
+        ],
+        [
+          "PHYS6B"
+        ],
+        [
           "ESCI100A",
           "EART110A"
         ]
@@ -211,7 +219,9 @@
       "rawRequirements": "Requirements Prerequisite(s): OCEA 80A , BIOE 20C , or permission of instructor.",
       "prereqGroups": [
         [
-          "OCEA80A",
+          "OCEA80A"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -224,11 +234,13 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 11A and MATH 11B , or MATH 19A and MATH 19B , or by permission of instructor.",
       "prereqGroups": [
         [
-          "MATH11A",
-          "MATH11B"
+          "MATH11A"
         ],
         [
-          "MATH19A",
+          "MATH11B",
+          "MATH19A"
+        ],
+        [
           "MATH19B"
         ]
       ]
@@ -365,14 +377,7 @@
       "description": "Introduces data analysis methods regularly encountered within the ocean and earth sciences. Topics include: error propagation, least squares analysis, data interpolation methods, empirical orthogonal functions, and Monte Carlo methods applied to problems drawn from oceanographic and earth sciences datasets. Introduces and uses a high-level computing and visualization package of their choice (e.g., Matlab, python, R, Julia). Student project consists of analysis of the student's own dataset.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): previous course in ocean or earth sciences is recommended. Enrollment is restricted to graduate students; undergraduates with permission of instructor.",
-      "prereqGroups": [
-        [
-          "OCEAN"
-        ],
-        [
-          "EARTH"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "OCEA265",
@@ -558,10 +563,12 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 107 or AM 107; MATH 22 or MATH 23B recommended.",
       "prereqGroups": [
         [
-          "PHYS107"
+          "PHYS107",
+          "AM107"
         ],
         [
-          "AM107"
+          "MATH22",
+          "MATH23B"
         ]
       ]
     },

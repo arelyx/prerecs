@@ -26,11 +26,7 @@
       "description": "Introduces students to the basics of podcasting and guides students to become contributors to Feminist Files, a podcast that makes feminist scholarship and scholars accessible to the public. This course gives students the theoretical and practical framework to critique a variety of podcasts and engage in the podcast movement. Students learn how to conceptualize stories, research topics, interview guests, write scripts, host shows, records and edit audio. Students also build their collaboration skills by working in groups to produce segments.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): Completion of at least one other lower-division feminist studies course.",
-      "prereqGroups": [
-        [
-          "FMST"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "FMST14",
@@ -158,11 +154,7 @@
       "description": "Working from the perspective that race is a cultural invention and racism is a political, economic, and social relation, investigates how race is produced as a meaningful and powerful social category, examines the effects of racism as a social relation, and argues for the necessity of combining feminist and critical race studies. By considering different historical periods and places, aims to equip students with the tools necessary to critically examine the production and reproduction of race and racism in the U.S.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): one course from feminist studies. Enrollment is restricted to juniors and seniors.",
-      "prereqGroups": [
-        [
-          "FMST"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "FMST105",
@@ -191,9 +183,7 @@
           "FMST1"
         ],
         [
-          "FMST100"
-        ],
-        [
+          "FMST100",
           "FMST145"
         ]
       ]
@@ -290,7 +280,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 . Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -399,7 +391,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -412,7 +406,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -425,7 +421,9 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and FMST 1 and FMST 100 . Enrollment restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -438,7 +436,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -451,7 +451,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -464,7 +466,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -477,7 +481,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -490,7 +496,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -503,7 +511,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -516,7 +526,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -529,7 +541,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -542,7 +556,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -555,7 +571,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 , FMST 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -568,7 +586,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -581,7 +601,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -594,7 +616,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -607,7 +631,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -628,7 +654,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -697,7 +725,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 200 and FMST 201 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "FMST200",
+          "FMST200"
+        ],
+        [
           "FMST201"
         ]
       ]
@@ -924,12 +954,7 @@
       "description": "Discusses the characteristics of settler colonialism and the politics of comparison in the study of global settler colonialism. Looks at settler colonial state practice across multiple different sites, including Santa Cruz, as students craft their own research projects. (Formerly offered as HIS 194C .)",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CRES227",
@@ -979,9 +1004,9 @@
       "rawRequirements": "Requirements Prerequisites: SPAN 6, SPHS 6, or PORT 65B; or placement by assessment, or submission of a writing sample in either Spanish or Portuguese for instructor approval. Course requires language and composition proficiency in Spanish or Portuguese.",
       "prereqGroups": [
         [
+          "PORT65B",
           "SPAN6",
-          "SPHS6",
-          "PORT65B"
+          "SPHS6"
         ]
       ]
     },
@@ -993,13 +1018,15 @@
       "rawRequirements": "Requirements Prerequisite(s): PHIL 9; one from PHIL 11 or PHIL 22 or PHIL 23 or PHIL 24 or PHIL 80E or BME 80G/PHIL 80G or PHIL 80M or PHIL 80S; and PHIL 100A or PHIL 100B or PHIL 100C.",
       "prereqGroups": [
         [
-          "PHIL9",
+          "PHIL9"
+        ],
+        [
+          "BME80G",
           "PHIL11",
           "PHIL22",
           "PHIL23",
           "PHIL24",
           "PHIL80E",
-          "BME80G",
           "PHIL80G",
           "PHIL80M",
           "PHIL80S"

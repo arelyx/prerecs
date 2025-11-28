@@ -36,11 +36,11 @@
       "rawRequirements": "Requirements Prerequisite(s): score of 400 or higher on the mathematics placement examination (MPE) or MATH 3 or AM 11A or MATH 11A or MATH 19A or MATH 20A .",
       "prereqGroups": [
         [
-          "MATH3",
           "AM11A",
           "MATH11A",
           "MATH19A",
-          "MATH20A"
+          "MATH20A",
+          "MATH3"
         ]
       ]
     },
@@ -134,9 +134,9 @@
       "prereqGroups": [
         [
           "AM112",
+          "EART111",
           "MATH107",
-          "PHYS116C",
-          "EART111"
+          "PHYS116C"
         ]
       ]
     },
@@ -169,10 +169,8 @@
         ],
         [
           "AM30",
+          "MATH22",
           "MATH23A",
-          "MATH22"
-        ],
-        [
           "PHYS116A"
         ]
       ]
@@ -185,7 +183,9 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 131 and AM 20 ; a university-level course in biology, and operational knowledge of a programming language; or consent of instructor.",
       "prereqGroups": [
         [
-          "STAT131",
+          "STAT131"
+        ],
+        [
           "AM20"
         ]
       ]
@@ -198,6 +198,9 @@
       "rawRequirements": "Requirements Prerequisite(s): AM 10 and MATH 11A ; or AM 10 and MATH 19A ; or AM 10 and MATH 20A ; or MATH 21 and MATH 11A ; or MATH 21 and MATH 19A ; or MATH 21 and MATH 20A .",
       "prereqGroups": [
         [
+          "AM10"
+        ],
+        [
           "AM10",
           "MATH11A"
         ],
@@ -210,16 +213,16 @@
           "MATH20A"
         ],
         [
-          "MATH21",
-          "MATH11A"
+          "MATH11A",
+          "MATH21"
         ],
         [
-          "MATH21",
-          "MATH19A"
+          "MATH19A",
+          "MATH21"
         ],
         [
-          "MATH21",
-          "MATH20A"
+          "MATH20A",
+          "MATH21"
         ]
       ]
     },
@@ -258,13 +261,11 @@
       "rawRequirements": "Requirements Prerequisite(s): AM 20 and AM 30 , or MATH 24 , or PHYS 116A , and AM 129 or CSE 30 . Enrollment is restricted to junior and senior students, and graduate students in applied mathematics. Prerequisite courses waived for graduate students.",
       "prereqGroups": [
         [
-          "AM20",
-          "AM30"
+          "AM20"
         ],
         [
-          "MATH24"
-        ],
-        [
+          "AM30",
+          "MATH24",
           "PHYS116A"
         ],
         [
@@ -281,10 +282,14 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. AM 30 , and AM 114 , and STAT 131 or CSE 107 , or by instructor permission. Enrollment is restricted to juniors and seniors majoring in applied mathematics and proposed applied mathematics majors.",
       "prereqGroups": [
         [
-          "AM30",
-          "AM114",
-          "STAT131",
-          "CSE107"
+          "AM30"
+        ],
+        [
+          "AM114"
+        ],
+        [
+          "CSE107",
+          "STAT131"
         ]
       ]
     },
@@ -296,9 +301,15 @@
       "rawRequirements": "Requirements Prerequisites: AM 129 , AM 112 , and AM 147 , and AM 170A . Enrollment is restricted to seniors with a declared or proposed major in Applied Mathematics, or by instructor permission.",
       "prereqGroups": [
         [
-          "AM129",
-          "AM112",
-          "AM147",
+          "AM129"
+        ],
+        [
+          "AM112"
+        ],
+        [
+          "AM147"
+        ],
+        [
           "AM170A"
         ]
       ]
@@ -311,9 +322,10 @@
       "rawRequirements": "Requirements Prerequisite(s): AM 20 ; and AM 30 ; and previous or concurrent enrollment in STEV 96 . Enrollment by permission of the instructor and restricted to juniors, seniors, and graduate students.",
       "prereqGroups": [
         [
-          "AM20",
-          "AM30",
-          "STEV96"
+          "AM20"
+        ],
+        [
+          "AM30"
         ]
       ]
     },
@@ -363,13 +375,7 @@
       "description": "Overview of advanced methods for the analytical solution of ODEs and PDEs, including asymptotic analysis (method of strained coordinates; method of multiple scales; matched asymptotics; WKB theory), dimensional analysis, self-similar solutions and Greenâs function solutions of PDEs. Introduces students to variational calculus for the optimization of functionals. Students cannot receive credit for this course and AM 212B .",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor. Students taking this course need at least one prior undergraduate or M.S.-level course in partial differential equations, similar to AM 112 , MATH 107 or PHYS 116C .",
-      "prereqGroups": [
-        [
-          "AM112",
-          "MATH107",
-          "PHYS116C"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "AM212A",
@@ -433,17 +439,7 @@
       "description": "Graduate-level course in dynamical systems theory, focusing on n-dimensional continuous dynamical systems. Covers fixed points, stability (linear and Lyapunov), normal forms, center manifold theorem, Liouville theorem, reversible and gradient flows, conservative systems, and quantitative characterization of chaos.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of instructor. An introductory course in dynamical systems theory (e.g. AM 114 or MATH 145 or AM 214), partial differential equations (e.g. AM 112 or MATH 107 ) as well as experience with programming and scientific computing using Matlab or Python, are strongly recommended.",
-      "prereqGroups": [
-        [
-          "AM114",
-          "AM214",
-          "MATH145"
-        ],
-        [
-          "AM112",
-          "MATH107"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "AM227",
@@ -493,13 +489,9 @@
       "prereqGroups": [
         [
           "AM114",
-          "AM214"
-        ],
-        [
+          "AM214",
           "ECE240",
-          "ECE241"
-        ],
-        [
+          "ECE241",
           "MATH145"
         ]
       ]

@@ -90,11 +90,7 @@
       "description": "Examines how science fictions have imagined better and worse worlds, social relations, and identities by using science and technology. Students read novels and short stories from the 19th Century to the present and discuss and debate questions of justice, freedom, difference, and identity.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing requirement.",
-      "prereqGroups": [
-        [
-          "EntryLevelWriting"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CRWN80J",
@@ -282,11 +278,7 @@
       "description": "Class taught in Ireland together with WRIT 2 . Students immerse themselves in Irish culture and history and learn from local guest speakers. CRWN 98B builds an in-depth understanding of the artistic medium of podcasting. Students learn to analyze the means through which podcasting encodes and conveys information and the influential role it has come to play in contemporary social discourse. Students also develop practical skills, such as storytelling, sound gathering, interviewing, scriptwriting, and audio editing and demonstrate the development of a âradio voiceâ by rendering a research project from the concurrent WRIT 2 course into the audio medium.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in WRIT 2 .",
-      "prereqGroups": [
-        [
-          "WRIT2"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CRWN99F",
@@ -336,7 +328,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CRWN 85 and STAT 131 , and CSE 30 or STAT 266A .",
       "prereqGroups": [
         [
-          "CRWN85",
+          "CRWN85"
+        ],
+        [
           "STAT131"
         ],
         [

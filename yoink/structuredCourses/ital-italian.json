@@ -28,9 +28,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ITAL 1A or ITAL 2 or placement by assessment. For students completing ITAL 2 , ITAL 3 is preferable.",
       "prereqGroups": [
         [
-          "ITAL1A"
-        ],
-        [
+          "ITAL1A",
           "ITAL2"
         ]
       ]
@@ -67,9 +65,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ITAL 1B or ITAL 3 or placement by assessment.",
       "prereqGroups": [
         [
-          "ITAL1B"
-        ],
-        [
+          "ITAL1B",
           "ITAL3"
         ]
       ]
@@ -146,7 +142,7 @@
       "rawRequirements": "Requirements Prerequisite(s): IITAL 6, placement by assessment, or instructor permission.",
       "prereqGroups": [
         [
-          "ITAL6"
+          "IITAL6"
         ]
       ]
     },

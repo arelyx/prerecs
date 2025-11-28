@@ -42,13 +42,7 @@
       "description": "Introduces the methods, materials, and history of printmaking and drawing as a tool for creative exploration. Understanding and development of concepts and skills are achieved through a series of lectures, studio demonstrations and practice, assignments, and critiques.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
-      "prereqGroups": [
-        [
-          "ART10D",
-          "ART10E",
-          "ART10F"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ART20H",
@@ -56,13 +50,7 @@
       "description": "Introduces sculpture and art in public space. The course is composed of lectures, readings, discussions, studio assignments, and demonstrations.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
-      "prereqGroups": [
-        [
-          "ART10D",
-          "ART10E",
-          "ART10F"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ART20I",
@@ -70,13 +58,7 @@
       "description": "Introduces basic skills and conceptual development in photography and related digital media through image-making in the field, on the web, and in laboratories, through readings, discussions, and critiques.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
-      "prereqGroups": [
-        [
-          "ART10D",
-          "ART10E",
-          "ART10F"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ART20J",
@@ -84,13 +66,7 @@
       "description": "Introduces the practices of drawing and painting in combination with the formal vocabulary of the visual arts. A discussion of values, form, color, and figure/ground relationships enters into each class.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
-      "prereqGroups": [
-        [
-          "ART10D",
-          "ART10E",
-          "ART10F"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ART20K",
@@ -98,13 +74,7 @@
       "description": "Introduces digital and new media art practice. Explores the use of the computer as tool and medium. Provides a hands-on introduction to the fundamentals of graphics; digital-image acquisition and manipulation; video; web design; and computer programming. Lectures, readings, and discussions examine the history of technology artwork and technology's relationship to contemporary culture.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): two courses from ART 10D , ART 10E , ART 10F . Enrollment is restricted to proposed art and art majors.",
-      "prereqGroups": [
-        [
-          "ART10D",
-          "ART10E",
-          "ART10F"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ART20L",
@@ -282,12 +252,8 @@
       "rawRequirements": "Requirements Prerequisite(s): ART 20L or ART 15 or ART 20J and two courses from ART 20G , 20H, 20I, 20K. Enrollment is restricted to proposed and declared art majors.",
       "prereqGroups": [
         [
-          "ART20L"
-        ],
-        [
-          "ART15"
-        ],
-        [
+          "ART20L",
+          "ART15",
           "ART20J"
         ]
       ]
@@ -524,9 +490,7 @@
       "rawRequirements": "Requirements Prerequisites: ART 20G or ART 26 and two non-print lower-division media studios from ART 15 , ART 20H , ART 20I , ART 20J , ART 20K , ART 20L . Enrollment is restricted to art majors.",
       "prereqGroups": [
         [
-          "ART20G"
-        ],
-        [
+          "ART20G",
           "ART26"
         ]
       ]
@@ -843,9 +807,15 @@
       "rawRequirements": "Requirements Prerequisite(s): ART 210A , ART 210B , ART 210C , and ART 220 .",
       "prereqGroups": [
         [
-          "ART210A",
-          "ART210B",
-          "ART210C",
+          "ART210A"
+        ],
+        [
+          "ART210B"
+        ],
+        [
+          "ART210C"
+        ],
+        [
           "ART220"
         ]
       ]
@@ -870,7 +840,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ART 270A and ART 270B . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "ART270A",
+          "ART270A"
+        ],
+        [
           "ART270B"
         ]
       ]
@@ -899,8 +871,12 @@
       "rawRequirements": "Requirements Prerequisites: CT 10, CT 11, and CT 20. Enrollment is restricted to junior and senior creative technologies majors.",
       "prereqGroups": [
         [
-          "CT10",
-          "CT11",
+          "CT10"
+        ],
+        [
+          "CT11"
+        ],
+        [
           "CT20"
         ]
       ]

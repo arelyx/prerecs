@@ -258,12 +258,7 @@
       "description": "Explores the meanings of modernity, religion, and violence and examines the conceptual status that war and sovereignty, long associated with religious belief, have since been accorded within the modern humanist and secular tradition. Also explores aspects of this tradition and their relationship to questions of morality and violence and how violence-and its relationship to secularism-can be better understood today as a mode of negotiating human existence in a world dominated by technology and its myths.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to juniors and seniors.",
-      "prereqGroups": [
-        [
-          "JUNIOR",
-          "SENIOR"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC110",
@@ -279,12 +274,7 @@
       "description": "Survey of seminal work on ancient origins of the state, diverse geo-political systems of war and diplomacy, and consequences of the formation of the world market on the evolution of geo-political systems up to and beyond the wars of today.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment restricted to juniors and seniors.",
-      "prereqGroups": [
-        [
-          "JUNIOR",
-          "SENIOR"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC112",
@@ -996,11 +986,7 @@
       "description": "Readings include works by speakers at UCSC's Rethinking Capitalism Initiative. Topics are: (1) financialization versus commodification (how options-theory has changed capitalism); (2) material markets (how this theory performs); and (3) valuation and contingency (how economies make worlds).",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC268B",
@@ -1008,11 +994,7 @@
       "description": "HISC 268A addressed changes in the theory and practice of capitalism as derivatives markets have become increasingly central to it. This course, which can be regarded as either background or sequel, concerns questions that surround recent debates about derivatives from the standpoint of broader developments in law, culture, politics, ethics, ontology, and theology. What would it mean to see questions of contingency and value as a challenge to late-modern understandings of these modes of thought?",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC269",
@@ -1020,11 +1002,7 @@
       "description": "Covers modern conceptions of property and their critique. Inquires into the concept of property as an individual right by exploring its philosophical justifications and criticism in thinkers, such as John Locke, Jean-Jacques Rousseau, Immanuel Kant, G.W. F. Hegel, Pierre-Joseph Proudhon, and Karl Marx.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC271",
@@ -1032,11 +1010,7 @@
       "description": "Explores the critique of the unilinear historical time through the prism of Reinhart Koselleck, Walter Benjamin, and Ernst Bloch's attempts to reconfigure the concepts of time and history. During the course, students investigate how time affects both representation of reality and political praxis.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC272",
@@ -1044,11 +1018,7 @@
       "description": "Course aims to rethink Marx against the grain, from the debate with Russian populists to Capital and the Grundrisse. Investigates formal subsumption not as a historical stage, but as a form that denotes how capitalism encounters, incorporates, and combines existing modes of production without creating a homogeneous world.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC275",
@@ -1056,11 +1026,7 @@
       "description": "The guiding thought of this seminar is the question of what is, and is not, sovereign. Exploring a wide range of authors (such as Bodin, Hobbes, Spinoza, Rousseau, Kant, Schmitt, Bataille, and Fanon), this seminar addresses the most salient problems in recent discussions of sovereignty.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC276",
@@ -1068,11 +1034,7 @@
       "description": "How do science and technology enable or hinder ecological resurgence, cultural articulation, racial justice, and political liberation? Course examines current works from the multidisciplinary field of critical, cultural, and feminist STS (science and technology studies), exploring their relevance for a wide range of research in anthropology, race studies, art, environmental studies, social studies and political theory, history, and philosophy. Beyond engaging with these recent works, students have the opportunity to learn foundational concepts and methods of STS and workshop written work.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC278",
@@ -1080,11 +1042,7 @@
       "description": "The planetary environmental debacle has exposed the damaging consequences requiring the re-invention of eco-social arrangements. Knowledge fields have responded by assimilating ecological concepts, frameworks, and methods into ways of thinking and acting in the world, sometimes taking the sciences as a normative blueprint for the realignment of social, political, and ethical values. Course identifies the reclaiming of a speculative orientation in research dedicated to creatively fostering a diversity of ecological futures and explores the relevance of speculative thought for research and writing.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC279",
@@ -1092,11 +1050,7 @@
       "description": "Explores the grounds for thinking that may be opened by engagements with earth, land, and soil as figures, places, and materialities in contemporary social and cultural theory. Engages with re-emergences of Earth as a ground for shared ecological consciousness and belonging and with critiques of planetary epistemic colonialisms that erase human and non-human experiences and conflicts from Indigenous land relations to the reclaiming of soil materialities. Amid anxieties for the planetâs future, we give attention to tensions between place-based ecological attachments and the perpetuation of nativist and nationalist exclusions, and to how Earth, land, and soil world-makings may appear uneven, unequal and divergent, common and uncommon, as well as inevitably interdependent.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC282",
@@ -1104,11 +1058,7 @@
       "description": "Explores art movements that played a role in major struggles for independence and liberation from colonial regimes or reflected upon them subsequently. These art movements are examined though international art and media exhibitions. Case studies vary with each course offering. (Formerly HAVC 282.)",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC283",
@@ -1116,11 +1066,7 @@
       "description": "What is the meaning of autonomy in the midst of the current socio-ecological crisis? Is autonomist politics possible in the 21st century? The course discusses different dimensions of autonomy–self-determination, self-institution, self-valorization, self-definition—and focuses on the relevance and limits of autonomist politics across different social fields and across a multiplicity of unfolding translocal and transnational struggles. As we de-center, provincialize, and posthumanize autonomism, we examine the meaning of refusal and exodus in a contentious multi-polar geopolitical order and in a manifestly more-than-human world.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC285",
@@ -1144,11 +1090,7 @@
       "description": "A practicum in the genres of scholarly writing, for graduate students working on the composition of their qualifying essay or doctoral dissertation.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATESTUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HISC293A",

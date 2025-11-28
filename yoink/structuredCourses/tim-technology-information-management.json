@@ -40,7 +40,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 20 and CSE 30 ; and CSE 16 ; and MATH 22 or MATH 23A or AM 30 ; and STAT 5 , or STAT 7 and 7L; and AM 10 or MATH 21 ; and AM 20 or MATH 24 .",
       "prereqGroups": [
         [
-          "CSE20",
+          "CSE20"
+        ],
+        [
           "CSE30"
         ],
         [
@@ -52,10 +54,11 @@
           "AM30"
         ],
         [
-          "STAT5"
+          "STAT5",
+          "STAT7"
         ],
         [
-          "STAT7",
+          "STAT5",
           "STAT7L"
         ],
         [
@@ -142,7 +145,12 @@
       "rawRequirements": "Requirements Prerequisite(s): TIM 172A and TIM 172P . Concurrent enrollment in TIM 172B is required.",
       "prereqGroups": [
         [
-          "TIM172A",
+          "TIM172B"
+        ],
+        [
+          "TIM172A"
+        ],
+        [
           "TIM172P"
         ]
       ]

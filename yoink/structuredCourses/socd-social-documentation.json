@@ -100,7 +100,9 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCD 294A and SOCD 294B . Enrollment is restricted to social documentation graduate students.",
       "prereqGroups": [
         [
-          "SOCD294A",
+          "SOCD294A"
+        ],
+        [
           "SOCD294B"
         ]
       ]

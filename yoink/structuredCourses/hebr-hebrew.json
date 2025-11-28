@@ -44,9 +44,7 @@
       "rawRequirements": "Requirements Prerequisite(s): HEBR 1B or HEBR 3 or by consent of instructor.",
       "prereqGroups": [
         [
-          "HEBR1B"
-        ],
-        [
+          "HEBR1B",
           "HEBR3"
         ]
       ]

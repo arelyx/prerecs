@@ -204,6 +204,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 12 ; previous or concurrent enrollment in CSE 100L is required.",
       "prereqGroups": [
         [
+          "CSE100L"
+        ],
+        [
           "CSE12"
         ]
       ]
@@ -215,6 +218,9 @@
       "credits": "2",
       "rawRequirements": "Requirements Prerequisite(s): CSE 12 ; previous or concurrent enrollment in CSE 100 is required.",
       "prereqGroups": [
+        [
+          "CSE100"
+        ],
         [
           "CSE12"
         ]
@@ -276,8 +282,7 @@
         ],
         [
           "BME160",
-          "CSE20",
-          "CSE20TestOut"
+          "CSE20"
         ],
         [
           "CSE30"
@@ -401,7 +406,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 12 and CSE 101 .",
       "prereqGroups": [
         [
-          "CSE12",
+          "CSE12"
+        ],
+        [
           "CSE101"
         ]
       ]
@@ -426,23 +433,23 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 15 and CSE 15L; or CSE 13S and CMPM 35 ; or CSE 13E and CMPM 35 ; or ECE 13 and CMPM 35 ; or CSE 101 .",
       "prereqGroups": [
         [
-          "CSE15",
-          "CSE15L"
+          "CSE15"
         ],
         [
+          "CSE15L",
           "CSE13S",
-          "CMPM35"
-        ],
-        [
           "CSE13E",
-          "CMPM35"
-        ],
-        [
           "ECE13",
+          "CSE101"
+        ],
+        [
           "CMPM35"
         ],
         [
-          "CSE101"
+          "CMPM35"
+        ],
+        [
+          "CMPM35"
         ]
       ]
     },
@@ -467,7 +474,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 12 and CSE 101 . CSE 120 recommended.",
       "prereqGroups": [
         [
-          "CSE12",
+          "CSE12"
+        ],
+        [
           "CSE101"
         ]
       ]
@@ -505,7 +514,9 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and CSE 101 and CSE 130 .",
       "prereqGroups": [
         [
-          "CSE101",
+          "CSE101"
+        ],
+        [
           "CSE130"
         ]
       ]
@@ -601,7 +612,9 @@
           "CSE13E",
           "CSE13S",
           "ECE13",
-          "CSE15",
+          "CSE15"
+        ],
+        [
           "CSE15L"
         ]
       ]
@@ -614,7 +627,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 100 , and CSE 100L ; and CSE 13E or CSE 13S or ECE 13 .",
       "prereqGroups": [
         [
-          "CSE100",
+          "CSE100"
+        ],
+        [
           "CSE100L"
         ],
         [
@@ -632,9 +647,15 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 100 , CSE 100L , ECE 101 , and ECE 101L .",
       "prereqGroups": [
         [
-          "CSE100",
-          "CSE100L",
-          "ECE101",
+          "CSE100"
+        ],
+        [
+          "CSE100L"
+        ],
+        [
+          "ECE101"
+        ],
+        [
           "ECE101L"
         ]
       ]
@@ -662,7 +683,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 123A , and CSE 185E or CSE 185S.",
       "prereqGroups": [
         [
-          "CSE123A",
+          "CSE123A"
+        ],
+        [
           "CSE185E",
           "CSE185S"
         ]
@@ -676,8 +699,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 100 and CSE 100L and CSE 120 .",
       "prereqGroups": [
         [
-          "CSE100",
-          "CSE100L",
+          "CSE100"
+        ],
+        [
+          "CSE100L"
+        ],
+        [
           "CSE120"
         ]
       ]
@@ -727,7 +754,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in courses CSE 121 and CSE 121L. Enrollment is restricted to bioengineering, biomolecular engineering and bioinformatics, computer engineering, and robotics engineering majors.",
       "prereqGroups": [
         [
-          "CSE121",
+          "CSE121"
+        ],
+        [
           "CSE121L"
         ]
       ]
@@ -760,7 +789,9 @@
         ],
         [
           "CSE101",
-          "CSE15",
+          "CSE15"
+        ],
+        [
           "CSE15L"
         ]
       ]
@@ -891,7 +922,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 15 and CSE 15L or CSE 30 or CSE 13S ; and AM 30 or MATH 22 or MATH 23A ; and STAT 5 or CSE 107 or STAT 131 ; and AM 10 or MATH 21 ; and CSE 16 or ECON 113 . Enrollment restricted to juniors and seniors. Graduate students by permission of instructor.",
       "prereqGroups": [
         [
-          "CSE15",
+          "CSE15"
+        ],
+        [
           "CSE15L",
           "CSE30",
           "CSE13S"
@@ -943,12 +976,16 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 16 and CSE 12 ; and CSE 30 , or CSE 15 and CSE 15L.",
       "prereqGroups": [
         [
-          "CSE16",
+          "CSE16"
+        ],
+        [
           "CSE12"
         ],
         [
           "CSE30",
-          "CSE15",
+          "CSE15"
+        ],
+        [
           "CSE15L"
         ]
       ]
@@ -985,8 +1022,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 107 , CSE 150 , and CSE 150L.",
       "prereqGroups": [
         [
-          "CSE107",
-          "CSE150",
+          "CSE107"
+        ],
+        [
+          "CSE150"
+        ],
+        [
           "CSE150L"
         ]
       ]
@@ -1012,7 +1053,9 @@
       "rawRequirements": "Requirements ,Prerequisites: CSE 150 and CSE 101 . Concurrent enrollment in course CSE 156L is required.",
       "prereqGroups": [
         [
-          "CSE150",
+          "CSE150"
+        ],
+        [
           "CSE101"
         ]
       ]
@@ -1025,7 +1068,9 @@
       "rawRequirements": "Requirements Prerequisites: CSE 150 and CSE 101 . Concurrent enrollment in CSE 156 is required.",
       "prereqGroups": [
         [
-          "CSE150",
+          "CSE150"
+        ],
+        [
           "CSE101"
         ]
       ]
@@ -1038,7 +1083,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 121 and CSE 150 .",
       "prereqGroups": [
         [
-          "CSE121",
+          "CSE121"
+        ],
+        [
           "CSE150"
         ]
       ]
@@ -1051,7 +1098,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 101 and MATH 21 or AM 10 .",
       "prereqGroups": [
         [
-          "CSE101",
+          "CSE101"
+        ],
+        [
           "MATH21",
           "AM10"
         ]
@@ -1148,7 +1197,9 @@
           "ECE13"
         ],
         [
-          "CSE15",
+          "CSE15"
+        ],
+        [
           "CSE15L"
         ],
         [
@@ -1193,7 +1244,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 180 and CSE 130 .",
       "prereqGroups": [
         [
-          "CSE180",
+          "CSE180"
+        ],
+        [
           "CSE130"
         ]
       ]
@@ -1222,7 +1275,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 15 and CSE 15L, or CMPM 35 , or CSE 101 .",
       "prereqGroups": [
         [
-          "CSE15",
+          "CSE15"
+        ],
+        [
           "CSE15L",
           "CMPM35",
           "CSE101"
@@ -1486,13 +1541,11 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 101 and CSE 102 ; or CSE 106 ; or CSE 201 ; or equivalent. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "CSE101",
-          "CSE102"
+          "CSE101"
         ],
         [
-          "CSE106"
-        ],
-        [
+          "CSE102",
+          "CSE106",
           "CSE201"
         ]
       ]
@@ -1591,11 +1644,7 @@
       "description": "Mathematical techniques for analyzing systems to prove rigorous guarantees about their behavior. Fundamental algorithms for and advanced topics in modeling, specification, verification, correct-by-construction synthesis, and testing. Applications to hardware/software design, cybersecurity, robotics, machine learning. Course includes a final project.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): CSE 103 or equivalent recommended, but not required. Enrollment is restricted to graduate students; undergraduates may enroll by permission of instructor.",
-      "prereqGroups": [
-        [
-          "CSE103"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CSE220",
@@ -1603,11 +1652,7 @@
       "description": "Provides a thorough and fundamental treatment of the art of computer architecture. Topics include concepts of von Neumann architectures, methods of evaluating CPU performance, instruction-set design and examples, compiler issues, instruction pipelining, superscalar processors, methods for reduction of branch penalty, memory hierarchies, I/O systems, floating-point arithmetic, and current issues in parallel processing. (Formerly CMPE 202.)",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students; undergraduates may enroll if they have completed CSE 120 and with consent of instructor. A basic knowledge of computer architecture, similar to the content of CSE 120 , is recommended.",
-      "prereqGroups": [
-        [
-          "CSE120"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CSE221",
@@ -1617,11 +1662,10 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 220 ; and CSE 125 , CSE 225 , or equivalent Verilog experience. Concurrent enrollment in CSE 221L is required. Enrollment restricted to graduate students.",
       "prereqGroups": [
         [
-          "CSE220",
-          "CSE125"
+          "CSE220"
         ],
         [
-          "CSE220",
+          "CSE125",
           "CSE225"
         ]
       ]
@@ -1634,11 +1678,10 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 220 ; and CSE 125 , CSE 225 , or equivalent Verilog experience. Concurrent enrollment in CSE 221 is required. Enrollment restricted to graduate students.",
       "prereqGroups": [
         [
-          "CSE220",
-          "CSE125"
+          "CSE220"
         ],
         [
-          "CSE220",
+          "CSE125",
           "CSE225"
         ]
       ]
@@ -1685,48 +1728,7 @@
       "description": "Agile Hardware Design techniques take the best of software engineering methods and apply them to improve hardware design productivity. Agile approaches not only reduce the time to solution, but they can also produce solutions which are better tailored for their target problems. In this synchronous in-person course, these techniques are covered while taking advantage of the Chisel hardware design language which brings the strengths of functional object-oriented programming to hardware design. Course consists of engaging lectures (intermixed coding demos and guest speakers) and progressive design assignments that culminate in a small project.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): equivalent experience in at least two of the following three areas: logic design (Verilog/VHDL e.g. CSE 100 / CSE 100L or CSE 125 /CSE 125L), computer architecture ( CSE 120 / CSE 220 ), advanced programming (functional, object oriented, etc.). Enrollment is restricted to graduate students; open to advanced undergraduates with instructor consent.",
-      "prereqGroups": [
-        [
-          "CSE100",
-          "CSE125",
-          "CSE120"
-        ],
-        [
-          "CSE100",
-          "CSE125",
-          "CSE220"
-        ],
-        [
-          "CSE100",
-          "CSE125L",
-          "CSE120"
-        ],
-        [
-          "CSE100",
-          "CSE125L",
-          "CSE220"
-        ],
-        [
-          "CSE100L",
-          "CSE125",
-          "CSE120"
-        ],
-        [
-          "CSE100L",
-          "CSE125",
-          "CSE220"
-        ],
-        [
-          "CSE100L",
-          "CSE125L",
-          "CSE120"
-        ],
-        [
-          "CSE100L",
-          "CSE125L",
-          "CSE220"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CSE229",
@@ -1736,15 +1738,9 @@
       "rawRequirements": "Requirements Enrollment is restricted to graduate students or by consent of instructor. CSE 100 , CSE 125 , CSE 222A , CSE 225 , or other digital design experience recommended.",
       "prereqGroups": [
         [
-          "CSE100"
-        ],
-        [
-          "CSE125"
-        ],
-        [
-          "CSE222A"
-        ],
-        [
+          "CSE100",
+          "CSE125",
+          "CSE222A",
           "CSE225"
         ]
       ]
@@ -1819,14 +1815,7 @@
       "description": "Introduction to privacy-preserving computation, focusing on how to build end-to-end privacy-preserving systems. Topics cover different areas of private computation: multiparty computation, FHE, anonymous communication, oblivious RAM/computation, hardware enclaves, structured/searchable encryption, and cryptanalysis topics. The focus is on research papers from both the crypto/security side (with emphasis on definitions, foundations, and formal proofs) and the system side (with emphasis on aspects such as real-world practicality, efficiency, and deployability).",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisites: Enrollment is restricted to graduate students. CSE 108 / CSE 206C or equivalent is preferred but not required. Undergraduates may enroll by permission of instructor. Students who have completed CSE 239A cannot take CSE 108C for credit.",
-      "prereqGroups": [
-        [
-          "CSE108"
-        ],
-        [
-          "CSE206C"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CSE240",
@@ -1890,11 +1879,7 @@
       "description": "This 10-week course delves deep into advanced computer vision with deep learning, introducing key concepts, applications, and the latest advancements in the field. Specifically, the course covers topics including image basics, convolutional neural network and its applications in different vision tasks (i.e., classification, detection, segmentation and video understanding), Transformer, self-supervised learning, vision language models, and three advanced topics. Upon completion, students should understand basics and cutting-edge advancements in this field and be able to solve real-world vision challenges.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): CSE 244A is recommended but not required. Enrollment is restricted to CSE graduate students; other graduate students may enroll by permission of the instructor.",
-      "prereqGroups": [
-        [
-          "CSE244A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CSE245",
@@ -2079,11 +2064,7 @@
       "description": "Meant for graduate students with a good mathematical background. Students should be familiar with discrete math, algorithms, calculus/probability, graph theory. Topics include clustering, linear programming, LP duality, semidefinite programming, etc.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students or by permission of the instructor. Students taking this course need to have had at least one prior course in algorithms, similar to CSE 102 or equivalent. Students need a solid background in analysis of algorithms, discrete math, probability theory, graph theory, and overall mathematical maturity.",
-      "prereqGroups": [
-        [
-          "CSE102"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CSE272",
@@ -2377,7 +2358,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 201 and CSE 242 . Enrollment is restricted to computer engineering and computer science graduate students.",
       "prereqGroups": [
         [
-          "CSE201",
+          "CSE201"
+        ],
+        [
           "CSE242"
         ]
       ]

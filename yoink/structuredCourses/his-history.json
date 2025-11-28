@@ -74,11 +74,7 @@
       "description": "Focuses on the building of British American colonies and the establishment, disintegration, and reconstruction of the nation with an emphasis on how class, race, ethnicity, and gender impacted colonial development and structured the nation's agenda and the definition of citizenship.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS10A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS10B",
@@ -86,11 +82,7 @@
       "description": "Surveys the political, social, and cultural history of the United States from 1877 to 1977. Focuses on national politics with emphasis on how class, race, ethnicity, and gender changed the nation's agenda.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS10B"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS11A",
@@ -114,11 +106,7 @@
       "description": "Introduces students to the history of U.S. Latinos drawing on the experience of Central Americans, people of Mexican descent, Puerto Ricans, Dominican Americans, and Cuban Americans. Emphasizes international processes that fundamentally shape U.S. Latino communities.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS12"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS13",
@@ -134,11 +122,7 @@
       "description": "Takes students through five critical moments in United States history: the American Revolution, the Civil War, the New Deal, the Civil Rights era, and the years following the attack on the United States on Sept. 11, 2001. Designed for non-majors.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS15"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS20",
@@ -418,11 +402,7 @@
       "description": "Course seeks to reframe a paradigmatic event in the history of California and the United States as an event in global history. Rather than assume the spatial and temporal boundaries of the Gold Rush, students explore different possible answers to the questions of where and when the Gold Rush happened, why it matters, and for whom. Students retrace connections and make comparisons between events in California and other places that often fall beyond the purview of \"California History\" as conventionally understood. (Formerly Global History of the California Gold Rush.)",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "AmericanHistoryandInstitutions"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS90A",
@@ -430,11 +410,7 @@
       "description": "Examines the history of nuclear weapons development, nuclear weapons use, nuclear testing, and nuclear power in the Pacific region from 1942 to the present. Students do research on nuclear science, medicine, energy, and weapons testing and their social, political, demographic, and environmental impacts.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "AmericanHistoryandInstitutions"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS99",
@@ -570,11 +546,7 @@
       "description": "Explores the social, economic, cultural, and political development of British North America from the first European/Amerindian contacts in the late 16th century through the establishment of a provincial British colonial society. Course 110A is not a prerequisite to course 110B.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS110A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS110B",
@@ -582,11 +554,7 @@
       "description": "Explores the political, social, economic, and cultural development of British North America from the first stirrings of resistance to the establishment of the U.S. Course 110A is not a prerequisite to course 110B.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS110B"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS110D",
@@ -594,11 +562,7 @@
       "description": "Social, political, and economic history of the American Civil War and Reconstruction, focusing on the war's changing nature and significance, emancipation, and the postwar struggle over the future of the South and the nation.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS110D"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS110E",
@@ -606,11 +570,7 @@
       "description": "History of the U.S. during what was perhaps its most socially turbulent era, the period following Reconstruction through the First World War. What did it mean to be a nation in the post-Reconstruction era? How did a country that had only recently unified itself under one system of labor now resolve the question of national identity? Was America truly a nation by 1914?",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS110E"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS110F",
@@ -634,11 +594,7 @@
       "description": "Examines how the consolidation of United States sovereignty in North America and the establishment of an overseas empire during the period between the conclusion of the Civil War and the Phillippine-American War reshaped conceptions of race and citizenship.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS110H"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS112",
@@ -670,11 +626,7 @@
       "description": "Examines the exploitation of African people as slaves throughout European colonies in the Americas. How did slavery affect slaves, enslavers, and their societies? Emphasizes the diversity of slave regimes and their importance for shaping American life for all.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "HIS116"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS116A",
@@ -786,11 +738,7 @@
       "description": "A survey course on the social history of the Mexican (Chicana/o) community and people in the U.S. through the 20th century. Themes include resistance, migration, labor, urbanization, culture and politics.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "AmericanHistoryandInstitutionsYes"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS130",
@@ -1521,9 +1469,6 @@
       "prereqGroups": [
         [
           "HIS100"
-        ],
-        [
-          "HIS100"
         ]
       ]
     },
@@ -1863,14 +1808,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; HIS 100 , and two additional upper-division history courses, or permission of instructor. Enrollment is restricted to junior and senior history majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS194W"
         ]
       ]
     },
@@ -1882,14 +1820,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; HIS 100 , and two additional upper-division history courses, or permission of instructor. Enrollment is restricted to junior and senior history majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS194Y"
         ]
       ]
     },
@@ -1917,14 +1848,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and HIS 100 , and two upper-division history courses; or by permission of instructor. Enrollment is restricted to junior and senior history majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS196E"
         ]
       ]
     },
@@ -1952,14 +1876,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; HIS 100 , and two additional upper-division history courses, or by permission of instructor. Enrollment is restricted to junior and senior history majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS196H"
         ]
       ]
     },
@@ -1971,18 +1888,7 @@
       "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements, and HIS 100 , and two additional upper-division history courses, or by permission of instructor. HIS 70A and/or HIS 170A recommended as preparation. Enrollment is restricted to junior and senior history majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS196I"
-        ],
-        [
-          "HIS70A",
-          "HIS170A"
         ]
       ]
     },
@@ -1994,14 +1900,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, HIS 100 and two additional upper-division history courses, or permission of instructor. Enrollment is restricted to junior and senior history majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS196K"
         ]
       ]
     },
@@ -2013,14 +1912,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, HIS 100 (for history majors), and two additional upper-division history courses. Enrollment is restricted to junior and senior history and Jewish studies majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS196M"
         ]
       ]
     },
@@ -2032,14 +1924,7 @@
       "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements, HIS 100 (for history majors), and two additional upper-division history courses. Enrollment is restricted to junior and senior history and Jewish studies majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS196N"
         ]
       ]
     },
@@ -2051,14 +1936,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; HIS 100 and two additional upper-division history courses, or permission of instructor. Enrollment is restricted to junior and senior history majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS196Q"
         ]
       ]
     },
@@ -2078,14 +1956,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, HIS 100 , and two additional two upper-division history courses, or permission of instructor. Enrollment is restricted to junior and senior history majors.",
       "prereqGroups": [
         [
-          "EntryLevelWriting",
-          "Composition"
-        ],
-        [
           "HIS100"
-        ],
-        [
-          "HIS196Z"
         ]
       ]
     },
@@ -2135,11 +2006,7 @@
       "description": "Having already prepared a bibliography and research prospectus in a graduate research seminar, students will undertake further research on their projects, write a 25â30 page research paper, and present their work to their fellow students.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): history graduate research seminar. Enrollment is restricted to graduate history students.",
-      "prereqGroups": [
-        [
-          "historygraduateresearchseminar"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS202",
@@ -2459,11 +2326,7 @@
       "description": "Introduces major themes and problems in recent historiographical trends in environmental history and the history of technology. Examines the role of environment and technology in the making of Europe and European societies' engagement with the world.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS251B",
@@ -2471,11 +2334,7 @@
       "description": "The history of empire has emerged as one of the most influential and fastest growing areas of inquiry within the field of modern European history. This course introduces students to recent debates and trends in imperial, colonial, and postcolonial history.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS252",
@@ -2483,11 +2342,7 @@
       "description": "Focuses on the histories and theories of republicanism and liberalism by investigating the tension between universal ideologies and discriminatory practices. Focuses on France and the United States, but Algeria, Syria, and Turkey will also be covered.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS255",
@@ -2495,11 +2350,7 @@
       "description": "Examines the significance of religion and secularism in the modern period. How did modernity and the concept of the secular transform various religions and how, in turn, did these religions help to create modernity.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS257",
@@ -2507,11 +2358,7 @@
       "description": "For several centuries, the shtetl functioned as the center of Jewish life in Eastern Europe. Alternately mythologized and pathologized, the shtetl continues to exist as an imaginary space that defines and distorts the historical image of Eastern European Jewish life. Students cannot receive credit for this course and HIS 196M .",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS258A",
@@ -2527,11 +2374,7 @@
       "description": "Explores the making of space, place, and geography in a body of recent historical work. Explores key theoretical work interrogating the significance of space as a critical element of social theory and historical consideration. Proceeds through three thematic units: questions of colonial economy in South Asia; spaces of empires and its end in the Eastern Mediterranean; and histories of infrastructure.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS261",
@@ -2539,11 +2382,7 @@
       "description": "Explores the history and historiography of the modern Middle East through recent historical scholarship. Examines the new theoretical approaches that frame inquiries into the region's history and how contemporary historians are reinterpreting familiar questions and themes.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS263",
@@ -2551,11 +2390,7 @@
       "description": "Focuses on the histories of science and medicine in the Global South. While these fields have historically been dominated by scholarship focusing on Europe and North America, in recent years, work produced by scholars of the Global South has begun to reshape these fields. This seminar critically considers the body of historical scholarship with an eye toward the following questions: Are there common themes that define this body of historiography? What do works that fall within this genre have to teach us about other bodies of cultural, political and economic historical work? How is it productive to think with the Global South as a category of analysis?",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS265",
@@ -2563,11 +2398,7 @@
       "description": "A multidisciplinary history of the body from late antiquity to the present. Topics include: medical and religious constructions; the raced, gendered, and sexualized body; adornment and performance markers; power and control through the body; body parts; and the body's permeability.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS280A",
@@ -2575,11 +2406,7 @@
       "description": "Devoted to professionalism and socialization of history graduate students. Includes formal and informal meetings with faculty and other graduate students. Topics include TAships, designing course syllabi, pedagogy, teaching technologies, and teaching in different venues.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS280B",
@@ -2587,11 +2414,7 @@
       "description": "Devoted to professionalism and socialization of history graduate students. Topics include discussion of researching grants; effective CV writing; successful grant applications and publication proposals; and conference paper and panel proposals. Required for first-year graduate students; however, open to all history graduate students as needed.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS280C",
@@ -2599,11 +2422,7 @@
       "description": "Devoted to professionalism and socialization of history graduate students. Includes formal and informal meetings with faculty and other graduate students. Topics include researching position; preparing a CV and the job-application letter; preparing for an interview; practice interview; preparing a job talk and/or teaching presentation; and practice job talk.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS283",
@@ -2611,11 +2430,7 @@
       "description": "Independent study course in which history graduate student reads selected texts to fulfill foreign language requirement. Student meets with instructor to discuss readings, deepening his knowledge of the foreign language. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS284",
@@ -2623,11 +2438,7 @@
       "description": "Independent study course designed to help students prepare for qualifying exams. Students meet on regular basis with one or more members of qualifying examination committee to monitor preparation for exam. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS285",
@@ -2635,11 +2446,7 @@
       "description": "Independent study focusing on selected texts or authors in history or historical theory. Students meet on regular basis with instructor to discuss readings and deepen their knowledge of a particular author or historical theory. Students submit petition to sponsoring agency.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS285B",
@@ -2647,11 +2454,7 @@
       "description": "Independent study focusing on selected texts or authors in history or historical theory. Students meet on regular basis with instructor to discuss readings. Students submit petition to sponsoring agency.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS286",
@@ -2659,11 +2462,7 @@
       "description": "Acquaints students with the department's thematic research clusters in their field to coordinate training in historical research. Students meet on a regular basis with a faculty member of a particular cluster to discuss most important readings in the field. Enrollment restricted to graduate students.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS287",
@@ -2671,11 +2470,7 @@
       "description": "Acquaints students with the department's thematic research clusters in their field to coordinate training in historical research. Students meet on a regular basis with a faculty member of this cluster to discuss most important readings in their field. Enrollment restricted to graduate students.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS288",
@@ -2683,11 +2478,7 @@
       "description": "Independent study designed to help history graduate students prepare to teach in an area of history outside their specialization. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS289",
@@ -2695,11 +2486,7 @@
       "description": "Independent study designed to foster departmental and cross-disciplinary participation in campus talks, colloquia, conferences, and events. Students submit petition to sponsoring agency. Enrollment restricted to graduate students.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS294M",
@@ -2707,11 +2494,7 @@
       "description": "Critically examines the formation of political elites in East Asia. Compares literati in Ming and Qing China; samurai in Tokugawa, Japan; and yangban in Joeson, Korea. Each group occupied specific roles and functions in their state and society but differed in scale and character. Students cannot receive credit for this course and HIS 194M .",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "GRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS297A",
@@ -2719,11 +2502,7 @@
       "description": "Students submit petition to sponsoring agency.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS297B",
@@ -2731,11 +2510,7 @@
       "description": "Students submit petition to sponsoring agency.",
       "credits": "10",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS297C",
@@ -2743,11 +2518,7 @@
       "description": "Students submit petition to sponsoring agency.",
       "credits": "15",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS298A",
@@ -2755,11 +2526,7 @@
       "description": "Required course for all first-year graduate students in the History Department. Course helps students situate themselves within the field of history by developing a research agenda in relation to the historiography on their geographical and thematic areas of interest, prepares students to embark on research during the summer after the first year, and equips them with a tentative reading list to guide their preparation for the Qualifying Exam. Course content varies according to the interests and needs of students. Students complete the course with a primary or secondary adviser.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to history graduate students.HIS298A",
-      "prereqGroups": [
-        [
-          "HISGRADUATE_STUDENTS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS299A",
@@ -2767,11 +2534,7 @@
       "description": "Students submit petition to sponsoring agency.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS299B",
@@ -2779,11 +2542,7 @@
       "description": "Students submit petition to sponsoring agency.",
       "credits": "10",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "HIS299C",
@@ -2791,11 +2550,7 @@
       "description": "Students submit petition to sponsoring agency.",
       "credits": "15",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "REPEATABLE_FOR_CREDIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ANTH110O",

@@ -53,16 +53,8 @@
       "prereqGroups": [
         [
           "AM3",
-          "AM6"
-        ],
-        [
+          "AM6",
           "MATH3"
-        ],
-        [
-          "MPE300"
-        ],
-        [
-          "APCalculusAB3"
         ]
       ]
     },
@@ -154,35 +146,32 @@
       "rawRequirements": "Requirements Prerequisite(s): ENVS 23 or CHEM 1A , CHEM 3B , or CHEM 4B ; ENVS 24 or BIOE 20C ; ENVS 25 ; and STAT 7 /L or STAT 17 /L or ECON 113 or OCEA 90 ; and one from: ENVS 26 , ANTH 2 , SOCY 1 ,10,15, PHIL 21,22,24,28, or 80G. Concurrent enrollment in 100L required.",
       "prereqGroups": [
         [
-          "ENVS23",
           "CHEM1A",
           "CHEM3B",
-          "CHEM4B"
+          "CHEM4B",
+          "ENVS23"
         ],
         [
-          "ENVS24",
-          "BIOE20C"
+          "BIOE20C",
+          "ENVS24"
         ],
         [
           "ENVS25"
         ],
         [
-          "STAT7",
-          "STAT17",
           "ECON113",
-          "OCEA90"
+          "OCEA90",
+          "STAT17",
+          "STAT7"
         ],
         [
-          "ENVS26",
           "ANTH2",
-          "SOCY1",
-          "SOCY10",
-          "SOCY15",
+          "ENVS26",
           "PHIL21",
           "PHIL22",
           "PHIL24",
           "PHIL28",
-          "PHIL80G"
+          "SOCY1"
         ]
       ]
     },
@@ -192,7 +181,11 @@
       "description": "Required writing lab accompanying course 100. Students are introduced to writing in different styles and for different audiences typical of the ecosystem-society interface. Course 100 writing assignments are developed, written, and revised in conjunction with the lab. W credit is granted only upon successful completion of ENVS 100.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in ENVS 100 is required.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "ENVS100"
+        ]
+      ]
     },
     {
       "id": "ENVS104A",
@@ -202,7 +195,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ENVS 100 and ENVS 100L ; exceptions by permission of instructor. Concurrent enrollment in ENVS 104L is required.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -215,7 +210,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ENVS 100 and ENVS 100L ; exceptions by permission of instructor. Concurrent enrollment in ENVS 104A is required.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -228,11 +225,10 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor. BIOL 138 are recommended.",
       "prereqGroups": [
         [
-          "ENVS100",
-          "ENVS100L"
+          "ENVS100"
         ],
         [
-          "BIOL138"
+          "ENVS100L"
         ]
       ]
     },
@@ -280,7 +276,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L required, or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -305,7 +303,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -318,9 +318,13 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 115L and ENVS 100 and ENVS 100L , or permission of instructor. Course in computer science, Earth science, math, or geography recommended.",
       "prereqGroups": [
         [
-          "ENVS115L",
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
+        ],
+        [
+          "ENVS115L"
         ]
       ]
     },
@@ -332,7 +336,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ENVS 115A . Concurrent enrollment in ENVS 115L .",
       "prereqGroups": [
         [
-          "ENVS115A",
+          "ENVS115A"
+        ],
+        [
           "ENVS115L"
         ]
       ]
@@ -345,7 +351,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ENVS 115A and ENVS 115B . Enrollment is restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
-          "ENVS115A",
+          "ENVS115A"
+        ],
+        [
           "ENVS115B"
         ]
       ]
@@ -366,7 +374,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -379,7 +389,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -392,7 +404,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L ; or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -408,7 +422,9 @@
           "ENVS130L"
         ],
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -421,7 +437,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -434,7 +452,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L .",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -445,7 +465,11 @@
       "description": "Laboratory and field exercises to train in the analysis of ecological processes in agricultural systems, with a focus on the quantification of ecological sustainability. Experimental design, analysis, and data interpretation are emphasized. Students are billed a materials fee.",
       "credits": "2",
       "rawRequirements": "Requirements Concurrent enrollment in ENVS 130A is required.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "ENVS130A"
+        ]
+      ]
     },
     {
       "id": "ENVS131",
@@ -455,7 +479,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -492,7 +518,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L .",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -505,7 +533,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -518,7 +548,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -531,7 +563,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -544,7 +578,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -557,7 +593,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Environmental Studies students, previous or concurrent enrollment in courses ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -570,7 +608,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of the instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -583,7 +623,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -596,7 +638,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -609,7 +653,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENV 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENV100",
+          "ENV100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -622,7 +668,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -635,7 +683,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in courses ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -648,7 +698,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L , or permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -669,7 +721,9 @@
       "rawRequirements": "Requirements Prerequisite(s):satisfaction of the Entry Level Writing and Composition requirements and previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -682,7 +736,9 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -695,7 +751,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -708,7 +766,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -721,7 +781,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -734,7 +796,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -747,7 +811,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -760,7 +826,10 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS163"
+          "ENVS100"
+        ],
+        [
+          "ENVS100L"
         ]
       ]
     },
@@ -772,7 +841,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -797,7 +868,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of the instructor. Previous enrollment in ENVS 161 is recommended.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -810,7 +883,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -823,25 +898,17 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor; and ENVS 130A or ENVS 130B or ENVS 129 or ENVS 133 or ENVS 160 or ENVS 167 .",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ],
         [
-          "ENVS130A"
-        ],
-        [
-          "ENVS130B"
-        ],
-        [
-          "ENVS129"
-        ],
-        [
-          "ENVS133"
-        ],
-        [
-          "ENVS160"
-        ],
-        [
+          "ENVS130A",
+          "ENVS130B",
+          "ENVS129",
+          "ENVS133",
+          "ENVS160",
           "ENVS167"
         ]
       ]
@@ -854,7 +921,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -879,7 +948,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L required, or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -892,7 +963,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L required, or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -905,7 +978,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L .",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -918,7 +993,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ENVS 100 and ENVS 100L , or by permission of the instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -931,7 +1008,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -944,7 +1023,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -957,7 +1038,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of the instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -970,7 +1053,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of the instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -983,7 +1068,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in courses ENVS 100 and ENVS 100L , or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -996,7 +1083,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in ENVS 100 and ENVS 100L , or by permission of the instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -1049,7 +1138,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ENVS 100 and ENVS 100L ; Entry Level Writing and Composition requirements. Enrollment is restricted to senior environmental studies majors, agroecology majors, and the combined majors with Earth sciences, biology, and economics.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -1108,7 +1199,26 @@
       "description": "Readings and discussions of primary literature on a current environmental studies topic. Field or literature-based research projects (individual or group) writing multiple drafts resulting in a final paper. Topics vary yearly; consult current course listings. Satisfies senior comprehensive requirement. Prerequisite(s): ENVS 100 and ENVS 100L ; Entry Level Writing and Composition requirements. Enrollment is by application with selection based on appropriate background and academic performance and by permission of instructor. Enrollment is restricted to senior environmental studies majors, agroecology majors, and the combined majors with Earth sciences, biology, and economics.",
       "credits": "5",
       "rawRequirements": "No additional requirements listed.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "ENVS100"
+        ],
+        [
+          "ENVS100L"
+        ],
+        [
+          "ENVS115A"
+        ],
+        [
+          "ENVS115L"
+        ],
+        [
+          "ENVS115B"
+        ],
+        [
+          "ENVS115C"
+        ]
+      ]
     },
     {
       "id": "ENVS196G",
@@ -1116,17 +1226,7 @@
       "description": "Readings and discussions of primary literature on Geographic Information Systems (GIS). Lab-based research projects (individual or group) writing multiple drafts resulting in a final project. Enrollment by application with selection based on appropriate background and academic performance and by consent of instructor. Satisfies senior comprehensive requirement.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): ENVS 100 and ENVS 100L ; Entry Level Writing and Composition requirements; ENVS 115A , ENVS 115L , ENVS 115B . Previous or concurrent enrollment in ENVS 115C . Enrollment is restricted to senior environmental studies majors, agroecology majors, and the combined majors with Earth sciences, biology, and economics.",
-      "prereqGroups": [
-        [
-          "ENVS100",
-          "ENVS100L"
-        ],
-        [
-          "ENVS115A",
-          "ENVS115L",
-          "ENVS115B"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ENVS199",
@@ -1212,12 +1312,8 @@
       "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in ENVS 215A , or ENVS 215B , or ENVS 215C is required. Enrollment is restricted to environmental studies graduate students.",
       "prereqGroups": [
         [
-          "ENVS215A"
-        ],
-        [
-          "ENVS215B"
-        ],
-        [
+          "ENVS215A",
+          "ENVS215B",
           "ENVS215C"
         ]
       ]
@@ -1276,11 +1372,7 @@
       "description": "Plant diseases do more than just harm plants we grow for food; they drive the evolution, population dynamics, ecosystem functioning, and diversity of plants in wild communities. This class looks at the biology of plant-microbe symbioses and the impacts of plant pathogens through the integrating lens of evolutionary ecology. Students explore the ecological basis for disease spread and management in agricultural, forest, and wild systems, and consider special challenges from emerging pathogens and climate change. Through developing a research proposal, students delve into diverse approaches that are used in basic and applied plant disease research. Students cannot receive credit for this course and ENVS 163 .",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): one ecology course or equivalent background. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "ENVS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ENVS265",

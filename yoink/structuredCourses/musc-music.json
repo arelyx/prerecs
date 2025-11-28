@@ -764,12 +764,8 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and MUSC 20A or MUSC 20B or MUSC 30A ; or by permission of instructor.",
       "prereqGroups": [
         [
-          "MUSC20A"
-        ],
-        [
-          "MUSC20B"
-        ],
-        [
+          "MUSC20A",
+          "MUSC20B",
           "MUSC30A"
         ]
       ]
@@ -782,21 +778,11 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirement, and one of the following courses: MUSC 10 , MUSC 11D , MUSC 20A , MUSC 30A , MUSC 80A , or MUSC 80S ; or by permission of instructor.",
       "prereqGroups": [
         [
-          "MUSC10"
-        ],
-        [
-          "MUSC11D"
-        ],
-        [
-          "MUSC20A"
-        ],
-        [
-          "MUSC30A"
-        ],
-        [
-          "MUSC80A"
-        ],
-        [
+          "MUSC10",
+          "MUSC11D",
+          "MUSC20A",
+          "MUSC30A",
+          "MUSC80A",
           "MUSC80S"
         ]
       ]
@@ -809,18 +795,10 @@
       "rawRequirements": "Requirements Prerequisite(s): MUSC 5A or MUSC 5B or MUSC 5C or MUSC 8A or MUSC 8B ; or by permission of instructor.",
       "prereqGroups": [
         [
-          "MUSC5A"
-        ],
-        [
-          "MUSC5B"
-        ],
-        [
-          "MUSC5C"
-        ],
-        [
-          "MUSC8A"
-        ],
-        [
+          "MUSC5A",
+          "MUSC5B",
+          "MUSC5C",
+          "MUSC8A",
           "MUSC8B"
         ]
       ]
@@ -865,12 +843,8 @@
       "rawRequirements": "Requirements Prerequisite(s): MUSC 101A or MUSC 101B or MUSC 101C , or by permission of instructor.",
       "prereqGroups": [
         [
-          "MUSC101A"
-        ],
-        [
-          "MUSC101B"
-        ],
-        [
+          "MUSC101A",
+          "MUSC101B",
           "MUSC101C"
         ]
       ]
@@ -883,9 +857,7 @@
       "rawRequirements": "Requirements Prerequisite(s): MUSC 81A or MUSC 81H ; or by permission of the instructor.",
       "prereqGroups": [
         [
-          "MUSC81A"
-        ],
-        [
+          "MUSC81A",
           "MUSC81H"
         ]
       ]
@@ -986,9 +958,7 @@
       "rawRequirements": "Requirements Prerequisite(s): MUSC 80F or MUSC 81M , and satisfaction of the Entry Level Writing and Composition requirements; or by permission of instructor.",
       "prereqGroups": [
         [
-          "MUSC80F"
-        ],
-        [
+          "MUSC80F",
           "MUSC81M"
         ]
       ]
@@ -1009,7 +979,9 @@
       "rawRequirements": "Requirements Prerequisite(s): MUSC 30A and MUSC 11B ; or by permission of instructor.",
       "prereqGroups": [
         [
-          "MUSC30A",
+          "MUSC30A"
+        ],
+        [
           "MUSC11B"
         ]
       ]

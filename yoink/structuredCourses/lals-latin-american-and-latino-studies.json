@@ -354,7 +354,11 @@
       "description": "Course provides hands-on training in the design of a research project and in the principal methods used in LALS. (Formerly Social Science Analytics Lab.)",
       "credits": "1",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in LALS 100A is required.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "LALS100A"
+        ]
+      ]
     },
     {
       "id": "LALS112",
@@ -514,11 +518,7 @@
       "description": "Focuses on the analysis of collective action by underrepresented groups in Latin America. Concepts and issues include political participation and impact, gender, ethnicity and race, class, the environment, religion, non-governmental organizations, and social capital.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): any two Latin American and Latino studies courses or permission of instructor; open to graduate students.",
-      "prereqGroups": [
-        [
-          "LALS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LALS147",

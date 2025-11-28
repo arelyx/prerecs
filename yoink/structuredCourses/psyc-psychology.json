@@ -48,13 +48,14 @@
           "MATH3",
           "MATH4",
           "MATH11A",
-          "AM11A",
-          "ECON11A"
+          "MATH19A"
         ],
         [
           "PSYC2",
           "STAT5",
-          "STAT7",
+          "STAT7"
+        ],
+        [
           "STAT7L"
         ]
       ]
@@ -106,7 +107,9 @@
         [
           "PSYC2",
           "STAT5",
-          "STAT7",
+          "STAT7"
+        ],
+        [
           "STAT7L"
         ]
       ]
@@ -127,7 +130,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -140,7 +145,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -153,7 +160,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 . Enrollment is restricted to psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -166,7 +175,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 . Enrollment is restricted to psychology and cognitive science majors and minors.",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -179,7 +190,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -192,7 +205,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 . Enrollment is restricted to psychology majors.",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -205,7 +220,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -218,7 +235,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and 100.",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -231,8 +250,12 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 1 , PSYC 10 , and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC1",
-          "PSYC10",
+          "PSYC1"
+        ],
+        [
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -245,7 +268,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -258,7 +283,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -271,7 +298,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -296,7 +325,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -309,7 +340,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -322,7 +355,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 . Enrollment is restricted to psychology majors.",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -335,9 +370,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of Entry Level Writing, Composition requirements; PSYC 100 , or ANTH 1 or ANTH 2 , or EDUC 92A, or EDUC 92B, or EDUC 92C, or LALS 1 , or SOCY 1 . Enrollment is restricted to seniors or by permission.",
       "prereqGroups": [
         [
-          "PSYC100"
-        ],
-        [
+          "PSYC100",
           "ANTH1",
           "ANTH2",
           "EDUC92A",
@@ -416,7 +449,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and PSYC 100 . Enrollment is restricted to senior psychology and cognitive science majors or by permission of instructor.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -428,7 +461,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -440,7 +473,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 ; and satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -452,7 +485,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology or cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -464,7 +497,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -476,7 +509,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and PSYC 100 . Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -488,7 +521,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -500,7 +533,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 . Enrollment is restricted to cognitive science and psychology majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -512,12 +545,12 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 1 or PSYC 20 or PSYC 20A, and PSYC 100 . Enrollment is restricted to psychology and cognitive science majors and minors.",
       "prereqGroups": [
         [
-          "PSYCH1",
-          "PSYCH20",
-          "PSYCH20A"
+          "PSYC1",
+          "PSYC20",
+          "PSYC20A"
         ],
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -529,8 +562,10 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 20 and PSYC 100 . Enrollment is restricted to psychology and cognitive science majors and minors.",
       "prereqGroups": [
         [
-          "PSYCH20",
-          "PSYCH100"
+          "PSYC20"
+        ],
+        [
+          "PSYC100"
         ]
       ]
     },
@@ -550,7 +585,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 . Enrollment is restricted to psychology and cognitive science majors and minors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -562,7 +597,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 . Enrollment is restricted to psychology and cognitive science majors and minors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -574,7 +609,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 . Enrollment is restricted to psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -586,7 +621,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 . Enrollment is restricted to psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -598,7 +633,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 . Enrollment is restricted to psychology and cognitive science majors and minors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -610,11 +645,10 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 ; and PSYC 20 or any upper-division cognitive course. Enrollment is restricted to psychology and cognitive science majors and minors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ],
         [
-          "PSYCH20",
-          "PSYCHUPPERDIVISIONCOGNITIVECOURSE"
+          "PSYC20"
         ]
       ]
     },
@@ -626,7 +660,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -638,7 +672,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 .",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -650,12 +684,12 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 1 or PSYC 20A or PSYC 20B, and PSYC 100 . Enrollment is restricted to psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH1",
-          "PSYCH20A",
-          "PSYCH20B"
+          "PSYC1",
+          "PSYC20A",
+          "PSYC20B"
         ],
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -667,8 +701,10 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 20 and PSYC 100 . Enrollment is restricted to psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH20",
-          "PSYCH100"
+          "PSYC20"
+        ],
+        [
+          "PSYC100"
         ]
       ]
     },
@@ -680,7 +716,7 @@
       "rawRequirements": "Requirements Prerequisite(s): Entry Level Writing and Composition requirements and PSYC 100 . Enrollment is restricted to senior psychology, philosophy, anthropology, linguistics, and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -692,8 +728,10 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 20 , PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH20",
-          "PSYCH100"
+          "PSYC20"
+        ],
+        [
+          "PSYC100"
         ]
       ]
     },
@@ -705,7 +743,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of Entry Level Writing, Composition requirements, and PSYC 100 . Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -717,8 +755,10 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 20 , PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH20",
-          "PSYCH100"
+          "PSYC20"
+        ],
+        [
+          "PSYC100"
         ]
       ]
     },
@@ -730,7 +770,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements and PSYC 100 . Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -742,7 +782,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements and PSYC 100 . Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -754,11 +794,11 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and PSYC 20 or PSYC 20A; and PSYC 100 . Enrollment is restricted to senior cognitive science, neuroscience, and psychology majors.",
       "prereqGroups": [
         [
-          "PSYCH20",
-          "PSYCH20A"
+          "PSYC20",
+          "PSYC20A"
         ],
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -770,7 +810,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ]
       ]
     },
@@ -782,11 +822,11 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and PSYC 20 or PSYC 105 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior cognitive science or psychology majors.",
       "prereqGroups": [
         [
-          "PSYCH100"
+          "PSYC100"
         ],
         [
-          "PSYCH20",
-          "PSYCH105"
+          "PSYC20",
+          "PSYC105"
         ]
       ]
     },
@@ -798,8 +838,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Entry Level Writing and Composition requirements, and PSYC 20 , and PSYC 100 . Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS",
-          "PSYC20",
+          "PSYC20"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -812,8 +853,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -825,8 +865,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -850,8 +889,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -887,9 +925,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , or SOCY 3A . Enrollment is restricted to junior and senior psychology and sociology majors.",
       "prereqGroups": [
         [
-          "PSYC100"
-        ],
-        [
+          "PSYC100",
           "SOCY3A"
         ]
       ]
@@ -914,15 +950,8 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and PSYC 100 , or SOCY 103B, or FMST 100 . Enrollment restricted to junior and senior psychology, sociology, feminist studies, and community studies majors.",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS",
-          "PSYC100"
-        ],
-        [
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS",
-          "SOCY103B"
-        ],
-        [
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS",
+          "PSYC100",
+          "SOCY103B",
           "FMST100"
         ]
       ]
@@ -1116,27 +1145,6 @@
       "prereqGroups": [
         [
           "PSYC100"
-        ],
-        [
-          "ANTHROPOLOGY"
-        ],
-        [
-          "COMMUNITYSTUDIES"
-        ],
-        [
-          "ECONOMICS"
-        ],
-        [
-          "LEGALSTUDIES"
-        ],
-        [
-          "POLITICS"
-        ],
-        [
-          "SOCIOLOGY"
-        ],
-        [
-          "FEMINISTSTUDIES"
         ]
       ]
     },
@@ -1156,8 +1164,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1169,8 +1176,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1182,8 +1188,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology, cognitive studies, and feminist studies majors, or by permission of instructor.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1195,7 +1200,6 @@
       "rawRequirements": "Requirements Prerequisite(s): Entry Level Writing and Composition requirements; and PSYC 100 . Enrollment is restricted to senior psychology or cognitive science majors.",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS",
           "PSYC100"
         ]
       ]
@@ -1208,8 +1212,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior cognitive science and psychology majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1221,8 +1224,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1234,8 +1236,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1255,8 +1256,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology or cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1268,8 +1268,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1281,7 +1280,6 @@
       "rawRequirements": "Requirements Prequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and PSYC 100 . Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS",
           "PSYC100"
         ]
       ]
@@ -1294,8 +1292,7 @@
       "rawRequirements": "Requirements Prequisite(s): PSYC 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1391,7 +1388,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 10 and PSYC 100 . PSYC 170 strongly recommended.",
       "prereqGroups": [
         [
-          "PSYC10",
+          "PSYC10"
+        ],
+        [
           "PSYC100"
         ]
       ]
@@ -1440,7 +1439,6 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and PSYC 100 . Enrollment is restricted to senior psychology and cognitive science majors.",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS",
           "PSYC100"
         ]
       ]
@@ -1453,8 +1451,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior cognitive science and psychology majors.",
       "prereqGroups": [
         [
-          "PSYC100",
-          "ENTRYLEVELWRITINGANDCOMPOSITIONREQUIREMENTS"
+          "PSYC100"
         ]
       ]
     },
@@ -1794,7 +1791,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PSYC 225A and PSYC 225B . Enrollment is restricted to developmental psychology graduate students or by permission of the instructor.",
       "prereqGroups": [
         [
-          "PSYC225A",
+          "PSYC225A"
+        ],
+        [
           "PSYC225B"
         ]
       ]

@@ -52,7 +52,9 @@
       "rawRequirements": "Requirements Prerequisite(s): HCI 200 and HCI 201 ; or by permission of instructor. Enrollment is restricted to human computer interaction graduate students.",
       "prereqGroups": [
         [
-          "HCI200",
+          "HCI200"
+        ],
+        [
           "HCI201"
         ]
       ]
@@ -73,13 +75,13 @@
       "rawRequirements": "Requirements Prerequisite(s): HCI 200 , HCI 201 , and either HCI 202A or HCI 202B . Enrollment is restricted to human computer interaction graduate students.",
       "prereqGroups": [
         [
-          "HCI200",
-          "HCI201",
-          "HCI202A"
+          "HCI200"
         ],
         [
-          "HCI200",
-          "HCI201",
+          "HCI201"
+        ],
+        [
+          "HCI202A",
           "HCI202B"
         ]
       ]

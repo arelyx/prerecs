@@ -10,14 +10,7 @@
       "description": "Introduction to statistical methods/reasoning, including descriptive methods, data-gathering (experimental design and sample surveys), probability, interval estimation, significance tests, one- and two-sample problems, categorical data analysis, correlation and regression. Emphasis on applications to the natural and social sciences. Students cannot receive credit for this course if they have already received credit for STAT 7 or STAT 17 .",
       "credits": "5",
       "rawRequirements": "Requirements Students cannot enroll in STAT 5 after receiving a C or better in STAT 7 or STAT 17 .",
-      "prereqGroups": [
-        [
-          "STAT7"
-        ],
-        [
-          "STAT17"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "STAT7",
@@ -147,10 +140,8 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 131 or CSE 107 .",
       "prereqGroups": [
         [
+          "CSE107",
           "STAT131"
-        ],
-        [
-          "CSE107"
         ]
       ]
     },
@@ -186,9 +177,7 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 108 or STAT 208 , or permission of instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "STAT108"
-        ],
-        [
+          "STAT108",
           "STAT208"
         ]
       ]
@@ -217,10 +206,10 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 203 ; or STAT 131 and STAT 132 . Enrollment is restricted to graduate students; undergraduates may enroll by permission of the instructor if they've completed STAT 131 and STAT 132 (subject to instructor verification).",
       "prereqGroups": [
         [
+          "STAT131",
           "STAT203"
         ],
         [
-          "STAT131",
           "STAT132"
         ]
       ]
@@ -233,7 +222,11 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 203 . Enrollment is restricted to graduate students. Undergraduates may enroll by permission ( STAT 131 and 132 have to be verified by the instructor directly with the student).",
       "prereqGroups": [
         [
+          "STAT131",
           "STAT203"
+        ],
+        [
+          "STAT132"
         ]
       ]
     },
@@ -245,9 +238,7 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 131 or STAT 203 , or by permission of the instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "STAT131"
-        ],
-        [
+          "STAT131",
           "STAT203"
         ]
       ]
@@ -260,7 +251,11 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 203 . Enrollment is restricted to graduate students. Undergraduates may enroll by permission ( STAT 131 and 132 have to be verified by the instructor directly with the student).",
       "prereqGroups": [
         [
+          "STAT131",
           "STAT203"
+        ],
+        [
+          "STAT132"
         ]
       ]
     },
@@ -284,9 +279,7 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 205 or STAT 205B . Enrollment is restricted to graduate students. Undergraduate students may enroll by permission of the instructor if they've completed STAT 205 or STAT 205B (needs to be verified by instructor).",
       "prereqGroups": [
         [
-          "STAT205"
-        ],
-        [
+          "STAT205",
           "STAT205B"
         ]
       ]
@@ -300,10 +293,9 @@
       "prereqGroups": [
         [
           "STAT205",
-          "STAT206B"
+          "STAT205B"
         ],
         [
-          "STAT205B",
           "STAT206B"
         ]
       ]
@@ -316,9 +308,7 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 205 or STAT 208 or by permission of instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "STAT205"
-        ],
-        [
+          "STAT205",
           "STAT208"
         ]
       ]
@@ -355,9 +345,7 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 206B or STAT 207 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "STAT206B"
-        ],
-        [
+          "STAT206B",
           "STAT207"
         ]
       ]
@@ -371,15 +359,8 @@
       "prereqGroups": [
         [
           "STAT205",
-          "STAT208"
-        ],
-        [
           "STAT205B",
           "STAT208"
-        ],
-        [
-          "STAT205",
-          "STAT205B"
         ]
       ]
     },
@@ -403,11 +384,11 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 205 and STAT 206B ; or STAT 205B . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "STAT205",
-          "STAT206B"
+          "STAT205"
         ],
         [
-          "STAT205B"
+          "STAT205B",
+          "STAT206B"
         ]
       ]
     },
@@ -431,7 +412,12 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 205 ; or STAT 131 and STAT 132 . Enrollment is restricted to graduate students, undergraduates may enroll by permission of the instructor if they've completed STAT 131 and STAT 132 (subject to instructor verification).",
       "prereqGroups": [
         [
-          "STAT131",
+          "STAT205"
+        ],
+        [
+          "STAT131"
+        ],
+        [
           "STAT132"
         ]
       ]
@@ -444,6 +430,10 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 203 or equivalent; and STAT 206 or STAT 206B ; or permission of the instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
+          "STAT203"
+        ],
+        [
+          "STAT206",
           "STAT206B"
         ]
       ]
@@ -476,6 +466,7 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 266A or CSE 266A.",
       "prereqGroups": [
         [
+          "STAT266A",
           "CSE266A"
         ]
       ]
@@ -488,6 +479,7 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 266A or CSE 266A.",
       "prereqGroups": [
         [
+          "STAT266A",
           "CSE266A"
         ]
       ]

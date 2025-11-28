@@ -224,6 +224,7 @@
           "PHIL9"
         ],
         [
+          "BME80G",
           "PHIL11",
           "PHIL22",
           "PHIL23",
@@ -247,6 +248,7 @@
           "PHIL9"
         ],
         [
+          "BME80G",
           "PHIL11",
           "PHIL22",
           "PHIL23",
@@ -270,6 +272,7 @@
           "PHIL9"
         ],
         [
+          "BME80G",
           "PHIL11",
           "PHIL22",
           "PHIL23",
@@ -292,6 +295,7 @@
           "PHIL9"
         ],
         [
+          "BME80G",
           "PHIL11",
           "PHIL22",
           "PHIL23",
@@ -1174,13 +1178,7 @@
       "description": "Looks at philosophical issues raised by current research on the nature of perception, cognition, and consciousness in psychology and cognitive science or neuroscience. Can there be a science of the mind? Could machines be conscious? Do animals have minds? How did the mind evolve? These and a host of related questions form the subject matter of this course.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): One course in philosophy, psychology, or linguistics. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "PHIL",
-          "PSYCH",
-          "LING"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "PHIL237",

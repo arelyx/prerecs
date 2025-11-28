@@ -170,14 +170,7 @@
       "description": "Feminist games including intersectional feminist games, transfeminist games and queer feminist games, will be created by students in this course. Students will study the existing history and present of these genres of games, including game mods, personal experience games, narrative games, alternate reality, augmented reality and electronic literature. Students will work individually to create games as art and activism building on critical theories of race, gender, sexuality and algorithms.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to Art & Design: Games + Playable Media declared majors, and Feminist Studies majors and minors who have taken FMST 1 .",
-      "prereqGroups": [
-        [
-          "ARTG"
-        ],
-        [
-          "FMST1"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ARTG139",
@@ -311,7 +304,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CMPM 120 and CMPM 80K.",
       "prereqGroups": [
         [
-          "CMPM120",
+          "CMPM120"
+        ],
+        [
           "CMPM80K"
         ]
       ]

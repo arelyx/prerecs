@@ -104,8 +104,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -118,8 +122,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; BIOL 20A , BIOE 20B , and BIOE 20C .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -132,9 +140,17 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; BIOL 20A , BIOE 20B , and BIOE 20C ; BIOE 107 or BIOE 140 recommended. Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
+        ],
+        [
+          "BIOE107",
+          "BIOE140"
         ]
       ]
     },
@@ -146,15 +162,16 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , BIOE 20C , and BIOE 106 or BIOL 105 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
-          "BIOE106"
+          "BIOL20A"
         ],
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C"
+        ],
+        [
+          "BIOE106",
           "BIOL105"
         ]
       ]
@@ -168,13 +185,6 @@
       "prereqGroups": [
         [
           "BIOE107",
-          "BIOE109"
-        ],
-        [
-          "BIOE107",
-          "BIOE140"
-        ],
-        [
           "BIOE109",
           "BIOE140"
         ]
@@ -189,13 +199,6 @@
       "prereqGroups": [
         [
           "BIOE107",
-          "BIOE109"
-        ],
-        [
-          "BIOE107",
-          "BIOE140"
-        ],
-        [
           "BIOE109",
           "BIOE140"
         ]
@@ -210,13 +213,6 @@
       "prereqGroups": [
         [
           "BIOE107",
-          "BIOE109"
-        ],
-        [
-          "BIOE107",
-          "BIOE140"
-        ],
-        [
           "BIOE109",
           "BIOE140"
         ]
@@ -231,13 +227,6 @@
       "prereqGroups": [
         [
           "BIOE107",
-          "BIOE109"
-        ],
-        [
-          "BIOE107",
-          "BIOE140"
-        ],
-        [
           "BIOE109",
           "BIOE140"
         ]
@@ -251,8 +240,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements. Must be taken concurrently with BIOE 117L .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -265,8 +258,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C . Must be taken concurrently with BIOE 117 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -279,8 +276,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C ; or ENVS 23 and ENVS 24 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ],
         [
@@ -297,8 +298,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements. Must be taken concurrently with BIOE 120L .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -311,8 +316,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements. Must be taken concurrently with BIOE 120 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -325,8 +334,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C . Enrollment is restricted to sophomores, juniors and seniors.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -339,8 +352,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C and satisfaction of the Entry Level Writing and Composition requirements. Must be taken concurrently with BIOE 122L .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -353,8 +370,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements. Must be taken concurrently with BIOE 122 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -367,8 +388,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C . Concurrent enrollment in BIOE 124L is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -381,8 +406,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C . Concurrent enrollment in BIOE 124 is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -407,7 +436,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOE 20B and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements.",
       "prereqGroups": [
         [
-          "BIOE20B",
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -420,8 +451,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements. Must be taken concurrently with BIOE 127L .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -434,8 +469,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements. Must be taken concurrently with BIOE 127 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -456,8 +495,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C ; and satisfaction of the Entry Level Writing and Composition requirements. BIOL 110 is recommended.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -470,8 +513,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C . Must be taken concurrently with BIOE 129 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -484,8 +531,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -498,8 +549,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C . Concurrent enrollment in BIOE 131 is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -512,8 +567,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B and BIOE 20C . BIOE 131 is recommended. Concurrent enrollment in BIOE 133L is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -526,8 +585,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , and BIOE 20B and BIOE 20C . BIOE 131 is recommended. Concurrent enrollment in BIOE 133 is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -540,8 +603,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C . Concurrent enrollment in BIOE 134L is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -554,8 +621,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C . Concurrent enrollment in BIOE 134 is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -568,8 +639,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C ; concurrent enrollment in BIOE 135L is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -582,8 +657,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C ; concurrent enrollment in BIOE 135 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -596,8 +675,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B and BIOE 20C .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -610,15 +693,16 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , BIOE 20C , and BIOE 106 or BIOL105, and satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in BIOE 137L is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
-          "BIOE106"
+          "BIOL20A"
         ],
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C"
+        ],
+        [
+          "BIOE106",
           "BIOL105"
         ]
       ]
@@ -631,15 +715,16 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , BIOE 20C , and BIOE 106 or BIOL105. Concurrent enrollment in BIOE 137 is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
-          "BIOE106"
+          "BIOL20A"
         ],
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C"
+        ],
+        [
+          "BIOE106",
           "BIOL105"
         ]
       ]
@@ -668,8 +753,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -682,12 +771,8 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOE 107 or BIOE 140 or BIOE 110; and satisfaction of the Entry Level Writing and Composition requirements.",
       "prereqGroups": [
         [
-          "BIOE107"
-        ],
-        [
-          "BIOE140"
-        ],
-        [
+          "BIOE107",
+          "BIOE140",
           "BIOE110"
         ]
       ]
@@ -700,8 +785,12 @@
       "rawRequirements": "Requirements Prerequisites: BIOL 20A , BIOE 20B , and BIOE 20C . Students may benefit from taking BIOE 142L after or concurrently with BIOE 107 or BIOE 140 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -714,11 +803,13 @@
       "rawRequirements": "Requirements Prerequisite(s): Either [ BIOL 20A , BIOE 20B , and BIOE 20C ], or ENVS 100 ; and satisfaction of the Entry Level Writing and Composition requirements. BIOE 107 is recommended.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C"
+          "BIOL20A"
         ],
         [
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C",
           "ENVS100"
         ]
       ]
@@ -731,8 +822,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in BIOE 145 is required. BIOE 107 is recommended.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -745,8 +840,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , and BIOE 20B , and BIOE 20C . PHYS 6A / PHYS 6L or PHYS 7A / PHYS 6L or PHYS 1 recommended.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -759,16 +858,17 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOE 107 , BIOE 108 , BIOE 145 , BIOE 155 or 159A; or ENVS 24 by permission of instructor.",
       "prereqGroups": [
         [
-          "BIOE107",
-          "BIOE108",
-          "BIOE145",
-          "BIOE155"
+          "BIOE107"
         ],
         [
-          "BIOE107",
-          "BIOE108",
-          "BIOE145",
-          "BIOE159A"
+          "BIOE108"
+        ],
+        [
+          "BIOE145"
+        ],
+        [
+          "BIOE155",
+          "ENVS24"
         ]
       ]
     },
@@ -780,9 +880,15 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , and BIOE 20B and BIOE 20C and BIOE 107 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C"
+        ],
+        [
           "BIOE107"
         ]
       ]
@@ -795,8 +901,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in BIOE 150L is required. BIOE 107 , BIOE 108 , BIOE 140 , or BIOE 147 recommended.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -809,8 +919,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C , and satisfaction of the Entry Level Writing and Composition requirements. Concurrent enrollment in BIOE 150 is required. BIOE 107 , BIOE 108 , BIOE 140 , or BIOE 147 recommended.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -879,8 +993,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -893,9 +1011,15 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , BIOE 20C and BIOE 155 .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C"
+        ],
+        [
           "BIOE155"
         ]
       ]
@@ -908,8 +1032,12 @@
       "rawRequirements": "Requirements Prerequisite(s): equivalent of UCSC's BIOL 20A , BIOE 20B , and BIOE 20C ; satisfaction of the Entry Level Writing and Composition requirements.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -922,8 +1050,12 @@
       "rawRequirements": "Requirements Prerequisite(s): equivalent of UCSC's BIOL 20A , BIOE 20B , and BIOE 20C ; satisfaction of the Entry Level Writing and Composition requirements.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -936,9 +1068,7 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOE 107 or BIOE 108 ; satisfaction of the Entry Level Writing and Composition requirements.",
       "prereqGroups": [
         [
-          "BIOE107"
-        ],
-        [
+          "BIOE107",
           "BIOE108"
         ]
       ]
@@ -1015,8 +1145,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C . Concurrent enrollment in BIOE 163L is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -1029,8 +1163,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C . Concurrent enrollment in BIOE 163 is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -1043,8 +1181,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , and BIOE 20C ; OCEA 101 recommended.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -1057,8 +1199,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and BIOL 20A , BIOE 20B , and BIOE 20C .",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
+          "BIOL20A"
+        ],
+        [
+          "BIOE20B"
+        ],
+        [
           "BIOE20C"
         ]
       ]
@@ -1071,15 +1217,16 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , BIOE 20C , and BIOE 106 or BIOL 105 , and satisfaction of the Entry Level Writing and Composition requirements.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
-          "BIOE106"
+          "BIOL20A"
         ],
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C"
+        ],
+        [
+          "BIOE106",
           "BIOL105"
         ]
       ]
@@ -1092,15 +1239,16 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , BIOE 20C , and BIOE 106 or BIOL 105 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
-          "BIOE106"
+          "BIOL20A"
         ],
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C"
+        ],
+        [
+          "BIOE106",
           "BIOL105"
         ]
       ]
@@ -1113,17 +1261,19 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , BIOE 20C , and BIOE 106 or BIOL 105 , and BIOE 109 , and satisfaction of the Entry Level Writing and Composition requirements.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
-          "BIOE106",
-          "BIOE109"
+          "BIOL20A"
         ],
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
-          "BIOL105",
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C"
+        ],
+        [
+          "BIOE106",
+          "BIOL105"
+        ],
+        [
           "BIOE109"
         ]
       ]
@@ -1136,15 +1286,16 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , BIOE 20B , BIOE 20C , and BIOE 106 or BIOL 105 . Enrollment is restricted to sophomores, juniors, seniors, and graduate students.",
       "prereqGroups": [
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
-          "BIOE106"
+          "BIOL20A"
         ],
         [
-          "BIOL20A",
-          "BIOE20B",
-          "BIOE20C",
+          "BIOE20B"
+        ],
+        [
+          "BIOE20C"
+        ],
+        [
+          "BIOE106",
           "BIOL105"
         ]
       ]
@@ -1157,9 +1308,7 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOE 107 or BIOE 109 , or by permission of the instructor.",
       "prereqGroups": [
         [
-          "BIOE107"
-        ],
-        [
+          "BIOE107",
           "BIOE109"
         ]
       ]
@@ -1188,12 +1337,8 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and BIOE 107 , BIOE 108 , or BIOE109; and an undergraduate research contract on file with the department.",
       "prereqGroups": [
         [
-          "BIOE107"
-        ],
-        [
-          "BIOE108"
-        ],
-        [
+          "BIOE107",
+          "BIOE108",
           "BIOE109"
         ]
       ]
@@ -1350,9 +1495,7 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOE 107 or ENVS 24 or permission of instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "BIOE107"
-        ],
-        [
+          "BIOE107",
           "ENVS24"
         ]
       ]
@@ -1731,12 +1874,7 @@
       "description": "A rigorous examination and practice of the skills involved in writing articles about science, health, technology, and the environment for the general public. Covers the essential elements of news writing and explanatory journalism, including developing a story idea, interviewing scientists, fact checking, composition, and editing of multiple drafts about scientific research.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and C1, C2 requirements. Enrollment is restricted to junior and senior physical and biological sciences majors.",
-      "prereqGroups": [
-        [
-          "C1",
-          "C2"
-        ]
-      ]
+      "prereqGroups": []
     }
   ]
 }

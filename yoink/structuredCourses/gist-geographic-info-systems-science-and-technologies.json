@@ -12,8 +12,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ENVS 215A and ENVS 215B and ENVS 215C . Enrollment is restricted to GIST graduate students.",
       "prereqGroups": [
         [
-          "ENVS215A",
-          "ENVS215B",
+          "ENVS215A"
+        ],
+        [
+          "ENVS215B"
+        ],
+        [
           "ENVS215C"
         ]
       ]

@@ -32,7 +32,9 @@
       "rawRequirements": "Requirements Prerequisite(s): NLP 201 and NLP 202 .",
       "prereqGroups": [
         [
-          "NLP201",
+          "NLP201"
+        ],
+        [
           "NLP202"
         ]
       ]
@@ -74,7 +76,9 @@
       "rawRequirements": "Requirements Requirements Prerequisite(s): NLP 201 and NLP 243 or CSE 244B . Enrollment is restricted to natural language processing graduate students and computer science and engineering doctoral students, or by permission of instructor.",
       "prereqGroups": [
         [
-          "NLP201",
+          "NLP201"
+        ],
+        [
           "NLP243",
           "CSE244B"
         ]
@@ -96,9 +100,14 @@
       "rawRequirements": "Requirements Prerequisite(s): NLP 201 and NLP 243 or CSE 244B . Concurrent or previous enrollment in NLP 202 . Enrollment is restricted to natural language processing graduate students and computer science and engineering Ph.D. students, or by permission of the instructor.",
       "prereqGroups": [
         [
-          "NLP201",
+          "NLP201"
+        ],
+        [
           "NLP243",
           "CSE244B"
+        ],
+        [
+          "NLP202"
         ]
       ]
     },
@@ -118,7 +127,9 @@
       "rawRequirements": "Requirements Prerequisite(s): NLP 201 and NLP 220 . Enrollment is restricted to natural language processing graduate students.",
       "prereqGroups": [
         [
-          "NLP201",
+          "NLP201"
+        ],
+        [
           "NLP220"
         ]
       ]
@@ -131,7 +142,9 @@
       "rawRequirements": "Requirements Prerequisite(s): NLP 202 and NLP 271A . Enrollment is restricted to natural language processing graduate students.",
       "prereqGroups": [
         [
-          "NLP202",
+          "NLP202"
+        ],
+        [
           "NLP271A"
         ]
       ]

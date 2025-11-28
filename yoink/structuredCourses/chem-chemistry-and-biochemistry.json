@@ -12,8 +12,8 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in MATH 3 , AM 3 , or equivalent, or a mathematics placement score of 300 or higher. Enrollment is restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
-          "MATH3",
-          "AM3"
+          "AM3",
+          "MATH3"
         ]
       ]
     },
@@ -61,11 +61,7 @@
       "description": "The first course in UCSC's three-quarter introductory chemistry series. Topics in this quarter include atomic theory and structure, the periodic table, chemical bonding, molecules and their structure, intramolecular forces, and chemical reactions and stoichiometry.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in MATH 2 or higher, or a math placement (MP) score of 200 or higher. Students cannot enroll in CHEM 3A after receiving a 'C' or better in CHEM 1B.",
-      "prereqGroups": [
-        [
-          "MATH2"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "CHEM3B",
@@ -78,11 +74,8 @@
           "CHEM3A"
         ],
         [
-          "CHEM3BL",
-          "CHEM1M"
-        ],
-        [
-          "MATH3"
+          "CHEM1M",
+          "CHEM3BL"
         ]
       ]
     },
@@ -97,8 +90,8 @@
           "CHEM3A"
         ],
         [
-          "CHEM3B",
-          "CHEM1A"
+          "CHEM1A",
+          "CHEM3B"
         ]
       ]
     },
@@ -113,8 +106,8 @@
           "CHEM3B"
         ],
         [
-          "CHEM3CL",
-          "CHEM1M"
+          "CHEM1M",
+          "CHEM3CL"
         ]
       ]
     },
@@ -126,12 +119,14 @@
       "rawRequirements": "Requirements Prerequisite(s): completion of CHEM 3A and CHEM 3B ; prior or concurrent enrollment in CHEM 3C or CHEM 1C .",
       "prereqGroups": [
         [
-          "CHEM3A",
+          "CHEM3A"
+        ],
+        [
           "CHEM3B"
         ],
         [
-          "CHEM3C",
-          "CHEM1C"
+          "CHEM1C",
+          "CHEM3C"
         ]
       ]
     },
@@ -143,7 +138,7 @@
       "rawRequirements": "Requirements Prerequisite(s): Completion of CHEM 4 Prep ALEKS module (find module link in lass Notes section of CHEM 4A in the schedule of classes). Previous or concurrent enrollment in MATH 3 (or equivalent/higher) or a math placement score of 300 or higher. Concurrent enrollment in CHEM 4AL . Strong high-school-level chemistry is highly recommended. Students who have a C or better in CHEM 3A are not allowed to enroll in CHEM 4A .",
       "prereqGroups": [
         [
-          "MATH3"
+          "CHEM4AL"
         ]
       ]
     },
@@ -168,6 +163,9 @@
       "prereqGroups": [
         [
           "CHEM4A"
+        ],
+        [
+          "CHEM4BL"
         ]
       ]
     },
@@ -191,9 +189,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CHEM 3C , or CHEM 4B , or CHEM 1C and either CHEM 1B, CHEM 3A , or CHEM 4A",
       "prereqGroups": [
         [
+          "CHEM1C",
           "CHEM3C",
-          "CHEM4B",
-          "CHEM1C"
+          "CHEM4B"
         ],
         [
           "CHEM1B",
@@ -244,8 +242,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CHEM 8A and CHEM 8L and previous or concurrent enrollment in CHEM 8B is required.",
       "prereqGroups": [
         [
-          "CHEM8A",
-          "CHEM8L",
+          "CHEM8A"
+        ],
+        [
+          "CHEM8L"
+        ],
+        [
           "CHEM8B"
         ]
       ]
@@ -326,7 +328,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CHEM 8M and previous or concurrent enrollment in CHEM 110 .",
       "prereqGroups": [
         [
-          "CHEM8M",
+          "CHEM8M"
+        ],
+        [
           "CHEM110"
         ]
       ]
@@ -530,12 +534,8 @@
           "CHEM8L"
         ],
         [
-          "BIOC100A"
-        ],
-        [
-          "BIOL100"
-        ],
-        [
+          "BIOC100A",
+          "BIOL100",
           "CHEM103"
         ]
       ]
@@ -578,12 +578,8 @@
           "CHEM8M"
         ],
         [
-          "BIOL100"
-        ],
-        [
-          "BIOC100A"
-        ],
-        [
+          "BIOL100",
+          "BIOC100A",
           "CHEM103"
         ]
       ]
@@ -620,30 +616,20 @@
       "rawRequirements": "Requirements Prerequisite(s): CHEM 3C or CHEM 4B or CHEM 1C ; and PHYS 5B or PHYS 6B ; and previous or concurrent enrollment in PHYS 5C or PHYS 6C ; and MATH 22 or MATH 23. MATH 22 or MATH 23B is waived for declared Biochemistry & Molecular Biology students.",
       "prereqGroups": [
         [
-          "CHEM3C"
-        ],
-        [
-          "CHEM4B"
-        ],
-        [
+          "CHEM3C",
+          "CHEM4B",
           "CHEM1C"
         ],
         [
-          "PHYS5B"
-        ],
-        [
+          "PHYS5B",
           "PHYS6B"
         ],
         [
-          "PHYS5C"
-        ],
-        [
+          "PHYS5C",
           "PHYS6C"
         ],
         [
-          "MATH22"
-        ],
-        [
+          "MATH22",
           "MATH23"
         ]
       ]
@@ -656,27 +642,17 @@
       "rawRequirements": "Requirements Prerequisite(s): CHEM 1C , CHEM 3C , or CHEM 4B ; and PHYS 6A or PHYS 5A ; and either MATH 22 , MATH 23B , or AM 30 .",
       "prereqGroups": [
         [
-          "CHEM1C"
-        ],
-        [
-          "CHEM3C"
-        ],
-        [
+          "CHEM1C",
+          "CHEM3C",
           "CHEM4B"
         ],
         [
-          "PHYS6A"
-        ],
-        [
+          "PHYS6A",
           "PHYS5A"
         ],
         [
-          "MATH22"
-        ],
-        [
-          "MATH23B"
-        ],
-        [
+          "MATH22",
+          "MATH23B",
           "AM30"
         ]
       ]
@@ -689,15 +665,11 @@
       "rawRequirements": "Requirements Prerequisite(s): CHEM 163A and CHEM 163B , or BIOC 163A and BIOC 163B .",
       "prereqGroups": [
         [
-          "CHEM163A"
-        ],
-        [
-          "CHEM163B"
-        ],
-        [
+          "CHEM163A",
           "BIOC163A"
         ],
         [
+          "CHEM163B",
           "BIOC163B"
         ]
       ]
@@ -710,39 +682,25 @@
       "rawRequirements": "Requirements Prerequisite(s): CHEM 1C , CHEM 3C , or CHEM 4B ; and PHYS 5A and PHYS 5B and PHYS 5C , or PHYS 6A and PHYS 6B and PHYS 6C ; and MATH 22 or MATH 23B or AM 30 . CHEM 163A is recommended.",
       "prereqGroups": [
         [
-          "CHEM1C"
-        ],
-        [
-          "CHEM3C"
-        ],
-        [
+          "CHEM1C",
+          "CHEM3C",
           "CHEM4B"
         ],
         [
-          "PHYS5A"
-        ],
-        [
-          "PHYS5B"
-        ],
-        [
-          "PHYS5C"
-        ],
-        [
+          "PHYS5A",
           "PHYS6A"
         ],
         [
+          "PHYS5B",
           "PHYS6B"
         ],
         [
+          "PHYS5C",
           "PHYS6C"
         ],
         [
-          "MATH22"
-        ],
-        [
-          "MATH23B"
-        ],
-        [
+          "MATH22",
+          "MATH23B",
           "AM30"
         ]
       ]
@@ -755,9 +713,7 @@
       "rawRequirements": "Requirements Prerequisite(s): CHEM 103 or BIOC 100A .",
       "prereqGroups": [
         [
-          "CHEM103"
-        ],
-        [
+          "CHEM103",
           "BIOC100A"
         ]
       ]
@@ -773,12 +729,8 @@
           "CHEM8B"
         ],
         [
-          "CHEM103"
-        ],
-        [
-          "BIOC100A"
-        ],
-        [
+          "CHEM103",
+          "BIOC100A",
           "BIOL100"
         ]
       ]
@@ -895,9 +847,15 @@
       "rawRequirements": "Requirements Prerequisite(s): CHEM 151A , CHEM 151L , CHEM 163A , and BIOC 100A ; or graduate students.",
       "prereqGroups": [
         [
-          "CHEM151A",
-          "CHEM151L",
-          "CHEM163A",
+          "CHEM151A"
+        ],
+        [
+          "CHEM151L"
+        ],
+        [
+          "CHEM163A"
+        ],
+        [
           "BIOC100A"
         ]
       ]
@@ -916,7 +874,11 @@
       "description": "Covers molecular structure and bonding, strain, and non-covalent binding forces. Other topics include acid-base chemistry, kinetics, thermodynamics, catalysis, organic reactions and mechanism, and quantum mechanical approaches to the analysis of organic molecules.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to seniors who have taken CHEM 143 , and graduate students.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "CHEM143"
+        ]
+      ]
     },
     {
       "id": "CHEM242B",
@@ -924,7 +886,11 @@
       "description": "Presents concepts in bond formation, conformation, selectivity, and stereocontrol in modern organic synthesis. Focuses on understanding reaction mechanisms. Culminates with strategy in designing multi-step synthesis of complex targets.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to seniors who have taken CHEM 143 , and graduate students.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "CHEM143"
+        ]
+      ]
     },
     {
       "id": "CHEM242C",
@@ -932,7 +898,11 @@
       "description": "Presents strategies in organic structure elucidation, including nuclear magnetic resonance (NMR) and mass spectrometry. Provides theory and practical elements of structure elucidation and modern analytical methods for organic molecules.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to seniors who have taken CHEM 143 , and graduate students.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "CHEM143"
+        ]
+      ]
     },
     {
       "id": "CHEM244",
@@ -956,7 +926,17 @@
       "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A , CHEM 151L , and CHEM 146B .",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "CHEM151A"
+        ],
+        [
+          "CHEM151L"
+        ],
+        [
+          "CHEM146B"
+        ]
+      ]
     },
     {
       "id": "CHEM256B",
@@ -964,7 +944,17 @@
       "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A , CHEM 151L , and CHEM 146B .",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "CHEM151A"
+        ],
+        [
+          "CHEM151L"
+        ],
+        [
+          "CHEM146B"
+        ]
+      ]
     },
     {
       "id": "CHEM256C",
@@ -972,7 +962,17 @@
       "description": "Advanced topics in inorganic chemistry are presented. Topics covered vary from year to year, and are announced in advance. Possible topics include A) organometallic chemistry; B) structural methods in inorganic chemistry; C) solid-state chemistry.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students or previous enrollment in CHEM 151A , CHEM 151L , and CHEM 146B .",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "CHEM151A"
+        ],
+        [
+          "CHEM151L"
+        ],
+        [
+          "CHEM146B"
+        ]
+      ]
     },
     {
       "id": "CHEM256D",
@@ -982,8 +982,12 @@
       "rawRequirements": "Requirements Enrollment is restricted to graduate students and seniors who have taken CHEM 151A , CHEM 151L , and CHEM 163A .",
       "prereqGroups": [
         [
-          "CHEM151A",
-          "CHEM151L",
+          "CHEM151A"
+        ],
+        [
+          "CHEM151L"
+        ],
+        [
           "CHEM163A"
         ]
       ]
@@ -1020,8 +1024,12 @@
       "rawRequirements": "Requirements Enrollment is restricted to chemistry graduate students or previous enrollment in CHEM 163A , PHYS 116A , and PHYS 116C .",
       "prereqGroups": [
         [
-          "CHEM163A",
-          "PHYS116A",
+          "CHEM163A"
+        ],
+        [
+          "PHYS116A"
+        ],
+        [
           "PHYS116C"
         ]
       ]
@@ -1055,7 +1063,9 @@
       "rawRequirements": "Requirements Enrollment is restricted to chemistry graduate students or students previously enrolled in CHEM 163A and CHEM 163B .",
       "prereqGroups": [
         [
-          "CHEM163A",
+          "CHEM163A"
+        ],
+        [
           "CHEM163B"
         ]
       ]

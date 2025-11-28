@@ -104,12 +104,7 @@
       "description": "Laboratory sequence illustrating topics covered in PHYS 5A and PHYS 15A . One three-hour laboratory session per week.",
       "credits": "1",
       "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in PHYS 5A or PHYS 15A is required.",
-      "prereqGroups": [
-        [
-          "PHYS5A",
-          "PHYS15A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "PHYS5M",
@@ -199,12 +194,7 @@
       "description": "Laboratory sequence illustrating topics covered in PHYS 6A . One two-hour laboratory session per week.",
       "credits": "1",
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in PHYS 6A or PHYS 7A is required.",
-      "prereqGroups": [
-        [
-          "PHYS6A",
-          "PHYS7A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "PHYS6M",
@@ -212,11 +202,7 @@
       "description": "Laboratory sequence illustrating topics covered in PHYS 6B . One two-hour laboratory session per week.",
       "credits": "1",
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in Phys 6B.",
-      "prereqGroups": [
-        [
-          "PHYS6B"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "PHYS6N",
@@ -224,11 +210,7 @@
       "description": "Laboratory sequence illustrating topics covered in PHYS 6C . One two-hour laboratory session per week.",
       "credits": "1",
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in PHYS 6C .",
-      "prereqGroups": [
-        [
-          "PHYS6C"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "PHYS7A",
@@ -269,11 +251,7 @@
       "description": "Laboratory sequence illustrating topics covered in PHYS 7A. One three-hour laboratory session per week.",
       "credits": "1",
       "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in PHYS 7A is required.",
-      "prereqGroups": [
-        [
-          "PHYS7A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "PHYS11",
@@ -346,8 +324,7 @@
       "prereqGroups": [
         [
           "PHYS5A",
-          "PHYS6A",
-          "PHYS7A"
+          "PHYS6A"
         ],
         [
           "PHYS5L",
@@ -382,14 +359,18 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L ; and PHYS 116A or MATH 21 plus MATH 24 or AM 10 plus AM 20 ; and ASTR 119 or CSE 20 . Concurrent enrollment in PHYS 116C or MATH 107 is required.",
       "prereqGroups": [
         [
-          "PHYS5A",
+          "PHYS5A"
+        ],
+        [
           "PHYS5L"
         ],
         [
           "PHYS116A",
           "MATH21",
+          "AM10"
+        ],
+        [
           "MATH24",
-          "AM10",
           "AM20"
         ],
         [
@@ -410,7 +391,9 @@
         ],
         [
           "PHYS116A",
-          "MATH21",
+          "MATH21"
+        ],
+        [
           "MATH24"
         ],
         [
@@ -458,20 +441,20 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 102 and PHYS 105 ; and PHYS 116A or MATH 21 and MATH 24 ; and PHYS 116C or MATH 107 , or equivalent. Basic programming experience in Python or similar language.",
       "prereqGroups": [
         [
-          "PHYS102",
+          "PHYS102"
+        ],
+        [
           "PHYS105"
         ],
         [
-          "PHYS116A"
+          "PHYS116A",
+          "MATH21"
         ],
         [
-          "MATH21",
           "MATH24"
         ],
         [
-          "PHYS116C"
-        ],
-        [
+          "PHYS116C",
           "MATH107"
         ]
       ]
@@ -496,14 +479,16 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 116A or MATH 21 and MATH 24 ; and MATH 23A and MATH 23B .",
       "prereqGroups": [
         [
-          "PHYS116A"
+          "PHYS116A",
+          "MATH21"
         ],
         [
-          "MATH21",
           "MATH24"
         ],
         [
-          "MATH23A",
+          "MATH23A"
+        ],
+        [
           "MATH23B"
         ]
       ]
@@ -516,10 +501,10 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 116A or MATH 21 and MATH 24 ; and PHYS 116C .",
       "prereqGroups": [
         [
-          "PHYS116A"
+          "PHYS116A",
+          "MATH21"
         ],
         [
-          "MATH21",
           "MATH24"
         ],
         [
@@ -547,14 +532,16 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 5D , PHYS 102 , and MATH 23B ; and PHYS 116A or MATH 21 . Students with equivalent coursework may contact instructor for permission to enroll.",
       "prereqGroups": [
         [
-          "PHYS5D",
-          "PHYS102",
+          "PHYS5D"
+        ],
+        [
+          "PHYS102"
+        ],
+        [
           "MATH23B"
         ],
         [
-          "PHYS116A"
-        ],
-        [
+          "PHYS116A",
           "MATH21"
         ]
       ]
@@ -573,12 +560,8 @@
           "PHYS133"
         ],
         [
-          "ASTR19"
-        ],
-        [
-          "ASTR119"
-        ],
-        [
+          "ASTR19",
+          "ASTR119",
           "CSE20"
         ]
       ]
@@ -591,19 +574,15 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5D and one from CSE 5J , or CSE 14, or CSE 20 , or ASTR 119 , or by permission of the instructor. Enrollment is restricted to physics, applied physics, physics (astrophysics), and science education majors and physics minors.",
       "prereqGroups": [
         [
-          "PHYS5C",
+          "PHYS5C"
+        ],
+        [
           "PHYS5D"
         ],
         [
-          "CSE5J"
-        ],
-        [
-          "CSE14"
-        ],
-        [
-          "CSE20"
-        ],
-        [
+          "CSE5J",
+          "CSE14",
+          "CSE20",
           "ASTR119"
         ]
       ]
@@ -625,9 +604,6 @@
       "prereqGroups": [
         [
           "PHYS133"
-        ],
-        [
-          "PHYS135A"
         ]
       ]
     },
@@ -663,6 +639,10 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 102 or ECE 102 ; and PHYS 133 or by permission of instructor.",
       "prereqGroups": [
         [
+          "PHYS102",
+          "ECE102"
+        ],
+        [
           "PHYS133"
         ]
       ]
@@ -675,7 +655,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 102 and PHYS 133 , or permission of the instructor. Enrollment is restricted to physics B.S. majors.",
       "prereqGroups": [
         [
-          "PHYS102",
+          "PHYS102"
+        ],
+        [
           "PHYS133"
         ]
       ]
@@ -691,16 +673,14 @@
           "PHYS102"
         ],
         [
-          "PHYS116A"
+          "PHYS116A",
+          "MATH21"
         ],
         [
-          "MATH21",
           "MATH24"
         ],
         [
-          "PHYS116C"
-        ],
-        [
+          "PHYS116C",
           "MATH107"
         ]
       ]
@@ -716,16 +696,14 @@
           "PHYS102"
         ],
         [
-          "PHYS116A"
+          "PHYS116A",
+          "MATH21"
         ],
         [
-          "MATH21",
           "MATH24"
         ],
         [
-          "PHYS116C"
-        ],
-        [
+          "PHYS116C",
           "MATH107"
         ],
         [
@@ -741,12 +719,8 @@
       "rawRequirements": "Requirements PHYS 116A or MATH 21 or AM 10 . Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "PHYS116A"
-        ],
-        [
-          "MATH21"
-        ],
-        [
+          "PHYS116A",
+          "MATH21",
           "AM10"
         ]
       ]
@@ -762,12 +736,8 @@
           "PHYS105"
         ],
         [
-          "CSE20"
-        ],
-        [
-          "ASTR119"
-        ],
-        [
+          "CSE20",
+          "ASTR119",
           "PHYS115"
         ]
       ]
@@ -780,9 +750,7 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 102 or CHEM 163A .",
       "prereqGroups": [
         [
-          "PHYS102"
-        ],
-        [
+          "PHYS102",
           "CHEM163A"
         ]
       ]
@@ -795,7 +763,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 112 and PHYS 139A ; students with equivalent coursework may contact instructor for permission to enroll.",
       "prereqGroups": [
         [
-          "PHYS112",
+          "PHYS112"
+        ],
+        [
           "PHYS139A"
         ]
       ]
@@ -808,11 +778,13 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N .",
       "prereqGroups": [
         [
-          "PHYS5C",
-          "PHYS5N"
+          "PHYS5C"
         ],
         [
-          "PHYS6C",
+          "PHYS5N",
+          "PHYS6C"
+        ],
+        [
           "PHYS6N"
         ]
       ]
@@ -825,15 +797,19 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 105 , PHYS 110A , and PHYS 110B ; and PHYS 116A or MATH 21 and MATH 24 .",
       "prereqGroups": [
         [
-          "PHYS105",
-          "PHYS110A",
+          "PHYS105"
+        ],
+        [
+          "PHYS110A"
+        ],
+        [
           "PHYS110B"
         ],
         [
-          "PHYS116A"
+          "PHYS116A",
+          "MATH21"
         ],
         [
-          "MATH21",
           "MATH24"
         ]
       ]
@@ -987,9 +963,6 @@
       "prereqGroups": [
         [
           "PHYS216"
-        ],
-        [
-          "PHYS216"
         ]
       ]
     },
@@ -1025,7 +998,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 216 and PHYS 219 . Enrollment is restricted to graduate students only, except by permission of instructor.",
       "prereqGroups": [
         [
-          "PHYS216",
+          "PHYS216"
+        ],
+        [
           "PHYS219"
         ]
       ]
@@ -1050,7 +1025,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 221A ; PHYS 217 or concurrent enrollment. Enrollment is restricted to graduate students only, except by permission of instructor.",
       "prereqGroups": [
         [
-          "PHYS221A",
+          "PHYS221A"
+        ],
+        [
           "PHYS217"
         ]
       ]
@@ -1063,7 +1040,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 218 and PHYS 221B . Enrollment is restricted to graduate students only, except by permission of instructor.",
       "prereqGroups": [
         [
-          "PHYS218",
+          "PHYS218"
+        ],
+        [
           "PHYS221B"
         ]
       ]
@@ -1128,7 +1107,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 219 and PHYS 232 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "PHYS219",
+          "PHYS219"
+        ],
+        [
           "PHYS232"
         ]
       ]
@@ -1165,9 +1146,15 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 210 , PHYS 215 , PHYS 216 , PHYS 219 or equivalents; exceptions are possible by permission of instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "PHYS210",
-          "PHYS215",
-          "PHYS216",
+          "PHYS210"
+        ],
+        [
+          "PHYS215"
+        ],
+        [
+          "PHYS216"
+        ],
+        [
           "PHYS219"
         ]
       ]
@@ -1332,15 +1319,9 @@
       "rawRequirements": "Requirements Prerequisite(s): AM 112 or MATH 107 or PHYS 116C or EART 111.",
       "prereqGroups": [
         [
-          "AM112"
-        ],
-        [
-          "MATH107"
-        ],
-        [
-          "PHYS116C"
-        ],
-        [
+          "AM112",
+          "MATH107",
+          "PHYS116C",
           "EART111"
         ]
       ]

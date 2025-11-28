@@ -42,11 +42,7 @@
       "description": "Introduces the study of politics through an analysis of the United States political system and processes. Topics vary, but may include political institutions, public policies, parties and electoral politics, and social forces.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "AmericanHistoryandInstitutions"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI21",
@@ -134,11 +130,7 @@
       "description": "Explores tensions between reason and revelation, justice and democracy, and freedom and empire through close readings of ancient texts. Emphasis on Athens, with Hebrew, Roman, and Christian departures and interventions. Includes Sophocles, Thucydides, Socrates, Plato, Aristotle, Stoics, the Bible, and Augustine.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "EntryLevelWritingandCompositionrequirements"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI105B",
@@ -146,11 +138,7 @@
       "description": "Studies republican and liberal traditions of political thought and politics. Authors studied include Hobbes, Locke, and Rousseau. Examination of issues such as authorship, individuality, gender, state, and cultural difference.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "EntryLevelWritingandCompositionrequirements"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI105C",
@@ -158,11 +146,7 @@
       "description": "Studies in 19th- and early 20th-century theory, centering on the themes of capitalism, labor, alienation, culture, freedom, and morality. Authors studied include J. S. Mill, Marx, Nietzsche, Foucault, Hegel, Fanon, and Weber.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "EntryLevelWritingandCompositionrequirements"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI105D",
@@ -170,11 +154,7 @@
       "description": "Examines the condition of modernity as it is understood, dwelled upon, and critiqued by political theorists since the second half of the 20th century. Explores how the modern condition was viewed by Euro-American thinkers, who saw themselves as its originators and heirs, as well as Chinese, Indian, Arab, and African thinkers for whom European modernity was an inescapable, if not an insurmountable, imposition to be engaged, transformed, and critiqued. (Formerly Late-20th Century Political Thought.)",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "EntryLevelWritingandCompositionrequirements"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI106",
@@ -214,11 +194,7 @@
       "description": "An introduction to constitutional law, emphasizing equal protection and fundamental rights as defined by common law decisions interpreting the 14th Amendment, and also exploring issues of federalism and separation of powers. Readings are primarily court decisions; special attention given to teaching how to interpret, understand, and write about common law.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "EntryLevelWritingandCompositionrequirements"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI115",
@@ -250,11 +226,7 @@
       "description": "Study of political development, behavior, performance, and significance of central governmental institutions of the U.S. Emphasizes the historical development of each branch and their relationship to each other, including changes in relative power and constitutional responsibilities.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "AmericanHistoryandInstitutions"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI120B",
@@ -262,11 +234,7 @@
       "description": "Examines the role of social forces in the development of the American democratic processes and in the changing relationship between citizen and state. Course materials address the ideas, the social tensions, and the economic pressures bearing on social movements, interest groups, and political parties.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "AmericanHistoryandInstitutions"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI120C",
@@ -274,11 +242,7 @@
       "description": "Examines the relationship between state and economy in the U.S. from the 1880s to the present, and provides a theoretical and historical introduction to the study of politics and markets. Focus is on moments of crisis and choice in U.S. political economy, with an emphasis on the rise of regulation, the development of the welfare state, and changes in employment policies.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "AmericanHistoryandInstitutions"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI121",
@@ -358,12 +322,7 @@
       "description": "Explores the political and economic systems of advanced industrialized societies. In addition to specific comparisons between the countries of western Europe and the United States, covers important themes and challenges, including immigration, globalization, and the crisis of the welfare state.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI140C",
@@ -371,12 +330,7 @@
       "description": "Overview of major approaches to the study of Latin American politics. Introductory survey of historical and contemporary democratic populist, authoritarian, and revolutionary regimes. Special attention is given to region's recent transitions toward democratic rule, market-based economic models, and decentralized governance. Evaluates institutional arrangements (including presidentialism, electoral rules and party systems), as well as a variety of social movements and strategies of resistance among subaltern social groups and classes.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI140D",
@@ -384,12 +338,7 @@
       "description": "Explores the political development of East Asia's primary democracies: Japan, South Korea, and Taiwan. Examines the historical origins of these states, the process through which they emerged from authoritarian roots, and topics such as protest, corruption, and women's political roles.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI140E",
@@ -397,12 +346,7 @@
       "description": "Covers different aspects of the evolution of the contemporary Arab nationalist state. The Arab world has weathered a series of revolutions, military coups, civil wars and liberalization attempts during the past six decades. Before the 2010-2011 uprisings, the region was mistakenly labeled as the home of \"failed\" and \"rogue\" states and understood to be the only region in which genuine democratic change was absent. Course shows that popular legitimacy and political ambitions have not always been lacking in the region, focusing primarily on Egypt, Syria, Tunisia and Algeria to emphasize the changes and continuities in the multiple constructions of state power in the Arab world since decolonization. Students cannot receive credit for this course and POLI 152.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level and Composition requirements.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVEL",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI141",
@@ -498,12 +442,7 @@
       "description": "Examination of analytical perspectives on international and world politics, international and global political economy, war and conflict, corporations and civil society. Explores theoretical tools and applications, recurring patterns of global conflict and cooperation, the nexus between domestic politics, foreign policy and international and world politics. This is not a current events course.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI160B",
@@ -511,12 +450,7 @@
       "description": "Origins and development of international law: international law is examined both as a reflection of the present world order and as a basis for transformation. Topics include state and non-state actors and sovereignty, treaties, the use of force, and human rights.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI160C",
@@ -524,12 +458,7 @@
       "description": "Genesis and theories of conflict and war and their avoidance (past, present, future). Relationship between foreign policy and intra- and interstate conflict and violence. National security and the security dilemma. Non-violent conflict as a normal part of politics; violent conflict as anti-political; transformation of conflict into social and interstate violence. Interrelationships among conduct of war, attainment of political objectives, and the end of hostilities. Civil and ethnic wars. Political economy of violence and war.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI160D",
@@ -537,12 +466,7 @@
       "description": "Explores the power dynamics, institutions, and ideas that shape the global capitalist system. Examines how states, markets, and transnational actors interact to structure trade, finance, development and globalizationâand who wins or loses in the process. The course combines classic theoretical approaches with contemporary debates on globalization, inequality, economic crises, and strategic competition. Topics include the history of global capitalism, the rise of neoliberalism, trade wars, and the politics of financial instability. While no background in economics is required, students unfamiliar with basic economic concepts may need to suppleInternational Political Economy.)",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI161",
@@ -864,11 +788,7 @@
       "description": "Examination of selected issues, controversies, and theories relevant to security between and among nations. Topics vary, but may include: war, peace, nuclear proliferation, arms control, military and foreign policies, alternative conceptions of security.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to senior politics and Latin American and Latino studies/politics combined majors .",
-      "prereqGroups": [
-        [
-          "POLI"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "POLI193",
@@ -1342,7 +1262,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Environmental Studies students, previous or concurrent enrollment in courses ENVS 100 and ENVS 100L, or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -1355,7 +1277,9 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in courses ENVS 100 and ENVS 100L, or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]

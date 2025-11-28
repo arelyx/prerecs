@@ -98,12 +98,7 @@
       "description": "Analyzes systems of incarceration in the U.S. and explores movements to abolish those systems and to envision alternative modes of justice. Themes include, but are not limited to, the role that mass incarceration plays in contemporary society, histories of resistance, political prisoners, racial justice, and the intellectual, creative, and political interventions of incarcerated people. Students engage in collaborative projects throughout the class, and learn effective strategies for group work and interpersonal communication. (Formerly offered as Prison Narratives.)",
       "credits": "3",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
-      "prereqGroups": [
-        [
-          "WRIT2",
-          "WRIT1"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "KRSG60F",

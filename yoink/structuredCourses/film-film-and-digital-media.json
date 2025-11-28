@@ -169,9 +169,7 @@
       "rawRequirements": "Requirements Prerequisite(s): FILM 20A or FILM 20B ; and satisfaction of the Entry Level Writing and Composition requirements.",
       "prereqGroups": [
         [
-          "FILM20A"
-        ],
-        [
+          "FILM20A",
           "FILM20B"
         ]
       ]
@@ -663,12 +661,8 @@
       "rawRequirements": "Requirements Prerequisite(s): FILM 20A , FILM 20B , or FILM 20C . Enrollment is restricted to sophomore and junior film and digital media majors.",
       "prereqGroups": [
         [
-          "FILM20A"
-        ],
-        [
-          "FILM20B"
-        ],
-        [
+          "FILM20A",
+          "FILM20B",
           "FILM20C"
         ]
       ]
@@ -716,9 +710,7 @@
           "FILM132C"
         ],
         [
-          "FILM134A"
-        ],
-        [
+          "FILM134A",
           "FILM134B"
         ]
       ]
@@ -816,6 +808,11 @@
       "prereqGroups": [
         [
           "FILM120"
+        ],
+        [
+          "FILM130",
+          "FILM134A",
+          "FILM134B"
         ]
       ]
     },
@@ -828,6 +825,11 @@
       "prereqGroups": [
         [
           "FILM120"
+        ],
+        [
+          "FILM132A",
+          "FILM132B",
+          "FILM132C"
         ]
       ]
     },
@@ -903,12 +905,8 @@
       "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements; and FILM 150 , THEA 157 , or THEA 159 . Enrollment is restricted to senior film and digital media majors.",
       "prereqGroups": [
         [
-          "FILM150"
-        ],
-        [
-          "THEA157"
-        ],
-        [
+          "FILM150",
+          "THEA157",
           "THEA159"
         ]
       ]
@@ -1099,13 +1097,7 @@
       "description": "Students learn the technical and critical skills required for fieldwork-based ethnographic video and audio media production. The course is structured around cumulatively building filmmaking skills with an emphasis on critically informed nonfiction ethnographic observation.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment restricted to film and digital media, anthropology, or social documentation graduate students.",
-      "prereqGroups": [
-        [
-          "FILM",
-          "ANTH",
-          "SSDC"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "FILM234",
@@ -1137,11 +1129,7 @@
       "description": "Develops fluency in the languages of critical practice as expressed across media. Integrates critical and analytical writing about objects and experiences created by and through electronic and digital media with ongoing, student-driven critiques of audiovisual scholarship.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to film and digital media graduate students. Graduate students from other programs may enroll by permission of the instructor.",
-      "prereqGroups": [
-        [
-          "FILM"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "FILM238",

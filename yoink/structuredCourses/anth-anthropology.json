@@ -52,8 +52,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -66,9 +70,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , or BIOE 20C , or by instructor permission.",
       "prereqGroups": [
         [
-          "ANTH1"
-        ],
-        [
+          "ANTH1",
           "BIOE20C"
         ]
       ]
@@ -765,9 +767,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 2 or GCH 1 ; ANTH 2 strongly recommended.",
       "prereqGroups": [
         [
-          "ANTH2"
-        ],
-        [
+          "ANTH2",
           "GCH1"
         ]
       ]
@@ -889,9 +889,6 @@
       "prereqGroups": [
         [
           "ANTH2"
-        ],
-        [
-          "ANTH"
         ]
       ]
     },
@@ -983,11 +980,7 @@
       "description": "Prepares students to conduct ethnographic research. Through workshops and fieldwork exercises, students learn how to use immersive, sensory observation and regular writing practice to develop a research question and design a research project, practice ethnographic methods (which may include archival research), write up their findings in a synthetic essay, and present their research findings to an audience. The course covers topics such as ethics, reflexivity, accountability, bias, and positionality. Students create a portfolio of their work across the five weeks.",
       "credits": "6",
       "rawRequirements": "Requirements Prerequisite(s): Must be taken concurrently with ANTH 161S . Requirements for the FSFS London program include concurrent enrollment in both ANTH 151s and ANTH 161s. Students are only admitted to the program and the two courses through formal application to and acceptance into the FSFS program by Global Engagement.",
-      "prereqGroups": [
-        [
-          "ANTH161S"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ANTH152",
@@ -1009,7 +1002,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 2 and ANTH 134 .",
       "prereqGroups": [
         [
-          "ANTH2",
+          "ANTH2"
+        ],
+        [
           "ANTH134"
         ]
       ]
@@ -1440,8 +1435,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 . Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1454,8 +1453,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1468,8 +1471,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1482,8 +1489,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements; enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1496,8 +1507,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology and Earth sciences/Anthropology combined majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1510,8 +1525,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1532,8 +1551,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1546,12 +1569,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , ANTH 3 and an upper division course in archaeology; satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ARCHAEOLOGY"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -1563,9 +1587,15 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , ANTH 3 , and ANTH 134 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
+        ],
+        [
           "ANTH134"
         ]
       ]
@@ -1578,8 +1608,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1592,8 +1626,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1614,8 +1652,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1628,8 +1670,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1642,8 +1688,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1656,8 +1706,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1678,8 +1732,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors and Earth sciences and anthropology combined majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1692,8 +1750,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1706,8 +1768,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1720,12 +1786,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; an upper-division archaeology course; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology and earth sciences/anthropology combined majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ARCHAEOLOGY"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -1737,8 +1804,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements; enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1791,8 +1862,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1805,8 +1880,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 .",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1819,8 +1898,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1833,12 +1916,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH1"
         ],
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1851,12 +1934,12 @@
       "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH1"
         ],
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1869,12 +1952,12 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1 , ANTH 2 , and ANTH 3 . Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH1"
         ],
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -1887,13 +1970,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -1905,13 +1988,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -1923,13 +2006,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -1941,13 +2024,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 and satisfaction of the Entry Level Writing and Composition requirements. Course 178 is strongly recommended. Enrollment is restricted to senior anthropology and Earth sciences/Anthropology combined majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -1959,13 +2042,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -1985,13 +2068,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -2003,13 +2086,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2, and ANTH 3 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior Anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -2021,13 +2104,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -2047,13 +2130,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , and ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -2065,13 +2148,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirement. Enrollment is restricted to senior anthropology and Earth sciences/Anthropology combined majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -2083,13 +2166,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology and Earth sciences/Anthropology combined majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -2101,13 +2184,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -2119,13 +2202,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 . Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior Anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },
@@ -2137,13 +2220,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ANTH 1 , ANTH 2 , and ANTH 3 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
-          "ANTH3"
+          "ANTH1"
         ],
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
+          "ANTH2"
+        ],
+        [
+          "ANTH3"
         ]
       ]
     },

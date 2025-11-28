@@ -28,9 +28,7 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A or ESCI 30 .",
       "prereqGroups": [
         [
-          "BIOL20A"
-        ],
-        [
+          "BIOL20A",
           "ESCI30"
         ]
       ]
@@ -43,13 +41,13 @@
       "rawRequirements": "Requirements Prerequisites: Satisfaction of Entry Level Writing and Composition requirements; and one course from the following: BIOL 20L , or BIOL 101L , or BIOL 102L ; and previous or concurrent enrollment in METX 100 or METX 119 . First pass enrollment is restricted to declared Microbiology majors. Second pass enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology, and Neuroscience majors; Other majors may enroll by permission of the instructor. Students cannot enroll in METX 119L after receiving credit with a 'C' or better in BIOL 100L , BIOL 103L , BIOL 105L , BIOL 106L , BIOL 108L , BIOL 109L , BIOL 115L , BIOL 120L , BIOL 121L , BIOL 129L , and BIOL 186L .",
       "prereqGroups": [
         [
-          "BIOL20L"
-        ],
-        [
-          "BIOL101L"
-        ],
-        [
+          "BIOL20L",
+          "BIOL101L",
           "BIOL102L"
+        ],
+        [
+          "METX100",
+          "METX119"
         ]
       ]
     },
@@ -69,7 +67,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B or equivalent; BIOL 100 and BIOC 110 recommended. Enrollment restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "BIOL20A",
+          "BIOL20A"
+        ],
+        [
           "BIOE20B"
         ]
       ]
@@ -102,12 +102,8 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A or ENVS 23 or BIOL 89.",
       "prereqGroups": [
         [
-          "BIOL20A"
-        ],
-        [
-          "ENVS23"
-        ],
-        [
+          "BIOL20A",
+          "ENVS23",
           "BIOL89"
         ]
       ]
@@ -120,15 +116,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOC 100A or BIOL 101 or BIOL 100 or CHEM 103 .",
       "prereqGroups": [
         [
-          "BIOC100A"
-        ],
-        [
-          "BIOL101"
-        ],
-        [
-          "BIOL100"
-        ],
-        [
+          "BIOC100A",
+          "BIOL101",
+          "BIOL100",
           "CHEM103"
         ]
       ]
@@ -161,7 +151,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B . Concurrent enrollment in METX 135L is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
+          "METX135L"
+        ],
+        [
+          "BIOL20A"
+        ],
+        [
           "BIOE20B"
         ]
       ]
@@ -182,7 +177,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B . Concurrent enrollment in METX 135 is required.",
       "prereqGroups": [
         [
-          "BIOL20A",
+          "METX135"
+        ],
+        [
+          "BIOL20A"
+        ],
+        [
           "BIOE20B"
         ]
       ]
@@ -195,9 +195,7 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 100 or BIOC 100A .",
       "prereqGroups": [
         [
-          "BIOL100"
-        ],
-        [
+          "BIOL100",
           "BIOC100A"
         ]
       ]
@@ -352,9 +350,7 @@
       "rawRequirements": "Requirements Prerequisite(s): METX 206A or METX 119 , or by permission of the instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "METX206A"
-        ],
-        [
+          "METX206A",
           "METX119"
         ]
       ]

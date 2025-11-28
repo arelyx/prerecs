@@ -82,9 +82,7 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 19A ; or MATH 11A by consent of instructor. High school physics recommended. Enrollment is restricted to bioengineering and biomolecular engineering & bioinformatics majors and proposed majors; other majors by consent.",
       "prereqGroups": [
         [
-          "MATH19A"
-        ],
-        [
+          "MATH19A",
           "MATH11A"
         ]
       ]
@@ -189,18 +187,10 @@
       "rawRequirements": "Requirements Prerequisite(s): BME 105 , or BIOL 100 , or BIOL 105 , or BIOC 100A , or CHEM 103 , or bioinformatics majors, or biomolecular engineering and bioinformatics majors.",
       "prereqGroups": [
         [
-          "BME105"
-        ],
-        [
-          "BIOL100"
-        ],
-        [
-          "BIOL105"
-        ],
-        [
-          "BIOC100A"
-        ],
-        [
+          "BME105",
+          "BIOL100",
+          "BIOL105",
+          "BIOC100A",
           "CHEM103"
         ]
       ]
@@ -213,12 +203,20 @@
       "rawRequirements": "Requirements Prerequisites: either MATH 19A and MATH 19B , or MATH 20A and MATH 20B ; and MATH 21 ; and CSE 20 ; or by permission of the instructor.",
       "prereqGroups": [
         [
-          "MATH19A",
-          "MATH19B"
+          "MATH19A"
         ],
         [
-          "MATH20A",
+          "MATH19B",
+          "MATH20A"
+        ],
+        [
           "MATH20B"
+        ],
+        [
+          "MATH21"
+        ],
+        [
+          "CSE20"
         ]
       ]
     },
@@ -239,10 +237,6 @@
       "prereqGroups": [
         [
           "BME22L"
-        ],
-        [
-          "BME122H",
-          "BME130"
         ]
       ]
     },
@@ -303,11 +297,6 @@
           "BIOC100A",
           "CHEM103",
           "BME101"
-        ],
-        [
-          "BME185",
-          "CSE185E",
-          "CSE185S"
         ]
       ]
     },
@@ -319,9 +308,7 @@
       "rawRequirements": "Requirements Prerequisite(s): BME 129A or BME 150. Enrollment is restricted to senior bioengineering or biomolecular engineering and bioinformatics majors.",
       "prereqGroups": [
         [
-          "BME129A"
-        ],
-        [
+          "BME129A",
           "BME150"
         ]
       ]
@@ -334,9 +321,7 @@
       "rawRequirements": "Requirements Prerequisite(s): BME 129B or BME 230A . Enrollment is restricted to senior bioengineering or biomolecular engineering and bioinformatics majors.",
       "prereqGroups": [
         [
-          "BME129B"
-        ],
-        [
+          "BME129B",
           "BME230A"
         ]
       ]
@@ -377,20 +362,16 @@
       "rawRequirements": "Requirements Prerequisite(s): BME 5 ; or BME 51A and BME 51B ; or EE 101 and EE 101L; or BIOL 100 ; or BIOC 100A .",
       "prereqGroups": [
         [
-          "BME5"
+          "BME5",
+          "BME51A"
         ],
         [
-          "BME51A",
-          "BME51B"
+          "BME51B",
+          "EE101"
         ],
         [
-          "EE101",
-          "EE101L"
-        ],
-        [
-          "BIOL100"
-        ],
-        [
+          "EE101L",
+          "BIOL100",
           "BIOC100A"
         ]
       ]
@@ -416,12 +397,8 @@
       "rawRequirements": "Requirements Prerequisite(s): BME 160 or BME 205 or CSE 20 . Prerequisites can be waived in cases where students have the required programming skills, or who have passed the CSE 20 test-out exam. See CSE 20 Testout Exam (https://undergrad.engineering.ucsc.edu/advising/policies-forms-petitions/cse/) for resources and further information. Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "BME160"
-        ],
-        [
-          "BME205"
-        ],
-        [
+          "BME160",
+          "BME205",
           "CSE20"
         ]
       ]
@@ -469,18 +446,10 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 110 or BME 101 or BIOC 100A or BIOL 100 or CHEM 103 ; BIOL 115 recommended.",
       "prereqGroups": [
         [
-          "BIOL110"
-        ],
-        [
-          "BME101"
-        ],
-        [
-          "BIOC100A"
-        ],
-        [
-          "BIOL100"
-        ],
-        [
+          "BIOL110",
+          "BME101",
+          "BIOC100A",
+          "BIOL100",
           "CHEM103"
         ]
       ]
@@ -493,9 +462,7 @@
       "rawRequirements": "Requirements Prerequisite(s): previous or concurrent enrollment in BME 185 or CSE 185E . Enrollment is restricted to junior and senior bioengineering, biomolecular engineering and bioinformatics, and bioinformatics majors or by permission.",
       "prereqGroups": [
         [
-          "BME185"
-        ],
-        [
+          "BME185",
           "CSE185E"
         ]
       ]
@@ -624,10 +591,18 @@
       "rawRequirements": "Requirements Enrollment is restricted to graduate students. Undergraduates may enroll with prerequisite(s): BME 160 or CSE 30 ; and CSE 107 or STAT 131 ; and previous or concurrent enrollment in BIOC 100A or BME 101 or BIOL 100 or CHEM 103 .",
       "prereqGroups": [
         [
-          "BME160"
+          "BME160",
+          "CSE30"
         ],
         [
-          "CSE30"
+          "CSE107",
+          "STAT131"
+        ],
+        [
+          "BIOC100A",
+          "BME101",
+          "BIOL100",
+          "CHEM103"
         ]
       ]
     },

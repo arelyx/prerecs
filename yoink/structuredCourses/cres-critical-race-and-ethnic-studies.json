@@ -136,7 +136,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
-          "CRES10",
+          "CRES10"
+        ],
+        [
           "CRES100"
         ]
       ]
@@ -457,8 +459,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -471,8 +477,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -485,8 +495,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -499,8 +513,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -513,8 +531,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -527,8 +549,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -549,8 +575,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -563,8 +593,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -577,8 +611,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -591,7 +629,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 and CRES 100 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
+          "CRES10"
+        ],
+        [
           "CRES100"
         ]
       ]
@@ -604,8 +644,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 and CRES 101 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior CRES majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -618,8 +662,12 @@
       "rawRequirements": "Requirements Prerequisite(s): CRES 10 , CRES 100 , and CRES 101 ; and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior critical race and ethnic studies majors.",
       "prereqGroups": [
         [
-          "CRES10",
-          "CRES100",
+          "CRES10"
+        ],
+        [
+          "CRES100"
+        ],
+        [
           "CRES101"
         ]
       ]
@@ -784,8 +832,12 @@
       "rawRequirements": "Requirements Prerequisite(s): Satisfaction of the Entry Level Writing and Composition requirements; and ANTH 1, ANTH 2, and ANTH 3. Enrollment is restricted to senior anthropology majors.",
       "prereqGroups": [
         [
-          "ANTH1",
-          "ANTH2",
+          "ANTH1"
+        ],
+        [
+          "ANTH2"
+        ],
+        [
           "ANTH3"
         ]
       ]
@@ -830,7 +882,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -843,7 +897,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -856,7 +912,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -869,7 +927,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -882,7 +942,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1, FMST 100, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -895,7 +957,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]
@@ -908,7 +972,9 @@
       "rawRequirements": "Requirements Prerequisite(s): FMST 1 and FMST 100; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior feminist studies majors.",
       "prereqGroups": [
         [
-          "FMST1",
+          "FMST1"
+        ],
+        [
           "FMST100"
         ]
       ]

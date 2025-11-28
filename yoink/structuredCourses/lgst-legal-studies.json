@@ -330,11 +330,7 @@
       "description": "Examines related legal topics from an interdisciplinary perspective. Each focuses broadly on the relationship between law as a distinct system and law as an attempt to achieve justice, which requires that law remain open to claims of political morality generally. To what extent are legal norms internal to a separate system called law and to what extent are claims of political right in general relevant to question of what law is?",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior legal studies majors.",
-      "prereqGroups": [
-        [
-          "LGST196"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LGST198",
@@ -406,18 +402,7 @@
       "description": "Explores strategies artists use to engage political subject matter in the 21st century. Students create their own projects, research and test approaches, techniques and strategies learning from the ways national and international artists encode and convey information in creating political work. Methods range from community collaboration; to tactical culture jamming, participatory collaborative projects, activism and intervention, symbolic and gestural work, artist-led projects, performances and community projects.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): three courses from: ART 15, ART 20G, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
-      "prereqGroups": [
-        [
-          "ART15",
-          "ART20G",
-          "ART20H",
-          "ART20I",
-          "ART20J",
-          "ART20K",
-          "ART20L",
-          "ART26"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ECON128",
@@ -498,7 +483,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -511,7 +498,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]
@@ -524,7 +513,9 @@
       "rawRequirements": "Requirements Prerequisite(s): Previous or concurrent enrollment in ENVS 100 and ENVS 100L, or by permission of instructor.",
       "prereqGroups": [
         [
-          "ENVS100",
+          "ENVS100"
+        ],
+        [
           "ENVS100L"
         ]
       ]

@@ -88,7 +88,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; and AM 11B or ECON 11B or MATH 22 or MATH 23A or AM 30 .",
       "prereqGroups": [
         [
-          "ECON1",
+          "ECON1"
+        ],
+        [
           "ECON2"
         ],
         [
@@ -108,7 +110,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; and AM 11B or ECON 11B or MATH 22 or MATH 23A or AM 30 .",
       "prereqGroups": [
         [
-          "ECON1",
+          "ECON1"
+        ],
+        [
           "ECON2"
         ],
         [
@@ -128,7 +132,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; and AM 11B or ECON 11B or MATH 22 or MATH 23A .",
       "prereqGroups": [
         [
-          "ECON1",
+          "ECON1"
+        ],
+        [
           "ECON2"
         ],
         [
@@ -147,7 +153,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; and AM 11B or ECON 11B or MATH 22 or MATH 23A .",
       "prereqGroups": [
         [
-          "ECON1",
+          "ECON1"
+        ],
+        [
           "ECON2"
         ],
         [
@@ -274,11 +282,15 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 1 and ECON 2 ; STAT 17 and STAT 17L ; and one of the following: AM 11B or ECON 11B, or MATH 22 , or MATH 23A , or AM 30 . ECON 100A or ECON 100B strongly recommended as preparation.",
       "prereqGroups": [
         [
-          "ECON1",
+          "ECON1"
+        ],
+        [
           "ECON2"
         ],
         [
-          "STAT17",
+          "STAT17"
+        ],
+        [
           "STAT17L"
         ],
         [
@@ -327,7 +339,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 111A and ECON 111B . Enrollment is restricted to economics, business management economics, global economics, and the combined economics and environmental studies and mathematics majors.",
       "prereqGroups": [
         [
-          "ECON111A",
+          "ECON111A"
+        ],
+        [
           "ECON111B"
         ]
       ]
@@ -380,7 +394,9 @@
           "ECON1"
         ],
         [
-          "STAT17",
+          "STAT17"
+        ],
+        [
           "STAT17L"
         ]
       ]
@@ -416,9 +432,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 113 or ECON 216 . Enrollment is restricted to undergraduate majors in economics, business management economics, global economics, and economics combined programs and master's students in the quantitative economics and finance (formerly applied economics and finance) program.",
       "prereqGroups": [
         [
-          "ECON113"
-        ],
-        [
+          "ECON113",
           "ECON216"
         ]
       ]
@@ -446,10 +460,11 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 . Enrollment is restricted to economics, business management economics, global economics, legal studies, or economics combined majors.",
       "prereqGroups": [
         [
-          "ECON100A"
+          "ECON100A",
+          "ECON100M"
         ],
         [
-          "ECON100M"
+          "ECON113"
         ]
       ]
     },
@@ -461,10 +476,11 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100B or ECON 100N ; and ECON 113 .",
       "prereqGroups": [
         [
-          "ECON100B"
+          "ECON100B",
+          "ECON100N"
         ],
         [
-          "ECON100N"
+          "ECON113"
         ]
       ]
     },
@@ -476,10 +492,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 100B or ECON 100N .",
       "prereqGroups": [
         [
-          "ECON100A"
+          "ECON100A",
+          "ECON100M"
         ],
         [
-          "ECON100M"
+          "ECON100B",
+          "ECON100N"
         ]
       ]
     },
@@ -491,10 +509,11 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M , and ECON 113 .",
       "prereqGroups": [
         [
-          "ECON100A"
+          "ECON100A",
+          "ECON100M"
         ],
         [
-          "ECON100M"
+          "ECON113"
         ]
       ]
     },
@@ -507,6 +526,13 @@
       "prereqGroups": [
         [
           "ECON10A"
+        ],
+        [
+          "ECON100A",
+          "ECON100M"
+        ],
+        [
+          "ECON113"
         ]
       ]
     },
@@ -519,6 +545,10 @@
       "prereqGroups": [
         [
           "ECON10A"
+        ],
+        [
+          "ECON100A",
+          "ECON100M"
         ]
       ]
     },
@@ -530,9 +560,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M , or permission of instructor.",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -545,9 +573,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M , or permission of instructor.",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -560,9 +586,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 139A or ECON 161A .",
       "prereqGroups": [
         [
-          "ECON139A"
-        ],
-        [
+          "ECON139A",
           "ECON161A"
         ]
       ]
@@ -575,9 +599,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -590,9 +612,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100B or ECON 100N .",
       "prereqGroups": [
         [
-          "ECON100B"
-        ],
-        [
+          "ECON100B",
           "ECON100N"
         ]
       ]
@@ -605,10 +625,16 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements; and ECON 100A or ECON 100M ; and ECON 100B or ECON 100N ; and ECON 140 or ECON 141 .",
       "prereqGroups": [
         [
-          "ECON100A"
+          "ECON100A",
+          "ECON100M"
         ],
         [
-          "ECON100M"
+          "ECON100B",
+          "ECON100N"
+        ],
+        [
+          "ECON140",
+          "ECON141"
         ]
       ]
     },
@@ -620,9 +646,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -650,10 +674,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 100B or ECON 100N .",
       "prereqGroups": [
         [
-          "ECON100A"
+          "ECON100A",
+          "ECON100M"
         ],
         [
-          "ECON100M"
+          "ECON100B",
+          "ECON100N"
         ]
       ]
     },
@@ -665,10 +691,11 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 .",
       "prereqGroups": [
         [
-          "ECON100A"
+          "ECON100A",
+          "ECON100M"
         ],
         [
-          "ECON100M"
+          "ECON113"
         ]
       ]
     },
@@ -680,9 +707,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -695,9 +720,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -710,9 +733,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -725,9 +746,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -755,9 +774,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -770,10 +787,11 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 .",
       "prereqGroups": [
         [
-          "ECON100A"
+          "ECON100A",
+          "ECON100M"
         ],
         [
-          "ECON100M"
+          "ECON113"
         ]
       ]
     },
@@ -785,10 +803,11 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M .; and ECON 113 .",
       "prereqGroups": [
         [
-          "ECON100A"
+          "ECON100A",
+          "ECON100M"
         ],
         [
-          "ECON100M"
+          "ECON113"
         ]
       ]
     },
@@ -800,16 +819,18 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 5 , STAT 7 , STAT 17 or ECON 113 ; and AM 11B or ECON 11B, or MATH 11B , MATH 19B , STAT 131 or CSE 107 . Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "STAT5"
-        ],
-        [
-          "STAT7"
-        ],
-        [
-          "STAT17"
-        ],
-        [
+          "STAT5",
+          "STAT7",
+          "STAT17",
           "ECON113"
+        ],
+        [
+          "AM11B",
+          "ECON11B",
+          "MATH11B",
+          "MATH19B",
+          "STAT131",
+          "CSE107"
         ]
       ]
     },
@@ -821,9 +842,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 166A or CSE 166A; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "ECON166A"
-        ],
-        [
+          "ECON166A",
           "CSE166A"
         ]
       ]
@@ -836,9 +855,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M or permission of instructor.",
       "prereqGroups": [
         [
-          "ECON100A"
-        ],
-        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -851,10 +868,11 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 100A or ECON 100M ; and ECON 113 .",
       "prereqGroups": [
         [
-          "ECON100A"
+          "ECON100A",
+          "ECON100M"
         ],
         [
-          "ECON100M"
+          "ECON113"
         ]
       ]
     },
@@ -922,9 +940,6 @@
         [
           "ECON100A",
           "ECON100M"
-        ],
-        [
-          "ECON113"
         ]
       ]
     },
@@ -1021,10 +1036,6 @@
         ],
         [
           "ECON113"
-        ],
-        [
-          "ECON133",
-          "ECON135"
         ]
       ]
     },
@@ -1249,8 +1260,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 205A , ECON 205B , and ECON 205C , or by permission of instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "ECON205A",
-          "ECON205B",
+          "ECON205A"
+        ],
+        [
+          "ECON205B"
+        ],
+        [
           "ECON205C"
         ]
       ]
@@ -1275,8 +1290,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 204C , ECON 205C , ECON 211C . Enrollment is restricted to economics graduate students.",
       "prereqGroups": [
         [
-          "ECON204C",
-          "ECON205C",
+          "ECON204C"
+        ],
+        [
+          "ECON205C"
+        ],
+        [
           "ECON211C"
         ]
       ]
@@ -1297,12 +1316,16 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 211A , ECON 211B and ECON 211C , or ECON 216 and ECON 217 . Recommended prerequisites: M.S. QEFN students should have Aâs in the econometrics sequence and be comfortable with linear algebra. Experience with R, MATLAB, Python, or related programming language is very strongly recommended, as the course will not teach basic programming.",
       "prereqGroups": [
         [
-          "ECON211A",
-          "ECON211B",
-          "ECON211C"
+          "ECON211A"
         ],
         [
-          "ECON216",
+          "ECON211B"
+        ],
+        [
+          "ECON211C",
+          "ECON216"
+        ],
+        [
           "ECON217"
         ]
       ]
@@ -1411,8 +1434,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 204C , and ECON 205C , and ECON 211C . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "ECON204C",
-          "ECON205C",
+          "ECON204C"
+        ],
+        [
+          "ECON205C"
+        ],
+        [
           "ECON211C"
         ]
       ]
@@ -1425,8 +1452,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 204C , ECON 205C , and ECON 211C . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "ECON204C",
-          "ECON205C",
+          "ECON204C"
+        ],
+        [
+          "ECON205C"
+        ],
+        [
           "ECON211C"
         ]
       ]
@@ -1439,8 +1470,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 204C , ECON 205C , and ECON 211C . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "ECON204C",
-          "ECON205C",
+          "ECON204C"
+        ],
+        [
+          "ECON205C"
+        ],
+        [
           "ECON211C"
         ]
       ]
@@ -1489,7 +1524,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ECON 204C and ECON 211C . ECON 250A and ECON 250B are strongly recommended as preparation. Enrollment is restricted to economics Ph.D. students.",
       "prereqGroups": [
         [
-          "ECON204C",
+          "ECON204C"
+        ],
+        [
           "ECON211C"
         ]
       ]

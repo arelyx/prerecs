@@ -172,11 +172,11 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 5 or EART 10 or EART 20 or BIOE 20C , or ANTH 1 . Concurrent enrollment in EART 100L is required.",
       "prereqGroups": [
         [
+          "ANTH1",
+          "BIOE20C",
           "EART5",
           "EART10",
-          "EART20",
-          "BIOE20C",
-          "ANTH1"
+          "EART20"
         ]
       ]
     },
@@ -196,11 +196,11 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 5 or EART 10 or EART 20 or BIOE 20C or ANTH 1 . Concurrent enrollment in EART 101L is required.",
       "prereqGroups": [
         [
+          "ANTH1",
+          "BIOE20C",
           "EART5",
           "EART10",
-          "EART20",
-          "BIOE20C",
-          "ANTH1"
+          "EART20"
         ]
       ]
     },
@@ -220,10 +220,10 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements,and EART 5 or EART 10 or EART 20 or BIOE 20C .",
       "prereqGroups": [
         [
+          "BIOE20C",
           "EART5",
           "EART10",
-          "EART20",
-          "BIOE20C"
+          "EART20"
         ]
       ]
     },
@@ -235,14 +235,14 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements, and EART 10 and EART 10L ; or EART 5 and 5L; or EART 20 and EART 20L .",
       "prereqGroups": [
         [
-          "EART10",
-          "EART5",
-          "EART20"
+          "EART10"
         ],
         [
           "EART10L",
-          "EART5L",
-          "EART20L"
+          "EART5"
+        ],
+        [
+          "EART20"
         ]
       ]
     },
@@ -293,6 +293,11 @@
           "EART5",
           "EART10",
           "EART20"
+        ],
+        [
+          "EART5L",
+          "EART10L",
+          "EART20L"
         ]
       ]
     },
@@ -438,15 +443,17 @@
           "AM10"
         ],
         [
-          "MATH19A",
-          "MATH19B"
+          "MATH19A"
         ],
         [
-          "MATH11A",
-          "MATH11B"
+          "MATH19B",
+          "MATH11A"
         ],
         [
-          "AM15A",
+          "MATH11B",
+          "AM15A"
+        ],
+        [
           "AM15B"
         ]
       ]
@@ -469,11 +476,13 @@
           "AM15A"
         ],
         [
-          "PHYS6A",
-          "PHYS6L"
+          "PHYS6A"
         ],
         [
-          "PHYS5A",
+          "PHYS6L",
+          "PHYS5A"
+        ],
+        [
           "PHYS5L"
         ]
       ]
@@ -540,6 +549,9 @@
       "prereqGroups": [
         [
           "EART110A"
+        ],
+        [
+          "EART120L"
         ]
       ]
     },
@@ -667,6 +679,9 @@
       "prereqGroups": [
         [
           "EART110B"
+        ],
+        [
+          "EART130L"
         ]
       ]
     },
@@ -729,6 +744,9 @@
       "prereqGroups": [
         [
           "EART110A"
+        ],
+        [
+          "EART140L"
         ]
       ]
     },
@@ -771,27 +789,28 @@
       "rawRequirements": "Requirements Prereq(s): ELWR; and EART 5 , 10 or 20; and MATH 11A , 19A or 20A; and PHYS 6A /6L or PHYS 5A /5L; and CHEM 1A or CHEM 3B or CHEM 4B . Enrollment restricted to majors/minors in EART, EART/ANTH and EART/ENVS combined majors, and ESCI. Coreq: EART 146L .",
       "prereqGroups": [
         [
-          "EART5",
-          "EART10",
-          "EART20"
+          "EART5"
         ],
         [
-          "MATH11A",
-          "MATH19A",
-          "MATH20A"
+          "MATH11A"
         ],
         [
-          "PHYS6A",
-          "PHYS6L"
+          "PHYS6A"
         ],
         [
-          "PHYS5A",
+          "PHYS6L",
+          "PHYS5A"
+        ],
+        [
           "PHYS5L"
         ],
         [
           "CHEM1A",
           "CHEM3B",
           "CHEM4B"
+        ],
+        [
+          "EART146L"
         ]
       ]
     },
@@ -1037,7 +1056,9 @@
       "rawRequirements": "Requirements Prerequisite(s): EDUC 185C and EDUC 185L . Enrollment is restricted to Earth and planetary sciences majors with a concentration in science education.",
       "prereqGroups": [
         [
-          "EDUC185C",
+          "EDUC185C"
+        ],
+        [
           "EDUC185L"
         ]
       ]
@@ -1580,6 +1601,9 @@
         [
           "AM107",
           "AM217"
+        ],
+        [
+          "AM227"
         ]
       ]
     },

@@ -160,7 +160,9 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 105A and SOCY 105B . Enrollment is restricted to junior and senior majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
       "prereqGroups": [
         [
-          "SOCY105A",
+          "SOCY105A"
+        ],
+        [
           "SOCY105B"
         ]
       ]
@@ -173,11 +175,11 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 , or SOCY 10 or SOCY 15 or CRES 10 or LGST 10 ; or by permission of the instructor.",
       "prereqGroups": [
         [
+          "CRES10",
+          "LGST10",
           "SOCY1",
           "SOCY10",
-          "SOCY15",
-          "CRES10",
-          "LGST10"
+          "SOCY15"
         ]
       ]
     },
@@ -189,10 +191,10 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or LALS 1 . Enrollment restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
+          "LALS1",
           "SOCY1",
           "SOCY10",
-          "SOCY15",
-          "LALS1"
+          "SOCY15"
         ]
       ]
     },
@@ -204,9 +206,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 105A or SOCY 105B . Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "SOCY105A"
-        ],
-        [
+          "SOCY105A",
           "SOCY105B"
         ]
       ]
@@ -219,9 +219,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 105A or SOCY 105B , or by permission of the instructor.",
       "prereqGroups": [
         [
-          "SOCY105A"
-        ],
-        [
+          "SOCY105A",
           "SOCY105B"
         ]
       ]
@@ -250,7 +248,9 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 10 and SOCY 105B , or by permission of the instructor. Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "SOCY10",
+          "SOCY10"
+        ],
+        [
           "SOCY105B"
         ]
       ]
@@ -516,10 +516,10 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 , SOCY 10 , SOCY 15 , or PSYC 40 . Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
+          "PSYC40",
           "SOCY1",
           "SOCY10",
-          "SOCY15",
-          "PSYC40"
+          "SOCY15"
         ]
       ]
     },
@@ -529,13 +529,7 @@
       "description": "Familiarizes students with the major social welfare programs and policies in the U.S., exploring changes in conceptualizations of social welfare, and offering a critical perspective on the present-day welfare state.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): Two courses chosen from SOCY 1 , SOCY 10 , and SOCY 15 . Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
-      "prereqGroups": [
-        [
-          "SOCY1",
-          "SOCY10",
-          "SOCY15"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "SOCY142",
@@ -553,16 +547,12 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or CRES 10 or CRES 68 or GCH 1 , or by instructor permission. Enrollment is restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
+          "CRES10",
+          "CRES68",
+          "GCH1",
           "SOCY1",
           "SOCY10",
           "SOCY15"
-        ],
-        [
-          "CRES10",
-          "CRES68"
-        ],
-        [
-          "GCH1"
         ]
       ]
     },
@@ -586,9 +576,6 @@
           "SOCY1",
           "SOCY10",
           "SOCY15"
-        ],
-        [
-          "CRESSOCY12"
         ]
       ]
     },
@@ -631,12 +618,8 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
           "SOCY15"
         ]
       ]
@@ -649,12 +632,8 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
           "SOCY15"
         ]
       ]
@@ -715,7 +694,9 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 120 and SOCY 126 . Enrollment is restricted to junior and senior majors, proposed majors, and minors in sociology, feminist studies, digital justice studies (formerly GISES), and Latin American studies/sociology combined.",
       "prereqGroups": [
         [
-          "SOCY120",
+          "SOCY120"
+        ],
+        [
           "SOCY126"
         ]
       ]
@@ -728,18 +709,10 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or FMST 1 or CRES 10 or GCH 1 or by permission of the instructor. Enrollment is restricted to sophomores, juniors and seniors.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
-          "FMST1"
-        ],
-        [
-          "CRES10"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
+          "FMST1",
+          "CRES10",
           "GCH1"
         ]
       ]
@@ -760,18 +733,10 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or FMST 1 or CRES 10 or GCH 1 , or by permission of the instructor. Enrollment is restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
-          "FMST1"
-        ],
-        [
-          "CRES10"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
+          "FMST1",
+          "CRES10",
           "GCH1"
         ]
       ]
@@ -784,12 +749,8 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or by permission of the instructor. Enrollment is restricted to sociology, Latin American and Latino studies/sociology, and digital justice studies (formerly GISES) studies majors.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
           "SOCY15"
         ]
       ]
@@ -850,12 +811,8 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to sophomores, juniors and seniors.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
           "SOCY15"
         ]
       ]
@@ -876,12 +833,8 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or CRES 10 .",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
           "CRES10"
         ]
       ]
@@ -894,15 +847,9 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or CRES 10 , or by permission of the instructor.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
-          "SOCY15"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15",
           "CRES10"
         ]
       ]
@@ -947,15 +894,9 @@
       "rawRequirements": "Requirements Prerequisites: SOCY 1 or SOCY 10 or SOCY 15 or LGST 10 or by permission of the instructor. Enrollment is restricted to proposed and declared sophomore, junior, and senior majors in sociology, legal studies, Latin American and Latino studies and sociology combined studies, and digital justice studies (formerly GISES) studies minors.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
-          "SOCY15"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
+          "SOCY15",
           "LGST10"
         ]
       ]
@@ -968,12 +909,8 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 . Enrollment is restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
-          "SOCY10"
-        ],
-        [
+          "SOCY1",
+          "SOCY10",
           "SOCY15"
         ]
       ]
@@ -1056,11 +993,7 @@
       "description": "Concerns about environmental change, including global warming, threats to the ozone layer, and industrial pollution, raise questions about Third World development. Simple views of the relation between society and nature, such as blaming population growth, industrialization, or poor people, seem to preclude higher living standards. Uses debates and case studies to explore more subtle and optimistic views of social-natural relations.",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to sophomore, junior, and senior majors, proposed majors, and minors in environmental studies, sociology, digital justice studies (formerly GISES), and Latin American studies/sociology combined majors. SOCY 15 recommended.",
-      "prereqGroups": [
-        [
-          "SOCY15"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "SOCY180",
@@ -1094,9 +1027,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SOCY 1 or FMST 1 . Enrollment is restricted to sophomores, juniors, and seniors.",
       "prereqGroups": [
         [
-          "SOCY1"
-        ],
-        [
+          "SOCY1",
           "FMST1"
         ]
       ]
@@ -1249,8 +1180,7 @@
       "rawRequirements": "Requirements Prerequisites: SOCY 200A and 200B. Enrollment is restricted to sociology graduate students or by permission of the instructor.",
       "prereqGroups": [
         [
-          "SOCY200A",
-          "SOCY200B"
+          "SOCY200A"
         ]
       ]
     },

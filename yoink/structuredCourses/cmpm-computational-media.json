@@ -184,13 +184,13 @@
       "rawRequirements": "Requirements Prerequisite(s): CMPM 80K ; and FILM 80V ; and CSE 30 or CMPM 35 .",
       "prereqGroups": [
         [
-          "CMPM80K",
-          "FILM80V",
-          "CSE30"
+          "CMPM80K"
         ],
         [
-          "CMPM80K",
-          "FILM80V",
+          "FILM80V"
+        ],
+        [
+          "CSE30",
           "CMPM35"
         ]
       ]
@@ -223,9 +223,7 @@
       "rawRequirements": "Requirements Prerequisites: CSE 101 or CMPM 35 .",
       "prereqGroups": [
         [
-          "CSE101"
-        ],
-        [
+          "CSE101",
           "CMPM35"
         ]
       ]
@@ -298,9 +296,7 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 101 or CMPM 35 . Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "CSE101"
-        ],
-        [
+          "CSE101",
           "CMPM35"
         ]
       ]
@@ -329,15 +325,9 @@
       "rawRequirements": "Requirements Prerequisites: CMPM 35 or CMPM 120 or CMPM 150 or CMPM 151 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.",
       "prereqGroups": [
         [
-          "CMPM35"
-        ],
-        [
-          "CMPM120"
-        ],
-        [
-          "CMPM150"
-        ],
-        [
+          "CMPM35",
+          "CMPM120",
+          "CMPM150",
           "CMPM151"
         ]
       ]
@@ -362,9 +352,7 @@
       "rawRequirements": "Requirements Prerequisite(s): CMPM 163 or CSE 160 . Concurrent enrollment in CMPM 164L is required.",
       "prereqGroups": [
         [
-          "CMPM163"
-        ],
-        [
+          "CMPM163",
           "CSE160"
         ]
       ]
@@ -377,9 +365,7 @@
       "rawRequirements": "Requirements Prerequisite(s): CMPM 163 or CSE 160 . Concurrent enrollment in CMPM 164 is required.",
       "prereqGroups": [
         [
-          "CMPM163"
-        ],
-        [
+          "CMPM163",
           "CSE160"
         ]
       ]
@@ -392,12 +378,8 @@
       "rawRequirements": "Requirements Prerequisites: CMPM 35 or CMPM 120 or CMPM 163 or by permission of instructor. Enrollment is restricted to juniors, seniors, and graduate students.",
       "prereqGroups": [
         [
-          "CMPM35"
-        ],
-        [
-          "CMPM120"
-        ],
-        [
+          "CMPM35",
+          "CMPM120",
           "CMPM163"
         ]
       ]
@@ -410,7 +392,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CMPM 120 and CMPM 121 (Game Development Patterns if taken Fall 2023 or later). Enrollment is restricted to senior computer science: computer game design majors or by permission of the instructor.",
       "prereqGroups": [
         [
-          "CMPM120",
+          "CMPM120"
+        ],
+        [
           "CMPM121"
         ]
       ]

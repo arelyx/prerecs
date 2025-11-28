@@ -44,9 +44,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 1B or SPAN 3 or placement by assessment.",
       "prereqGroups": [
         [
-          "SPAN1B"
-        ],
-        [
+          "SPAN1B",
           "SPAN3"
         ]
       ]
@@ -74,12 +72,8 @@
           "SPAN4"
         ],
         [
-          "SPHS4"
-        ],
-        [
-          "SPHS5"
-        ],
-        [
+          "SPHS4",
+          "SPHS5",
           "SPHS6"
         ]
       ]
@@ -92,9 +86,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 5 or SPAN 5M or placement by assessment.",
       "prereqGroups": [
         [
-          "SPAN5"
-        ],
-        [
+          "SPAN5",
           "SPAN5M"
         ]
       ]
@@ -131,9 +123,7 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements; SPAN 6 , or SPHS 6 , placement by assessment, or by instructor consent.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -146,9 +136,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or by permission of the instructor.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -162,10 +150,9 @@
       "prereqGroups": [
         [
           "SPAN6",
-          "LING50"
+          "SPHS6"
         ],
         [
-          "SPHS6",
           "LING50"
         ]
       ]
@@ -178,9 +165,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -193,9 +178,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment. Enrollment is restricted to Spanish studies majors and minors.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -208,11 +191,10 @@
       "rawRequirements": "Requirements Prerequisite(s): LING 50 ; and SPAN 6 or SPHS 6 or placement by assessment.",
       "prereqGroups": [
         [
-          "LING50",
-          "SPAN6"
+          "LING50"
         ],
         [
-          "LING50",
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -262,10 +244,9 @@
       "prereqGroups": [
         [
           "SPAN6",
-          "SPAN150"
+          "SPHS6"
         ],
         [
-          "SPHS6",
           "SPAN150"
         ]
       ]
@@ -290,9 +271,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -305,9 +284,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -320,9 +297,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement into Spanish 156F via the online Spanish Placement Examination.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -335,9 +310,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -351,10 +324,9 @@
       "prereqGroups": [
         [
           "SPAN6",
-          "LING50"
+          "SPHS6"
         ],
         [
-          "SPHS6",
           "LING50"
         ]
       ]
@@ -367,9 +339,7 @@
       "rawRequirements": "Requirements Prerequisite(s): Span 6 or SPHS 6 or placement by assessment.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -382,9 +352,7 @@
       "rawRequirements": "Requirements Prerequisite(s): Span 6 or SPHS 6 or placement by assessment.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]
@@ -445,9 +413,7 @@
       "rawRequirements": "Requirements Prerequisite(s): SPAN 6 or SPHS 6 or placement by assessment.",
       "prereqGroups": [
         [
-          "SPAN6"
-        ],
-        [
+          "SPAN6",
           "SPHS6"
         ]
       ]

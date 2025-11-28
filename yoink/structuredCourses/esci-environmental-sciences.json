@@ -119,9 +119,13 @@
       "rawRequirements": "Requirements Prerequisite(s): ESCI 160 , EART 125 , or OCEA 260 /EART 260.",
       "prereqGroups": [
         [
-          "ESCI160",
-          "EART125",
-          "OCEAN260",
+          "ESCI160"
+        ],
+        [
+          "EART125"
+        ],
+        [
+          "OCEA260",
           "EART260"
         ]
       ]

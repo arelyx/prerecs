@@ -10,15 +10,7 @@
       "description": "Operations on real numbers, complex numbers, polynomials, and rational expressions; exponents and radicals; solving linear and quadratic equations and inequalities; functions, algebra of functions, graphs; conic sections; mathematical models; sequences and series.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): mathematics placement (MP) score of 100 or higher. Students may not enroll in or receive credit for MATH 2 after receiving credit with a 'C' or better in AM 3 , MATH 3 , AM 11A , MATH 11A , MATH 19A , MATH 20A or equivalents.",
-      "prereqGroups": [
-        [
-          "AM3",
-          "MATH3",
-          "MATH11A",
-          "MATH19A",
-          "MATH20A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH2S",
@@ -45,13 +37,6 @@
       "prereqGroups": [
         [
           "MATH2"
-        ],
-        [
-          "AM11A",
-          "ECON11A",
-          "MATH11A",
-          "MATH19A",
-          "MATH20A"
         ]
       ]
     },
@@ -77,9 +62,6 @@
         [
           "MATH3",
           "AM3"
-        ],
-        [
-          "APEXAM"
         ]
       ]
     },
@@ -93,8 +75,7 @@
         [
           "MATH11A",
           "MATH19A",
-          "AM15A",
-          "QUALIFYINGEXAM"
+          "AM15A"
         ]
       ]
     },
@@ -111,9 +92,6 @@
           "MATH11A",
           "AM11A",
           "MATH19A"
-        ],
-        [
-          "APCALCULUSAB"
         ]
       ]
     },
@@ -138,9 +116,6 @@
       "prereqGroups": [
         [
           "MATH3"
-        ],
-        [
-          "APEXAM"
         ]
       ]
     },
@@ -154,8 +129,7 @@
         [
           "MATH11A",
           "MATH19A",
-          "MATH20A",
-          "QUALIFYINGEXAM"
+          "MATH20A"
         ]
       ]
     },
@@ -165,11 +139,7 @@
       "description": "Methods of proof, number systems, binomial and geometric sums. Sequences, limits, continuity, and the definite integral. The derivatives of the elementary functions, the fundamental theorem of calculus, and the main theorems of differential calculus.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): mathematics placement (MP) score of 500 higher; or qualifying exam. See the UCSC Exam Equivalency Chart in the Undergraduate Academic Program section of the catalog for details.",
-      "prereqGroups": [
-        [
-          "QUALIFYINGEXAM"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH20B",
@@ -210,8 +180,7 @@
           "MATH11B",
           "MATH19B",
           "MATH20B",
-          "AM15B",
-          "APEXAM"
+          "AM15B"
         ]
       ]
     },
@@ -224,8 +193,7 @@
       "prereqGroups": [
         [
           "MATH19B",
-          "MATH20B",
-          "APEXAM"
+          "MATH20B"
         ]
       ]
     },
@@ -261,14 +229,7 @@
       "description": "Reading and writing proofs in mathematics. Preparation for theoretical mathematics, and particularly for MATH 100 . Close reading of mathematical texts. Development of professional conventions in mathematical writing. Mathematical contexts include geometry, algebra, arithmetic, and discrete mathematics.",
       "credits": "2",
       "rawRequirements": "Requirements Students cannot enroll in MATH 50 if they have previously completed MATH 100 , CSE 16 , CSE 101 , or CSE 101M with a grade of B- or better.",
-      "prereqGroups": [
-        [
-          "MATH100",
-          "CSE16",
-          "CSE101",
-          "CSE101M"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH99",
@@ -450,6 +411,9 @@
         [
           "MATH21",
           "AM10"
+        ],
+        [
+          "MATH23B"
         ],
         [
           "MATH100",
@@ -732,7 +696,11 @@
       "description": "Laboratory sequence illustrating topics covered in MATH 145. One three-hour session per week in microcomputer laboratory.",
       "credits": "1",
       "rawRequirements": "Requirements Concurrent enrollment in MATH 145 is required.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "MATH145"
+        ]
+      ]
     },
     {
       "id": "MATH148",
@@ -768,7 +736,11 @@
       "description": "Laboratory sequence illustrating topics covered in course 148. One three-hour session per week in the computer laboratory.",
       "credits": "1",
       "rawRequirements": "Requirements Concurrent enrollment in MATH 148 is required.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "MATH148"
+        ]
+      ]
     },
     {
       "id": "MATH152",
@@ -896,11 +868,7 @@
       "description": "Vector spaces, linear transformations, eigenvalues and eigenvectors, the Jordan canonical form, bilinear forms, quadratic forms, real symmetric forms and real symmetric matrices, orthogonal transformations and orthogonal matrices, Euclidean space, Hermitian forms and Hermitian matrices, Hermitian spaces, unitary transformations and unitary matrices, skewsymmetric forms, tensor products of vector spaces, tensor algebras, symmetric algebras, exterior algebras, Clifford algebras and spin groups.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 200 is recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH200"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH202",
@@ -908,11 +876,7 @@
       "description": "Module theory: Submodules, quotient modules, module homomorphisms, generators of modules, direct sums, free modules, torsion modules, modules over PIDs, and applications to rational and Jordan canonical forms. Field theory: field extensions, algebraic and transcendental extensions, splitting fields, algebraic closures, separable and normal extensions, the Galois theory, finite fields, Galois theory of polynomials.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 201 is recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH201"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH203",
@@ -922,8 +886,12 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 200 , MATH 201 , and MATH 202 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "MATH200",
-          "MATH201",
+          "MATH200"
+        ],
+        [
+          "MATH201"
+        ],
+        [
           "MATH202"
         ]
       ]
@@ -934,12 +902,7 @@
       "description": "Completeness and compactness for real line; sequences and infinite series of functions; Fourier series; calculus on Euclidean space and the implicit function theorem; metric spaces and the contracting mapping theorem; the Arzela-Ascoli theorem; basics of general topological spaces; the Baire category theorem; Urysohn's lemma; and Tychonoff's theorem.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 105A and MATH 105B are recommended as preparation.Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH105A",
-          "MATH105B"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH205",
@@ -959,12 +922,7 @@
       "description": "Banach spaces, Hahn-Banach theorem, uniform boundedness theorem, the open mapping and closed graph theorems, weak and weak* topology, the Banach-Alaoglu theorem, Hilbert spaces, self-adjoint operators, compact operators, spectral theory, Fredholm operators, spaces of distributions and the Fourier transform, and Sobolev spaces.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 204 and MATH 205 recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH204",
-          "MATH205"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH207",
@@ -972,11 +930,7 @@
       "description": "Holomorphic and harmonic functions, Cauchy's integral theorem, the maximum principle and its consequences, conformal mapping, analytic continuation, the Riemann mapping theorem.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 103 is recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH103"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH208",
@@ -995,9 +949,6 @@
       "prereqGroups": [
         [
           "MATH208"
-        ],
-        [
-          "MATH201"
         ]
       ]
     },
@@ -1007,12 +958,7 @@
       "description": "The fundamental group, covering space theory and van Kampen's theorem (with a discussion of free and amalgamated products of groups), CW complexes, higher homotopy groups, cellular and singular cohomology, the Eilenberg-Steenrod axioms, computational tools including Mayer-Vietoris, cup products, PoincarÃ© duality, the Lefschetz fixed point theorem, the exact homotopy sequence of a fibration and the Hurewicz isomorphism theorem, and remarks on characteristic classes.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 208 and MATH 209 recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH208",
-          "MATH209"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH211",
@@ -1020,13 +966,7 @@
       "description": "Continuation of MATH 210. Topics include theory of characteristic classes of vector bundles, cobordism theory, and homotopy theory.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 200 , MATH 201 , and MATH 202 recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH200",
-          "MATH201",
-          "MATH202"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH212",
@@ -1046,12 +986,7 @@
       "description": "First of the two PDE courses covering basically Part I in Evans' book; Partial Differential Equations; which includes transport equations; Laplace equations; heat equations; wave equations; characteristics of nonlinear first-order PDE; Hamilton-Jacobi equations; conservation laws; some methods for solving equations in closed form; and the Cauchy-Kovalevskaya theorem.",
       "credits": "5",
       "rawRequirements": "Requirements MATH 106 and MATH 107 are recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH106",
-          "MATH107"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH213B",
@@ -1059,13 +994,7 @@
       "description": "Second course of the PDE series covering basically most of Part II in Evans' book and some topics in nonlinear PDE including Sobolev spaces, Sobolev inequalities, existence, regularity and a priori estimates of solutions to second order elliptic PDE, parabolic equations, hyperbolic equations and systems of conservation laws, and calculus of variations and its applications to PDE.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 106 , MATH 107 , and MATH 213A are recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH106",
-          "MATH107",
-          "MATH213A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH214",
@@ -1073,12 +1002,7 @@
       "description": "Nilpotent groups, solvable groups, Hall subgroups, the Frattini subgroup, the Fitting subgroup, the Schur-Zassenhaus theorem, fusion in p-subgroups, the transfer map, Frobenius theorem on normal p-complements.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 200 and MATH 201 recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH200",
-          "MATH201"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH215",
@@ -1086,14 +1010,7 @@
       "description": "Operators on Banach spaces and Hilbert spaces. The spectral theorem. Compact and Fredholm operators. Other special classes of operators.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 204 , MATH 205 , MATH 206 , and MATH 207 are recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH204",
-          "MATH205",
-          "MATH206",
-          "MATH207"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH216",
@@ -1101,13 +1018,7 @@
       "description": "Topics include: the Lebesgue set, the Marcinkiewicz interpolation theorem, singular integrals, the Calderon-Zygmund theorem, Hardy Littlewood-Sobolev theorem, pseudodifferential operators, compensated compactness, concentration compactness, and applications to PDE.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 204 , MATH 205 , and MATH 206 recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH204",
-          "MATH205",
-          "MATH206"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH217",
@@ -1115,13 +1026,7 @@
       "description": "Topics include elliptic equations, existence of weak solutions, the Lax-Milgram theorem, interior and boundary regularity, maximum principles, the Harnack inequality, eigenvalues for symmetric and non-symmetric elliptic operators, calculus of variations (first variation: Euler-Lagrange equations, second variation: existence of minimizers). Other topics covered as time permits.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 204 , MATH 205 , and MATH 206 recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH204",
-          "MATH205",
-          "MATH206"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH218",
@@ -1131,7 +1036,9 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 205 and MATH 206 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "MATH205",
+          "MATH205"
+        ],
+        [
           "MATH206"
         ]
       ]
@@ -1152,8 +1059,12 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 200 , MATH 201 , and MATH 202 . MATH 225A and MATH 227 recommended as preparation. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "MATH200",
-          "MATH201",
+          "MATH200"
+        ],
+        [
+          "MATH201"
+        ],
+        [
           "MATH202"
         ]
       ]
@@ -1208,12 +1119,7 @@
       "description": "Basic concepts of Lie algebras. Engel's theorem, Lie's theorem, Weyl's theorem are proved. Root space decomposition for semi-simple algebras, root systems and the classification theorem for semi-simple algebras over the complex numbers. Isomorphism and conjugacy theorems.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 201 and MATH 202 recommended as preparation Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH201",
-          "MATH202"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH225B",
@@ -1251,9 +1157,15 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 200 , MATH 201 , MATH 204 , and MATH 208 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "MATH200",
-          "MATH201",
-          "MATH204",
+          "MATH200"
+        ],
+        [
+          "MATH201"
+        ],
+        [
+          "MATH204"
+        ],
+        [
           "MATH208"
         ]
       ]
@@ -1280,15 +1192,7 @@
       "description": "Classical Morse Theory. The fundamental theorems relating critical points to the topology of a manifold are treated in detail. The Bott Periodicity Theorem. A specialized course offered once every few years.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 208 , MATH 209 , MATH 210 , MATH 211 , and MATH 212 recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH208",
-          "MATH209",
-          "MATH210",
-          "MATH211",
-          "MATH212"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH233",
@@ -1298,12 +1202,13 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 103, MATH 204 , and MATH 205 ; MATH 117 recommended as preparation. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "MATH103",
-          "MATH204",
-          "MATH205"
+          "MATH103"
         ],
         [
-          "MATH117"
+          "MATH204"
+        ],
+        [
+          "MATH205"
         ]
       ]
     },
@@ -1323,7 +1228,9 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 203 and MATH 208 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "MATH203",
+          "MATH203"
+        ],
+        [
           "MATH208"
         ]
       ]
@@ -1334,20 +1241,7 @@
       "description": "The course, aimed at second-year graduate students, will cover the basic facts about elliptic functions and modular forms. The goal is to provide the student with foundations suitable for further work in advanced number theory, in conformal field theory, and in the theory of Riemann surfaces.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 200 , MATH 201 , MATH 202 , and either MATH 207 or MATH 103A are recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH200",
-          "MATH201",
-          "MATH202",
-          "MATH207"
-        ],
-        [
-          "MATH200",
-          "MATH201",
-          "MATH202",
-          "MATH103A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH239",
@@ -1371,15 +1265,7 @@
       "description": "Introduces modular representation theory of finite groups (over a field of positive characteristic). Main topics are Grothendieck groups, Brauer characters, Brauer character table, projective covers, Brauer-Cartan triangle, relative projectivity, vertices, sources, Green correspondence, Green's indecomposability theorem. Recommended completion of MATH 200- MATH 203 and MATH 240A .",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 200 , MATH 201 , MATH 202 , MATH 203 , and MATH 240A recommended. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH200",
-          "MATH201",
-          "MATH202",
-          "MATH203",
-          "MATH240A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH246",
@@ -1389,8 +1275,12 @@
       "rawRequirements": "Requirements Prerequisite(s): MATH 200 , MATH 201 , and MATH 202 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "MATH200",
-          "MATH201",
+          "MATH200"
+        ],
+        [
+          "MATH201"
+        ],
+        [
           "MATH202"
         ]
       ]
@@ -1413,12 +1303,7 @@
       "description": "Covers symplectic geometry and classical Hamiltonian dynamics. Some of the key subjects are the Darboux theorem, Poisson brackets, Hamiltonian and Langrangian systems, Legendre transformations, variational principles, Hamilton-Jacobi theory, geodesic equations, and an introduction to Poisson geometry. MATH 208 and MATH 209 are recommended as preparation.",
       "credits": "5",
       "rawRequirements": "Requirements MATH 208 and MATH 209 recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH208",
-          "MATH209"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH249B",
@@ -1442,12 +1327,7 @@
       "description": "First covers a basic introduction to fluid dynamics equations and then focuses on different aspects of the solutions to the Navier-Stokes equations.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): MATH 106 and MATH 107 are recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH106",
-          "MATH107"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH254",
@@ -1455,15 +1335,7 @@
       "description": "Introduction to some basics in geometric analysis through the discussions of two fundamental problems in geometry: the resolution of the Yamabe problem and the study of harmonic maps. The analytic aspects of these problems include Sobolev spaces, best constants in Sobolev inequalities, and regularity and a priori estimates of systems of elliptic PDE.",
       "credits": "5",
       "rawRequirements": "Requirements MATH 204 , MATH 205 , MATH 209 , MATH 212 , and MATH 213A recommended as preparation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "MATH204",
-          "MATH205",
-          "MATH209",
-          "MATH212",
-          "MATH213A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH256",
@@ -1471,16 +1343,7 @@
       "description": "Introduction to compact Riemann surfaces and algebraic geometry via an in-depth study of complex algebraic curves.",
       "credits": "5",
       "rawRequirements": "Requirements MATH 200 , MATH 201 , MATH 202 , MATH 203 , MATH 204 , and MATH 207 are recommended as preparation. Enrollment is restricted to graduate mathematics and physics students.",
-      "prereqGroups": [
-        [
-          "MATH200",
-          "MATH201",
-          "MATH202",
-          "MATH203",
-          "MATH204",
-          "MATH207"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "MATH260",

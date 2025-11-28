@@ -66,9 +66,7 @@
           "LING53"
         ],
         [
-          "LING80K"
-        ],
-        [
+          "LING80K",
           "LING80M"
         ]
       ]
@@ -136,9 +134,7 @@
           "LING101"
         ],
         [
-          "LING111"
-        ],
-        [
+          "LING111",
           "LING112"
         ]
       ]
@@ -162,9 +158,7 @@
           "LING101"
         ],
         [
-          "LING111"
-        ],
-        [
+          "LING111",
           "LING112"
         ]
       ]
@@ -180,9 +174,7 @@
           "LING101"
         ],
         [
-          "LING111"
-        ],
-        [
+          "LING111",
           "LING112"
         ]
       ]
@@ -214,9 +206,7 @@
           "LING53"
         ],
         [
-          "LING111"
-        ],
-        [
+          "LING111",
           "LING112"
         ]
       ]
@@ -256,9 +246,7 @@
           "LING53"
         ],
         [
-          "LING111"
-        ],
-        [
+          "LING111",
           "LING112"
         ]
       ]
@@ -277,9 +265,7 @@
           "LING101"
         ],
         [
-          "LING111"
-        ],
-        [
+          "LING111",
           "LING112"
         ]
       ]
@@ -315,9 +301,7 @@
           "LING101"
         ],
         [
-          "LING111"
-        ],
-        [
+          "LING111",
           "LING112"
         ]
       ]
@@ -330,9 +314,7 @@
       "rawRequirements": "Requirements Prerequisite(s): LING 111 or LING 112 , and LING 101 .",
       "prereqGroups": [
         [
-          "LING111"
-        ],
-        [
+          "LING111",
           "LING112"
         ],
         [
@@ -348,9 +330,7 @@
       "rawRequirements": "Requirements Prerequisite(s): LING 113 or LING 116 .",
       "prereqGroups": [
         [
-          "LING113"
-        ],
-        [
+          "LING113",
           "LING116"
         ]
       ]
@@ -388,9 +368,6 @@
       "prereqGroups": [
         [
           "LING50"
-        ],
-        [
-          "INTRODUCTIONTOLINGUISTICS"
         ]
       ]
     },
@@ -599,7 +576,9 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 10 and CSE 14, or permission of instructor.",
       "prereqGroups": [
         [
-          "CSE10",
+          "CSE10"
+        ],
+        [
           "CSE14"
         ]
       ]
@@ -780,11 +759,10 @@
       "rawRequirements": "Requirements Prerequisite(s): LING 101 , and LING 111 or LING 112 .",
       "prereqGroups": [
         [
-          "LING101",
-          "LING111"
+          "LING101"
         ],
         [
-          "LING101",
+          "LING111",
           "LING112"
         ]
       ]

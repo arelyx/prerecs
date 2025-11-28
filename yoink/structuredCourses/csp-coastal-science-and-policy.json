@@ -20,7 +20,9 @@
       "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in CSP 210 and CSP 220 . Enrollment is restricted to graduate students in the coastal science and policy program, or by permission of the instructor.",
       "prereqGroups": [
         [
-          "CSP210",
+          "CSP210"
+        ],
+        [
           "CSP220"
         ]
       ]
@@ -33,7 +35,9 @@
       "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in CSP 200 and CSP 220 . Enrollment is restricted to graduate students in the coastal science and policy program, or by permission of the instructor.",
       "prereqGroups": [
         [
-          "CSP200",
+          "CSP200"
+        ],
+        [
           "CSP220"
         ]
       ]
@@ -46,7 +50,9 @@
       "rawRequirements": "Requirements Prerequisite(s): concurrent enrollment in CSP 200 and CSP 210 . Enrollment is restricted to graduate students in the coastal science and policy program, or by permission of the instructor.",
       "prereqGroups": [
         [
-          "CSP200",
+          "CSP200"
+        ],
+        [
           "CSP210"
         ]
       ]
@@ -59,8 +65,12 @@
       "rawRequirements": "Requirements Prerequisite(s): Concurrent enrollment in CSP 200 , CSP 210 , and CSP 220 . Enrollment restricted to coastal science and policy graduate students.",
       "prereqGroups": [
         [
-          "CSP200",
-          "CSP210",
+          "CSP200"
+        ],
+        [
+          "CSP210"
+        ],
+        [
           "CSP220"
         ]
       ]

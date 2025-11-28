@@ -10,12 +10,7 @@
       "description": "Close reading and analysis of literary texts, including representative examples of several different genres and periods. An introduction to practical criticism required of all literature majors; should be completed prior to upper-division work in literature.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to first-year students and sophomores, or literature and proposed literature majors and literature minors.",
-      "prereqGroups": [
-        [
-          "EntryLevelWriting",
-          "Composition"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT42D",
@@ -255,11 +250,7 @@
       "description": "Through films, literary texts, historical, sociological, and anthropological writings, explores topics pertaining to Latin American culture and society. Course topic changes; please see the Schedule of Classes for current topic.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT80P"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT80Q",
@@ -371,11 +362,7 @@
       "description": "Why does the history of slavery reappear at certain moments in literary and popular culture? Course focuses on the 1960s and the 2000s, when slavery was frequently featured in popular and academic history, fiction, film, and television, in both imaginative and documentary forms.",
       "credits": "5",
       "rawRequirements": "American History and Institutions Yes",
-      "prereqGroups": [
-        [
-          "AMERICANHISTORYANDINSTITUTIONS"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT81G",
@@ -391,11 +378,7 @@
       "description": "Surveys some of the most famous accounts and representations of historical and fictional pandemics in the history of literature, mostly from the Western tradition. Students read excerpts from works by Thucydides, Lucretius, Boccaccio, Manzoni, Poe, Camus, London, and Elkhadem. Conversation centers on the question of how Western literature have attempted to both document and investigate the destruction of human society, but also to recreate it.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT81H"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT81I",
@@ -419,11 +402,7 @@
       "description": "Introduces topics in literature. The course topic changes; please see the Class Search for the current topic.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT87"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT90",
@@ -431,11 +410,7 @@
       "description": "Introduction to the culture and values of creative writing as an academic and artistic discipline. Introduces the practice of the writing life. Students write and/or revise weekly fictional, poetic or creative nonfiction experiments and discuss these experiments in two weekly peer workshops led by their teaching assistants. Students attend weekly lectures in which working writers read fiction or poetry, and hybrid creative forms, and answer questions about the writing life. Alternately, the instructor will give craft lectures and relevant writing prompts based on the readings. The visiting writersâ work and the other readings are used as inspiration for studentsâ own creative and critical reader responses.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT90"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT90X",
@@ -443,11 +418,7 @@
       "description": "Speaking, reading, and writing proficiency in Spanish is required. Explores creative writing from a bilingual (Spanish-English) perspective, and considers bilingualism in the literary arts (como el ejercicio de una identidad), as a way of thinking and a way of being, as a creative lens (el pensamiento de frontera), as a framework, as a border (que quiere ser cruzada).",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT90X"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT91A",
@@ -455,11 +426,7 @@
       "description": "An intermediate-level course in fiction designed for prospective applicants to the creative writing concentration.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT91A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT91B",
@@ -467,11 +434,7 @@
       "description": "An intermediate-level course in poetry designed for prospective applicants to the creative writing concentration.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT91B"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT92A",
@@ -479,11 +442,7 @@
       "description": "This intermediate-level course will explore prose writing from a bilingual (Spanish-English) perspective. Primarily in English, but may delve into Spanish passages or phrasing. Work can be completed in English, Spanish, or Spanglish.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT92A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT92B",
@@ -491,11 +450,7 @@
       "description": "This intermediate-level course engaged with poetry that incorporates unfamiliar languages, explores the aesthetics and politics of translation, and the creative possibilities (and limitations) of bilingualism. Discussions primarily conducted in English but may include Spanish lines or phrasing. Work can be completed in English, Spanish, or Spanglish.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT92B"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT99A",
@@ -503,11 +458,7 @@
       "description": "Study of literature in English or English translation. Students submit petition to sponsoring agency.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT99A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT99B",
@@ -515,11 +466,7 @@
       "description": "Speaking, reading, and writing proficiency in French, German, Greek, Italian, Latin, Spanish or other non-English language required. Students submit petition to sponsoring agency.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT99B"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT99C",
@@ -527,11 +474,7 @@
       "description": "Study of creative writing. Students submit petition to sponsoring agency.",
       "credits": "5",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT99C"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT99F",
@@ -539,11 +482,7 @@
       "description": "Students submit petition to sponsoring agency.",
       "credits": "2",
       "rawRequirements": "Repeatable for credit Yes",
-      "prereqGroups": [
-        [
-          "LIT99F"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT101",
@@ -559,11 +498,7 @@
       "description": "Promotes the understanding of translation and its role in redefining meanings across epochs and cultures, in establishing common norms, and in advancing mutual intelligibility; but also providing encounters with absolute alterity. Actual translations are used as case studies.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): one year of college-level, non-English language study or the equivalent reading ability in a non-English language.",
-      "prereqGroups": [
-        [
-          "LIT"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "LIT108A",

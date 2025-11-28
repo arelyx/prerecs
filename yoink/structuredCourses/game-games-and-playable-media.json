@@ -84,10 +84,10 @@
       "rawRequirements": "Requirements Prerequisite(s): GAME 230 ; or GAME 235 and GAME 236 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "GAME230"
+          "GAME230",
+          "GAME235"
         ],
         [
-          "GAME235",
           "GAME236"
         ]
       ]
@@ -100,10 +100,10 @@
       "rawRequirements": "Requirements Prerequisite(s): GAME 230 ; or GAME 235 and GAME 236 . Enrollment is restricted graduate students.",
       "prereqGroups": [
         [
-          "GAME230"
+          "GAME230",
+          "GAME235"
         ],
         [
-          "GAME235",
           "GAME236"
         ]
       ]
@@ -136,9 +136,7 @@
       "rawRequirements": "Requirements Prerequisite(s): GAME 230 or GAME 235 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "GAME230"
-        ],
-        [
+          "GAME230",
           "GAME235"
         ]
       ]
@@ -183,15 +181,9 @@
       "rawRequirements": "Requirements Prerequisite(s): GAME 200 , or GAME 230 , or GAME 236 , or GAME 250 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "GAME200"
-        ],
-        [
-          "GAME230"
-        ],
-        [
-          "GAME236"
-        ],
-        [
+          "GAME200",
+          "GAME230",
+          "GAME236",
           "GAME250"
         ]
       ]

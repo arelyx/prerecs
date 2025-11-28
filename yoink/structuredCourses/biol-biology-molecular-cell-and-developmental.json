@@ -18,7 +18,13 @@
       "description": "Introduction to biochemistry, cell biology, molecular biology, and genetics.",
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): CHEM 1A , CHEM 3A , or CHEM 4A . First pass enrollment restricted to proposed majors in the following: Biology BA, Biology BS, MCD Biology BS, Neuroscience BS, Ecology and Evolutionary Biology BS, Marine Biology BS, Plant Sciences BS, EEB/ENVS combined BA, Global and Community Health BS, Biochemistry and Molecular Biology BS, Microbiology BS, Science Education BS, Biomolecular Engineering BS, or Biotechnology BA.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "CHEM1A",
+          "CHEM3A",
+          "CHEM4A"
+        ]
+      ]
     },
     {
       "id": "BIOL20L",
@@ -119,7 +125,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B ; and CHEM 8B .",
       "prereqGroups": [
         [
-          "BIOL20A",
+          "BIOL20A"
+        ],
+        [
           "BIOE20B"
         ],
         [
@@ -227,7 +235,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20L and BIOL 105 . Enrollment is restricted to sophomore, junior, and senior MCDB B.S., BIOL B.S., and BIOC majors.Interested students should add to the waitlist. Application will be required. Inquire with instructor.",
       "prereqGroups": [
         [
-          "BIOL20L",
+          "BIOL20L"
+        ],
+        [
           "BIOL105"
         ]
       ]
@@ -256,8 +266,9 @@
           "BIOL105"
         ],
         [
-          "BIOC100A",
-          "BIOC100B",
+          "BIOC100A"
+        ],
+        [
           "BIOL100"
         ],
         [
@@ -274,7 +285,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A and BIOE 20B .",
       "prereqGroups": [
         [
-          "BIOL20A",
+          "BIOL20A"
+        ],
+        [
           "BIOE20B"
         ]
       ]
@@ -371,12 +384,22 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 100 and BIOL 101 ; or BIOC 100A and BIOC 100B ; and BIOL 101L or BIOL 102L or BIOL 107L ; and BIOL 105 . Satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Molecular, Cell and Developmental Biology and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor. Students cannot enroll in BIOL 109L after receiving credit with a 'C' or better in BIOL 100L , BIOL 103L , BIOL 105L , BIOL 106L , BIOL 108L , BIOL 115L , BIOL 120L , BIOL 121L , BIOL 129L , BIOL 186L , and METX 119L.",
       "prereqGroups": [
         [
-          "BIOL100",
-          "BIOC100A"
+          "BIOL100"
         ],
         [
           "BIOL101",
+          "BIOC100A"
+        ],
+        [
           "BIOC100B"
+        ],
+        [
+          "BIOL101L",
+          "BIOL102L",
+          "BIOL107L"
+        ],
+        [
+          "BIOL105"
         ]
       ]
     },
@@ -388,12 +411,26 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 100 and BIOL 101 , or BIOC 100A and BIOC 100B ; and BIOL 105 ; and BIOL 101L or BIOL 102L or BIOL 107L or BIOL 122K or CHEM 160K or CHEM 161K or BIOL 20L . Enrollment is restricted to declared Biochemistry and Molecular Biology; Biology B.S.; Global and Community Health B.S. (Biomedical concentration); Molecular, Cell and Developmental Biology, Human Biology, and Neuroscience B.S. majors. Other majors may enroll by permission of the instructor.",
       "prereqGroups": [
         [
-          "BIOL100",
-          "BIOC100A"
+          "BIOL100"
         ],
         [
           "BIOL101",
+          "BIOC100A"
+        ],
+        [
           "BIOC100B"
+        ],
+        [
+          "BIOL105"
+        ],
+        [
+          "BIOL101L",
+          "BIOL102L",
+          "BIOL107L",
+          "BIOL122K",
+          "CHEM160K",
+          "CHEM161K",
+          "BIOL20L"
         ]
       ]
     },
@@ -405,9 +442,15 @@
       "rawRequirements": "Requirements Prerequisite(s): courses BIOE 20B , BIOL 20A , BIOL 105 , and BIOL 110 .",
       "prereqGroups": [
         [
-          "BIOE20B",
-          "BIOL20A",
-          "BIOL105",
+          "BIOE20B"
+        ],
+        [
+          "BIOL20A"
+        ],
+        [
+          "BIOL105"
+        ],
+        [
           "BIOL110"
         ]
       ]
@@ -444,10 +487,10 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 5 , or STAT 7 and STAT 7L .",
       "prereqGroups": [
         [
-          "STAT5"
+          "STAT5",
+          "STAT7"
         ],
         [
-          "STAT7",
           "STAT7L"
         ]
       ]
@@ -529,10 +572,10 @@
       "rawRequirements": "Requirements Prerequisite(s): STAT 5 , or STAT 7 and STAT 7L ; BIOL 105 or BME 105 ; and BIOL 101 or BIOL 115 . Enrollment is restricted to biology B.S.; human biology; neuroscience; and molecular, cell, and developmental biology majors. Other students may enroll with instructor permission.",
       "prereqGroups": [
         [
-          "STAT5"
+          "STAT5",
+          "STAT7"
         ],
         [
-          "STAT7",
           "STAT7L"
         ],
         [
@@ -629,7 +672,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 20A , and BIOE 20B ; and BIOL 100 , or BIOC 100A and BIOC 100B .",
       "prereqGroups": [
         [
-          "BIOL20A",
+          "BIOL20A"
+        ],
+        [
           "BIOE20B"
         ],
         [
@@ -671,7 +716,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 105 and BIOL 125 . Enrollment is restricted to Neuroscience B.S. majors; other majors may enroll with the permission of the instructor.",
       "prereqGroups": [
         [
-          "BIOL105",
+          "BIOL105"
+        ],
+        [
           "BIOL125"
         ]
       ]
@@ -684,7 +731,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 126 , BIOL 129L ; students cannot enroll in BIOL 129A after receiving credit with a 'C' or better in BIOL 129B . Enrollment is restricted to seniors and graduate students.",
       "prereqGroups": [
         [
-          "BIOL126",
+          "BIOL126"
+        ],
+        [
           "BIOL129L"
         ]
       ]
@@ -697,8 +746,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 105 , BIOL 125 and BIOL 128 ; students cannot enroll in BIOL 129B after receiving credit with a 'C' or better in BIOL 129A . Enrollment is restricted to seniors.",
       "prereqGroups": [
         [
-          "BIOL105",
-          "BIOL125",
+          "BIOL105"
+        ],
+        [
+          "BIOL125"
+        ],
+        [
           "BIOL128"
         ]
       ]
@@ -727,12 +780,13 @@
           "BIOC100A"
         ],
         [
-          "BIOL101",
+          "BIOL101"
+        ],
+        [
           "BIOC100B"
         ],
         [
-          "BIOL101L",
-          "BIOL102L"
+          "BIOL101L"
         ],
         [
           "BIOL125"
@@ -923,11 +977,7 @@
       "description": "A multidisciplinary course that focuses on topics to consider when tackling biomedical research questions experimentally. Lectures highlight important issues to take into account, are coupled with group discussions and intensive analysis of primary literature, and involve case studies to practically demonstrate how how these considerations might be implemented.",
       "credits": "3",
       "rawRequirements": "Requirements Concurrent enrollment in BIOL 200A is required.",
-      "prereqGroups": [
-        [
-          "BIOL200A"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "BIOL200F",
@@ -937,15 +987,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 200A or METX 200 or CHEM 200A or BME 205 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "BIOL200A"
-        ],
-        [
-          "METX200"
-        ],
-        [
-          "CHEM200A"
-        ],
-        [
+          "BIOL200A",
+          "METX200",
+          "CHEM200A",
           "BME205"
         ]
       ]
@@ -970,7 +1014,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOC 100A , BIOL 200B or permission of instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "BIOC100A",
+          "BIOC100A"
+        ],
+        [
           "BIOL200B"
         ]
       ]
@@ -983,7 +1029,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 105 and BIOL 115 ; undergrads by permission of instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "BIOL105",
+          "BIOL105"
+        ],
+        [
           "BIOL115"
         ]
       ]
@@ -996,7 +1044,9 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 105 and BIOL 115 , or permission of instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "BIOL105",
+          "BIOL105"
+        ],
+        [
           "BIOL115"
         ]
       ]
@@ -1025,8 +1075,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 105 , BIOL 110 , and BIOL 115 . Enrollment is restricted to seniors and graduate students.",
       "prereqGroups": [
         [
-          "BIOL105",
-          "BIOL110",
+          "BIOL105"
+        ],
+        [
+          "BIOL110"
+        ],
+        [
           "BIOL115"
         ]
       ]
@@ -1059,9 +1113,15 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 200A , BIOL 200B , BIOL 200C , and BIOL 200D , or by permission of the instructor. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "BIOL200A",
-          "BIOL200B",
-          "BIOL200C",
+          "BIOL200A"
+        ],
+        [
+          "BIOL200B"
+        ],
+        [
+          "BIOL200C"
+        ],
+        [
           "BIOL200D"
         ]
       ]
@@ -1074,8 +1134,12 @@
       "rawRequirements": "Requirements Prerequisite(s): BIOL 200A , BIOL 200B , and BIOL 200C . Enrollment restricted to graduate students.",
       "prereqGroups": [
         [
-          "BIOL200A",
-          "BIOL200B",
+          "BIOL200A"
+        ],
+        [
+          "BIOL200B"
+        ],
+        [
           "BIOL200C"
         ]
       ]

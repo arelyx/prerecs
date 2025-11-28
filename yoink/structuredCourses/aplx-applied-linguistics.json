@@ -196,7 +196,9 @@
       "rawRequirements": "Requirements Prerequisite(s): APLX 80 and APLX 101 ; satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to seniors.",
       "prereqGroups": [
         [
-          "APLX80",
+          "APLX80"
+        ],
+        [
           "APLX101"
         ]
       ]

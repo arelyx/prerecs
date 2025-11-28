@@ -41,11 +41,13 @@
           "MATH20A"
         ],
         [
-          "PHYS5A",
-          "PHYS6A"
+          "PHYS5A"
         ],
         [
           "PHYS5L",
+          "PHYS6A"
+        ],
+        [
           "PHYS6L"
         ],
         [
@@ -203,17 +205,22 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5N ; or PHYS 6C and PHYS 6N ; and MATH 24 or PHYS 116A , or previous or concurrent enrollment in AM 20 . Concurrent enrollment in ECE 101L is required.",
       "prereqGroups": [
         [
-          "PHYS5C",
-          "PHYS6C"
+          "PHYS5C"
         ],
         [
           "PHYS5N",
+          "PHYS6C"
+        ],
+        [
           "PHYS6N"
         ],
         [
           "MATH24",
           "PHYS116A",
           "AM20"
+        ],
+        [
+          "ECE101L"
         ]
       ]
     },
@@ -225,17 +232,22 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N ; and MATH 24 or PHYS 116A , or previous or concurrent enrollment in AM 20 . Concurrent enrollment in ECE 101 is required.",
       "prereqGroups": [
         [
-          "PHYS5C",
-          "PHYS6C"
+          "PHYS5C"
         ],
         [
           "PHYS5N",
+          "PHYS6C"
+        ],
+        [
           "PHYS6N"
         ],
         [
           "MATH24",
           "PHYS116A",
           "AM20"
+        ],
+        [
+          "ECE101"
         ]
       ]
     },
@@ -247,28 +259,40 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L , PHYS 5B and PHYS 5M , and PHYS 5C and 5N; or PHYS 6A and PHYS 6L , PHYS 6B and PHYS 6M , and PHYS 6C and PHYS 6N . Concurrent enrollment in ECE 102L is required.",
       "prereqGroups": [
         [
-          "PHYS5A",
+          "PHYS5A"
+        ],
+        [
+          "PHYS5L"
+        ],
+        [
+          "PHYS5B"
+        ],
+        [
+          "PHYS5M"
+        ],
+        [
+          "PHYS5C"
+        ],
+        [
           "PHYS6A"
         ],
         [
-          "PHYS5L",
           "PHYS6L"
         ],
         [
-          "PHYS5B",
           "PHYS6B"
         ],
         [
-          "PHYS5M",
           "PHYS6M"
         ],
         [
-          "PHYS5C",
           "PHYS6C"
         ],
         [
-          "PHYS5N",
           "PHYS6N"
+        ],
+        [
+          "ECE102L"
         ]
       ]
     },
@@ -280,28 +304,40 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 5A and PHYS 5L , PHYS 5B and PHYS 5M , and PHYS 5C and 5N; or PHYS 6A and PHYS 6L , PHYS 6B and PHYS 6M , and PHYS 6C and PHYS 6N . Concurrent enrollment in ECE 102 is required.",
       "prereqGroups": [
         [
-          "PHYS5A",
+          "PHYS5A"
+        ],
+        [
+          "PHYS5L"
+        ],
+        [
+          "PHYS5B"
+        ],
+        [
+          "PHYS5M"
+        ],
+        [
+          "PHYS5C"
+        ],
+        [
           "PHYS6A"
         ],
         [
-          "PHYS5L",
           "PHYS6L"
         ],
         [
-          "PHYS5B",
           "PHYS6B"
         ],
         [
-          "PHYS5M",
           "PHYS6M"
         ],
         [
-          "PHYS5C",
           "PHYS6C"
         ],
         [
-          "PHYS5N",
           "PHYS6N"
+        ],
+        [
+          "ECE102"
         ]
       ]
     },
@@ -313,7 +349,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L ; and AM 20 or MATH 24 .",
       "prereqGroups": [
         [
-          "ECE101",
+          "ECE101"
+        ],
+        [
           "ECE101L"
         ],
         [
@@ -330,12 +368,17 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L and AM 20 or MATH 24 . Concurrent enrollment in ECE 103 is required.",
       "prereqGroups": [
         [
-          "ECE101",
+          "ECE101"
+        ],
+        [
           "ECE101L"
         ],
         [
           "AM20",
           "MATH24"
+        ],
+        [
+          "ECE103"
         ]
       ]
     },
@@ -387,11 +430,15 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L and CSE 100 and CSE 100L ; and ECE 13 or CSE 13E. ECE 121 and ECE 167 are highly recommended (but not required).",
       "prereqGroups": [
         [
-          "ECE101",
+          "ECE101"
+        ],
+        [
           "ECE101L"
         ],
         [
-          "CSE100",
+          "CSE100"
+        ],
+        [
           "CSE100L"
         ],
         [
@@ -413,6 +460,12 @@
         [
           "ECE13",
           "CSE13E"
+        ],
+        [
+          "ECE101"
+        ],
+        [
+          "ECE101L"
         ]
       ]
     },
@@ -448,10 +501,6 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and CSE 100 ; enrollment restricted to senior Electrical Engineering and Robotics Engineering majors. Electrical Engineering majors must complete ECE 171 ; and ECE 157 or ECE 173 or ECE 118 or ECE 121 . Robotics Engineering majors must complete ECE 118 and ECE 121 .",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ],
-        [
           "CSE100"
         ],
         [
@@ -464,7 +513,9 @@
           "ECE121"
         ],
         [
-          "ECE118",
+          "ECE118"
+        ],
+        [
           "ECE121"
         ]
       ]
@@ -477,10 +528,6 @@
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129A . Enrollment is restricted to seniors.",
       "prereqGroups": [
         [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ],
-        [
           "ECE129A"
         ]
       ]
@@ -492,10 +539,6 @@
       "credits": "5",
       "rawRequirements": "Requirements Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and ECE 129B . Enrollment is restricted to seniors.",
       "prereqGroups": [
-        [
-          "ENTRYLEVELWRITING",
-          "COMPOSITION"
-        ],
         [
           "ECE129B"
         ]
@@ -515,6 +558,9 @@
         [
           "PHYS5C",
           "PHYS6C"
+        ],
+        [
+          "ECE130L"
         ]
       ]
     },
@@ -526,22 +572,19 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 5L , PHYS 5M , and PHYS 5N , or PHYS 6L , PHYS 6M , and PHYS 6N ; concurrent enrollment in ECE 130 .",
       "prereqGroups": [
         [
-          "PHYS5L"
-        ],
-        [
+          "PHYS5L",
           "PHYS6L"
         ],
         [
-          "PHYS5M"
-        ],
-        [
+          "PHYS5M",
           "PHYS6M"
         ],
         [
-          "PHYS5N"
+          "PHYS5N",
+          "PHYS6N"
         ],
         [
-          "PHYS6N"
+          "ECE130"
         ]
       ]
     },
@@ -553,10 +596,20 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L , or PHYS 102 ; and AM 20 or PHYS 116A or MATH 24 . Students must concurrently enroll in ECE 135L .",
       "prereqGroups": [
         [
-          "ECE101"
+          "ECE101",
+          "PHYS102"
         ],
         [
+          "ECE101L",
           "PHYS102"
+        ],
+        [
+          "AM20",
+          "PHYS116A",
+          "MATH24"
+        ],
+        [
+          "ECE135L"
         ]
       ]
     },
@@ -568,10 +621,20 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 101 and ECE 101L , or PHYS 102 ; and AM 20 or PHYS 116A or MATH 24 . Students must concurrently enroll in ECE 135 .",
       "prereqGroups": [
         [
-          "ECE101"
+          "ECE101",
+          "PHYS102"
         ],
         [
+          "ECE101L",
           "PHYS102"
+        ],
+        [
+          "AM20",
+          "PHYS116A",
+          "MATH24"
+        ],
+        [
+          "ECE135"
         ]
       ]
     },
@@ -599,6 +662,15 @@
       "prereqGroups": [
         [
           "ECE103"
+        ],
+        [
+          "PHYS116A"
+        ],
+        [
+          "PHYS116C"
+        ],
+        [
+          "PHYS133"
         ]
       ]
     },
@@ -624,9 +696,7 @@
           "CSE100L"
         ],
         [
-          "ECE13"
-        ],
-        [
+          "ECE13",
           "CSE13E"
         ]
       ]
@@ -639,12 +709,16 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 103 , ECE 101 , and ECE 101L ; and CSE 107 or STAT 131 or probability theory and random variables background. Enrollment is restricted to School of Engineering and Physical and Biological Sciences majors.",
       "prereqGroups": [
         [
+          "ECE103"
+        ],
+        [
+          "ECE101"
+        ],
+        [
           "ECE101L"
         ],
         [
-          "CSE107"
-        ],
-        [
+          "CSE107",
           "STAT131"
         ]
       ]
@@ -687,6 +761,9 @@
           "ECE101"
         ],
         [
+          "ECE101L"
+        ],
+        [
           "ECE103"
         ],
         [
@@ -694,6 +771,9 @@
         ],
         [
           "ECE174"
+        ],
+        [
+          "ECE157L"
         ]
       ]
     },
@@ -708,6 +788,9 @@
           "ECE101"
         ],
         [
+          "ECE101L"
+        ],
+        [
           "ECE103"
         ],
         [
@@ -715,6 +798,9 @@
         ],
         [
           "ECE174"
+        ],
+        [
+          "ECE157"
         ]
       ]
     },
@@ -726,24 +812,14 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 141 or ECE 241 or ECE 242 ; and CSE 30 or ECE 13 or CSE 13E or CSE 13S . ECE 121 , ECE 167 , and ECE 145 recommended but not required. Enrollment is restricted to sophomores, juniors and seniors.",
       "prereqGroups": [
         [
-          "ECE141"
-        ],
-        [
-          "ECE241"
-        ],
-        [
+          "ECE141",
+          "ECE241",
           "ECE242"
         ],
         [
-          "CSE30"
-        ],
-        [
-          "ECE13"
-        ],
-        [
-          "CSE13E"
-        ],
-        [
+          "CSE30",
+          "ECE13",
+          "CSE13E",
           "CSE13S"
         ]
       ]
@@ -756,9 +832,7 @@
       "rawRequirements": "Requirements Prerequisite(s): CSE 13E or ECE 13 ; and ECE 103 and ECE 103L .",
       "prereqGroups": [
         [
-          "CSE13E"
-        ],
-        [
+          "CSE13E",
           "ECE13"
         ],
         [
@@ -805,6 +879,12 @@
       "prereqGroups": [
         [
           "ECE101"
+        ],
+        [
+          "ECE101L"
+        ],
+        [
+          "ECE171L"
         ]
       ]
     },
@@ -817,6 +897,12 @@
       "prereqGroups": [
         [
           "ECE101"
+        ],
+        [
+          "ECE101L"
+        ],
+        [
+          "ECE171"
         ]
       ]
     },
@@ -843,6 +929,9 @@
           "ECE101"
         ],
         [
+          "ECE101L"
+        ],
+        [
           "ECE174"
         ]
       ]
@@ -856,6 +945,9 @@
       "prereqGroups": [
         [
           "ECE101"
+        ],
+        [
+          "ECE101L"
         ]
       ]
     },
@@ -868,6 +960,9 @@
       "prereqGroups": [
         [
           "ECE101"
+        ],
+        [
+          "ECE175L"
         ]
       ]
     },
@@ -880,6 +975,9 @@
       "prereqGroups": [
         [
           "ECE101"
+        ],
+        [
+          "ECE175"
         ]
       ]
     },
@@ -895,6 +993,9 @@
         ],
         [
           "ECE171"
+        ],
+        [
+          "ECE176L"
         ]
       ]
     },
@@ -906,7 +1007,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 103 and ECE 171 . Concurrent enrollment in course 176 is required.",
       "prereqGroups": [
         [
-          "ECE103",
+          "ECE103"
+        ],
+        [
           "ECE171"
         ]
       ]
@@ -943,9 +1046,15 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 102 and ECE 102L and ECE 171 and ECE 171L . Enrollment is restricted to School of Engineering and Division of Physical and Biological Sciences majors or permission of instructor.",
       "prereqGroups": [
         [
-          "ECE102",
-          "ECE102L",
-          "ECE171",
+          "ECE102"
+        ],
+        [
+          "ECE102L"
+        ],
+        [
+          "ECE171"
+        ],
+        [
           "ECE171L"
         ]
       ]
@@ -958,9 +1067,15 @@
       "rawRequirements": "Requirements Prerequisite(s): AM 30 or MATH 22 or MATH 23A ; and ECON 113 ; and ECON 100A or ECON 100M . Enrollment is restricted to juniors and seniors.",
       "prereqGroups": [
         [
-          "ECON100A"
+          "AM30",
+          "MATH22",
+          "MATH23A"
         ],
         [
+          "ECON113"
+        ],
+        [
+          "ECON100A",
           "ECON100M"
         ]
       ]
@@ -973,18 +1088,18 @@
       "rawRequirements": "Requirements Prerequisite(s): AM 11A or MATH 11A or MATH 19A or MATH 19B or MATH 20A or MATH 20B ; and STAT 5 or STAT 7 or STAT 17 or STAT 131 or CSE 107 ). PHYS 5C and PHYS 5N or PHYS 6C and PHYS 6N are recommended.",
       "prereqGroups": [
         [
-          "STAT5"
+          "AM11A",
+          "MATH11A",
+          "MATH19A",
+          "MATH19B",
+          "MATH20A",
+          "MATH20B"
         ],
         [
-          "STAT7"
-        ],
-        [
-          "STAT17"
-        ],
-        [
-          "STAT131"
-        ],
-        [
+          "STAT5",
+          "STAT7",
+          "STAT17",
+          "STAT131",
           "CSE107"
         ]
       ]
@@ -1130,9 +1245,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 201 or ECE 207 . Enrollment is restricted to graduate students. Students with background in basic matrix algebra and MATLAB programming may enroll with permission of instructor.",
       "prereqGroups": [
         [
-          "ECE201"
-        ],
-        [
+          "ECE201",
           "ECE207"
         ]
       ]
@@ -1159,7 +1272,15 @@
       "description": "Theory and application of mathematical models to analyze, design, and program serial kinematic chains (robot arms). Covers models of arbitrary articulated robotic or biological arms and their application to realistic arms and tasks, including the homogeneous coordinate model of positioning tasks; the forward and inverse kinematic models; the Jacobian matrix; trajectory generation;and dynamic models, including Newton-Euler and Lagrangian formulations. (Formerly CMPE 215.)",
       "credits": "5",
       "rawRequirements": "Requirements Enrollment is restricted to graduate students; and to seniors who have taken ECE 141 , and AM 10 or MATH 21 ; or by permission of instructor.",
-      "prereqGroups": []
+      "prereqGroups": [
+        [
+          "ECE141"
+        ],
+        [
+          "AM10",
+          "MATH21"
+        ]
+      ]
     },
     {
       "id": "ECE216",
@@ -1198,6 +1319,9 @@
       "prereqGroups": [
         [
           "ECE171"
+        ],
+        [
+          "ECE178"
         ]
       ]
     },
@@ -1253,9 +1377,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 172 or ECE 221 or permission of instructor.",
       "prereqGroups": [
         [
-          "ECE172"
-        ],
-        [
+          "ECE172",
           "ECE221"
         ]
       ]
@@ -1274,11 +1396,7 @@
       "description": "Covers key processes to build a coherent picture of the deposition of thin films. Offers an opportunity to implement general computing resources in describing the formation of thin films. The deposition of thin films plays a key role in technology due to their unprecedented physical properties. Their deposition depends on such factors as thermodynamics in the deposition environment and kinetics on the solid surfaces where atoms are assembled; therefore, understanding the fundamental processes involved is important. (Formerly EE 217.)",
       "credits": "5",
       "rawRequirements": "Requirements Students should have a background in solid-state materials that is equivalent to ECE 102 . Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "ECE102"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ECE229",
@@ -1368,9 +1486,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 141 or ECE 241 . Enrollment is restricted to juniors, seniors, and graduate students.",
       "prereqGroups": [
         [
-          "ECE141"
-        ],
-        [
+          "ECE141",
           "ECE241"
         ]
       ]
@@ -1395,9 +1511,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 141 or ECE 241 . Enrollment is restricted to graduate students, or by permission of the instructor.",
       "prereqGroups": [
         [
-          "ECE141"
-        ],
-        [
+          "ECE141",
           "ECE241"
         ]
       ]
@@ -1410,9 +1524,7 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 240 or ECE 241 . Knowledge of Matlab is expected. Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "ECE240"
-        ],
-        [
+          "ECE240",
           "ECE241"
         ]
       ]
@@ -1425,12 +1537,8 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 240 or ECE 241 or ECE 242 . Enrollment is restricted to graduate students.",
       "prereqGroups": [
         [
-          "ECE240"
-        ],
-        [
-          "ECE241"
-        ],
-        [
+          "ECE240",
+          "ECE241",
           "ECE242"
         ]
       ]
@@ -1446,7 +1554,11 @@
           "CSE100"
         ],
         [
-          "ECE13"
+          "CSE100L"
+        ],
+        [
+          "ECE13",
+          "CSE13E"
         ]
       ]
     },
@@ -1466,8 +1578,12 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 151 and ECE 153 and CSE 107 .",
       "prereqGroups": [
         [
-          "ECE151",
-          "ECE153",
+          "ECE151"
+        ],
+        [
+          "ECE153"
+        ],
+        [
           "CSE107"
         ]
       ]
@@ -1520,7 +1636,9 @@
       "rawRequirements": "Requirements Prerequisite(s): ECE 103 and CSE 107 , or permission of instructor.",
       "prereqGroups": [
         [
-          "ECE103",
+          "ECE103"
+        ],
+        [
           "CSE107"
         ]
       ]
@@ -1539,14 +1657,7 @@
       "description": "Technologies involved in the modeling and simulation of small-scale unmanned aerial vehicles (UAVs) with an emphasis on control applications, from low-level flight stabilization to higher level path planning and vision-based control. Topics include coordinate frames, aerodynamics, equations of motion, full non-linear simulation, linearized dynamics models and trim states, force and moment balances for steady flight, flight controls by successive loop closure, state space control, path planning and guidance, sensors and estimation. Students enrolled in this class learn how to use the Python programming language to solve engineering problems. Students gain team leadership and project management skills. Taught in conjunction with ECE 163 . Students cannot receive credit for this course and ECE 163 .",
       "credits": "7",
       "rawRequirements": "Requirements Prerequisites: Students should have an understanding of Feedback Controls and Programming (Python preferred). It is recommended but not required that students have a background in Sensors, Microcontrollers, Kalman Filtering, and Estimation. Enrollment is restricted to graduate students.",
-      "prereqGroups": [
-        [
-          "FeedbackControls"
-        ],
-        [
-          "ProgrammingPython"
-        ]
-      ]
+      "prereqGroups": []
     },
     {
       "id": "ECE269",

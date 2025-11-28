@@ -287,12 +287,12 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 133 , and one of the following: ASTR 119 , ASTR 19 , or CSE 20 . Enrollment is restricted to senior physics-astrophysics majors, and juniors by permission.",
       "prereqGroups": [
         [
+          "PHYS133"
+        ],
+        [
           "ASTR119",
           "ASTR19",
           "CSE20"
-        ],
-        [
-          "PHYS133"
         ]
       ]
     },
@@ -304,12 +304,12 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 133 , and one of the following: ASTR 119 , ASTR 19 , or CSE 20 . Enrollment is restricted to senior physics-astrophysics majors, and juniors by permission.",
       "prereqGroups": [
         [
+          "PHYS133"
+        ],
+        [
           "ASTR119",
           "ASTR19",
           "CSE20"
-        ],
-        [
-          "PHYS133"
         ]
       ]
     },
@@ -321,12 +321,12 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 133 , and either ASTR 119 or ASTR 19 or CSE 20 . Enrollment is restricted to junior and senior physics (astrophysics) majors or by permission.",
       "prereqGroups": [
         [
+          "PHYS133"
+        ],
+        [
           "ASTR119",
           "ASTR19",
           "CSE20"
-        ],
-        [
-          "PHYS133"
         ]
       ]
     },
@@ -338,12 +338,12 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 133 , and one of the following: ASTR 119 , ASTR 19 , or CSE 20 . Enrollment is restricted to senior physics-astrophysics majors, and juniors by permission.",
       "prereqGroups": [
         [
+          "PHYS133"
+        ],
+        [
           "ASTR119",
           "ASTR19",
           "CSE20"
-        ],
-        [
-          "PHYS133"
         ]
       ]
     },
@@ -355,12 +355,12 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 133 , and one of the following: ASTR 119 , ASTR 19 , or CSE 20 . Enrollment is restricted to senior physics-astrophysics majors, and juniors by permission.",
       "prereqGroups": [
         [
+          "PHYS133"
+        ],
+        [
           "ASTR119",
           "ASTR19",
           "CSE20"
-        ],
-        [
-          "PHYS133"
         ]
       ]
     },
@@ -630,7 +630,9 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 102; and PHYS 133; and either ASTR 19 or ASTR 119 or CSE 20.",
       "prereqGroups": [
         [
-          "PHYS102",
+          "PHYS102"
+        ],
+        [
           "PHYS133"
         ],
         [
@@ -648,15 +650,19 @@
       "rawRequirements": "Requirements Prerequisite(s): PHYS 105, PHYS 110A, and PHYS 110B; and PHYS 116A or MATH 21 and MATH 24.",
       "prereqGroups": [
         [
-          "PHYS105",
-          "PHYS110A",
+          "PHYS105"
+        ],
+        [
+          "PHYS110A"
+        ],
+        [
           "PHYS110B"
         ],
         [
+          "MATH21",
           "PHYS116A"
         ],
         [
-          "MATH21",
           "MATH24"
         ]
       ]
