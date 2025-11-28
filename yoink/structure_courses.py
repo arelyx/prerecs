@@ -29,7 +29,7 @@ OUT_DIR = ROOT / "structuredCourses"
 OUT_DIR.mkdir(exist_ok=True)
 
 KEY_FILE = ROOT / "key"
-MODEL_NAME = "gemini-2.5-flash-lite"
+MODEL_NAME = "gemini-2.5-flash"
 BATCH_SIZE = 30
 
 COURSE_LINE_RE = re.compile(r"^Course:\s*(.+)$", re.IGNORECASE)
@@ -104,25 +104,71 @@ You are parsing prerequisite text for multiple university courses.
 Input JSON array:
 {course_payload}
 
-Return strictly valid JSON:
+You must return STRICTLY valid JSON:
 {{
   "results": {{
     "COURSEID": [
-      ["PREREQ1", "PREREQ2"],
-      ["PREREQ3"]
+      ["PREREQ1"],          // AND group
+      ["PREREQ2"],          // AND group
+      ["PREREQ3","PREREQ4"] // OR group
     ]
   }}
 }}
 
-Rules:
-- Each inner array is an OR group of acceptable courses.
-- AND relationships must be represented as separate arrays.
-- Normalize course codes by removing spaces (e.g., "CSE 12" -> "CSE12").
-- Only include courses that explicitly appear in the input text.
-- Every prerequisite you return must be a course identifier of the form LETTERS followed by DIGITS (optionally ending with an extra letter). If the text mentions concepts like “permission of instructor,” placement tests, GPA requirements, or anything that is not a course ID, you must NOT include it.
-- If you are unsure whether a token is a course ID, exclude it.
-- If a course has no prerequisites, map it to an empty list.
-- Output only JSON. Do not include commentary.
+=== CRITICAL RULES (DO NOT VIOLATE) ===
+
+1. AND rules
+   - Any courses connected by the word "and" MUST be placed in SEPARATE arrays.
+   - NEVER put two "and"-linked courses inside the same array.
+   - Example:
+       "A and B" → [["A"], ["B"]]
+
+2. OR rules
+   - Any courses connected by "or" MUST be placed in the SAME array.
+   - Example:
+       "A or B" → [["A","B"]]
+
+3. Mixed AND–OR chains
+   - When a sentence contains both "and" AND "or", you MUST:
+       • split every AND component into its own array
+       • preserve OR grouping only inside a single array
+   - Example:
+       "A and B and C or D" →
+       [
+         ["A"],
+         ["B"],
+         ["C","D"]
+       ]
+
+4. Normalization
+   - Normalize course codes by removing spaces: "CSE 12" → "CSE12".
+
+5. Valid Course IDs only
+   - A valid course ID is LETTERS + DIGITS with optional trailing letter (e.g., CSE12, STAT131A).
+   - If a token is not clearly a course ID, EXCLUDE IT.
+
+6. Do NOT include non-course prerequisites
+   - Exclude items such as:
+       - "permission of instructor"
+       - writing requirements
+       - class standing
+       - GPA requirements
+       - placement tests
+       - enrollment restrictions
+       - any phrase that is not a course ID
+
+7. Explicit match requirement
+   - Only include course IDs that appear *verbatim* in the input text.
+   - Do NOT infer or invent prerequisites.
+
+8. Empty prerequisites
+   - If a course has no prerequisites, map it to an empty list.
+
+9. Output requirements
+   - Output ONLY JSON.
+   - No commentary, explanation, or markdown.
+   - The JSON MUST be valid.
+
 """
 
 
