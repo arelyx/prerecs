@@ -9,7 +9,14 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 
 from .data_loader import load_course_catalogs
-from .schemas import Course, CourseCatalog, CourseDetail, CourseSummary, DepartmentSummary
+from .schemas import (
+    Course,
+    CourseCatalog,
+    CourseDetail,
+    CourseSummary,
+    DepartmentSummary,
+    ExternalCourseRef,
+)
 
 
 def create_app() -> FastAPI:
@@ -206,13 +213,13 @@ def _resolve_external_prereqs(
     missing_ids: List[str],
     current_slug: str,
     all_catalogs: Dict[str, CourseCatalog],
-) -> tuple[List[Course], List[str]]:
+) -> tuple[List[ExternalCourseRef], List[str]]:
     """Look up missing prereq IDs in other catalogs.
 
     Returns:
         A tuple of (found external courses, still missing IDs).
     """
-    external: List[Course] = []
+    external: List[ExternalCourseRef] = []
     still_missing: List[str] = []
     seen: set[str] = set()
 
@@ -228,7 +235,9 @@ def _resolve_external_prereqs(
                 continue
             for course in catalog.courses:
                 if _normalize_course_id(course.id) == normalized:
-                    external.append(course)
+                    external.append(
+                        ExternalCourseRef(slug=slug, department=catalog.department, course=course)
+                    )
                     found = True
                     break
             if found:

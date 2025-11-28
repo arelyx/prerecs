@@ -61,7 +61,7 @@ class CourseDetail(BaseModel):
         default_factory=list,
         description="Prerequisite IDs referenced by the course but not found in any catalog.",
     )
-    external_prereqs: List[Course] = Field(
+    external_prereqs: List["ExternalCourseRef"] = Field(
         default_factory=list,
         description="Prerequisite courses from other departments/catalogs.",
     )
@@ -69,5 +69,11 @@ class CourseDetail(BaseModel):
         default_factory=list,
         description="All courses within the catalog that lie in the prerequisite/postrequisite chain.",
     )
+
+
+class ExternalCourseRef(BaseModel):
+    slug: str
+    department: str
+    course: Course
 
 

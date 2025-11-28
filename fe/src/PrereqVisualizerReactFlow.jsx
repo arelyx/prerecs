@@ -278,21 +278,20 @@ function layoutWithDagre(nodes, edges) {
 
 function CourseNode({ data }) {
   const { showIds, course, prereqCount, dependentCount } = data;
-  const isExternal = course?.isExternal;
   const title = showIds ? `${course.id} — ${course.name}` : course.name;
-  const borderClass = isExternal ? "border-amber-400 border-2" : "border-slate-300";
   return (
-    <div className={`relative rounded-2xl shadow-sm p-3 overflow-hidden ${borderClass}`} style={{ width: NODE_W, height: NODE_H, pointerEvents: "auto", backgroundColor: (data?.bg ?? "#ffffff") }}>
-      {isExternal && (
-        <div className="absolute top-2 right-2 px-1.5 py-0.5 rounded bg-amber-100 text-[9px] text-amber-700 font-medium uppercase">
-          External
-        </div>
-      )}
-      <div className="text-[13px] font-semibold text-slate-900 truncate pr-14" title={title}>
+    <div
+      className="relative rounded-2xl border border-slate-300 shadow-sm p-3 overflow-hidden"
+      style={{ width: NODE_W, height: NODE_H, pointerEvents: "auto", backgroundColor: data?.bg ?? "#ffffff" }}
+    >
+      <div className="text-[13px] font-semibold text-slate-900 truncate" title={title}>
         {title.length > 42 ? title.slice(0, 39) + "…" : title}
       </div>
       <div className="my-2 h-px bg-slate-200" />
-      <div className="text-[12px] leading-5 text-slate-700" style={{ display: "-webkit-box", WebkitLineClamp: 4, WebkitBoxOrient: "vertical", overflow: "hidden" }}>
+      <div
+        className="text-[12px] leading-5 text-slate-700"
+        style={{ display: "-webkit-box", WebkitLineClamp: 4, WebkitBoxOrient: "vertical", overflow: "hidden" }}
+      >
         {course.description}
       </div>
       <div className="absolute bottom-2 left-2 flex gap-2">
@@ -330,6 +329,7 @@ export default function PrereqVisualizerReactFlow() {
   const [courseDetail, setCourseDetail] = useState(null);
   const [showSuggestions, setShowSuggestions] = useState(false);
   const [isUserTyping, setIsUserTyping] = useState(false);
+  const [pendingExternalFetch, setPendingExternalFetch] = useState(null);
   const { byId, children } = useMemo(() => buildIndex(courses), [courses]);
 
   const [showIds] = useState(false);
@@ -407,8 +407,9 @@ export default function PrereqVisualizerReactFlow() {
   }, [selectedSlug, courseQuery, isUserTyping]);
 
   const fetchCourseDetail = useCallback(
-    async (courseId) => {
-      if (!selectedSlug || !courseId) return;
+    async (courseId, slugOverride) => {
+      const slugToUse = slugOverride || selectedSlug;
+      if (!slugToUse || !courseId) return;
       const trimmed = courseId.trim();
       if (!trimmed) return;
       setLoadingDetail(true);
@@ -417,7 +418,7 @@ export default function PrereqVisualizerReactFlow() {
       setFetchError(null);
       try {
         const response = await fetch(
-          `${API_BASE_URL}/courses/${selectedSlug}/classes/${encodeURIComponent(trimmed)}`
+          `${API_BASE_URL}/courses/${slugToUse}/classes/${encodeURIComponent(trimmed)}`
         );
         if (!response.ok) throw new Error(`Failed to load course (${response.status})`);
         const data = await response.json();
@@ -425,28 +426,26 @@ export default function PrereqVisualizerReactFlow() {
         const relatedCourses = data.related_courses?.length
           ? data.related_courses
           : [data.course];
-        // Include external prereqs in the graph, linking them to the main course
-        const externalPrereqs = (data.external_prereqs || []).map((ext) => ({
-          ...ext,
-          prereqGroups: [], // external courses have no further prereqs in this view
-          isExternal: true,
+        const externalReferences = data.external_prereqs || [];
+        const externalCourses = externalReferences.map((ref) => ({
+          ...ref.course,
+          prereqGroups: [],
+          sourceSlug: ref.slug,
+          sourceDepartment: ref.department,
         }));
-        // Add edges from external prereqs to the main course by updating main course's prereqGroups
         const mainCourseId = data.course?.id;
-        const externalIds = externalPrereqs.map((e) => e.id);
-        const coursesWithExternalEdges = relatedCourses.map((c) => {
-          if (c.id === mainCourseId && externalIds.length > 0) {
-            // Add external prereq IDs to the course's prereqGroups
-            const existingGroups = c.prereqGroups || [];
-            const externalGroup = externalIds;
+        const externalIds = externalCourses.map((course) => course.id);
+        const coursesWithExternalEdges = relatedCourses.map((course) => {
+          if (course.id === mainCourseId && externalIds.length) {
+            const existingGroups = course.prereqGroups || [];
             return {
-              ...c,
-              prereqGroups: [...existingGroups, externalGroup],
+              ...course,
+              prereqGroups: [...existingGroups, externalIds],
             };
           }
-          return c;
+          return course;
         });
-        setCourses(normalizeCourses([...coursesWithExternalEdges, ...externalPrereqs]));
+        setCourses(normalizeCourses([...coursesWithExternalEdges, ...externalCourses]));
         setSuggestions([]);
         setPendingFocusId(data.course?.id || trimmed);
       } catch (error) {
@@ -514,12 +513,19 @@ export default function PrereqVisualizerReactFlow() {
   const onNodeClick = useCallback(
     (_, node) => {
       if (node.type === "gate") return;
+      const nodeCourse = node.data?.course;
+      const targetSlug = nodeCourse?.sourceSlug || selectedSlug;
       setSelected(node.id);
       setCourseQuery(node.id);
-       setShowSuggestions(false);
-      fetchCourseDetail(node.id);
+      setShowSuggestions(false);
+      if (nodeCourse?.sourceSlug && nodeCourse.sourceSlug !== selectedSlug) {
+        setSelectedSlug(nodeCourse.sourceSlug);
+        setPendingExternalFetch({ slug: nodeCourse.sourceSlug, courseId: node.id });
+      } else {
+        fetchCourseDetail(node.id, targetSlug);
+      }
     },
-    [fetchCourseDetail]
+    [fetchCourseDetail, selectedSlug]
   );
 
   const fitViewRef = useRef(null);
@@ -557,6 +563,14 @@ export default function PrereqVisualizerReactFlow() {
 
     return () => clearTimeout(timeoutId);
   }, [pendingFocusId, layoutVersion, nodes]);
+
+  useEffect(() => {
+    if (!pendingExternalFetch) return;
+    if (pendingExternalFetch.slug === selectedSlug) {
+      fetchCourseDetail(pendingExternalFetch.courseId, pendingExternalFetch.slug);
+      setPendingExternalFetch(null);
+    }
+  }, [pendingExternalFetch, selectedSlug, fetchCourseDetail]);
 
   useEffect(() => {
     const testNodes = [
@@ -667,9 +681,9 @@ export default function PrereqVisualizerReactFlow() {
           <div className="flex items-start justify-between gap-3">
             <div>
               <div className="text-[11px] uppercase tracking-wide text-slate-400">{courseDetail.department}</div>
-              <div className="text-sm font-semibold text-slate-800 mt-0.5">
-                {courseDetail.course.id} — {courseDetail.course.name}
-              </div>
+            <div className="text-sm font-semibold text-slate-800 mt-0.5">
+              {courseDetail.course.name}
+            </div>
             </div>
             <button
               type="button"
@@ -696,10 +710,10 @@ export default function PrereqVisualizerReactFlow() {
                 <div className="text-[11px] font-semibold text-slate-500 uppercase">Prerequisites</div>
                 {courseDetail.prerequisites.length ? (
                   <ul className="mt-1 text-[12px] text-slate-700 space-y-1 max-h-24 overflow-y-auto pr-1 list-disc list-inside">
-                    {courseDetail.prerequisites.map((course) => (
-                      <li key={`pre-${course.id}`}>
-                        {course.id} — {course.name}
-                      </li>
+                {courseDetail.prerequisites.map((course) => (
+                  <li key={`pre-${course.id}`}>
+                    {course.name}
+                  </li>
                     ))}
                   </ul>
                 ) : (
@@ -710,10 +724,10 @@ export default function PrereqVisualizerReactFlow() {
                 <div className="text-[11px] font-semibold text-slate-500 uppercase">Postrequisites</div>
                 {courseDetail.postrequisites.length ? (
                   <ul className="mt-1 text-[12px] text-slate-700 space-y-1 max-h-24 overflow-y-auto pr-1 list-disc list-inside">
-                    {courseDetail.postrequisites.map((course) => (
-                      <li key={`post-${course.id}`}>
-                        {course.id} — {course.name}
-                      </li>
+                {courseDetail.postrequisites.map((course) => (
+                  <li key={`post-${course.id}`}>
+                    {course.name}
+                  </li>
                     ))}
                   </ul>
                 ) : (
@@ -724,9 +738,10 @@ export default function PrereqVisualizerReactFlow() {
                 <div>
                   <div className="text-[11px] font-semibold text-slate-500 uppercase">External Prerequisites</div>
                   <ul className="mt-1 text-[12px] text-slate-700 space-y-1 max-h-24 overflow-y-auto pr-1 list-disc list-inside">
-                    {courseDetail.external_prereqs.map((course) => (
-                      <li key={`ext-${course.id}`}>
-                        {course.id} — {course.name}
+                    {courseDetail.external_prereqs.map((entry) => (
+                      <li key={`ext-${entry.course.id}`}>
+                        {entry.course.name}
+                        <span className="text-[11px] text-slate-500"> ({entry.department})</span>
                       </li>
                     ))}
                   </ul>
