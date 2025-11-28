@@ -322,6 +322,7 @@ export default function PrereqVisualizerReactFlow() {
   const [fetchError, setFetchError] = useState(null);
   const [courseDetail, setCourseDetail] = useState(null);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [isUserTyping, setIsUserTyping] = useState(false);
   const { byId, children } = useMemo(() => buildIndex(courses), [courses]);
 
   const [showIds] = useState(false);
@@ -368,7 +369,7 @@ export default function PrereqVisualizerReactFlow() {
   }, [selectedSlug]);
 
   useEffect(() => {
-    if (!selectedSlug || courseQuery.trim().length < 2) {
+    if (!selectedSlug || courseQuery.trim().length < 2 || !isUserTyping) {
       setSuggestions([]);
       setLoadingSuggestions(false);
       setShowSuggestions(false);
@@ -396,7 +397,7 @@ export default function PrereqVisualizerReactFlow() {
       clearTimeout(timeout);
       controller.abort();
     };
-  }, [selectedSlug, courseQuery]);
+  }, [selectedSlug, courseQuery, isUserTyping]);
 
   const fetchCourseDetail = useCallback(
     async (courseId) => {
@@ -405,6 +406,7 @@ export default function PrereqVisualizerReactFlow() {
       if (!trimmed) return;
       setLoadingDetail(true);
       setShowSuggestions(false);
+      setIsUserTyping(false);
       setFetchError(null);
       try {
         const response = await fetch(
@@ -559,7 +561,7 @@ export default function PrereqVisualizerReactFlow() {
 
   return (
     <div className="w-screen h-screen bg-slate-50 text-slate-800">
-      <div className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-full max-w-5xl flex flex-wrap items-center justify-center gap-2 bg-white/85 backdrop-blur border border-slate-200 rounded-2xl shadow px-4 py-2">
+      <div className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-full max-w-4xl flex flex-wrap items-center justify-center gap-2 bg-white/85 backdrop-blur border border-slate-200 rounded-2xl shadow px-4 py-2">
         <div className="font-semibold tracking-tight text-slate-700 pr-2">prereqs</div>
         <label className="text-xs flex items-center gap-1">
           <select
@@ -576,47 +578,52 @@ export default function PrereqVisualizerReactFlow() {
             ))}
           </select>
         </label>
-        <form onSubmit={onSearchSubmit} className="relative">
-          <input
-            type="text"
-            value={courseQuery}
-            onChange={(e) => setCourseQuery(e.target.value)}
-            placeholder="Search course ID or title"
-            className="px-3 py-1.5 rounded-xl border border-slate-300 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 w-80"
-            disabled={!selectedSlug || loadingDepartments}
-            onFocus={() => setShowSuggestions(Boolean(suggestions.length))}
-            onBlur={() => setShowSuggestions(false)}
-          />
-          {loadingSuggestions && (
-            <div className="absolute right-3 top-1/2 -translate-y-1/2 text-[11px] text-slate-400">…</div>
-          )}
-          {showSuggestions && suggestions.length > 0 && (
-            <div className="absolute top-full left-0 mt-1 w-full max-h-64 overflow-y-auto bg-white border border-slate-200 rounded-xl shadow-lg z-50">
-              {suggestions.map((course) => (
-                <button
-                  type="button"
-                  key={course.id}
-                  className="w-full text-left px-3 py-2 hover:bg-slate-100"
-                  onMouseDown={(event) => event.preventDefault()}
-                  onClick={() => {
-                    handleSuggestionSelect(course.id);
-                    setShowSuggestions(false);
-                  }}
-                >
-                  <div className="text-sm font-semibold text-slate-800">{course.id}</div>
-                  <div className="text-xs text-slate-500">{course.name}</div>
-                </button>
-              ))}
-            </div>
-          )}
+        <form onSubmit={onSearchSubmit} className="flex flex-wrap items-center gap-2">
+          <div className="relative">
+            <input
+              type="text"
+              value={courseQuery}
+              onChange={(e) => {
+                setCourseQuery(e.target.value);
+                setIsUserTyping(true);
+              }}
+              placeholder="Search course ID or title"
+              className="px-3 py-1.5 rounded-xl border border-slate-300 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 w-80"
+              disabled={!selectedSlug || loadingDepartments}
+              onFocus={() => setShowSuggestions(Boolean(suggestions.length) && isUserTyping)}
+              onBlur={() => setShowSuggestions(false)}
+            />
+            {loadingSuggestions && (
+              <div className="absolute right-3 top-1/2 -translate-y-1/2 text-[11px] text-slate-400">…</div>
+            )}
+            {showSuggestions && suggestions.length > 0 && (
+              <div className="absolute top-full left-0 mt-1 w-full max-h-64 overflow-y-auto bg-white border border-slate-200 rounded-xl shadow-lg z-50">
+                {suggestions.map((course) => (
+                  <button
+                    type="button"
+                    key={course.id}
+                    className="w-full text-left px-3 py-2 hover:bg-slate-100"
+                    onMouseDown={(event) => event.preventDefault()}
+                    onClick={() => {
+                      handleSuggestionSelect(course.id);
+                      setShowSuggestions(false);
+                    }}
+                  >
+                    <div className="text-sm font-semibold text-slate-800">{course.id}</div>
+                    <div className="text-xs text-slate-500">{course.name}</div>
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
+          <button
+            type="submit"
+            className="text-sm px-3 py-1.5 rounded-xl border border-slate-300 hover:bg-slate-100"
+            disabled={!selectedSlug || !courseQuery.trim() || loadingDetail}
+          >
+            Search
+          </button>
         </form>
-        <button
-          onClick={() => fetchCourseDetail(courseQuery)}
-          className="text-sm px-3 py-1.5 rounded-xl border border-slate-300 hover:bg-slate-100"
-          disabled={!selectedSlug || !courseQuery.trim() || loadingDetail}
-        >
-          Search
-        </button>
         <div className="text-[11px] text-slate-500 whitespace-nowrap">
           {loadingDepartments ? "Loading departments…" : ""}
         </div>
@@ -628,7 +635,7 @@ export default function PrereqVisualizerReactFlow() {
       </div>
 
       {courseDetail && (
-        <div className="fixed top-24 right-6 z-40 w-96 bg-white/95 backdrop-blur border border-slate-200 rounded-2xl shadow-lg px-4 py-3 space-y-3">
+        <div className="fixed top-28 right-6 z-40 w-96 bg-white/95 backdrop-blur border border-slate-200 rounded-2xl shadow-lg px-4 py-3 space-y-3">
           <div className="flex items-start justify-between gap-3">
             <div>
               <div className="text-[11px] uppercase tracking-wide text-slate-400">{courseDetail.department}</div>
