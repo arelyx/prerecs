@@ -2,6 +2,8 @@
 
 `yoink/` contains the scraping + structuring pipeline that feeds the frontend. Below is the workflow for keeping the data fresh.
 
+tip: hi friend, if you're cloning the repo and playing around you DON'T need to run anything in `yoink`. The structured data is already committed, you can skip steps 1-4 and simply build the frontend and run the backend.
+
 ## 1. Environment Setup
 
 ```bash
@@ -34,8 +36,13 @@ The script:
 
 - Reads every file under `yoink/courses/`
 - Parses deterministic fields (id, name, description, credits, rawRequirements)
-- Calls Gemini Flash Lite in batches to interpret prerequisite logic
+- Calls Gemini Flash in batches to interpret prerequisite logic
 - Writes structured department files to `yoink/structuredCourses/`
+
+Notes:
+- This script takes awhile! I recommend running it in the background in something like a `tmux` session.
+- Running the LLM pipeline myself, I burned ~$2.5 in Gemini API credits, just an fyi.
+- 
 
 ### Single-Department Runs
 
@@ -54,7 +61,7 @@ Tip: delete the existing structured file before a rerun if you want the course t
 
 ## Backend (FastAPI)
 
-Minimal API for serving the static course data lives under `be/`. The repository already includes structured catalogs in `be/courseData/`, so you can run the backend immediately. If you refresh data via `yoink/`, copy the resulting files into `be/courseData/` and restart the server.
+Minimal API for serving the static course data lives under `be/`. The repository already includes structured catalogs in `be/courseData/`, so you can run the backend immediately. If you refresh data via `yoink/`, remember to restart the server. We just load the JSON files on startup and keep course data in memory for the duration of the application's runtime. Our data is static and minimal, no need for a fancy DBMS.
 
 ```bash
 cd be
@@ -64,7 +71,21 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-On startup the API loads every JSON file under `be/courseData/` into memory and exposes:
+You can see API docs at [http://localhost:8000/docs](http://localhost:8000/docs)
 
-- `GET /courses` – returns department summaries (`department`, `slug`, optional `url`).
-- `GET /courses/{slug}` – returns the full catalog for the requested department (e.g., `cse-computer-science-and-engineering`).
+## Frontend (React)
+
+To get the development server runnnig
+
+```bash
+cd fe
+npm install
+npm run dev
+```
+
+To build a static bundle for deployment
+
+```bash
+npm run build
+```
+
